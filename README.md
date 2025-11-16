@@ -48,6 +48,7 @@ This is a personal research and development repository. If you have suggestions 
 - **arguments-frameworks/** - Formal philosophical arguments (cosmological, consciousness, etc.)
 - **guides/** - Practical field guides and apologetics manuals
 - **articles/** - Topical articles and papers on biblical and philosophical topics
+- **books/** - Full-length books and manuscripts
 - **assets/** - Images, diagrams, and visual resources
 - **drafts/** - Work in progress content
 - **multi_llm/** - Multi-LLM expert consultation system (Grok, ChatGPT, Gemini)

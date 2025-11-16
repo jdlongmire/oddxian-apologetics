@@ -1,0 +1,1 @@
+- always commit to both the local and remote repos
