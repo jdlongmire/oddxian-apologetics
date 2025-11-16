@@ -58,9 +58,9 @@ Content in this repository is provided for educational and research purposes.
 
 ## Author
 
-**James (JD) Longmire**
-ORCID: 0009-0009-1383-7698
-Northrop Grumman Fellow (unaffiliated research)
+**James (JD) Longmire**<br>
+ORCID: 0009-0009-1383-7698<br>
+Northrop Grumman Fellow (unaffiliated research)<br>
 2021 Alumni STEM Excellence Award (Belhaven University)
 
 For more information, visit [oddxian.com](https://oddxian.com).
