@@ -1,0 +1,33 @@
+# API Keys and Configuration
+multi_llm/api_config.json
+multi_llm/llm_cache.db
+multi_llm/consultation/
+multi_llm/__pycache__/
+multi_llm/*.pyc
+
+# Logs
+multi_llm/consultation_log_*.json
+multi_llm/test_*.json
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Drafts and WIP (optional - uncomment if you want to exclude drafts from commits)
+# drafts/*

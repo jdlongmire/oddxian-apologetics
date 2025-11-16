@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote set-url:*)",
+      "Bash(git fetch:*)",
+      "WebFetch(domain:oddxian.com)",
+      "Bash(tree:*)",
+      "Bash(cat:*)",
+      "Bash(python health_check.py:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
