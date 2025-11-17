@@ -223,6 +223,49 @@ This leads us to the four demonstrations.
 
 ---
 
+### The Inescapability Visualized
+
+The following diagram maps the logical paths available when confronted with the reality of purposive inquiry. Notice how every non-theistic path either collapses into self-refutation or loops back to requiring a transcendent ground:
+
+```mermaid
+graph TD
+    %% Main Starting Node
+    Start[PURPOSIVE INQUIRY<br/>The act of questioning, arguing, or evaluating this very argument]
+    style Start fill:#f9f9f9,stroke:#333,stroke-width:4px
+
+    %% Path 1: The Denial (Stubbornness)
+    Start -->|Option 1: Deny Purpose Exists| Denial[PERFORMATIVE SELF-REFUTATION<br/>'I am purposively arguing that purpose does not exist']
+    style Denial fill:#ffcccc,stroke:#cc0000,stroke-width:2px,stroke-dasharray: 5 5
+
+    %% Path 2: Naturalism / Physicalism
+    Start -->|Option 2: Ground in Physical/Emergence| Physicalism{The Mereological Test}
+    Physicalism -->|Syntax cannot produce Semantics| Fail1[MEREOLOGICAL FAILURE<br/>Ontological Gap: Matter cannot possess 'Aboutness']
+    style Fail1 fill:#ffcccc,stroke:#cc0000,stroke-width:2px
+
+    %% Path 3: The Existentialist Retreat (Non-Ultimate Purpose)
+    Start -->|Option 3: Claim Purpose is 'Constructed' or Subjective| Subjective[INTENTIONALITY PRESUPPOSED<br/>Construction requires representation & normativity]
+    Subjective -->|Still requires grounding| Physicalism
+    style Subjective fill:#fff4e6,stroke:#ff9900,stroke-width:2px
+
+    %% Path 4: Abstract Objects (Platonism)
+    Start -->|Option 4: Ground in Abstract Objects| Platonism[PLATONISM<br/>Mathematical/Logical objects as ultimate]
+    Platonism -->|Causal Inertness Problem<br/>Cannot actualize or select| Fail2[EXPLANATORY FAILURE<br/>Explains order but not actuation]
+    style Fail2 fill:#ffcccc,stroke:#cc0000,stroke-width:2px
+    Fail2 -->|Requires Personal Mind for actuation| Theism
+
+    %% Path 5: Chance / Multiverse
+    Start -->|Option 5: Appeal to Chance / Multiverse| Multiverse[MULTIVERSE GENERATOR]
+    Multiverse -->|The Generator itself requires<br/>Existence & Fine-Tuning & Selection| Theism
+
+    %% Path 6: Classical Theism
+    Start -->|Option 6: Ground in Personal Necessary Being| Theism[CLASSICAL THEISM<br/>✓ Explains Intentionality<br/>✓ Explains Logical Consistency<br/>✓ Explains Order-Actuation Unity<br/>✓ Explains Ontological Selection]
+    style Theism fill:#ccffcc,stroke:#009900,stroke-width:4px
+```
+
+**Key Insight:** This is not a mere preference or one argument among many. This is a map of **logical necessity**. Every alternative path encounters an insurmountable barrier or requires the very thing it seeks to avoid (a transcendent, personal ground). The diagram illustrates why classical theism is **rationally inescapable**.
+
+---
+
 ## Demonstration II: From Logical Consistency to Non-Formal Being
 
 ### Overview and Confidence
