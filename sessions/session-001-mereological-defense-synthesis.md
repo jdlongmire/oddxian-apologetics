@@ -336,12 +336,12 @@ The multi-LLM consultation produced a strong, multi-faceted defense of mereologi
 **From Grok:**
 > "Chalmers' distinction between the 'easy' and 'hard' problems of consciousness highlights that while physical processes might explain behavior, they cannot explain the subjective experience or intentional content of mental states."
 
-**From Gemini:**
+**From Gemini (Attribution Error):**
 > "His 'What Is It Like to Be a Bat?' argues that there is a subjective character to experience that cannot be captured by physical descriptions."
 
-**Note:** Gemini confused Chalmers with Thomas Nagel here. Nagel wrote "What Is It Like to Be a Bat?"
+**Correction:** Thomas Nagel (not Chalmers) wrote "What Is It Like to Be a Bat?" (1974). Chalmers is known for the "hard problem of consciousness" formulation (1995).
 
-**Key Contribution:** Hard problem of consciousness - qualia and intentional content irreducible to physical explanation
+**Chalmers' Key Contribution:** Hard problem of consciousness - distinguishing "easy problems" (explaining behavior, functions) from the "hard problem" (explaining subjective experience and qualia). Intentional content irreducible to physical explanation.
 
 ##### Thomas Aquinas (1225-1274)
 
@@ -372,7 +372,7 @@ The multi-LLM consultation produced a strong, multi-faceted defense of mereologi
 **From Gemini:**
 > "His 'What Is It Like to Be a Bat?' argues that there is a subjective character to experience that cannot be captured by physical descriptions."
 
-**Key Contribution:** Subjective character of experience irreducible to objective physical description
+**Key Contribution:** "What Is It Like to Be a Bat?" (1974) - Argues that subjective character of experience (qualia, "what it's like") is irreducible to objective physical description. First-person phenomenal properties cannot be captured by third-person scientific descriptions. Points to explanatory gap between physical and mental.
 
 #### Supporting Philosophical Frameworks
 

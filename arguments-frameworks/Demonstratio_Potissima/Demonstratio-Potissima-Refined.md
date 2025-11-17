@@ -157,6 +157,15 @@ The argument proceeds in three stages:
 
 **Application to Intentionality:** Intentional properties (aboutness, representation, normativity) cannot emerge from components entirely lacking these properties.
 
+**Clarification on Scope:** This argument focuses specifically on **high-grade intentionality** characteristic of human rational thought:
+- Abstract conceptual thinking (justice, mathematics, universal principles)
+- Normative reasoning (evaluating truth/falsity, right/wrong)
+- Counterfactual and modal reasoning (what could be, what must be)
+- Self-reflective consciousness (thinking about thinking)
+- Directedness toward unrealized future states and abstract entities
+
+The argument does not require taking a position on whether lower-grade animal intentionality (simple perceptual representation, basic goal-directedness) is reducible or irreducible. Even if some animal intentionality proves reducible to physical processes, human rational intentionality—with its abstract, normative, and self-reflective dimensions—remains the phenomenon requiring explanation. Alternatively, if animal intentionality is also irreducible, this strengthens rather than weakens the argument, suggesting intentionality participates derivatively in a common ground.
+
 #### The Challenge: Emergence Studies
 
 **Objection:** "Emergence studies show higher-level properties can arise from lower-level ones. Water's liquidity emerges from H₂O molecules that aren't liquid. Temperature emerges from molecular motion. Why can't intentionality emerge from non-intentional physical processes?"
@@ -640,6 +649,78 @@ All of these transcend physical causation.
 - Abandons naturalist explanatory standards
 - Leaves fundamental questions unanswered
 - Creates more mysteries than it solves
+
+##### Counter-Argument 5: Panpsychism and Cosmopsychism
+
+**Objection:** "Instead of accepting brute emergence or invoking God, why not say consciousness/intentionality is fundamental to all matter? Panpsychism (consciousness is a basic feature of matter) or cosmopsychism (universe itself is conscious) avoids the emergence problem while remaining naturalistic."
+
+**Response:**
+
+**What Panpsychism Concedes:**
+- Intentionality/consciousness cannot emerge from wholly non-intentional matter
+- Therefore agrees with our mereological irreducibility argument
+- Attempts to naturalize strong emergence by making proto-consciousness fundamental
+
+**Three Fatal Problems:**
+
+**1. The Combination Problem**
+
+**The Challenge:** How do micro-experiences of fundamental particles combine to create unified, coherent conscious subjects like humans?
+
+- Electrons might have proto-experience, but how do billions of these combine into **my** unified experience?
+- Why don't I experience billions of separate micro-consciousnesses?
+- What makes these combine into one subject rather than remaining fragmented?
+- Aggregation doesn't solve this—just piling up conscious particles doesn't explain unified agency
+
+**Analogy:** Having a billion separate viewers doesn't create one unified perspective. Panpsychism needs to explain subjective unity, which requires something beyond aggregation—namely, a **unifying principle** (points back toward theistic ground).
+
+**2. Abandons Naturalism**
+
+**If consciousness/intentionality is fundamental to all matter:**
+- Physical science describes matter in purely quantitative terms (mass, charge, spin, position)
+- Adding fundamental consciousness **changes the nature of matter itself**
+- This is no longer the naturalism that motivated rejecting theism
+- It's a radical metaphysical revision admitting non-physical properties are fundamental
+
+**The Revised Ontology:**
+- Not "matter in motion" (classical naturalism)
+- But "conscious matter" or "experience-laden matter" (idealism/neutral monism)
+- This concedes the argument: irreducible mental properties cannot be eliminated
+
+**Question:** If you're willing to make consciousness fundamental, why not go all the way to a fundamental unified Consciousness (God) rather than fragmenting it across trillions of particles?
+
+**3. Still Requires a Unified Cosmic Subject**
+
+**Cosmopsychism's Problem:**
+- If the universe itself is the fundamental conscious subject, how do individual subjects (humans, animals) arise?
+- **Decomposition problem:** How does one cosmic consciousness fragment into many individual subjects?
+- This is the inverse of the combination problem—still unexplained
+
+**Theistic Advantage:**
+- Classical theism already posits fundamental unified Consciousness (God)
+- Finite subjects are created by and dependent on infinite Subject
+- Explains both cosmic unity (one Creator) and individual subjects (created persons)
+- More parsimonious: one necessary Being grounds both matter and finite minds
+
+**Panpsychism as Halfway House:**
+
+Panpsychism tries to remain "naturalistic" while admitting irreducibility. But:
+- It abandons physicalism (consciousness fundamental)
+- It faces combination/decomposition problems
+- It doesn't explain why consciousness exists rather than not
+- It doesn't ground normativity (truth, goodness, rationality)
+
+**Classical theism provides what panpsychism lacks:**
+- Explanation for why consciousness exists (God's creative will)
+- Grounding for normativity (Divine nature)
+- Solution to unity problem (created persons imaging one God)
+- Coherent metaphysical system (not ad hoc adjustment)
+
+**Conclusion:** Panpsychism concedes our key premise (mereological irreducibility) but tries to avoid theism through metaphysical revision that:
+1. Abandons genuine naturalism
+2. Faces unsolved combination/decomposition problems
+3. Provides less explanatory power than classical theism
+4. Points toward (but stops short of) a unified Cosmic Mind—which is what classical theism has always claimed
 
 ---
 
