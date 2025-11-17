@@ -29,7 +29,9 @@ A formal deductive argument for classical theism from performatively undeniable 
 - ✅ Mereological irreducibility confidence raised from ~40% to 75-80%
 - ✅ Refined document framework created
 - ✅ Meta-Syllogism 0: Performative Foundation (complete)
-- ✅ Part I Sections A-E: Category distinction, emergence, aboutness problem, liquidity refutation, counter-arguments
+- ✅ Part I Sections A-E: Category distinction, emergence, aboutness problem, liquidity refutation, counter-arguments (5 major objections)
+- ✅ Added panpsychism/cosmopsychism counter-argument (combination problem, decomposition problem)
+- ✅ Added animal intentionality scope clarification (high-grade vs. low-grade)
 
 **In Progress:**
 - 🔄 Part I Sections F-I: Philosophical support, personal ground inference
@@ -41,7 +43,8 @@ A formal deductive argument for classical theism from performatively undeniable 
 - Intentionality is categorically distinct from physical emergent properties (ontological gap)
 - Strong emergence (irreducible) vs. weak emergence (reducible like liquidity)
 - Normativity and semantic content cannot arise from non-normative, non-semantic components
-- All major objections addressed: functionalism, evolution, supervenience, brute emergence
+- Five major objections addressed: functionalism, evolution, supervenience, brute emergence, panpsychism
+- Scope clarified: high-grade intentionality (abstract, normative, self-reflective) is focus
 
 **Files:**
 - `arguments-frameworks/Demonstratio_Potissima/Demonstratio-Potissima-Refined.md`
