@@ -4356,6 +4356,103 @@ Do the four demonstrations converge on the same Being? Let's examine attribute-b
 
 ---
 
+### The Consilience Structure Visualized
+
+The attribute matrix above shows **what** each demonstration proves. The following diagram shows **how** they converge—four independent starting points, four different methods, one unified conclusion:
+
+```mermaid
+flowchart TD
+    %% STRATEGY: Use "Title Nodes" (T1-T4) inside the boxes instead of subgraph labels.
+    %% This forces the renderer to allocate space for them, preventing clipping.
+
+    %% Central Conclusion Node
+    GOD["CLASSICAL THEISM<br/>Necessary, Personal, Rational, Volitional Ground"]
+    style GOD fill:#ccffcc,stroke:#009900,stroke-width:4px
+
+    %% Demonstration I
+    subgraph Demo1 [ ]
+        direction TB
+        %% Title Node acts as Header
+        T1["<b>Demonstration I</b><br/>Intentionality"]:::titleStyle
+
+        D1_Start["Starting Point:<br/>Purposive Inquiry Exists"]
+        D1_Method("Method:<br/>Mereological Analysis")
+        D1_Result["Result:<br/>Personal Ground w/ Intellect & Will"]
+
+        %% Link Title to Content invisibly
+        T1 ~~~ D1_Start --> D1_Method --> D1_Result
+    end
+    style Demo1 fill:#f9f9f9,stroke:#333,stroke-width:2px
+
+    %% Demonstration II
+    subgraph Demo2 [ ]
+        direction TB
+        T2["<b>Demonstration II</b><br/>Logical Consistency"]:::titleStyle
+
+        D2_Start["Starting Point:<br/>Formal Systems Exist"]
+        D2_Method("Method:<br/>Gödelian Incompleteness")
+        D2_Result["Result:<br/>Non-Formal Rational Validator"]
+
+        T2 ~~~ D2_Start --> D2_Method --> D2_Result
+    end
+    style Demo2 fill:#f9f9f9,stroke:#333,stroke-width:2px
+
+    %% Demonstration III
+    subgraph Demo3 [ ]
+        direction TB
+        T3["<b>Demonstration III</b><br/>Order & Actuation"]:::titleStyle
+
+        D3_Start["Starting Point:<br/>Duality of Law & Event"]
+        D3_Method("Method:<br/>Metaphysical Analysis")
+        D3_Result["Result:<br/>Unified Mind<br/>(Conceiver + Actualizer)"]
+
+        T3 ~~~ D3_Start --> D3_Method --> D3_Result
+    end
+    style Demo3 fill:#f9f9f9,stroke:#333,stroke-width:2px
+
+    %% Demonstration IV
+    subgraph Demo4 [ ]
+        direction TB
+        T4["<b>Demonstration IV</b><br/>Selection"]:::titleStyle
+
+        D4_Start["Starting Point:<br/>Contingent Universe Actualized"]
+        D4_Method("Method:<br/>Modal Elimination")
+        D4_Result["Result:<br/>Free Volitional Agent"]
+
+        T4 ~~~ D4_Start --> D4_Method --> D4_Result
+    end
+    style Demo4 fill:#f9f9f9,stroke:#333,stroke-width:2px
+
+    %% Convergence Links
+    D1_Result ==>|Confirms Personhood| GOD
+    D2_Result ==>|Confirms Rationality| GOD
+    D3_Result ==>|Confirms Unity| GOD
+    D4_Result ==>|Confirms Volition| GOD
+
+    %% Confirmatory Evidence
+    FineTuning[Fine-Tuning Evidence] -.->|Corroborates| D4_Result
+    ActPotency[Act/Potency Metaphysics] -.->|Corroborates| D3_Result
+
+    %% Cumulative Confidence Annotation
+    GOD --- Confidence["<b>CUMULATIVE CONFIDENCE: ~99.97%</b><br/>(Probability that all four independent lines fail is < 0.03%)"]
+    style Confidence fill:#ffffcc,stroke:#ffcc00,stroke-dasharray: 5 5
+
+    %% Style Class for Titles (Invisible background, bold text)
+    classDef titleStyle fill:none,stroke:none,font-size:16px,font-weight:bold,color:black;
+```
+
+**Key Features:**
+
+1. **Independent Starting Points** - Each demo begins from a different undeniable empirical/formal fact
+2. **Different Methods** - Mereological, Gödelian, Metaphysical, Modal reasoning
+3. **Convergent Results** - All point to the same Being with complementary attributes
+4. **Confirmatory Evidence** - Fine-tuning and Act/Potency provide additional corroboration
+5. **Cumulative Confidence** - 99.97% that at least one succeeds (practical certainty)
+
+**This is consilience visualized:** Multiple independent lines of evidence converging on a unified conclusion—the hallmark of well-established scientific theories and, now, philosophical demonstration.
+
+---
+
 ### C. The Cumulative Confidence Calculation
 
 #### Individual Probabilities
