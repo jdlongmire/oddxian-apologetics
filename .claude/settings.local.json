@@ -14,7 +14,8 @@
       "Bash(git push:*)",
       "Bash(git commit:*)",
       "Bash(python mereological_consultation.py:*)",
-      "Bash(git restore:*)"
+      "Bash(git restore:*)",
+      "Bash(find:*)"
     ],
     "deny": [],
     "ask": []
