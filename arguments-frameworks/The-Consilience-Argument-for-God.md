@@ -1,6 +1,6 @@
-# Four Demonstrations for Classical Theism
+# The Consilience Argument for God
 
-**Independent Deductive Arguments Converging on the Necessary Being**
+**Four Independent Demonstrations Converging on Classical Theism**
 
 ---
 
@@ -10,16 +10,25 @@
 **Date:** November 17, 2025
 **Author:** James (JD) Longmire
 **ORCID:** 0009-0009-1383-7698
+**Contact:** jdlongmire@outlook.com
 
 ---
 
-## Introduction: The Multi-Proof Strategy
+## Introduction: The Consilience Strategy
+
+### What Is Consilience?
+
+**Consilience** (from Latin *con-* "together" + *salire* "to leap") refers to the convergence of evidence from independent sources pointing to a unified conclusion. When multiple lines of inquiry, using different methods and starting from different premises, all "leap together" toward the same result, this provides exceptionally strong warrant for that conclusion.
+
+This is the hallmark of mature science: When geology, paleontology, genetics, and comparative anatomy all independently converge on evolution, consilience provides overwhelming support. When particle physics, astrophysics, and cosmology independently converge on the Big Bang, consilience compels assent.
+
+**This document applies consilience to the question of God's existence.**
 
 ### Why Four Independent Arguments?
 
 This document presents not one argument for God's existence, but **four independent deductive proofs**, each starting from different premises, employing different reasoning strategies, yet all converging on the same conclusion: the existence of a necessary, personal, rational, volitional Being—the God of classical theism.
 
-This multi-proof approach offers several advantages over single-argument apologetics:
+This consilient multi-proof approach offers several advantages over single-argument apologetics:
 
 **1. Independence = Strength**
 
@@ -49,11 +58,11 @@ No single argument establishes all divine attributes. But taken together, these 
 - **Simplicity** (Demonstrations I, II)
 - **Omnibenevolence** (Demonstration I)
 
-**4. Cumulative Confidence**
+**4. Cumulative Confidence (Consilience Power)**
 
-Individual demonstrations range from 85-90% confidence. But the cumulative case—where we ask "What is the probability that **at least one** succeeds?"—yields **95%+ confidence**.
+Individual demonstrations range from 85-90% confidence. But the cumulative case—where we ask "What is the probability that **at least one** succeeds?"—yields **~99.97% confidence**.
 
-This is not argumentative redundancy. This is **convergent consilience**: independent lines of evidence pointing to the same reality.
+This is not argumentative redundancy. This is **consilience**: independent lines of evidence converging on the same reality with near-certainty.
 
 ---
 
