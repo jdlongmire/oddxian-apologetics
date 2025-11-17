@@ -4532,26 +4532,51 @@ This is **practical certainty**.
 
 #### The Convergence Structure
 
+The following diagram illustrates the consilience pattern: four independent starting points, flowing through diverse methods, all converging on one unified conclusion.
+
+```mermaid
+graph LR
+    %% Starting Points (Left Column)
+    SP1["<b>Starting Point 1:</b><br/>Intentionality Exists<br/><i>(Phenomenological)</i>"]
+    SP2["<b>Starting Point 2:</b><br/>Formal Systems Exist<br/><i>(Formal-Empirical)</i>"]
+    SP3["<b>Starting Point 3:</b><br/>Order + Actuation Exist<br/><i>(Metaphysical)</i>"]
+    SP4["<b>Starting Point 4:</b><br/>This Universe Actualized<br/><i>(Modal)</i>"]
+
+    %% Methods (Middle Column)
+    M1["Mereological Analysis<br/>+ Eliminative Reasoning"]
+    M2["Gödelian Incompleteness<br/>+ Validation Hierarchy"]
+    M3["Metaphysical Duality<br/>+ Eliminative Reasoning"]
+    M4["Modal Selection<br/>+ Eliminative Reasoning"]
+
+    %% Conclusion (Right - Single Node)
+    CONCLUSION["<b>CLASSICAL THEISM</b><br/>One Necessary Being<br/>Personal, Rational, Volitional"]
+
+    %% Connections: Starting Points → Methods → Conclusion
+    SP1 --> M1 --> CONCLUSION
+    SP2 --> M2 --> CONCLUSION
+    SP3 --> M3 --> CONCLUSION
+    SP4 --> M4 --> CONCLUSION
+
+    %% Styling
+    style SP1 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style SP2 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style SP3 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style SP4 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+
+    style M1 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style M2 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style M3 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style M4 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+
+    style CONCLUSION fill:#ccffcc,stroke:#009900,stroke-width:4px
 ```
-Starting Points (Independent)          Method (Diverse)           Conclusion (Unified)
-─────────────────────────────          ───────────────            ──────────────────
 
-Intentionality exists        ───→    Mereological analysis    ───┐
-  (Phenomenological)                 + Eliminative reasoning      │
-                                                                  │
-Formal systems exist         ───→    Gödelian incompleteness  ───┤
-  (Formal-Empirical)                 + Validation hierarchy       │
-                                                                  ├──→  CLASSICAL
-Order + Actuation exist      ───→    Metaphysical duality     ───┤      THEISM
-  (Metaphysical)                     + Eliminative reasoning      │
-                                                                  │    (One Being)
-This universe actualized     ───→    Modal selection          ───┘
-  (Modal)                            + Eliminative reasoning
+**Visual Summary:**
+- **Blue boxes (Left):** Four independent, undeniable starting points
+- **Orange boxes (Middle):** Four distinct methodological approaches
+- **Green box (Right):** Single unified conclusion
 
-  Different Premises              Different Methods          Same God
-```
-
-**Key Insight:** Like spokes of a wheel, all paths lead to the center. This is consilience.
+**Key Insight:** Like spokes of a wheel converging on a hub, or tributaries flowing into one river, all paths lead to the same destination. This is consilience—the hallmark of truth.
 
 #### Why Consilience Matters
 
