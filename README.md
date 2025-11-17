@@ -50,6 +50,7 @@ This is a personal research and development repository. If you have suggestions 
 - **articles/** - Topical articles and papers on biblical and philosophical topics
 - **books/** - Full-length books and manuscripts
 - **assets/** - Images, diagrams, and visual resources
+- **sessions/** - Development sessions and working notes
 - **drafts/** - Work in progress content
 - **multi_llm/** - Multi-LLM expert consultation system (Grok, ChatGPT, Gemini)
 
