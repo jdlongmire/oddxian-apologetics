@@ -801,83 +801,40 @@ Physical reality's consistency is not just explained historically ("God set up c
 
 ### F. Attributes Derived from Demonstration I
 
-#### From Non-Contingency
+**From Non-Contingency and Non-Formality:**
 
-**Necessary Existence (Aseity):**
-- Exists by its own nature
-- Cannot fail to exist
-- Self-sufficient (*a se* = "from itself")
+The ground of logical consistency must be:
+- **Necessary** (exists by its own nature, cannot fail to be)
+- **Eternal** (not subject to temporal succession)
+- **Immutable** (pure actuality, no unrealized potentials)
+- **Simple** (no composition; essence = existence)
+- **Transcendent** (beyond formal systems, trans-formal ground)
 
-**Eternality:**
-- Not subject to temporal succession (time is feature of contingent reality)
-- Exists outside time (or as the ground of time)
-- No beginning, no end
+**From Being Source of Logical Order:**
 
-**Immutability:**
-- Change = transition from potency to act
-- Necessary Being is pure actuality (no unrealized potentials)
-- Therefore, unchanging
+As the ground of rationality, this being possesses:
+- **Rationality (Logos)** — source of all logical structure, infinite rationality
+- **Omniscience** — comprehends all truths (necessary and contingent)
+- **Truth Itself** (*Veritas Ipsa*) — standard by which all propositions measured
 
-#### From Non-Formality
+**From Causal Efficacy:**
 
-**Simplicity:**
-- Not composite (composition implies parts, which implies contingency)
-- Not subject to formal structure (no algorithm, no syntax)
-- Essence = Existence (no distinction between "what" God is and "that" God is)
+As sustaining ground:
+- **Omnipotence** — power to actualize all logical possibilities
+- **Creator** — source of all contingent being (*creatio ex nihilo*)
+- **Providence** — sustains logical consistency throughout cosmic history
 
-**Transcendence:**
-- Beyond the categories of formal systems
-- Not bound by mathematical descriptions (though describable analogically)
-- **Trans-formal**—the ground of all formal systems but not one among them
+**Classical Theism Identified:**
 
-#### From Being the Source of Logical Order
-
-**Rationality (Logos):**
-- Source of all logical structure
-- Not irrational or non-rational but **trans-rational** (infinite rationality)
-- Divine Intellect comprehends all truths
-
-**Omniscience:**
-- Knows all truths (necessary and contingent)
-- Knows all possible worlds
-- Knowledge is not discursive but single, eternal act of understanding
-
-**Truth Itself:**
-- Not merely truthful but **Truth Itself** (*Veritas Ipsa*)
-- All creaturely truth participates in Divine Truth
-- Standard by which all propositions are measured
-
-#### From Causal Efficacy
-
-**Omnipotence:**
-- Power to actualize all logical possibilities
-- Not constrained by anything external (nothing exists independently)
-- Can do all that is logically possible and consistent with divine nature
-
-**Creator:**
-- Source of all contingent being
-- Not just "first cause" in time but sustaining ground of existence itself
-- *Creatio ex nihilo* (creation from nothing)
-
-**Providence:**
-- Sustains logical consistency throughout cosmic history
-- Governs by wisdom, not by mechanistic necessity
-
-#### Classical Theism Identified
-
-**The Profile:**
+This profile matches classical theistic God:
 - Necessary, Eternal, Immutable, Simple
 - Rational, Omniscient, Omnipotent
-- Creator, Sustainer, Providence
-- Non-formal Being Itself (*Ipsum Esse Subsistens*)
+- Creator, Sustainer
+- Being Itself (*Ipsum Esse Subsistens*)
 
-**This is the God of:**
-- Classical Christianity (Father, Son, Holy Spirit as Trinitarian development)
-- Judaism (Yahweh, the I AM)
-- Islam (Allah)
-- Classical philosophical theism (Plato's Good, Aristotle's Unmoved Mover, developed)
+*For detailed attribute derivations and convergence analysis across all four demonstrations, see **Convergence Analysis** (following Demonstration IV).*
 
-**Confidence:** ~90%
+**Confidence:** ~99%
 
 ---
 
@@ -1708,196 +1665,55 @@ The non-physical, necessary ground of intentionality is a **Personal Being** wit
 
 ### E. Attributes of the Personal Ground
 
-From the analysis in Sections C-D, we can now derive the specific attributes of this Personal Ground—attributes that constitute the classical theistic profile.
+From the analysis in Sections C-D, we derive attributes constituting the classical theistic profile.
 
-#### 1. Necessary Existence (Aseity)
+**Attributes Shared with Demonstration I:**
+- **Necessary Existence** (aseity - self-sufficient)
+- **Eternality** (outside temporal succession)
+- **Immateriality** (non-physical ground)
+- **Immutability** (pure actuality, no potency)
+- **Simplicity** (no composition; essence = existence)
 
-**Derivation:**
-- The Personal Ground is the ultimate explanation for intentionality
-- If it were contingent, it would require further explanation (infinite regress)
-- Therefore, it must exist **necessarily**—by its own nature
+**Attributes Unique to Personal Ground:**
 
-**Aseity** (from Latin *a se* = "from itself"):
-God exists from Himself, not from another. Self-existent, self-sufficient.
+**1. Omniscience (from Intellect):**
+- Possesses Intellect eminently
+- No material limitations, no unrealized cognitive potentials
+- Knows all truths (necessary, contingent, actual, possible)
+- Single, eternal act of understanding (not discursive)
 
-**Implication:**
-Cannot fail to exist. Existence is not a property added to essence but is **identical** with essence.
+**2. Omnipotence (from Will):**
+- Possesses Will eminently
+- Can actualize all logically possible states of affairs
+- No external limitations (nothing exists independently)
+- Acts consistent with divine nature
 
-#### 2. Eternality
+**3. Perfect Goodness (from Teleology + Simplicity):**
+- Intentionality directed toward ends pursued as good
+- Will and Intellect unified (no internal conflict)
+- Necessarily good (no potency for imperfection)
+- **Goodness Itself** (*Ipsum Bonum*)
 
-**Derivation:**
-- Time is a feature of contingent, changing reality (succession of moments)
-- The necessary Being has no unrealized potentials (is fully actual)
-- Therefore, no temporal succession (no change from past to future)
-- Exists **outside time** or as the ground of time
+**4. Freedom (from Will):**
+- Acts for reasons, not mechanistically
+- Not determined by external causes
+- Libertarian freedom: could create differently or not at all
+- Eternal choice freely directed toward contingent creation
 
-**Eternal** ≠ **Everlasting:**
-- **Everlasting:** Exists at all times (temporal but without beginning/end)
-- **Eternal:** Exists outside temporal succession altogether (a-temporal)
+**5. Personhood (Intellect + Will):**
+- Not impersonal force or abstract principle
+- Knows, understands, wills, acts
+- Capable of relationship with creatures
 
-Classical theism affirms **eternality** in this robust sense.
+**Classical Theism Identified:**
 
-#### 3. Immateriality
+**This is the God of:**
+- Judaism (Yahweh)
+- Christianity (Trinitarian development)
+- Islam (Allah)
+- Philosophical Theism (Necessary Being, First Cause)
 
-**Derivation:**
-- Already established: the ground must be **non-physical** (Section C)
-- Physical = material, spatial, energetic
-- Non-physical = immaterial
-
-**Immaterial** = not composed of matter, not extended in space, not subject to physical laws.
-
-#### 4. Immutability (Unchanging)
-
-**Derivation:**
-- Change = transition from potency (can be X) to act (is X)
-- The necessary Being is **Pure Act**—no unrealized potentials
-- Therefore, no change
-
-**Objection:** "But God acts in the world—doesn't that require change?"
-
-**Response:**
-God's eternal act of will is unchanging. What changes is the created order's relation to God's eternal will (effects unfold in time, but God's willing is timeless).
-
-**Analogy:** The sun doesn't change when you step into its light. Your relation to it changes, but the sun remains constant.
-
-#### 5. Simplicity (Non-Composite)
-
-**Derivation:**
-- Composition (having parts) implies dependency—parts are logically prior to whole
-- Dependency implies contingency—composite beings depend on parts being arranged
-- Necessary Being cannot be contingent
-- Therefore, no composition—**absolute simplicity**
-
-**Divine Simplicity Means:**
-- No parts (physical or metaphysical)
-- Essence = Existence (what God is = that God is)
-- Attributes are identical to essence (God's knowledge = God's power = God's being)
-
-**Difficult but Central Doctrine:**
-God is not a being *with* properties but **subsistent Being Itself** in which all perfections are unified.
-
-#### 6. Omniscience (Infinite Knowledge)
-
-**Derivation (from Section D):**
-- The Personal Ground possesses Intellect eminently
-- No limitations from material conditions (immaterial)
-- No unrealized cognitive potentials (fully actual)
-- Therefore, knows **all truths** (necessary and contingent, actual and possible)
-
-**Scope:**
-- All mathematical truths
-- All logical possibilities
-- All actual states of affairs (past, present, future)
-- All possible worlds
-
-**Classical View:**
-God's knowledge is not discursive (inferring step-by-step) but **intuitive**—single, eternal act of understanding.
-
-#### 7. Omnipotence (Infinite Power)
-
-**Derivation (from Section D):**
-- The Personal Ground possesses Will eminently
-- No physical limitations (immaterial)
-- No metaphysical limitations external to nature (necessary being)
-- Therefore, can actualize **all logically possible states of affairs** consistent with divine nature
-
-**Scope:**
-Can do all that is **logically possible** (not contradictory).
-
-**Cannot:**
-- Make 2+2=5 (logical impossibility)
-- Create a married bachelor (conceptual impossibility)
-- Act contrary to divine nature (e.g., lie, be evil)
-
-These are not "limitations" on power but recognition that omnipotence means power to do all that is **actually do-able**.
-
-#### 8. Perfect Goodness (Omnibenevolence)
-
-**Derivation:**
-
-**From Teleology:**
-- Intentionality involves purposiveness toward **ends**
-- Rational ends are pursued because they're **good** (desirable, valuable)
-- The ultimate ground of teleology must be directed toward the **highest good**
-
-**From Simplicity:**
-- God is not composite—no internal conflict
-- God's Will and Intellect are unified
-- God wills what Intellect knows as best
-
-**From Necessity:**
-- Contingent beings can fail morally (choose lesser goods over greater)
-- Necessary Being cannot fail (no potency for imperfection)
-- Therefore, necessarily good
-
-**Perfect Goodness:**
-- Not merely "very good" but **Goodness Itself** (*Ipsum Bonum*)
-- All creaturely goodness participates in divine goodness
-- Standard of all value
-
-#### 9. Freedom
-
-**Derivation:**
-
-**Free Will:**
-The Personal Ground possesses Will, which acts for reasons (not mechanistically).
-
-**Not Constrained:**
-- Not determined by external causes (nothing external exists independently)
-- Not determined by internal necessity (except consistency with divine nature)
-
-**Libertarian Freedom:**
-God freely chooses to create or not create, to create this world or another possible world.
-
-**Objection:** "But if God is perfect and unchanging, how can He freely choose?"
-
-**Response:**
-God's free choice is **eternal** (not in time). The act of willing is one, simple, eternal—but freely directed toward contingent effects in creation.
-
-#### 10. Personal
-
-**Derivation (from Section D):**
-- Possesses Intellect (rational cognition)
-- Possesses Will (rational agency)
-- These constitute **personhood**
-
-**Not Impersonal Force:**
-God is not an abstract principle, cosmic energy, or blind mechanism. God **knows**, **understands**, **wills**, **acts**—personal capacities.
-
-**Relationship:**
-Personhood makes **relationship** possible—God can know creatures, love them, respond to them (in the eternal act that includes all temporal relations).
-
----
-
-#### Summary: The Classical Theistic Profile
-
-**From Demonstration II, We Have Derived:**
-
-**Metaphysical Attributes:**
-- Necessary Existence (Aseity)
-- Eternality
-- Immateriality
-- Immutability
-- Simplicity
-
-**Intellectual Attributes:**
-- Omniscience
-- Perfect Rationality (Logos)
-
-**Volitional Attributes:**
-- Omnipotence
-- Freedom
-- Perfect Goodness
-
-**Personal Nature:**
-- Intellect + Will = Person
-- Capable of relationship
-
-**This is the God of Classical Theism:**
-- Judaism: Yahweh, the "I AM WHO I AM"
-- Christianity: Father, Son, Holy Spirit (developed Trinitarianly)
-- Islam: Allah
-- Philosophical Theism: Necessary Being, First Cause, Unmoved Mover
+*For comprehensive attribute matrix showing convergence across all four demonstrations, see **Convergence Analysis** (following Demonstration IV).*
 
 **Confidence:** ~85-90%
 
