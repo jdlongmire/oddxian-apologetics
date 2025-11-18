@@ -4364,23 +4364,246 @@ Cross-references from individual demonstrations direct readers to the relevant s
 
 ### A. The Principle of Sufficient Reason (PSR): Contestation and Defense
 
-**[TO BE DEVELOPED - approximately 800-1000 words]**
+#### Statement of the Principle
 
-**Structure:**
-1. Statement of PSR (strong vs. weak formulations)
-2. Our demonstrations' dependence on weak PSR
-3. Van Inwagen's "mystery" objection
-4. Oppy's symmetry objection ("God is as brute as brute universe")
-5. Delaunay/Manchak cosmological contingency arguments
-6. Defense: Why weak PSR is rationally inescapable
-7. Defense: God is self-explanatory (essence = existence), universe is not
+**Principle of Sufficient Reason (PSR):** For every fact or state of affairs, there exists a sufficient reason why it is so and not otherwise.
 
-**Content to be extracted from:**
-- Demo I objections section
-- Demo II objections section
-- Demo III objections section
-- Demo IV objections section
-- Convergence analysis PSR discussions
+**Two Formulations:**
+
+**Strong PSR:** Every fact whatsoever (including necessary truths, God's existence) has a sufficient reason.
+
+**Weak PSR:** Every *contingent* fact (things that could have been otherwise) has a sufficient reason.
+
+**Our Demonstrations' Dependence:**
+- Demo I (3FLL): Uses weak PSR—contingent consistency of reality requires explanation
+- Demo II (Intentionality): Uses weak PSR—contingent intentional beings require grounding
+- Demo III (Duality): Uses weak PSR—contingent instantiation of order requires explanation
+- Demo IV (Selection): Uses weak PSR—contingent actualization of this universe requires explanation
+
+**None of our demonstrations requires strong PSR.** Weak PSR is sufficient and less controversial.
+
+#### Why PSR Is Rationally Inescapable
+
+**1. Science Presupposes PSR**
+
+Scientific method assumes regularities and phenomena have explanations:
+- Why does water freeze at 0°C? → Molecular structure
+- Why do objects fall? → Gravity
+- Why does E=mc²? → Spacetime geometry
+- Why is the universe's expansion accelerating? → Dark energy (hypothesized)
+
+Science becomes impossible if "some contingent things just happen for no reason at all." Every experiment seeks reasons (causes, explanations, mechanisms). To deny PSR undermines the entire scientific enterprise.
+
+**2. Philosophy and Argumentation Presuppose PSR**
+
+Rational discourse assumes beliefs, arguments, and conclusions require justification:
+- Arguments provide **reasons** for conclusions
+- Evidence provides **reasons** for beliefs
+- Denying PSR means accepting "some beliefs/conclusions are true for no reason"
+- **Performative self-refutation:** Arguing against PSR presupposes reasons matter (otherwise why argue?)
+
+**To deny PSR is to abandon rationality itself.**
+
+**3. PSR as Default Rational Posture**
+
+**Explanatory Principle:** When faced with contingent fact F, default rational response is: "What explains F?"
+
+**Only when explanation-seeking fails comprehensively** should we retreat to "brute fact."
+
+**But for foundational realities** (logic, intentionality, order, universe):
+- Theistic explanation is *available* and *powerful*
+- No justification for treating as brute facts when explanation exists
+
+**Denying PSR is epistemically premature** when explanations are on the table.
+
+#### Objection 1: "Quantum Mechanics Violates PSR"
+
+**Objection:** Quantum mechanics shows uncaused events—radioactive decay occurs randomly without reason. PSR is empirically false.
+
+**Response:**
+
+**Quantum Indeterminacy ≠ Violation of PSR**
+
+**Quantum mechanics:**
+- Specific decay events are **unpredictable** (indeterminate)
+- But governed by **probabilistic laws** (Schrödinger equation, decay rates)
+
+**Sufficient reasons exist:**
+- Why does this atom have 50% chance of decaying in time *t*? → Nuclear forces, quantum field theory
+- Why do radioactive processes follow statistical laws? → Quantum mechanics
+
+**PSR doesn't require determinism.** It requires **sufficient reason**—which quantum mechanics provides via probabilistic laws.
+
+**Analogy:** Die roll is indeterminate, but there's sufficient reason for 1/6 probability per side (geometry, physics). Similarly, quantum probabilities have sufficient reasons (quantum laws).
+
+#### Objection 2: Van Inwagen's "Mystery" Response
+
+**Objection (Peter van Inwagen):** PSR is less certain than the mystery it purports to solve. Better to accept some mysteries (why universe exists) than embrace dubious metaphysical principles (PSR).
+
+**Response:**
+
+**1. PSR Is More Certain Than Van Inwagen Grants**
+
+PSR isn't arbitrary metaphysical speculation—it's the **foundation of rational inquiry**:
+- Science is impossible without it
+- Philosophy is impossible without it
+- Ordinary reasoning presupposes it ("Why did X happen?")
+
+**Rejecting PSR is costlier** than accepting existence mysteries.
+
+**2. "Mystery" Is Not an Explanation**
+
+Saying "the universe's existence is a mystery" is **not** an alternative to theistic explanation—it's **giving up** on explanation.
+
+**Two Options:**
+- **Theism:** Provides explanation (necessary God creates contingent universe)
+- **Mystery:** Abandons explanation
+
+**Methodologically:** Accepting available explanations is preferable to embracing inexplicability.
+
+**3. Restricted PSR Avoids Van Inwagen's Worry**
+
+Van Inwagen worries strong PSR leads to necessitarianism (everything necessary).
+
+**But weak PSR** (contingent facts require explanation) avoids this:
+- Universe is contingent → requires explanation → God
+- God is necessary → self-explanatory (essence = existence)
+- No infinite regress, no necessitarianism
+
+**Our demonstrations use weak PSR exclusively.**
+
+#### Objection 3: Oppy's Symmetry Objection
+
+**Objection (Graham Oppy):** If universe's existence is a brute fact (no reason), that's problematic. But if God's existence is a brute fact (no external reason), that's equally problematic. "Necessary being" doesn't escape bruteness—it just *labels* it. Theism and naturalism are symmetrical; neither explains ultimate existence.
+
+**Response:**
+
+**God Is Not a Brute Fact—God Is Self-Explanatory**
+
+**Key Distinction:**
+
+**Brute Fact:** No explanation whatsoever (internal or external).
+
+**Self-Explanatory Fact:** Explanation is *internal* to the entity's nature.
+
+**Universe:**
+- **Contingent** (could fail to exist, began 13.8 billion years ago)
+- **Composite** (matter, energy, space, time as distinct components)
+- **Not self-explanatory:** Essence (what it is) ≠ existence (that it is)
+- Requires **external** explanation
+
+**God (Classical Theism):**
+- **Necessary** (cannot fail to exist)
+- **Simple** (no composition, no parts, no essence-existence distinction)
+- **Self-explanatory:** Essence = existence (*ipsum esse subsistens*)
+- No external explanation needed—nature provides internal reason
+
+**Asymmetry:**
+
+**Naturalism:** Brute universe (contingent + composite) has no explanation → violates PSR
+
+**Theism:** Self-explanatory God (necessary + simple) has internal explanation → satisfies PSR
+
+**Analogy:**
+
+**Bachelor:** Being unmarried is *internal* to the concept. No external explanation needed for why bachelors are unmarried.
+
+**God's existence:** Existing is *internal* to God's essence (pure actuality, being itself). No external explanation needed.
+
+**Oppy's objection trades on ambiguity between "brute" and "self-explanatory."**
+
+#### Objection 4: Delaunay/Manchak Cosmological Contingency
+
+**Objection (Celia Delaunay, John Manchak):** Modern cosmology (eternal inflation, multiverse) suggests universe may be past-eternal or necessarily existent. If so, PSR-based cosmological arguments fail.
+
+**Response:**
+
+**1. Past-Eternality ≠ Necessity**
+
+**Even if universe is past-eternal:**
+- Still contingent (could have been different, could fail to exist)
+- Still requires explanation ("Why this universe rather than nothing?")
+
+**Analogy:** Suppose an eternal train with infinite cars. Each car's motion is explained by previous car. But whole infinite train's motion still requires explanation (Why is this train moving rather than stationary?).
+
+**PSR applies to totalities,** not just temporal beginnings.
+
+**2. Multiverse Doesn't Escape PSR**
+
+Multiverse proposals (eternal inflation, string landscape) don't eliminate need for explanation:
+- What explains **multiverse generator** (inflation field, string theory laws)?
+- Why these laws/mechanisms rather than others?
+- Why does possibility-space include life-permitting configurations?
+
+**Multiverse pushes explanation back but doesn't eliminate it.**
+
+**3. Contingency of Physical Laws**
+
+All cosmological models presuppose **physical laws** (quantum mechanics, field theory, spacetime structure).
+
+**Laws themselves are contingent:**
+- Could be different (different constants, different equations)
+- Require explanation
+
+**Theism explains:** Laws reflect divine rational nature → necessary ground for contingent laws.
+
+**Naturalism:** Laws are brute → violates PSR.
+
+#### Objection 5: "Denying PSR Is Philosophically Respectable"
+
+**Objection:** Many respectable philosophers (Hume, Russell, van Inwagen) deny or doubt PSR. It's not a self-evident axiom.
+
+**Response:**
+
+**1. Denying PSR Is Self-Defeating in Philosophical Argument**
+
+**If PSR is false:**
+- Your objection might be true for no reason
+- Logic might apply for no reason
+- We might be rational for no reason
+
+**Philosophical argumentation presupposes** reasons connect premises to conclusions, evidence to beliefs.
+
+**To argue against PSR presupposes PSR**—performative contradiction.
+
+**2. Historical Precedent Doesn't Establish Truth**
+
+Many philosophers have denied various principles later vindicated (e.g., excluded middle in intuitionistic logic, non-Euclidean geometry).
+
+**Appeal to authority** doesn't refute PSR's rational credentials.
+
+**3. No Successful Counterexample to Weak PSR**
+
+**Challenge:** Provide an undisputed contingent fact with *no* sufficient reason.
+
+**Alleged counterexamples fail:**
+- Quantum events: Have probabilistic reasons (laws)
+- Universe's existence: Theism provides reason
+- "Just because": Not an answer, but evasion
+
+**Weak PSR remains unrefuted.**
+
+#### Summary: PSR and the Consilience Argument
+
+**1. Our Demonstrations Use Weak PSR**
+- Contingent facts (consistency, intentionality, order-actuation, selection) require explanations
+- God (necessary) is self-explanatory—no infinite regress
+
+**2. PSR Is Rationally Inescapable**
+- Foundation of science and philosophy
+- Denying it is self-defeating
+
+**3. Objections Fail**
+- Quantum mechanics doesn't violate PSR
+- Van Inwagen's mystery doesn't explain
+- Oppy's symmetry conflates brute facts with self-explanation
+- Delaunay/Manchak's cosmology doesn't eliminate contingency
+
+**4. Theism Satisfies PSR; Naturalism Violates It**
+- Theism: Necessary self-explanatory God grounds contingent universe
+- Naturalism: Brute contingent universe with no explanation
+
+**Conclusion:** PSR strengthens the cumulative case. Rejecting PSR doesn't defeat our arguments—it undermines rationality itself.
 
 ---
 
