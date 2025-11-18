@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="600" height="700">
+  <defs>
+    <style>
+      .level-box { stroke-width: 3; }
+      .level-text { font-family: Arial, sans-serif; text-anchor: middle; }
+      .title { font-size: 16px; font-weight: bold; }
+      .subtitle { font-size: 13px; }
+      .arrow { stroke: #333; stroke-width: 2; fill: none; marker-end: url(#arrowhead); }
+      .arrow-label { font-family: Arial, sans-serif; font-size: 12px; fill: #555; text-anchor: middle; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#333" />
+    </marker>
+  </defs>
+
+  <!-- LEVEL 1: GOD -->
+  <rect x="50" y="20" width="500" height="90" rx="5" fill="#ccffcc" stroke="#009900" class="level-box" stroke-width="4"/>
+  <text x="300" y="50" class="level-text title" fill="#006600">LEVEL 1: GOD</text>
+  <text x="300" y="72" class="level-text subtitle" fill="#006600">Subsistent Rationality</text>
+  <text x="300" y="92" class="level-text subtitle" fill="#006600" font-style="italic">(Ipsum Intelligere Subsistens)</text>
+
+  <!-- Arrow 1→2 -->
+  <line x1="300" y1="110" x2="300" y2="135" class="arrow"/>
+  <text x="300" y="125" class="arrow-label">grounds non-arbitrarily</text>
+
+  <!-- LEVEL 2: 3FLL -->
+  <rect x="50" y="145" width="500" height="90" rx="5" fill="#e6f3ff" stroke="#0066cc" class="level-box"/>
+  <text x="300" y="175" class="level-text title" fill="#003399">LEVEL 2: Three Fundamental Laws of Logic</text>
+  <text x="300" y="197" class="level-text subtitle" fill="#003399">Law of Non-Contradiction (LNC)</text>
+  <text x="300" y="215" class="level-text subtitle" fill="#003399">Law of Excluded Middle (LEM), Law of Identity (LI)</text>
+
+  <!-- Arrow 2→3 -->
+  <line x1="300" y1="235" x2="300" y2="260" class="arrow"/>
+  <text x="300" y="250" class="arrow-label">structures</text>
+
+  <!-- LEVEL 3: Abstract/Mathematical Truths -->
+  <rect x="50" y="270" width="500" height="90" rx="5" fill="#fff4e6" stroke="#ff9900" class="level-box" stroke-width="2"/>
+  <text x="300" y="300" class="level-text title" fill="#cc7700">LEVEL 3: Abstract/Mathematical Truths</text>
+  <text x="300" y="322" class="level-text subtitle" fill="#cc7700">Numbers, Sets, Platonic Forms</text>
+  <text x="300" y="340" class="level-text subtitle" fill="#cc7700">Mathematical Structures</text>
+
+  <!-- Arrow 3→4 -->
+  <line x1="300" y1="360" x2="300" y2="385" class="arrow"/>
+  <text x="300" y="375" class="arrow-label">enables</text>
+
+  <!-- LEVEL 4: Formal Systems -->
+  <rect x="50" y="395" width="500" height="90" rx="5" fill="#f9f9f9" stroke="#666" class="level-box" stroke-width="2"/>
+  <text x="300" y="425" class="level-text title" fill="#333">LEVEL 4: Formal Systems</text>
+  <text x="300" y="447" class="level-text subtitle" fill="#333">Arithmetic, Set Theory</text>
+  <text x="300" y="465" class="level-text subtitle" fill="#333">Peano Axioms, ZFC</text>
+
+  <!-- Arrow 4→5 -->
+  <line x1="300" y1="485" x2="300" y2="510" class="arrow"/>
+  <text x="300" y="500" class="arrow-label">describes</text>
+
+  <!-- LEVEL 5: Physical Reality -->
+  <rect x="50" y="520" width="500" height="90" rx="5" fill="#f0f0f0" stroke="#333" class="level-box" stroke-width="2"/>
+  <text x="300" y="550" class="level-text title" fill="#000">LEVEL 5: Physical Reality</text>
+  <text x="300" y="572" class="level-text subtitle" fill="#000">Spacetime, Matter, Energy</text>
+  <text x="300" y="590" class="level-text subtitle" fill="#000">Physical Laws, Processes</text>
+
+  <!-- Title -->
+  <text x="300" y="650" style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-anchor: middle; fill: #333;">The Ontological Pyramid: Hierarchy of Fundamentality</text>
+</svg>

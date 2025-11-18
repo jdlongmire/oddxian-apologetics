@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" width="700" height="600">
+  <defs>
+    <style>
+      .node { stroke-width: 2; rx: 5; }
+      .text { font-family: Arial, sans-serif; text-anchor: middle; font-size: 13px; }
+      .text-bold { font-weight: bold; font-size: 14px; }
+      .text-small { font-size: 11px; }
+      .arrow { stroke: #333; stroke-width: 2; fill: none; marker-end: url(#arrow-solid); }
+      .arrow-dotted { stroke: #cc0000; stroke-width: 2; fill: none; stroke-dasharray: 5,3; marker-end: url(#arrow-red); }
+      .path-label { font-family: Arial, sans-serif; font-size: 11px; fill: #555; text-anchor: middle; }
+    </style>
+    <marker id="arrow-solid" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#333" />
+    </marker>
+    <marker id="arrow-red" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#cc0000" />
+    </marker>
+  </defs>
+
+  <!-- START NODE -->
+  <rect x="225" y="20" width="250" height="60" class="node" fill="#fff4e6" stroke="#ff9900"/>
+  <text x="350" y="45" class="text text-bold" fill="#cc7700">Why can explanation</text>
+  <text x="350" y="63" class="text text-bold" fill="#cc7700">stop HERE?</text>
+
+  <!-- QUESTION 1 -->
+  <rect x="50" y="150" width="180" height="50" class="node" fill="#ffe6e6" stroke="#cc0000"/>
+  <text x="140" y="172" class="text text-bold" fill="#990000">Why not stop</text>
+  <text x="140" y="188" class="text text-bold" fill="#990000">HERE instead?</text>
+
+  <line x1="300" y1="80" x2="140" y2="150" class="arrow"/>
+
+  <!-- QUESTION 2 -->
+  <rect x="260" y="150" width="180" height="50" class="node" fill="#ffe6e6" stroke="#cc0000"/>
+  <text x="350" y="172" class="text text-bold" fill="#990000">Or stop</text>
+  <text x="350" y="188" class="text text-bold" fill="#990000">HERE?</text>
+
+  <line x1="350" y1="80" x2="350" y2="150" class="arrow"/>
+
+  <!-- QUESTION 3 -->
+  <rect x="470" y="150" width="180" height="50" class="node" fill="#ffe6e6" stroke="#cc0000"/>
+  <text x="560" y="172" class="text text-bold" fill="#990000">Or stop</text>
+  <text x="560" y="188" class="text text-bold" fill="#990000">ANYWHERE?</text>
+
+  <line x1="400" y1="80" x2="560" y2="150" class="arrow"/>
+
+  <!-- ANSWER NODE -->
+  <rect x="200" y="270" width="300" height="80" class="node" fill="#ffcccc" stroke="#cc0000" stroke-width="3"/>
+  <text x="350" y="295" class="text text-bold" fill="#990000" font-size="16px">Answer: No Reason</text>
+  <text x="350" y="320" class="text" fill="#990000">= ARBITRARY BOUNDARY</text>
+
+  <!-- Dotted lines from questions to answer -->
+  <line x1="140" y1="200" x2="250" y2="270" class="arrow-dotted"/>
+  <line x1="350" y1="200" x2="350" y2="270" class="arrow-dotted"/>
+  <line x1="560" y1="200" x2="450" y2="270" class="arrow-dotted"/>
+
+  <!-- COLLAPSE NODE -->
+  <rect x="150" y="420" width="400" height="110" class="node" fill="#ff9999" stroke="#990000" stroke-width="4"/>
+  <text x="350" y="447" class="text text-bold" fill="#660000" font-size="16px">Consequence:</text>
+  <text x="350" y="470" class="text text-bold" fill="#660000" font-size="15px">Restricted PSR is Incoherent</text>
+  <text x="350" y="495" class="text" fill="#660000">If explanation can stop anywhere,</text>
+  <text x="350" y="512" class="text" fill="#660000">it can stop everywhere</text>
+
+  <!-- Arrow from answer to collapse -->
+  <line x1="350" y1="350" x2="350" y2="420" class="arrow" stroke-width="3"/>
+  <text x="400" y="385" class="path-label" font-size="12px" font-weight="bold">Entails</text>
+
+  <!-- Title -->
+  <text x="350" y="570" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-anchor: middle; fill: #333;">The Arbitrariness Problem: Why Restricted PSR Collapses</text>
+</svg>
