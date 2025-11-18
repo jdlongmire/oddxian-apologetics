@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1000" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
   <defs>
     <style>
-      .text { font-family: Arial, sans-serif; text-anchor: middle; font-size: 13px; }
+      .text { font-family: Arial, sans-serif; text-anchor: middle; font-size: 12px; }
       .text-bold { font-weight: bold; }
-      .text-small { font-size: 11px; }
+      .text-small { font-size: 10px; }
       .path-label { font-family: Arial, sans-serif; font-size: 10px; fill: #555; text-anchor: middle; }
     </style>
     <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
@@ -13,100 +13,123 @@
   </defs>
 
   <!-- Title -->
-  <text x="500" y="25" style="font-family: Arial, sans-serif; font-size: 17px; font-weight: bold; text-anchor: middle; fill: #333;">The Inescapability of Classical Theism</text>
+  <text x="600" y="30" style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-anchor: middle; fill: #333;">The Inescapability of Classical Theism</text>
 
   <!-- START NODE -->
-  <rect x="400" y="60" width="200" height="60" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="4"/>
-  <text x="500" y="82" class="text text-bold">PURPOSIVE INQUIRY</text>
-  <text x="500" y="100" class="text text-small">The act of questioning, arguing,</text>
-  <text x="500" y="112" class="text text-small">or evaluating this argument</text>
+  <rect x="500" y="70" width="200" height="65" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="4"/>
+  <text x="600" y="95" class="text text-bold" font-size="14px">PURPOSIVE INQUIRY</text>
+  <text x="600" y="113" class="text text-small">The act of questioning, arguing,</text>
+  <text x="600" y="125" class="text text-small">or evaluating this argument</text>
 
-  <!-- PATH 1: DENIAL (Left) -->
-  <path d="M 420 120 Q 180 160 180 230" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="280" y="165" class="path-label">Option 1: Deny</text>
-  <text x="280" y="177" class="path-label">Purpose Exists</text>
+  <!-- LAYER 1: INITIAL OPTIONS ROW -->
 
-  <rect x="80" y="230" width="200" height="75" rx="5" fill="#ffcccc" stroke="#cc0000" stroke-width="2" stroke-dasharray="5,5"/>
-  <text x="180" y="255" class="text text-bold" fill="#990000">PERFORMATIVE</text>
-  <text x="180" y="272" class="text text-bold" fill="#990000">SELF-REFUTATION</text>
-  <text x="180" y="290" class="text text-small" fill="#990000">'I purposively argue that</text>
-  <text x="180" y="300" class="text text-small" fill="#990000">purpose does not exist'</text>
+  <!-- Option 1: DENIAL -->
+  <path d="M 540 135 L 140 220" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="280" y="175" class="path-label">Option 1:</text>
+  <text x="280" y="188" class="path-label">Deny Purpose</text>
 
-  <!-- PATH 2: PHYSICALISM (Center-Left) -->
-  <path d="M 450 120 Q 380 160 380 230" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="420" y="170" class="path-label">Option 2: Ground in</text>
-  <text x="420" y="182" class="path-label">Physical/Emergence</text>
+  <rect x="40" y="220" width="200" height="70" rx="5" fill="#ffcccc" stroke="#cc0000" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="140" y="243" class="text text-bold" fill="#990000">PERFORMATIVE</text>
+  <text x="140" y="258" class="text text-bold" fill="#990000">SELF-REFUTATION</text>
+  <text x="140" y="275" class="text text-small" fill="#990000">'I purposively argue</text>
+  <text x="140" y="285" class="text text-small" fill="#990000">purpose doesn't exist'</text>
 
-  <rect x="280" y="230" width="200" height="50" rx="5" fill="#fff4e6" stroke="#ff9900" stroke-width="2"/>
-  <text x="380" y="255" class="text text-bold" fill="#cc7700">The Mereological Test</text>
+  <!-- Option 2: PHYSICALISM -->
+  <path d="M 560 135 L 340 220" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="440" y="175" class="path-label">Option 2:</text>
+  <text x="440" y="188" class="path-label">Physicalism</text>
 
-  <path d="M 380 280 L 380 340" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="440" y="307" class="path-label text-small">Syntax cannot</text>
-  <text x="440" y="318" class="path-label text-small">produce Semantics</text>
+  <rect x="260" y="220" width="160" height="50" rx="5" fill="#fff4e6" stroke="#ff9900" stroke-width="2"/>
+  <text x="340" y="240" class="text text-bold" fill="#cc7700">Mereological</text>
+  <text x="340" y="254" class="text text-bold" fill="#cc7700">Test</text>
 
-  <rect x="280" y="340" width="200" height="70" rx="5" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
-  <text x="380" y="362" class="text text-bold" fill="#990000">MEREOLOGICAL FAILURE</text>
-  <text x="380" y="382" class="text text-small" fill="#990000">Ontological Gap: Matter</text>
-  <text x="380" y="397" class="text text-small" fill="#990000">cannot possess 'Aboutness'</text>
+  <!-- Option 3: SUBJECTIVE -->
+  <path d="M 600 135 L 540 220" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="575" y="175" class="path-label">Option 3:</text>
+  <text x="575" y="188" class="path-label">Constructed</text>
 
-  <!-- PATH 3: SUBJECTIVE (Center-Right) -->
-  <path d="M 550 120 Q 620 160 620 230" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="590" y="165" class="path-label">Option 3: Claim</text>
-  <text x="590" y="177" class="path-label">'Constructed' Purpose</text>
+  <rect x="460" y="220" width="160" height="65" rx="5" fill="#fff4e6" stroke="#ff9900" stroke-width="2"/>
+  <text x="540" y="241" class="text text-bold" fill="#cc7700">INTENTIONALITY</text>
+  <text x="540" y="256" class="text text-bold" fill="#cc7700">PRESUPPOSED</text>
+  <text x="540" y="274" class="text text-small" fill="#cc7700">Requires representation</text>
 
-  <rect x="520" y="230" width="200" height="70" rx="5" fill="#fff4e6" stroke="#ff9900" stroke-width="2"/>
-  <text x="620" y="252" class="text text-bold" fill="#cc7700">INTENTIONALITY</text>
-  <text x="620" y="269" class="text text-bold" fill="#cc7700">PRESUPPOSED</text>
-  <text x="620" y="287" class="text text-small" fill="#cc7700">Construction requires</text>
-  <text x="620" y="297" class="text text-small" fill="#cc7700">representation &amp; normativity</text>
+  <!-- Option 4: PLATONISM -->
+  <path d="M 640 135 L 740 220" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="700" y="175" class="path-label">Option 4:</text>
+  <text x="700" y="188" class="path-label">Platonism</text>
 
-  <path d="M 550 300 Q 470 320 430 340" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="500" y="327" class="path-label text-small">Still requires grounding</text>
+  <rect x="660" y="220" width="160" height="50" rx="5" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="740" y="240" class="text text-bold" fill="#003399">Abstract</text>
+  <text x="740" y="254" class="text text-bold" fill="#003399">Objects</text>
 
-  <!-- PATH 4: PLATONISM (Right) -->
-  <path d="M 580 120 Q 780 180 780 270" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="700" y="185" class="path-label">Option 4: Ground in</text>
-  <text x="700" y="197" class="path-label">Abstract Objects</text>
+  <!-- Option 5: MULTIVERSE -->
+  <path d="M 660 135 L 960 220" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="840" y="175" class="path-label">Option 5:</text>
+  <text x="840" y="188" class="path-label">Multiverse</text>
 
-  <rect x="680" y="270" width="200" height="50" rx="5" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
-  <text x="780" y="290" class="text text-bold" fill="#003399">PLATONISM</text>
-  <text x="780" y="307" class="text text-small" fill="#003399">Math/Logical objects ultimate</text>
+  <rect x="880" y="220" width="160" height="50" rx="5" fill="#fff4e6" stroke="#ff9900" stroke-width="2"/>
+  <text x="960" y="240" class="text text-bold" fill="#cc7700">Chance/</text>
+  <text x="960" y="254" class="text text-bold" fill="#cc7700">Generator</text>
 
-  <path d="M 780 320 L 780 390" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="840" y="350" class="path-label text-small">Causal Inertness</text>
-  <text x="840" y="362" class="path-label text-small">Cannot actualize</text>
+  <!-- LAYER 2: FAILURE NODES -->
 
-  <rect x="680" y="390" width="200" height="60" rx="5" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
-  <text x="780" y="412" class="text text-bold" fill="#990000">EXPLANATORY FAILURE</text>
-  <text x="780" y="432" class="text text-small" fill="#990000">Explains order,</text>
-  <text x="780" y="442" class="text text-small" fill="#990000">not actuation</text>
+  <!-- Physicalism → Mereological Failure -->
+  <path d="M 340 270 L 340 360" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="380" y="315" class="path-label text-small">Syntax ≠</text>
+  <text x="380" y="326" class="path-label text-small">Semantics</text>
 
-  <path d="M 730 450 Q 650 530 580 600" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="670" y="520" class="path-label text-small">Requires Personal Mind</text>
+  <rect x="260" y="360" width="160" height="65" rx="5" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
+  <text x="340" y="379" class="text text-bold" fill="#990000">MEREOLOGICAL</text>
+  <text x="340" y="394" class="text text-bold" fill="#990000">FAILURE</text>
+  <text x="340" y="412" class="text text-small" fill="#990000">Ontological gap</text>
 
-  <!-- PATH 5: MULTIVERSE (Far Left) -->
-  <path d="M 450 120 Q 80 350 80 520" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="160" y="400" class="path-label">Option 5:</text>
-  <text x="160" y="412" class="path-label">Multiverse</text>
+  <!-- Subjective → needs grounding (to Mereological Failure) -->
+  <path d="M 510 285 Q 440 320 380 360" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="455" y="325" class="path-label text-small">Needs grounding</text>
 
-  <rect x="0" y="520" width="160" height="50" rx="5" fill="#fff4e6" stroke="#ff9900" stroke-width="2"/>
-  <text x="80" y="545" class="text text-bold" fill="#cc7700">MULTIVERSE</text>
+  <!-- Platonism → Explanatory Failure -->
+  <path d="M 740 270 L 740 360" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="785" y="315" class="path-label text-small">Causal</text>
+  <text x="785" y="326" class="path-label text-small">Inertness</text>
 
-  <path d="M 160 545 Q 320 570 420 610" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="280" y="565" class="path-label text-small">Generator needs</text>
-  <text x="280" y="577" class="path-label text-small">Existence, Selection</text>
+  <rect x="660" y="360" width="160" height="65" rx="5" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
+  <text x="740" y="379" class="text text-bold" fill="#990000">EXPLANATORY</text>
+  <text x="740" y="394" class="text text-bold" fill="#990000">FAILURE</text>
+  <text x="740" y="412" class="text text-small" fill="#990000">Order, not actuation</text>
 
-  <!-- PATH 6: THEISM (Direct - Far Right side) -->
-  <path d="M 600 120 Q 920 380 920 620" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  <text x="840" y="220" class="path-label" fill="#006600" font-weight="bold">Option 6:</text>
-  <text x="840" y="234" class="path-label" fill="#006600">Personal Necessary</text>
-  <text x="840" y="246" class="path-label" fill="#006600">Being (Direct Route)</text>
+  <!-- Multiverse → needs explanation -->
+  <path d="M 930 270 Q 860 315 790 360" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="875" y="315" class="path-label text-small">Generator needs</text>
+  <text x="875" y="326" class="path-label text-small">explanation</text>
+
+  <!-- LAYER 3: ALL FAILURES → THEISM -->
+
+  <!-- Mereological Failure → Theism -->
+  <path d="M 340 425 Q 420 520 460 650" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="390" y="530" class="path-label text-small">Requires</text>
+  <text x="390" y="541" class="path-label text-small">Personal Ground</text>
+
+  <!-- Explanatory Failure → Theism -->
+  <path d="M 740 425 Q 680 520 640 650" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <text x="705" y="530" class="path-label text-small">Requires</text>
+  <text x="705" y="541" class="path-label text-small">Personal Mind</text>
+
+  <!-- Option 6: DIRECT PATH (straight down center) -->
+  <path d="M 600 135 L 550 650" stroke="#009900" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <text x="580" y="380" class="path-label" fill="#006600" font-weight="bold">Option 6:</text>
+  <text x="580" y="395" class="path-label" fill="#006600" font-weight="bold">Personal</text>
+  <text x="580" y="410" class="path-label" fill="#006600" font-weight="bold">Necessary</text>
+  <text x="580" y="425" class="path-label" fill="#006600" font-weight="bold">Being</text>
+  <text x="580" y="445" class="path-label" fill="#006600">(Direct Route)</text>
 
   <!-- THEISM (CONCLUSION) -->
-  <rect x="350" y="600" width="350" height="110" rx="5" fill="#ccffcc" stroke="#009900" stroke-width="4"/>
-  <text x="525" y="630" class="text text-bold" fill="#006600" font-size="18px">CLASSICAL THEISM</text>
-  <text x="525" y="655" class="text text-small" fill="#006600">✓ Explains Intentionality</text>
-  <text x="525" y="672" class="text text-small" fill="#006600">✓ Explains Logical Consistency</text>
-  <text x="525" y="689" class="text text-small" fill="#006600">✓ Explains Order-Actuation Unity</text>
-  <text x="525" y="706" class="text text-small" fill="#006600">✓ Explains Ontological Selection</text>
+  <rect x="350" y="650" width="400" height="120" rx="8" fill="#ccffcc" stroke="#009900" stroke-width="5"/>
+  <text x="550" y="685" class="text text-bold" fill="#006600" font-size="20px">CLASSICAL THEISM</text>
+  <text x="550" y="710" class="text text-small" fill="#006600">✓ Explains Intentionality</text>
+  <text x="550" y="727" class="text text-small" fill="#006600">✓ Explains Logical Consistency</text>
+  <text x="550" y="744" class="text text-small" fill="#006600">✓ Explains Order-Actuation Unity</text>
+  <text x="550" y="761" class="text text-small" fill="#006600">✓ Explains Ontological Selection</text>
+
+  <!-- Legend -->
+  <text x="600" y="820" style="font-family: Arial, sans-serif; font-size: 11px; text-anchor: middle; fill: #666; font-style: italic;">All non-theistic paths encounter insurmountable barriers or require the very thing they seek to avoid</text>
 </svg>
