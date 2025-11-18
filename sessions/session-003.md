@@ -361,11 +361,16 @@ Initial approach was modifying the source document directly. **Corrected** to cr
    - Formal Confidence Calculation appendix
 9. ✅ **Cover Image** embedded (CAG-book-cover.png, 2.7 MB)
 10. ✅ **SVG Diagram Graphics** - 5 standalone SVG files (~25K total)
-    - ontological-pyramid.svg (line 330)
-    - purposive-inquiry-inescapability.svg (line 511)
-    - consilience-structure.svg (line 5731)
-    - bayesian-updating.svg (line 5901)
-    - arbitrariness-problem.svg (line 6489)
+    - ontological-pyramid.svg (line 330) - 5-level hierarchy
+    - purposive-inquiry-inescapability.svg (line 511) - 6-path decision tree
+    - consilience-structure.svg (line 5731) - 4 demos → 1 conclusion
+    - bayesian-updating.svg (line 5901) - Sequential credence updates
+    - arbitrariness-problem.svg (line 6489) - PSR collapse visualization
+11. ✅ **SVG Spacing Fixes** - Eliminated all text/block overlaps
+    - Bayesian: Increased canvas 1200x300→1300x350, repositioned all elements
+    - Consilience: Increased width to 1100px, better vertical spacing (60px clearances)
+    - Purposive: Increased to 1000x800, rerouted Option 6 path around edge
+    - Result: Zero overlaps, publication-ready quality
 
 **Remaining Work (Minor Polish):**
 - [ ] Standardize syllogisms (P1, P2, C1 format) throughout document
