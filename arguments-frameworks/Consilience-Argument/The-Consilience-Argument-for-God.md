@@ -37,9 +37,9 @@ Each demonstration stands on its own. The failure of one (if it could fail) does
 **2. Different Entry Points**
 
 Different people find different starting points compelling:
-- Phenomenologists begin with conscious experience (Demonstration I)
-- Logicians and mathematicians resonate with formal systems (Demonstration II)
-- Metaphysicians focus on fundamental categories (Demonstration III)
+- Logicians and mathematicians resonate with formal systems and the 3FLL (Demonstration I)
+- Phenomenologists begin with conscious experience and intentionality (Demonstration II)
+- Metaphysicians focus on fundamental categories and duality (Demonstration III)
 - Modal reasoners think in terms of possibility and actuality (Demonstration IV)
 
 This document provides multiple access routes to the same truth.
@@ -50,17 +50,17 @@ No single argument establishes all divine attributes. But taken together, these 
 - **Necessary existence** (all four)
 - **Eternality** (all four)
 - **Immateriality** (all four)
-- **Omniscience** (Demonstrations I, II, III)
-- **Omnipotence** (Demonstrations I, III, IV)
-- **Rationality/Intellect** (Demonstrations I, II, III)
-- **Volition/Will** (Demonstrations I, III, IV)
-- **Personhood** (Demonstrations I, III, IV)
+- **Omniscience** (all four)
+- **Omnipotence** (Demonstrations I, II, III, IV)
+- **Rationality/Intellect** (all four - especially emphasized in Demo I)
+- **Volition/Will** (Demonstrations II, III, IV)
+- **Personhood** (Demonstrations II, III, IV)
 - **Simplicity** (Demonstrations I, II)
-- **Omnibenevolence** (Demonstration I)
+- **Omnibenevolence** (Demonstration II)
 
 **4. Cumulative Confidence (Consilience Power)**
 
-Individual demonstrations range from 85-90% confidence. But the cumulative case—where we ask "What is the probability that **at least one** succeeds?"—yields **~99.97% confidence**.
+Demonstration I starts with 100% certainty (3FLL performatively undeniable). Demonstrations II-IV range from 85-90% confidence. But the cumulative case—where we ask "What is the probability that **at least one** succeeds?"—yields **~99.97% confidence**.
 
 This is not argumentative redundancy. This is **consilience**: independent lines of evidence converging on the same reality with near-certainty.
 
@@ -73,14 +73,15 @@ This is not argumentative redundancy. This is **consilience**: independent lines
 - Provides the rational foundation all subsequent arguments presuppose
 - Confidence: ~95-100% (performatively inescapable)
 
-**Four Primary Demonstrations** (Independent, Sufficient)
-1. **From Intentionality to Personal Ground** (~85-90% confidence)
+**Four Primary Demonstrations** (Cumulative Case, Each Sufficient Independently)
+1. **From the Three Fundamental Laws of Logic to Subsistent Rationality** (~100% confidence)
+   - Performatively undeniable starting point (3FLL)
+   - Most philosophically fundamental demonstration
+   - Establishes rational ground for all inquiry
+
+2. **From Intentionality to Personal Ground** (~85-90% confidence)
    - Phenomenological starting point
    - Mereological irreducibility of mental properties
-
-2. **From Logical Consistency to Non-Formal Being** (~90% confidence)
-   - Empirical + formal starting point
-   - Gödelian validation hierarchy
 
 3. **From Duality to Mind** (~85% confidence)
    - Metaphysical starting point
@@ -113,7 +114,8 @@ This is not argumentative redundancy. This is **consilience**: independent lines
 ### How to Read This Document
 
 **For the Skeptic:**
-- Start with whichever demonstration matches your intellectual background
+- Start with Demonstration I (3FLL/Logic) - the most certain starting point
+- Or jump to whichever demonstration matches your intellectual background
 - Test each argument rigorously
 - Note that you must refute **all four** to avoid the conclusion
 
@@ -237,28 +239,35 @@ graph TD
 
 **This hierarchy shows:**
 
-1. **Demonstration II (From Logic to God) is foundational**
-   - Starts with Level 2 (3FLL) — performatively undeniable
-   - Shows only Level 1 (God) can ground them
+1. **Demonstration I (From the 3FLL to Subsistent Rationality) is foundational**
+   - Starts with Level 2 (3FLL) — performatively undeniable (100% certain)
+   - Shows only Level 1 (God) can ground them non-arbitrarily
    - Most certain starting point possible
+   - Presented first in our cumulative case
 
-2. **All demonstrations presuppose logic**
-   - Demo I uses logical inference
-   - Demo III uses logical coherence
-   - Demo IV uses modal logic
-   - Therefore, all depend on the 3FLL being grounded
+2. **All demonstrations use logic, establishing cumulative structure**
+   - Demo II uses logical inference about intentionality
+   - Demo III uses logical coherence in analyzing duality
+   - Demo IV uses modal logic in selection arguments
+   - Demo I establishes the foundation all reasoning presupposes
 
-3. **Platonism alone is incomplete**
+3. **Yet each demonstration remains evidentially independent**
+   - Demo II can convince even if Demo I is rejected (separate evidence)
+   - Demos III and IV likewise provide independent evidential routes
+   - "Uses logic" ≠ "depends on Demo I's specific argument about logic"
+   - Each stands alone as sufficient warrant for theism
+
+4. **Platonism alone is incomplete**
    - Abstract objects (Level 3) presuppose logic (Level 2)
    - Logic requires grounding (Level 1)
    - Platonism needs theism to be complete
 
-4. **Naturalism fails at multiple levels**
+5. **Naturalism fails at multiple levels**
    - Cannot ground Level 2 (logic)
    - Cannot ground Level 3 (abstract objects)
    - Cannot explain Level 5's conformity to Levels 2-4
 
-**This is why the Consilience Argument is so powerful:** It doesn't just show God is probable—it shows God is the necessary foundation for rationality itself.
+**This is why the Consilience Argument is so powerful:** It doesn't just show God is probable—it shows God is the necessary foundation for rationality itself. We present Demo I first because it establishes this foundation with maximal certainty (100%), then build the cumulative case from there.
 
 ---
 
@@ -323,8 +332,8 @@ This is a **transcendental argument**: Purpose is a necessary condition for the 
 
 All four demonstrations presuppose this foundation:
 
-- **Demonstration I** asks: What grounds intentionality?
-- **Demonstration II** asks: What grounds the logical consistency purposive inquiry presupposes?
+- **Demonstration I** asks: What grounds the Three Fundamental Laws of Logic that purposive inquiry presupposes?
+- **Demonstration II** asks: What grounds intentionality itself?
 - **Demonstration III** asks: What unifies the rational order purposive inquiry recognizes with the dynamic reality it operates within?
 - **Demonstration IV** asks: What actualizes the contingent reality purposive inquiry investigates?
 
@@ -378,17 +387,17 @@ graph TD
 
 ---
 
-## Demonstration II: From Logical Consistency to Non-Formal Being
+## Demonstration I: From the Three Fundamental Laws of Logic to Subsistent Rationality
 
 ### Overview and Confidence
 
-**Starting Point:** Observed logical consistency of physical reality over 13.8 billion years
+**Starting Point:** The Three Fundamental Laws of Logic (performatively undeniable)
 
-**Method:** Gödelian validation hierarchy + eliminative reasoning
+**Method:** Gödelian validation hierarchy + eliminative reasoning + grounding analysis
 
-**Conclusion:** Non-contingent, non-formal, self-grounding Being (*Ipsum Esse Subsistens*)
+**Conclusion:** Non-contingent, non-formal, self-grounding Being (*Ipsum Esse Subsistens* / *Subsistent Rationality*)
 
-**Confidence:** ~90% (empirically grounded, deductively rigorous)
+**Confidence:** ~100% starting point (3FLL undeniable); ~90% overall (deductively rigorous from certain foundation)
 
 **Why This Demonstration?**
 This argument begins not with philosophical abstractions but with an **empirical fact**: throughout cosmic history, across all scales we can observe, physical reality has never once violated the fundamental laws of logic. This observed consistency, combined with Gödel's incompleteness theorems, forces us to a transcendent ground.
@@ -790,7 +799,7 @@ Physical reality's consistency is not just explained historically ("God set up c
 
 ---
 
-### F. Attributes Derived from Demonstration II
+### F. Attributes Derived from Demonstration I
 
 #### From Non-Contingency
 
@@ -1073,7 +1082,7 @@ Natural theology provides **rational foundation**; revealed theology provides **
 
 ---
 
-### H. Summary of Demonstration II
+### H. Summary of Demonstration I
 
 **What We've Established:**
 
@@ -1103,11 +1112,11 @@ The ground of observed consistency must be a **non-contingent, non-formal, self-
 
 **Independence:** This demonstration does not depend on Demonstrations I, III, or IV. It stands alone as sufficient proof.
 
-**Next:** Demonstration III will approach from a different angle—the duality of static order and dynamic actuation—yet arrive at the same conclusion.
+**Next:** Demonstration II will approach from a phenomenological angle—the irreducibility of intentionality—building on the logical foundation established above.
 
 ---
 
-## Demonstration I: From Intentionality to Personal Ground
+## Demonstration II: From Intentionality to Personal Ground
 
 ### Overview and Confidence
 
@@ -1120,7 +1129,7 @@ The ground of observed consistency must be a **non-contingent, non-formal, self-
 **Confidence:** ~85-90% (strong mereological defense, convergent arguments)
 
 **Why This Demonstration?**
-Meta-Syllogism 0 established that purposive inquiry—characterized by intentionality, normativity, and teleology—exists undeniably. This demonstration asks: **What grounds intentionality?** Through rigorous analysis, we show that intentional properties cannot be reduced to physical properties and require a personal, necessary Mind as their ultimate ground.
+Meta-Syllogism 0 established that purposive inquiry—characterized by intentionality, normativity, and teleology—exists undeniably. Demonstration I established the logical foundation (3FLL require grounding in Subsistent Rationality). This demonstration asks: **What grounds intentionality?** Through rigorous analysis, we show that intentional properties cannot be reduced to physical properties and require a personal, necessary Mind as their ultimate ground.
 
 ---
 
@@ -1899,7 +1908,7 @@ Personhood makes **relationship** possible—God can know creatures, love them, 
 
 #### Summary: The Classical Theistic Profile
 
-**From Demonstration I, We Have Derived:**
+**From Demonstration II, We Have Derived:**
 
 **Metaphysical Attributes:**
 - Necessary Existence (Aseity)
@@ -2283,7 +2292,7 @@ Fine—but this just extends the **physical substrate**. It doesn't solve:
 
 ---
 
-### G. Summary of Demonstration I
+### G. Summary of Demonstration II
 
 **What We Have Established:**
 
@@ -2388,7 +2397,7 @@ This demonstration provides a **rigorous, philosophically grounded deductive arg
 
 #### Independence from Other Demonstrations
 
-Demonstration I **stands alone**. Even if Demonstrations II, III, and IV failed entirely, this argument provides sufficient warrant for classical theism.
+Demonstration II **stands alone**. Even if Demonstrations I, III, and IV failed entirely, this argument provides sufficient warrant for classical theism.
 
 **But combined with the other three demonstrations, cumulative confidence approaches 95%+.**
 
@@ -2409,7 +2418,7 @@ Demonstration I **stands alone**. Even if Demonstrations II, III, and IV failed 
 **Confidence:** ~85% (grounded in undeniable empirical/formal facts, deductively rigorous)
 
 **Why This Demonstration?**
-Unlike Demonstration I (phenomenological—starting with intentionality) and Demonstration II (formal—starting with logical consistency), this demonstration begins with a **metaphysical observation**: Reality exhibits **both** static rational order **and** dynamic processes that instantiate that order. What accounts for this duality and its unity? Through eliminative reasoning, we show this requires a Personal Mind.
+Unlike Demonstration II (phenomenological—starting with intentionality) and Demonstration I (formal—starting with logical consistency), this demonstration begins with a **metaphysical observation**: Reality exhibits **both** static rational order **and** dynamic processes that instantiate that order. What accounts for this duality and its unity? Through eliminative reasoning, we show this requires a Personal Mind.
 
 ---
 
@@ -3297,8 +3306,8 @@ Rigorous deductive argument from metaphysical observation to theistic conclusion
 
 **Independence:**
 Demonstration III stands alone. Uses different starting point and method than Demonstrations I and II:
-- **Demo I:** Phenomenological (intentionality)
-- **Demo II:** Formal-empirical (logical consistency)
+- **Demo I:** Formal-empirical (logical consistency)
+- **Demo II:** Phenomenological (intentionality)
 - **Demo III:** Metaphysical (order-actuation duality)
 
 **All arrive at same conclusion: Personal God of classical theism.**
@@ -3309,8 +3318,8 @@ Demonstration III stands alone. Uses different starting point and method than De
 - All three conclude: **Personal Being** with classical attributes
 
 **Cumulative Confidence:**
-- Demo I alone: ~85-90%
-- Demo II alone: ~90%
+- Demo I alone: ~90%
+- Demo II alone: ~85-90%
 - Demo III alone: ~85%
 - **At least one succeeds: ~97%+**
 
@@ -3765,7 +3774,7 @@ Possible worlds exist abstractly (no generator).
 
 **Problem 1: Violates PSR**
 
-Addressed extensively in Demo III. PSR is rationally necessary—denying it undermines all inquiry.
+Addressed extensively in Demo II. PSR is rationally necessary—denying it undermines all inquiry.
 
 **Specific to This Case:**
 - Contingent fact (this universe among possibilities)
@@ -3854,7 +3863,7 @@ From infinite possible universes → this specific actual universe.
 **1. Discriminatory Power:**
 
 **Will can distinguish among possibilities:**
-- Divine Intellect comprehends all possible worlds (Demo I, II, III)
+- Divine Intellect comprehends all possible worlds (Demos I, II, III)
 - Divine Will evaluates them (goodness, fittingness, purpose)
 - Selects **this** specific configuration
 
@@ -4118,7 +4127,7 @@ Same God identified in Demonstrations I-III:
 - Particular equations (Schrödinger, Heisenberg, Dirac)
 - Why **these** laws rather than others?
 
-**This is Demo II's question:** What grounds logical/mathematical structures governing reality?
+**This is Demo I's question:** What grounds logical/mathematical structures governing reality?
 
 **Answer:** Non-formal necessary Being (God).
 
@@ -4296,8 +4305,8 @@ Rigorous modal argument from contingency and selection to theistic conclusion.
 
 **Independence:**
 Demonstration IV stands alone. Uses modal/selection approach distinct from Demonstrations I-III:
-- **Demo I:** Phenomenological (intentionality → personal ground)
-- **Demo II:** Formal-empirical (logical consistency → non-formal being)
+- **Demo I:** Formal-empirical (logical consistency → non-formal being)
+- **Demo II:** Phenomenological (intentionality → personal ground)
 - **Demo III:** Metaphysical (order-actuation duality → mind)
 - **Demo IV:** Modal (ontological selection → volitional agency)
 
@@ -4318,8 +4327,8 @@ Demonstration IV stands alone. Uses modal/selection approach distinct from Demon
 **Cumulative Confidence:**
 
 **Individual Demonstrations:**
-- Demo I: ~85-90%
-- Demo II: ~90%
+- Demo I: ~90%
+- Demo II: ~85-90%
 - Demo III: ~85%
 - Demo IV: ~85%
 
@@ -4359,7 +4368,7 @@ We have presented four independent demonstrations for God's existence. Now we an
 
 #### Summary of Demonstrations
 
-**Demonstration I: From Intentionality to Personal Ground**
+**Demonstration II: From Intentionality to Personal Ground**
 
 **Starting Point:** Purposive inquiry exists (performatively undeniable)
 
@@ -4377,7 +4386,7 @@ We have presented four independent demonstrations for God's existence. Now we an
 
 ---
 
-**Demonstration II: From Logical Consistency to Non-Formal Being**
+**Demonstration I: From Logical Consistency to Non-Formal Being**
 
 **Starting Point:** Formal systems exist and are used (empirical + formal fact)
 
@@ -4437,19 +4446,19 @@ Do the four demonstrations converge on the same Being? Let's examine attribute-b
 
 | **Attribute** | **Demo I** | **Demo II** | **Demo III** | **Demo IV** | **Convergence** |
 |---------------|------------|-------------|--------------|-------------|-----------------|
-| **Necessary Existence (Aseity)** | ✓ (grounds contingent intentionality) | ✓ (terminates validation hierarchy) | ✓ (grounds order-actuation) | ✓ (terminates regress) | **4/4 Perfect** |
-| **Eternality** | ✓ (timeless ground) | ✓ (outside formal systems) | ✓ (grounds timeless order) | ✓ (beyond temporal universe) | **4/4 Perfect** |
-| **Immateriality** | ✓ (non-physical ground) | ✓ (non-formal = immaterial) | ✓ (transcends physical actuation) | ✓ (beyond physical universe) | **4/4 Perfect** |
-| **Immutability** | ✓ (no potency, Pure Act) | — | ✓ (Pure Act, no change) | — | **2/4 Implied** |
-| **Simplicity** | ✓ (no composition) | ✓ (non-composite validator) | ✓ (unified essence) | — | **3/4 Strong** |
-| **Omniscience** | ✓ (infinite Intellect) | ✓ (comprehends all truths) | ✓ (knows all possibilities) | ✓ (knows possibility-space) | **4/4 Perfect** |
-| **Omnipotence** | ✓ (infinite Will) | — | ✓ (actualizes reality) | ✓ (can actualize any possible world) | **3/4 Strong** |
-| **Rationality (Logos)** | ✓ (normative Intellect) | ✓ (rational validator) | ✓ (source of rational order) | ✓ (rational selection) | **4/4 Perfect** |
-| **Freedom (Libertarian)** | ✓ (free Will) | — | ✓ (free choice) | ✓ (free selection among possibilities) | **3/4 Strong** |
-| **Personhood** | ✓ (Intellect + Will) | Implied (rational comprehension) | ✓ (Intellect + Will = Mind) | ✓ (Intellect + Will = Agent) | **4/4 Perfect** |
-| **Creator** | ✓ (grounds contingent reality) | ✓ (grounds formal systems) | ✓ (actualizes physical reality) | ✓ (actualizes this universe) | **4/4 Perfect** |
-| **Transcendence** | ✓ (beyond physical) | ✓ (beyond formal) | ✓ (beyond order-actuation duality) | ✓ (beyond universe) | **4/4 Perfect** |
-| **Perfect Goodness** | ✓ (necessary moral perfection) | — | — | Implied (selection reflects goodness) | **2/4 Implied** |
+| **Necessary Existence (Aseity)** | ✓ (terminates validation hierarchy) | ✓ (grounds contingent intentionality) | ✓ (grounds order-actuation) | ✓ (terminates regress) | **4/4 Perfect** |
+| **Eternality** | ✓ (outside formal systems) | ✓ (timeless ground) | ✓ (grounds timeless order) | ✓ (beyond temporal universe) | **4/4 Perfect** |
+| **Immateriality** | ✓ (non-formal = immaterial) | ✓ (non-physical ground) | ✓ (transcends physical actuation) | ✓ (beyond physical universe) | **4/4 Perfect** |
+| **Immutability** | — | ✓ (no potency, Pure Act) | ✓ (Pure Act, no change) | — | **2/4 Implied** |
+| **Simplicity** | ✓ (non-composite validator) | ✓ (no composition) | ✓ (unified essence) | — | **3/4 Strong** |
+| **Omniscience** | ✓ (comprehends all truths) | ✓ (infinite Intellect) | ✓ (knows all possibilities) | ✓ (knows possibility-space) | **4/4 Perfect** |
+| **Omnipotence** | — | ✓ (infinite Will) | ✓ (actualizes reality) | ✓ (can actualize any possible world) | **3/4 Strong** |
+| **Rationality (Logos)** | ✓ (rational validator) | ✓ (normative Intellect) | ✓ (source of rational order) | ✓ (rational selection) | **4/4 Perfect** |
+| **Freedom (Libertarian)** | — | ✓ (free Will) | ✓ (free choice) | ✓ (free selection among possibilities) | **3/4 Strong** |
+| **Personhood** | Implied (rational comprehension) | ✓ (Intellect + Will) | ✓ (Intellect + Will = Mind) | ✓ (Intellect + Will = Agent) | **4/4 Perfect** |
+| **Creator** | ✓ (grounds formal systems) | ✓ (grounds contingent reality) | ✓ (actualizes physical reality) | ✓ (actualizes this universe) | **4/4 Perfect** |
+| **Transcendence** | ✓ (beyond formal) | ✓ (beyond physical) | ✓ (beyond order-actuation duality) | ✓ (beyond universe) | **4/4 Perfect** |
+| **Perfect Goodness** | — | ✓ (necessary moral perfection) | — | Implied (selection reflects goodness) | **2/4 Implied** |
 
 **Analysis:**
 
@@ -4481,11 +4490,11 @@ flowchart TD
     GOD["CLASSICAL THEISM<br/>Necessary, Personal, Rational, Volitional Ground"]
     style GOD fill:#ccffcc,stroke:#009900,stroke-width:4px
 
-    %% Demonstration I
+    %% Demonstration II
     subgraph Demo1 [ ]
         direction TB
         %% Title Node acts as Header
-        T1["<b>Demonstration I</b><br/>Intentionality"]:::titleStyle
+        T1["<b>Demonstration II</b><br/>Intentionality"]:::titleStyle
 
         D1_Start["Starting Point:<br/>Purposive Inquiry Exists"]
         D1_Method("Method:<br/>Mereological Analysis")
@@ -4496,10 +4505,10 @@ flowchart TD
     end
     style Demo1 fill:#f9f9f9,stroke:#333,stroke-width:2px
 
-    %% Demonstration II
+    %% Demonstration I
     subgraph Demo2 [ ]
         direction TB
-        T2["<b>Demonstration II</b><br/>Logical Consistency"]:::titleStyle
+        T2["<b>Demonstration I</b><br/>Logical Consistency"]:::titleStyle
 
         D2_Start["Starting Point:<br/>Formal Systems Exist"]
         D2_Method("Method:<br/>Gödelian Incompleteness")
@@ -4569,8 +4578,8 @@ flowchart TD
 
 #### Individual Probabilities
 
-**Demonstration I:** P(succeeds) ≈ 0.875 (average of 85-90%)
-**Demonstration II:** P(succeeds) ≈ 0.90
+**Demonstration I:** P(succeeds) ≈ 0.90
+**Demonstration II:** P(succeeds) ≈ 0.875 (average of 85-90%)
 **Demonstration III:** P(succeeds) ≈ 0.85
 **Demonstration IV:** P(succeeds) ≈ 0.85
 
@@ -4581,24 +4590,24 @@ flowchart TD
 **Yes, because:**
 
 **1. Different Starting Points:**
-- Demo I: Phenomenological (conscious experience of intentionality)
-- Demo II: Formal-empirical (existence of formal systems)
+- Demo I: Formal-empirical (existence of formal systems)
+- Demo II: Phenomenological (conscious experience of intentionality)
 - Demo III: Metaphysical (observation of order-actuation duality)
 - Demo IV: Modal (actualization of specific contingent universe)
 
 **No shared empirical premises.** Each could be true even if others' starting points were denied.
 
 **2. Different Methods:**
-- Demo I: Mereological analysis
-- Demo II: Gödelian incompleteness reasoning
+- Demo I: Gödelian incompleteness reasoning
+- Demo II: Mereological analysis
 - Demo III: Metaphysical analysis of duality
 - Demo IV: Modal possibility-actuality analysis
 
 **No shared logical structure.** Different inference patterns.
 
 **3. Different Objections:**
-- Demo I faces functionalism, evolution, supervenience
-- Demo II faces formalist objections, mathematical Platonism
+- Demo I faces formalist objections, mathematical Platonism
+- Demo II faces functionalism, evolution, supervenience
 - Demo III faces Platonism, brute fact, multiverse
 - Demo IV faces necessity, randomness, modal realism
 
@@ -4614,8 +4623,8 @@ flowchart TD
 
 **P(all fail) = P(Demo I fails) × P(Demo II fails) × P(Demo III fails) × P(Demo IV fails)**
 
-**P(Demo I fails) = 1 - 0.875 = 0.125**
-**P(Demo II fails) = 1 - 0.90 = 0.10**
+**P(Demo I fails) = 1 - 0.90 = 0.10**
+**P(Demo II fails) = 1 - 0.875 = 0.125**
 **P(Demo III fails) = 1 - 0.85 = 0.15**
 **P(Demo IV fails) = 1 - 0.85 = 0.15**
 
@@ -4646,11 +4655,11 @@ The following diagram shows how credence in theism increases as we sequentially 
 graph LR
     Prior["<b>Prior</b><br/>Agnostic: 50%<br/>Starting Point"]
 
-    Demo1["<b>After Demo I</b><br/>Intentionality<br/>Evidence LR: ~2.8<br/>Posterior: ~68%"]
+    Demo1["<b>After Demo II</b><br/>Intentionality<br/>Evidence LR: ~2.8<br/>Posterior: ~68%"]
 
-    Demo2["<b>After Demo II</b><br/>3FLL & Logic<br/>Evidence LR: ~4.5<br/>Posterior: ~85%"]
+    Demo2["<b>After Demo I</b><br/>3FLL & Logic<br/>Evidence LR: ~4.5<br/>Posterior: ~85%"]
 
-    Demo3["<b>After Demo III</b><br/>Order-Actuation<br/>Evidence LR: ~3.2<br/>Posterior: ~93%"]
+    Demo3["<b>After Demo II</b><br/>Order-Actuation<br/>Evidence LR: ~3.2<br/>Posterior: ~93%"]
 
     Demo4["<b>After Demo IV</b><br/>Selection<br/>Evidence LR: ~2.6<br/>Posterior: ~96%"]
 
@@ -4786,13 +4795,13 @@ Each demonstration independently points to classical theism. The convergence its
 
 **1. Varying Dependence on PSR:**
 
-**Demo I:** Relies on PSR for grounding contingent intentionality
-**Demo II:** Relies on rational intelligibility (weaker than full PSR)
+**Demo I:** Relies on rational intelligibility (weaker than full PSR)
+**Demo II:** Relies on PSR for grounding contingent intentionality
 **Demo III:** Explicitly uses PSR for order-actuation unity
 **Demo IV:** Relies on PSR for selection explanation
 
 **But:**
-- Demo II could succeed even if PSR fails (Gödelian incompleteness holds regardless)
+- Demo I could succeed even if PSR fails (Gödelian incompleteness holds regardless)
 - Demos I, III, IV use PSR differently (grounding vs. explanation vs. selection)
 
 **Not identical dependence.**
@@ -4810,14 +4819,14 @@ Addressed extensively in Demos III and IV. Denying PSR undermines:
 
 **3. Even If PSR Rejected:**
 
-**Demo II still stands:**
+**Demo I still stands:**
 - Gödelian incompleteness is mathematical fact (not PSR-dependent)
 - Validation hierarchy argument proceeds independently
 - Non-formal validator follows from formal incompleteness
 
 **At least one demonstration survives PSR rejection.**
 
-**Conclusion:** Limited shared dependence on PSR doesn't undermine independence. Different applications + rational necessity of PSR + Demo II's independence preserve consilience.
+**Conclusion:** Limited shared dependence on PSR doesn't undermine independence. Different applications + rational necessity of PSR + Demo I's independence preserve consilience.
 
 ---
 
@@ -5038,12 +5047,12 @@ When multiple independent parameters each require fine-tuning, probabilities **m
 
 **Fine-tuning independently corroborates:**
 
-**From Demo I (Intentionality):**
+**From Demo II (Intentionality):**
 - Intentionality exists in universe → requires grounding
 - Fine-tuning: Universe **calibrated** to permit intentional beings
 - **Corroboration:** God grounds intentionality **and** fine-tuned universe for it
 
-**From Demo III (Order-Actuation):**
+**From Demo II (Order-Actuation):**
 - Physical processes follow mathematical laws (unity)
 - Fine-tuning: Laws have **specific values** enabling complexity
 - **Corroboration:** God's Will actualizes reality with **purposes** (life-permitting)
@@ -5117,12 +5126,12 @@ What is merely potential requires something already actual to actualize it.
 
 **Act/Potency argument is **compatible with and reinforces** the four primary demonstrations:**
 
-**Demo I (Intentionality):**
+**Demo II (Intentionality):**
 - Human intentionality is contingent (has potency—could not exist)
 - Requires actualization by necessary ground
 - **Act/Potency:** Pure Act grounds contingent actualization
 
-**Demo III (Order-Actuation Duality):**
+**Demo II (Order-Actuation Duality):**
 - Dynamic actuation = actualization of potencies
 - Static order governs what can be actualized
 - **Act/Potency:** Pure Act grounds both order and actuation
@@ -5375,18 +5384,18 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 **Problems (from our demonstrations):**
 
-**From Demo I:**
+**From Demo II:**
 - **Cannot ground intentionality** (mereological irreducibility)
 - Aboutness, normativity, semantic content irreducible to physical
 - **Collapse:** Either denies intentionality (performative self-refutation) or presupposes what it can't explain
 
-**From Demo II:**
+**From Demo I:**
 - **Cannot validate formal systems** (Gödelian incompleteness)
 - Formal systems require non-formal validation
 - Naturalism has only formal/physical processes
 - **Collapse:** Cannot ground logic it uses to argue for itself
 
-**From Demo III:**
+**From Demo II:**
 - **Cannot unify order and actuation**
 - Mathematical laws are necessary, timeless, non-physical
 - Physical processes are contingent, temporal
@@ -5453,7 +5462,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 - **God is immutable** (Pure Act, no potency)
 - **Changing ≠ Unchanging** (contradiction)
 
-**From Demo I:**
+**From Demo II:**
 - **Universe contains evil, suffering, irrationality**
 - **God is perfectly good, rational**
 - **Imperfect ≠ Perfect** (contradiction)
@@ -5468,7 +5477,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 **Panpsychism Defined:** All fundamental particles possess primitive proto-mental properties. Consciousness emerges by combining proto-experiences.
 
-**Problems (from Demo I):**
+**Problems (from Demo II):**
 
 **1. Combination Problem:**
 - How do billions of simple proto-minds unify into **one** experiencing subject?
@@ -5510,7 +5519,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 - **Intersubjectivity problem:** How do multiple minds share same physical world?
 - **Causal order problem:** Why do ideas follow physical laws consistently?
 
-**From Demo II:**
+**From Demo I:**
 - **Requires rational ground** for logical/mathematical structures
 - Non-theistic idealism: mental but not necessarily rational/unified
 - **Inadequate:** Needs necessary, rational Mind (= God)
@@ -5530,7 +5539,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 - Nihilism denies purpose
 - **Performative self-refutation:** Arguing for nihilism **is** purposive inquiry
 
-**From Demo I:**
+**From Demo II:**
 - **Intentionality exists** (undeniable)
 - Intentionality involves normativity, directedness, meaning
 - Nihilism denies these
@@ -5567,12 +5576,12 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 **Response to Principled:**
 
-**From Demo II:**
+**From Demo I:**
 - **Rational intelligibility of reality** (formal systems are validated)
 - If reality is rationally structured, it's knowable
 - **Contradiction:** Claiming "ultimate reality unknowable" presupposes knowledge about its nature
 
-**From Demos I, III, IV:**
+**From Demos II, III, IV:**
 - **Inference to best explanation** from phenomena (intentionality, order, selection)
 - Not direct perception but rational inference (like scientific theories)
 - **Knowability:** Same epistemic status as unobservable scientific entities (electrons, dark matter)
