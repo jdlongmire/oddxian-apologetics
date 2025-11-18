@@ -174,6 +174,142 @@ This is **epistemic warrant for rational belief**—not absolute certainty (whic
 
 ---
 
+## Executive Summary
+
+### The Consilience Case in Brief
+
+This document presents **four independent deductive demonstrations** for the existence of God, each using different methods and starting points, yet all converging on the **same conclusion**: a necessary, eternal, omniscient, omnipotent, personal Being—the God of classical theism.
+
+**The consilience structure** means that even if three demonstrations failed entirely, **one succeeding demonstration is sufficient** to establish classical theism. The probability that all four fail simultaneously is vanishingly small (~0.03%), yielding **99.97% cumulative confidence** that at least one succeeds.
+
+---
+
+### The Four Demonstrations
+
+**Demonstration I: From Logic to Subsistent Rationality** (~90% confidence)
+
+**Starting Point:** Physical reality has actualized exceptionless logical consistency for 13.8 billion years (empirical fact).
+
+**Method:** Gödel's incompleteness theorems + eliminative reasoning.
+
+**Core Argument:** Gödel proved that no formal system can prove its own consistency. Every formal, computational, or physical explanation for observed logical consistency is Gödel-vulnerable—it cannot self-validate. The universe implements formal mathematical structure, yet by Gödel's Second Theorem, cannot prove to itself that it must remain consistent. This demands an **external, non-formal, self-grounding validator**. After eliminating formal systems, computational processes, physical reality, abstract objects (causally inert), and brute fact (explanatory failure), only one candidate remains: **Being Itself** (*Ipsum Esse Subsistens*)—a necessary, non-contingent, non-formal reality whose essence is to exist and whose rational nature grounds all logical order.
+
+**Attributes Derived:** Necessary, Eternal, Immutable, Omniscient, Rational (Logos), Omnipotent, Simple, Creator.
+
+**Why It Works:** Performatively undeniable starting point (3FLL) + rigorous elimination + positive inference to only adequate ground.
+
+---
+
+**Demonstration II: From Intentionality to Personal Ground** (~85-90% confidence)
+
+**Starting Point:** Purposive inquiry exists (performatively undeniable—you're engaging in it right now).
+
+**Method:** Mereological irreducibility + eliminative reasoning.
+
+**Core Argument:** Intentionality (the "aboutness" of mental states—beliefs about propositions, thoughts directed toward content) is **categorically irreducible** to physical properties. Physical states possess mass, charge, spatial location; intentional states possess semantic content, normativity, and aboutness. No naturalistic account successfully bridges this gap: causal/informational theories presuppose intentionality (circular), functional theories smuggle in teleology (question-begging), teleosemantic theories confuse fitness with truth-tracking (selection for survival, not accuracy). Human intentionality exists but is contingent (we might not have existed). By PSR, contingent facts require sufficient reason. Since intentionality cannot be constructed from non-intentional components, it must be **grounded in something intrinsically intentional**—a necessary, non-physical, Personal Ground possessing Intellect (normativity) and Will (teleology).
+
+**Attributes Derived:** Necessary, Eternal, Immaterial, Omniscient (Infinite Intellect), Omnipotent (Infinite Will), Personal, Good.
+
+**Why It Works:** Phenomenological starting point (undeniable conscious experience) + strong philosophical consensus on irreducibility (Brentano, Searle, Chalmers, Aquinas, Plantinga) + eliminative reasoning.
+
+---
+
+**Demonstration III: From Duality to Mind** (~85% confidence)
+
+**Starting Point:** Reality exhibits both **static rational order** (timeless mathematical truths, logical laws) and **dynamic actuation** (temporal physical processes, causal events), unified such that actuation conforms to order.
+
+**Method:** Metaphysical duality analysis + eliminative reasoning.
+
+**Core Argument:** Order (mathematical structure, abstract patterns) is timeless, necessary, and immaterial—it doesn't **do** anything. Actuation (physical processes, energy, temporal change) is concrete, contingent, and causal—it **makes things happen**. Neither can be reduced to the other: you cannot derive dynamic from static (blueprints don't build), nor static from dynamic (chaos without structure). Yet they are unified in physical reality (events follow mathematical laws). What grounds this irreducible duality? Not brute fact (explanatory failure), not physical laws alone (laws are static, abstract), not Platonism (abstract objects are causally inert—numbers don't create), not multiverse (generator faces same duality problem). **Only Personal Mind** unifies both poles intrinsically: **Intellect** conceives order (grasps mathematical truths), **Will** actualizes possibilities (brings potentials into concrete being). God is the blueprint-maker and the builder.
+
+**Attributes Derived:** Necessary, Eternal, Omniscient (Infinite Intellect conceiving all order), Omnipotent (Infinite Will actualizing reality), Free, Creator, Simple, Immaterial.
+
+**Why It Works:** Undeniable empirical-metaphysical starting point + eliminative reasoning showing only Personal Mind bridges order-actuation gap.
+
+---
+
+**Demonstration IV: From Ontological Selection to Volitional Agency** (~85% confidence)
+
+**Starting Point:** This specific contingent universe is actual among infinite logically possible alternatives (modal fact).
+
+**Method:** Modal reasoning + eliminative reasoning.
+
+**Core Argument:** Infinite possible universes exist logically (different laws of physics, dimensionality, constants, initial conditions). Yet **one specific configuration** is actual: this finely-tuned, life-permitting cosmos. What explains **ontological selection**—why this universe rather than alternatives? Not physical necessity (our universe is contingent—counterfactuals are coherent), not random chance (randomness predicts chaos, not 1-in-10^120 fine-tuning; Boltzmann Brain problem), not modal realism (observation defeater—we should observe typical Boltzmann chaos, not ordered cosmos), not brute fact (violates PSR, implausible given precision calibration). **Selection among alternatives inherently requires a selector.** Only **volitional agency** (Will) can perform discriminatory selection: recognize possibilities (omniscience), choose based on reasons (rational purposes), and actualize the chosen (omnipotence). The Cosmic Architect selected this blueprint from infinity.
+
+**Attributes Derived:** Necessary, Eternal, Omniscient (knows all possibilities), Omnipotent (actualizes chosen configuration), Free (libertarian), Rational, Personal, Good (selection oriented toward life/value).
+
+**Why It Works:** Undeniable modal facts + fine-tuning empirical corroboration + eliminative reasoning showing only Will bridges possibility-actuality gap.
+
+---
+
+### Convergence: Four Routes, One Reality
+
+**The Consilience Pattern:**
+
+| **Attribute** | **Demo I** | **Demo II** | **Demo III** | **Demo IV** | **Agreement** |
+|---------------|------------|-------------|--------------|-------------|---------------|
+| **Necessary Existence** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Eternality** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Immateriality** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Omniscience** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Omnipotence** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Rationality (Intellect)** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Will (Agency)** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Personhood** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Creator** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Transcendence** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Simplicity** | ✓ | ✓ | ✓ | Compatible | 4/4 |
+| **Freedom** | ✓ | ✓ | ✓ | ✓ | 4/4 |
+| **Goodness** | Compatible | ✓ | Compatible | ✓ | 4/4 |
+
+**Notice:** Zero contradictions. Every attribute one demonstration derives is either explicitly affirmed or left compatible by the others. Four independent philosophical methods—formal/empirical, phenomenological, metaphysical, modal—all point to **the same Being** with **the same attributes**.
+
+**This is the signature of truth.** If these were human projections, we'd expect contradictions, incompatibilities, arbitrary variation. Instead: perfect alignment.
+
+---
+
+### Cumulative Confidence Calculation
+
+**Individual Demonstration Confidence:**
+- Demo I: ~90% (performatively certain starting point)
+- Demo II: ~85-90% (strong mereological case)
+- Demo III: ~85% (undeniable duality observation)
+- Demo IV: ~85% (modal facts + fine-tuning corroboration)
+
+**Probability ALL FOUR Fail:**
+P(I fails) × P(II fails) × P(III fails) × P(IV fails)
+= 0.10 × 0.125 × 0.15 × 0.15
+= **0.00028 (0.028%)**
+
+**Probability AT LEAST ONE Succeeds:**
+1 - P(all fail) = 1 - 0.00028 = **99.97%**
+
+**Practical Certainty:** The consilience structure provides near-certainty for classical theism. To defeat this argument, one must show that all four independent demonstrations fail simultaneously—a vanishingly improbable scenario.
+
+---
+
+### The Inescapability of Theism
+
+Even if you reject all four demonstrations, you face a dilemma:
+
+**Either:**
+1. **Accept classical theism** (at least one demonstration succeeds), **OR**
+2. **Accept one of the following positions** (each demonstrated to be rationally untenable):
+   - Brute fact metaphysics (explanatory failure, violates PSR)
+   - Infinite regress (explanatory null, no ultimate "because")
+   - Self-validating formal systems (contradicts Gödel's theorems)
+   - Non-intentional ground of intentionality (category error, something from nothing)
+   - Abstract objects as ultimate reality (causally inert, cannot actualize)
+   - Necessity of our contingent universe (denies modal facts)
+   - Random chance (defeated by fine-tuning, Boltzmann Brain problem)
+   - Multiverse without God (pushes question back, generator needs grounding)
+
+**The cumulative weight:** Classical theism is not merely "one option among many." It is the **only position left standing** after rigorous eliminative analysis. Every alternative collapses under scrutiny. This is not an argument from ignorance but an argument from **exhaustive elimination combined with positive demonstration**.
+
+**Conclusion:** Four independent deductive proofs, converging on identical attributes, eliminating all alternatives, yielding 99.97% confidence—this is as close to philosophical certainty as natural theology can provide. The God of classical theism exists.
+
+---
+
 ## The Hierarchy of Fundamentality: Why Logic Points to God
 
 ### Overview
@@ -6976,7 +7112,67 @@ Shifts decisively. Given consilient case:
 
 ---
 
-### F. The Invitation
+### F. Limitations and Next Steps
+
+**What This Argument Establishes—And What It Does Not:**
+
+This argument establishes **classical theism**, not Trinitarian Christianity, rabbinic Judaism, or Sunni Islam. Natural theology takes us to a necessary, eternal, omniscient, omnipotent, personal Creator—the God worshipped by the Abrahamic traditions. But it does **not** establish:
+
+- **The Trinity** (one God in three persons—Father, Son, Holy Spirit)
+- **The Incarnation** (God becoming human in Jesus Christ)
+- **The Resurrection** (Jesus rising from the dead on the third day)
+- **Muhammad as final prophet** (Islamic revelation)
+- **Torah as binding covenant** (Jewish particularity)
+
+These doctrines require **historical argument**, not pure philosophical reasoning. They depend on:
+- **Historical evidence**: Did Jesus rise from the dead? Is the textual transmission of Scripture reliable?
+- **Theological reasoning**: How do we interpret Scripture? What explains the early Christian confession of Christ's deity?
+- **Spiritual experience**: Has God revealed Himself in particular ways to particular communities?
+
+**The Move from Philosophical Theism to Revealed Religion:**
+
+If you are convinced by this consilient case for God's existence, **you are rationally obligated** to take revelation claims seriously. Here's why:
+
+**1. Plausibility of Revelation:**
+If a personal, omniscient, omnipotent God exists who created the universe with evident purpose (fine-tuning for life, intelligibility for minds), it is **highly plausible** that this God would communicate with His rational creatures. Silence would be surprising; revelation expected.
+
+**2. Examination of Claims:**
+Christianity, Judaism, and Islam all claim revelation from the God demonstrated here. Rational inquiry demands investigating their claims:
+- **Christianity**: Resurrection of Jesus (historical case), reliability of New Testament, patristic testimony, explanatory power of Trinitarian theology
+- **Judaism**: Torah, covenant theology, preservation of monotheism, Messianic prophecies
+- **Islam**: Qur'anic preservation, Muhammad's prophethood, Islamic philosophical theology
+
+**3. Historical Case for Christianity:**
+The author holds that the **historical case for Christianity**—particularly the resurrection of Jesus—is compelling. This requires separate argument (see N.T. Wright, William Lane Craig, Richard Bauckham, Gary Habermas on historical Jesus and resurrection evidence). Natural theology establishes **that God exists**; historical theology establishes **what God has done**.
+
+**4. Intellectual Honesty:**
+If you grant this argument's conclusion (God exists), intellectual honesty requires:
+- **Investigate revelation claims** (don't stop at philosophical theism)
+- **Examine historical evidence** for religious traditions
+- **Consider existential implications** (worship, prayer, moral alignment, community)
+- **Follow evidence where it leads**, even if uncomfortable
+
+**Next Steps for the Convinced Reader:**
+
+1. **Study the resurrection of Jesus** (start with Wright's *The Resurrection of the Son of God*, Craig's debates, Habermas's minimal facts argument)
+2. **Read Scripture** (begin with Gospel of John, Romans, Hebrews for theological depth)
+3. **Engage Christian community** (theology is lived, not just studied)
+4. **Pray** (if God exists and is personal, communication is possible)
+5. **Explore systematic theology** (Aquinas, Calvin, Barth, Feser, or contemporary Reformed/Catholic theology)
+
+**For the Skeptic Who Remains Unconvinced:**
+
+If this argument does not persuade you, ask yourself honestly:
+- Have I identified a **fatal logical flaw** in all four demonstrations?
+- Or am I simply **uncomfortable with the conclusion**?
+- Am I applying **double standards** (accepting weaker arguments in science/philosophy but demanding certainty here)?
+- Would **any** argument convince me, or have I predetermined the answer?
+
+Intellectual honesty cuts both ways. If you cannot refute the argument, the rational response is **provisional assent**, not perpetual agnosticism.
+
+---
+
+### G. The Invitation
 
 **This argument is not neutral academic exercise.** If successful, it demands response.
 
@@ -7227,3 +7423,220 @@ Van Inwagen, P. (1990) *Material Beings*. Ithaca, NY: Cornell University Press.
 **Total Sources:** 66 academic references
 
 **Note:** This bibliography includes primary classical sources, contemporary scholarship engaging both sides of debates, and technical literature on logic, mathematics, physics, and cosmology relevant to the demonstrations presented.
+
+---
+
+## Appendix: Formal Confidence Calculation Explained
+
+### Overview
+
+This appendix provides mathematical transparency for the **99.97% cumulative confidence** claim presented throughout this document. Critics sometimes ask: "Where did that number come from?" This appendix answers that question rigorously.
+
+---
+
+### Individual Demonstration Confidence Levels
+
+Each demonstration was assigned a confidence level based on:
+1. **Strength of starting premises** (performatively undeniable vs. empirically evident vs. philosophically defensible)
+2. **Rigor of inference** (deductive vs. abductive, number of inferential steps)
+3. **Vulnerability to objections** (how contested are key premises like PSR, mereological irreducibility, modal axioms)
+
+**Assigned Confidence Levels:**
+
+- **Demonstration I** (Logic/Gödel): **~90%**
+  - Performatively undeniable starting point (3FLL)
+  - Empirical fact (13.8 billion years of logical consistency)
+  - Rigorous eliminative reasoning
+  - Minor vulnerability: Some philosophers accept brute facts at foundational level
+
+- **Demonstration II** (Intentionality): **~85-90%** (we use 87.5% for calculation)
+  - Performatively undeniable starting point (purposive inquiry exists)
+  - Strong philosophical consensus on irreducibility (Brentano, Searle, Chalmers, Aquinas, Plantinga)
+  - Minor vulnerability: Reductive physicalists persist (though we argue unsuccessfully); PSR contestable
+
+- **Demonstration III** (Duality): **~85%**
+  - Empirical-metaphysical starting point (order and actuation observable)
+  - Eliminative reasoning excludes alternatives
+  - Minor vulnerability: PSR contestable; divine conceptualism requires subtle metaphysics
+
+- **Demonstration IV** (Modal Selection): **~85%**
+  - Undeniable modal facts (possibility vs. actuality, contingency)
+  - Fine-tuning provides empirical corroboration
+  - Minor vulnerability: PSR contestable; modal axiom S5 debated; libertarian freedom vs. compatibilism
+
+**Conservative Approach:** We assign probabilities on the **lower end** of plausible ranges to avoid overconfidence. For instance, Demonstration I could justifiably claim ~95-100% (given performative undeniability of 3FLL), but we conservatively use 90%.
+
+---
+
+### The Independence Assumption
+
+**Key Question:** Are the four demonstrations **probabilistically independent**?
+
+**Answer:** Yes, with minor qualifications.
+
+**Why Independence Holds:**
+
+1. **Different Starting Points:**
+   - Demo I: Empirical fact (logical consistency) + Gödel's theorems
+   - Demo II: Phenomenology (intentionality) + mereological irreducibility
+   - Demo III: Metaphysics (order-actuation duality)
+   - Demo IV: Modal facts (possibility-space + selection)
+
+2. **Different Methods:**
+   - Demo I: Formal/empirical (logic, mathematics)
+   - Demo II: Phenomenological + eliminative
+   - Demo III: Metaphysical + eliminative
+   - Demo IV: Modal reasoning + eliminative
+
+3. **Different Routes to Conclusion:**
+   - Demo I derives God from **validation of consistency**
+   - Demo II derives God from **ground of intentionality**
+   - Demo III derives God from **unification of order and actuation**
+   - Demo IV derives God from **ontological selection**
+
+**These are logically independent inquiries.** The failure of one does not entail the failure of another. For example:
+- If you reject PSR (affecting Demos II-IV), Demonstration I still succeeds (it doesn't rely on PSR in the same way—it relies on Gödel + empirical observation)
+- If you reject mereological irreducibility of intentionality (Demo II), Demonstrations I, III, and IV remain unaffected
+- If you reject modal reasoning (Demo IV), Demonstrations I-III stand independently
+
+**Minor Non-Independence (Acknowledged):**
+
+All four demonstrations **do** share some common background assumptions:
+- **Rationality of inquiry** (performatively undeniable—denying it refutes the denial)
+- **Law of Non-Contradiction** (denying it makes all discourse meaningless)
+- **Explicability of contingent facts** (PSR in weak form—though Demo I is less vulnerable here)
+
+**However:** These are not "premises" that could plausibly all fail simultaneously. They are **conditions of intelligible discourse**. If you reject rationality or LNC, you've exited the space of rational inquiry entirely—no argument of any kind (theistic or atheistic) would survive.
+
+**Practical Independence:** For all practical purposes, the demonstrations are independent. A philosopher who finds Demo II's mereological argument unconvincing might still find Demo I's Gödelian argument compelling, or Demo IV's modal argument persuasive. The routes are sufficiently different that **wholesale failure is implausible**.
+
+---
+
+### The Cumulative Calculation
+
+**Formula for Independent Events:**
+
+When events A, B, C, D are independent, the probability that **at least one** succeeds is:
+
+**P(at least one succeeds) = 1 - P(all fail)**
+
+**P(all fail) = P(A fails) × P(B fails) × P(C fails) × P(D fails)**
+
+**Applied to Our Four Demonstrations:**
+
+**Failure Probabilities:**
+- P(Demo I fails) = 1 - 0.90 = **0.10**
+- P(Demo II fails) = 1 - 0.875 = **0.125**
+- P(Demo III fails) = 1 - 0.85 = **0.15**
+- P(Demo IV fails) = 1 - 0.85 = **0.15**
+
+**P(all four fail) = 0.10 × 0.125 × 0.15 × 0.15**
+
+**Calculation:**
+- 0.10 × 0.125 = 0.0125
+- 0.0125 × 0.15 = 0.001875
+- 0.001875 × 0.15 = **0.00028125**
+
+**P(at least one succeeds) = 1 - 0.00028125 = 0.99971875**
+
+**Rounded: 99.97%**
+
+---
+
+### Sensitivity Analysis
+
+**What if we're too generous with individual confidence levels?**
+
+Let's test more conservative scenarios:
+
+**Scenario 1: All demonstrations at 80% confidence**
+- P(all fail) = 0.20 × 0.20 × 0.20 × 0.20 = 0.0016 (0.16%)
+- P(at least one succeeds) = **99.84%**
+
+**Scenario 2: All demonstrations at 75% confidence**
+- P(all fail) = 0.25 × 0.25 × 0.25 × 0.25 = 0.0039 (0.39%)
+- P(at least one succeeds) = **99.61%**
+
+**Scenario 3: All demonstrations at 70% confidence**
+- P(all fail) = 0.30 × 0.30 × 0.30 × 0.30 = 0.0081 (0.81%)
+- P(at least one succeeds) = **99.19%**
+
+**Scenario 4: Extremely conservative (all at 65%)**
+- P(all fail) = 0.35 × 0.35 × 0.35 × 0.35 = 0.015 (1.5%)
+- P(at least one succeeds) = **98.5%**
+
+**Result:** Even under **extremely conservative** assumptions (all demonstrations at 65% confidence, which we consider unjustifiably low given the rigor presented), cumulative confidence remains **above 98%**.
+
+**The consilience structure is robust.**
+
+---
+
+### Comparison to Scientific Theories
+
+**How does 99.97% confidence compare to accepted scientific theories?**
+
+**Particle Physics:**
+The Higgs boson discovery (2012) was announced at **5-sigma confidence** (99.99994% certainty that the signal wasn't random noise). Our consilience case provides comparable epistemic warrant.
+
+**Evolutionary Biology:**
+The theory of evolution is supported by converging evidence from paleontology, genetics, comparative anatomy, biogeography, and molecular biology. No single line of evidence alone is "proof," but the **convergence** makes evolution one of the most well-established theories in science.
+
+**Our Consilience Argument:**
+Similarly, no single demonstration alone is absolute proof, but **four independent routes converging on the same conclusion** provides consilient warrant comparable to mature scientific theories.
+
+**Statistical Significance:**
+In social sciences, p < 0.05 (95% confidence) is the gold standard for publishability. In physics, 5-sigma (99.99994%) is required for discovery claims. Our 99.97% lies between these thresholds—far exceeding social science standards, approaching physical science rigor.
+
+---
+
+### Addressing the "Conjunction Objection"
+
+**Objection:** "You're calculating the probability that **at least one** argument succeeds, but the conjunction of all your premises across all four demonstrations is far less probable than 99.97%."
+
+**Response:**
+
+**1. Misunderstanding of Consilience:**
+The consilience structure **does not** require all premises in all four demonstrations to be true. It only requires that **at least one demonstration** has all its premises true and its reasoning valid. The cumulative calculation **correctly** captures this.
+
+**2. Not a Conjunction of All Premises:**
+We are **not** claiming:
+- P(all premises in Demo I) AND P(all premises in Demo II) AND P(all premises in Demo III) AND P(all premises in Demo IV)
+
+We are claiming:
+- P(Demo I succeeds) OR P(Demo II succeeds) OR P(Demo III succeeds) OR P(Demo IV succeeds)
+
+These are different probability structures. The latter (our approach) is **far more robust** because it allows for failure of some premises in some demonstrations without undermining the overall conclusion.
+
+**3. Bayesian Framework:**
+If pressed to model this Bayesianly, the consilience structure works as follows:
+
+**Prior:** P(God exists) = Some credence (let's say 50% for neutrality)
+
+**Likelihoods:**
+- P(logical consistency | God) >> P(logical consistency | ¬God)
+- P(irreducible intentionality | God) >> P(irreducible intentionality | ¬God)
+- P(order-actuation duality | God) >> P(order-actuation duality | ¬God)
+- P(ontological selection | God) >> P(ontological selection | ¬God)
+
+**Posterior after all four pieces of evidence:**
+P(God | all four evidences) approaches near-certainty via successive Bayesian updates.
+
+Our probability calculation simplifies this by assigning **direct confidence levels** to demonstrations rather than modeling full Bayesian updating, but the underlying logic is sound.
+
+---
+
+### Conclusion
+
+The **99.97% cumulative confidence** is not pulled from thin air. It results from:
+1. **Conservative confidence assignments** to four independent demonstrations (90%, 87.5%, 85%, 85%)
+2. **Probabilistic independence** (different starting points, methods, and routes)
+3. **Standard probability theory** for independent events (1 - P(all fail))
+4. **Robust sensitivity** (remains >98% even under extremely conservative assumptions)
+
+This is **epistemically warranted confidence**, not absolute certainty. But it exceeds the warrant we have for many everyday beliefs (external world, other minds, past events) and rivals the confidence of well-established scientific theories.
+
+**If you reject this argument, you must show where the probability calculation fails—or accept that theism is more probable than its denial by a factor of 3,557 to 1 (99.97% vs. 0.03%).**
+
+---
+
+**End of Appendix**
