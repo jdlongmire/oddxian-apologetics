@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 750" width="1100" height="750">
   <defs>
     <style>
       .text { font-family: Arial, sans-serif; text-anchor: middle; font-size: 12px; }
@@ -10,88 +10,88 @@
     </marker>
   </defs>
 
+  <!-- Title -->
+  <text x="550" y="25" style="font-family: Arial, sans-serif; font-size: 17px; font-weight: bold; text-anchor: middle; fill: #333; text-decoration: underline;">Consilience Structure: Four Independent Routes, One Unified Conclusion</text>
+
   <!-- CENTRAL CONCLUSION -->
-  <rect x="375" y="300" width="250" height="80" rx="8" fill="#ccffcc" stroke="#009900" stroke-width="4"/>
-  <text x="500" y="330" class="text" font-size="18px" font-weight="bold" fill="#006600">CLASSICAL THEISM</text>
-  <text x="500" y="352" class="text" font-size="13px" fill="#006600">Necessary, Personal, Rational,</text>
-  <text x="500" y="367" class="text" font-size="13px" fill="#006600">Volitional Ground</text>
+  <rect x="425" y="330" width="250" height="80" rx="8" fill="#ccffcc" stroke="#009900" stroke-width="4"/>
+  <text x="550" y="360" class="text" font-size="18px" font-weight="bold" fill="#006600">CLASSICAL THEISM</text>
+  <text x="550" y="382" class="text" font-size="13px" fill="#006600">Necessary, Personal, Rational,</text>
+  <text x="550" y="397" class="text" font-size="13px" fill="#006600">Volitional Ground</text>
 
   <!-- DEMONSTRATION II (Top Left) -->
-  <rect x="50" y="20" width="220" height="220" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
-  <text x="160" y="45" class="text title" fill="#003399">Demonstration II</text>
-  <text x="160" y="62" class="text title" fill="#003399">Intentionality</text>
+  <rect x="50" y="60" width="240" height="200" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
+  <text x="170" y="85" class="text title" fill="#003399">Demonstration II</text>
+  <text x="170" y="102" class="text title" fill="#003399">Intentionality</text>
 
-  <rect x="70" y="80" width="180" height="40" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
-  <text x="160" y="97" class="text" fill="#003399">Starting Point:</text>
-  <text x="160" y="112" class="text" fill="#003399">Purposive Inquiry Exists</text>
+  <rect x="70" y="115" width="200" height="38" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
+  <text x="170" y="132" class="text" fill="#003399">Starting Point:</text>
+  <text x="170" y="147" class="text" fill="#003399">Purposive Inquiry Exists</text>
 
-  <rect x="70" y="135" width="180" height="35" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
-  <text x="160" y="150" class="text" fill="#cc7700">Method:</text>
-  <text x="160" y="163" class="text" fill="#cc7700">Mereological Analysis</text>
+  <rect x="70" y="165" width="200" height="32" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
+  <text x="170" y="179" class="text" fill="#cc7700">Method:</text>
+  <text x="170" y="192" class="text" fill="#cc7700">Mereological Analysis</text>
 
-  <rect x="70" y="185" width="180" height="40" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
-  <text x="160" y="202" class="text" fill="#006600">Result: Personal Ground</text>
-  <text x="160" y="217" class="text" fill="#006600">w/ Intellect &amp; Will</text>
+  <rect x="70" y="207" width="200" height="38" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
+  <text x="170" y="224" class="text" fill="#006600">Result: Personal Ground</text>
+  <text x="170" y="239" class="text" fill="#006600">w/ Intellect &amp; Will</text>
 
-  <path d="M 270 180 Q 320 240 375 320" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 290 210 Q 350 270 425 350" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
 
   <!-- DEMONSTRATION I (Top Right) -->
-  <rect x="730" y="20" width="220" height="220" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
-  <text x="840" y="45" class="text title" fill="#003399">Demonstration I</text>
-  <text x="840" y="62" class="text title" fill="#003399">Logical Consistency</text>
+  <rect x="810" y="60" width="240" height="200" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
+  <text x="930" y="85" class="text title" fill="#003399">Demonstration I</text>
+  <text x="930" y="102" class="text title" fill="#003399">Logical Consistency</text>
 
-  <rect x="750" y="80" width="180" height="40" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
-  <text x="840" y="97" class="text" fill="#003399">Starting Point:</text>
-  <text x="840" y="112" class="text" fill="#003399">Formal Systems Exist</text>
+  <rect x="830" y="115" width="200" height="38" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
+  <text x="930" y="132" class="text" fill="#003399">Starting Point:</text>
+  <text x="930" y="147" class="text" fill="#003399">Formal Systems Exist</text>
 
-  <rect x="750" y="135" width="180" height="35" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
-  <text x="840" y="150" class="text" fill="#cc7700">Method:</text>
-  <text x="840" y="163" class="text" fill="#cc7700">Goedelian Incompleteness</text>
+  <rect x="830" y="165" width="200" height="32" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
+  <text x="930" y="179" class="text" fill="#cc7700">Method:</text>
+  <text x="930" y="192" class="text" fill="#cc7700">Goedelian Incompleteness</text>
 
-  <rect x="750" y="185" width="180" height="40" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
-  <text x="840" y="202" class="text" fill="#006600">Result: Non-Formal</text>
-  <text x="840" y="217" class="text" fill="#006600">Rational Validator</text>
+  <rect x="830" y="207" width="200" height="38" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
+  <text x="930" y="224" class="text" fill="#006600">Result: Non-Formal</text>
+  <text x="930" y="239" class="text" fill="#006600">Rational Validator</text>
 
-  <path d="M 730 180 Q 680 240 625 320" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 810 210 Q 750 270 675 350" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
 
   <!-- DEMONSTRATION III (Bottom Left) -->
-  <rect x="50" y="440" width="220" height="220" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
-  <text x="160" y="465" class="text title" fill="#003399">Demonstration III</text>
-  <text x="160" y="482" class="text title" fill="#003399">Order-Actuation</text>
+  <rect x="50" y="490" width="240" height="200" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
+  <text x="170" y="515" class="text title" fill="#003399">Demonstration III</text>
+  <text x="170" y="532" class="text title" fill="#003399">Order-Actuation</text>
 
-  <rect x="70" y="500" width="180" height="40" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
-  <text x="160" y="517" class="text" fill="#003399">Starting Point:</text>
-  <text x="160" y="532" class="text" fill="#003399">Cosmos Exists &amp; Ordered</text>
+  <rect x="70" y="545" width="200" height="38" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
+  <text x="170" y="562" class="text" fill="#003399">Starting Point:</text>
+  <text x="170" y="577" class="text" fill="#003399">Cosmos Exists &amp; Ordered</text>
 
-  <rect x="70" y="555" width="180" height="35" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
-  <text x="160" y="570" class="text" fill="#cc7700">Method:</text>
-  <text x="160" y="583" class="text" fill="#cc7700">Static vs. Dynamic Analysis</text>
+  <rect x="70" y="595" width="200" height="32" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
+  <text x="170" y="609" class="text" fill="#cc7700">Method:</text>
+  <text x="170" y="622" class="text" fill="#cc7700">Static vs. Dynamic Analysis</text>
 
-  <rect x="70" y="605" width="180" height="40" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
-  <text x="160" y="622" class="text" fill="#006600">Result: Conceiving Mind</text>
-  <text x="160" y="637" class="text" fill="#006600">+ Willing Agent</text>
+  <rect x="70" y="637" width="200" height="38" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
+  <text x="170" y="654" class="text" fill="#006600">Result: Conceiving Mind</text>
+  <text x="170" y="669" class="text" fill="#006600">+ Willing Agent</text>
 
-  <path d="M 270 560 Q 320 440 375 360" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 290 580 Q 350 470 425 390" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
 
   <!-- DEMONSTRATION IV (Bottom Right) -->
-  <rect x="730" y="440" width="220" height="220" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
-  <text x="840" y="465" class="text title" fill="#003399">Demonstration IV</text>
-  <text x="840" y="482" class="text title" fill="#003399">Selection Problem</text>
+  <rect x="810" y="490" width="240" height="200" rx="5" fill="#f9f9f9" stroke="#333" stroke-width="2"/>
+  <text x="930" y="515" class="text title" fill="#003399">Demonstration IV</text>
+  <text x="930" y="532" class="text title" fill="#003399">Selection Problem</text>
 
-  <rect x="750" y="500" width="180" height="40" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
-  <text x="840" y="517" class="text" fill="#003399">Starting Point:</text>
-  <text x="840" y="532" class="text" fill="#003399">THIS Universe Exists</text>
+  <rect x="830" y="545" width="200" height="38" rx="3" fill="#e6f3ff" stroke="#0066cc" stroke-width="1.5"/>
+  <text x="930" y="562" class="text" fill="#003399">Starting Point:</text>
+  <text x="930" y="577" class="text" fill="#003399">THIS Universe Exists</text>
 
-  <rect x="750" y="555" width="180" height="35" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
-  <text x="840" y="570" class="text" fill="#cc7700">Method:</text>
-  <text x="840" y="583" class="text" fill="#cc7700">Modal/Possibility Analysis</text>
+  <rect x="830" y="595" width="200" height="32" rx="3" fill="#fff4e6" stroke="#ff9900" stroke-width="1.5"/>
+  <text x="930" y="609" class="text" fill="#cc7700">Method:</text>
+  <text x="930" y="622" class="text" fill="#cc7700">Modal/Possibility Analysis</text>
 
-  <rect x="750" y="605" width="180" height="40" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
-  <text x="840" y="622" class="text" fill="#006600">Result: Volitional</text>
-  <text x="840" y="637" class="text" fill="#006600">Selector w/ Purpose</text>
+  <rect x="830" y="637" width="200" height="38" rx="3" fill="#d9f2e6" stroke="#00aa55" stroke-width="1.5"/>
+  <text x="930" y="654" class="text" fill="#006600">Result: Volitional</text>
+  <text x="930" y="669" class="text" fill="#006600">Selector w/ Purpose</text>
 
-  <path d="M 730 560 Q 680 440 625 360" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
-
-  <!-- Title -->
-  <text x="500" y="30" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-anchor: middle; fill: #333; text-decoration: underline;">Consilience Structure: Four Independent Routes, One Unified Conclusion</text>
+  <path d="M 810 580 Q 750 470 675 390" stroke="#333" stroke-width="2.5" fill="none" marker-end="url(#arrow)"/>
 </svg>

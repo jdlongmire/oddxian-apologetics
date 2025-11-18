@@ -1,86 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 350" width="1300" height="350">
   <defs>
     <style>
       .text { font-family: Arial, sans-serif; text-anchor: middle; font-size: 12px; }
       .text-bold { font-weight: bold; font-size: 14px; }
       .text-small { font-size: 11px; }
-      .arrow-label { font-family: Arial, sans-serif; font-size: 11px; fill: #555; text-anchor: middle; }
+      .arrow-label { font-family: Arial, sans-serif; font-size: 10px; fill: #555; text-anchor: middle; }
     </style>
     <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <polygon points="0 0, 10 3, 0 6" fill="#333" />
     </marker>
   </defs>
 
+  <!-- Title -->
+  <text x="650" y="25" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-anchor: middle; fill: #333;">Bayesian Updating: From Agnostic Prior to Practical Certainty</text>
+
   <!-- PRIOR -->
-  <rect x="20" y="80" width="140" height="90" rx="5" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
-  <text x="90" y="105" class="text text-bold" fill="#003399">Prior</text>
-  <text x="90" y="127" class="text" fill="#003399">Agnostic: 50%</text>
-  <text x="90" y="143" class="text text-small" fill="#003399">Starting Point</text>
+  <rect x="20" y="100" width="150" height="95" rx="5" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="95" y="130" class="text text-bold" fill="#003399">Prior</text>
+  <text x="95" y="152" class="text" fill="#003399">Agnostic: 50%</text>
+  <text x="95" y="168" class="text text-small" fill="#003399">Starting Point</text>
 
   <!-- Arrow 1 -->
-  <line x1="160" y1="125" x2="205" y2="125" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <text x="182" y="115" class="arrow-label">Bayesian</text>
-  <text x="182" y="127" class="arrow-label">Update</text>
+  <line x1="170" y1="147" x2="220" y2="147" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="195" y="135" class="arrow-label">Bayesian</text>
+  <text x="195" y="162" class="arrow-label">Update</text>
 
   <!-- DEMO 1 -->
-  <rect x="215" y="80" width="150" height="90" rx="5" fill="#d9f2e6" stroke="#00aa55" stroke-width="2"/>
-  <text x="290" y="105" class="text text-bold" fill="#006600">After Demo II</text>
-  <text x="290" y="122" class="text text-small" fill="#006600">Intentionality</text>
-  <text x="290" y="138" class="text" fill="#006600">Evidence LR: ~2.8</text>
-  <text x="290" y="154" class="text text-bold" fill="#006600">Posterior: ~68%</text>
+  <rect x="230" y="100" width="160" height="95" rx="5" fill="#d9f2e6" stroke="#00aa55" stroke-width="2"/>
+  <text x="310" y="125" class="text text-bold" fill="#006600">After Demo II</text>
+  <text x="310" y="145" class="text text-small" fill="#006600">Intentionality</text>
+  <text x="310" y="163" class="text" fill="#006600">LR: ~2.8</text>
+  <text x="310" y="181" class="text text-bold" fill="#006600">Post: ~68%</text>
 
   <!-- Arrow 2 -->
-  <line x1="365" y1="125" x2="410" y2="125" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <text x="387" y="115" class="arrow-label">Bayesian</text>
-  <text x="387" y="127" class="arrow-label">Update</text>
+  <line x1="390" y1="147" x2="440" y2="147" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="415" y="135" class="arrow-label">Bayesian</text>
+  <text x="415" y="162" class="arrow-label">Update</text>
 
   <!-- DEMO 2 -->
-  <rect x="420" y="80" width="150" height="90" rx="5" fill="#d0f0d9" stroke="#009944" stroke-width="2"/>
-  <text x="495" y="105" class="text text-bold" fill="#006600">After Demo I</text>
-  <text x="495" y="122" class="text text-small" fill="#006600">3FLL &amp; Logic</text>
-  <text x="495" y="138" class="text" fill="#006600">Evidence LR: ~4.5</text>
-  <text x="495" y="154" class="text text-bold" fill="#006600">Posterior: ~85%</text>
+  <rect x="450" y="100" width="160" height="95" rx="5" fill="#d0f0d9" stroke="#009944" stroke-width="2"/>
+  <text x="530" y="125" class="text text-bold" fill="#006600">After Demo I</text>
+  <text x="530" y="145" class="text text-small" fill="#006600">3FLL &amp; Logic</text>
+  <text x="530" y="163" class="text" fill="#006600">LR: ~4.5</text>
+  <text x="530" y="181" class="text text-bold" fill="#006600">Post: ~85%</text>
 
   <!-- Arrow 3 -->
-  <line x1="570" y1="125" x2="615" y2="125" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <text x="592" y="115" class="arrow-label">Bayesian</text>
-  <text x="592" y="127" class="arrow-label">Update</text>
+  <line x1="610" y1="147" x2="660" y2="147" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="635" y="135" class="arrow-label">Bayesian</text>
+  <text x="635" y="162" class="arrow-label">Update</text>
 
   <!-- DEMO 3 -->
-  <rect x="625" y="80" width="150" height="90" rx="5" fill="#c7efd0" stroke="#008833" stroke-width="2"/>
-  <text x="700" y="105" class="text text-bold" fill="#006600">After Demo III</text>
-  <text x="700" y="122" class="text text-small" fill="#006600">Order-Actuation</text>
-  <text x="700" y="138" class="text" fill="#006600">Evidence LR: ~3.2</text>
-  <text x="700" y="154" class="text text-bold" fill="#006600">Posterior: ~93%</text>
+  <rect x="670" y="100" width="160" height="95" rx="5" fill="#c7efd0" stroke="#008833" stroke-width="2"/>
+  <text x="750" y="125" class="text text-bold" fill="#006600">After Demo III</text>
+  <text x="750" y="145" class="text text-small" fill="#006600">Order-Actuation</text>
+  <text x="750" y="163" class="text" fill="#006600">LR: ~3.2</text>
+  <text x="750" y="181" class="text text-bold" fill="#006600">Post: ~93%</text>
 
   <!-- Arrow 4 -->
-  <line x1="775" y1="125" x2="820" y2="125" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <text x="797" y="115" class="arrow-label">Bayesian</text>
-  <text x="797" y="127" class="arrow-label">Update</text>
+  <line x1="830" y1="147" x2="880" y2="147" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="855" y="135" class="arrow-label">Bayesian</text>
+  <text x="855" y="162" class="arrow-label">Update</text>
 
   <!-- DEMO 4 -->
-  <rect x="830" y="80" width="150" height="90" rx="5" fill="#beedc7" stroke="#007722" stroke-width="2"/>
-  <text x="905" y="105" class="text text-bold" fill="#006600">After Demo IV</text>
-  <text x="905" y="122" class="text text-small" fill="#006600">Selection</text>
-  <text x="905" y="138" class="text" fill="#006600">Evidence LR: ~2.6</text>
-  <text x="905" y="154" class="text text-bold" fill="#006600">Posterior: ~96%</text>
+  <rect x="890" y="100" width="160" height="95" rx="5" fill="#beedc7" stroke="#007722" stroke-width="2"/>
+  <text x="970" y="125" class="text text-bold" fill="#006600">After Demo IV</text>
+  <text x="970" y="145" class="text text-small" fill="#006600">Selection</text>
+  <text x="970" y="163" class="text" fill="#006600">LR: ~2.6</text>
+  <text x="970" y="181" class="text text-bold" fill="#006600">Post: ~96%</text>
 
   <!-- Arrow 5 -->
-  <line x1="980" y1="125" x2="1015" y2="125" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <text x="997" y="115" class="arrow-label">Result</text>
+  <line x1="1050" y1="147" x2="1090" y2="147" stroke="#333" stroke-width="3" marker-end="url(#arrowhead)"/>
+  <text x="1070" y="140" class="arrow-label">Result</text>
 
   <!-- FINAL -->
-  <rect x="1025" y="70" width="170" height="110" rx="8" fill="#ccffcc" stroke="#009900" stroke-width="4"/>
-  <text x="1110" y="95" class="text text-bold" fill="#006600" font-size="15px">Final Posterior</text>
-  <text x="1110" y="117" class="text" fill="#006600">~96% (Agnostic Prior)</text>
-  <text x="1110" y="140" class="text text-bold" fill="#006600" font-size="16px">~99.97% (Combined)</text>
-
-  <!-- Title -->
-  <text x="600" y="30" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-anchor: middle; fill: #333;">Bayesian Updating: From Agnostic Prior to Practical Certainty</text>
+  <rect x="1100" y="90" width="180" height="115" rx="8" fill="#ccffcc" stroke="#009900" stroke-width="4"/>
+  <text x="1190" y="120" class="text text-bold" fill="#006600" font-size="16px">Final Posterior</text>
+  <text x="1190" y="145" class="text" fill="#006600">~96% (Agnostic)</text>
+  <text x="1190" y="170" class="text text-bold" fill="#006600" font-size="17px">~99.97%</text>
+  <text x="1190" y="190" class="text text-small" fill="#006600">(Combined)</text>
 
   <!-- Legend -->
-  <text x="600" y="230" style="font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; fill: #555;">Likelihood Ratio (LR) measures how much better theism explains each piece of evidence compared to alternatives</text>
-  <text x="600" y="247" style="font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; fill: #555;">LR &gt; 1 favors theism | LR &gt; 2 is strong evidence | LR &gt; 4 is very strong evidence</text>
-  <text x="600" y="264" style="font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; fill: #555; font-style: italic;">Conservative estimates: Each demonstration independently raises credence until practical certainty is reached</text>
+  <text x="650" y="250" style="font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; fill: #555;">Likelihood Ratio (LR) measures how much better theism explains evidence vs. alternatives</text>
+  <text x="650" y="270" style="font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; fill: #555;">LR &gt; 1 favors theism | LR &gt; 2 is strong evidence | LR &gt; 4 is very strong evidence</text>
+  <text x="650" y="290" style="font-family: Arial, sans-serif; font-size: 11px; text-anchor: middle; fill: #777; font-style: italic;">Each demonstration independently raises credence until practical certainty is reached</text>
 </svg>
