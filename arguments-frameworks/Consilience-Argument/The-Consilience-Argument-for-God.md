@@ -150,6 +150,118 @@ This is **epistemic warrant for rational belief**—not absolute certainty (whic
 
 ---
 
+## The Hierarchy of Fundamentality: Why Logic Points to God
+
+### Overview
+
+Before examining the four demonstrations, we must establish a crucial foundational insight: **the Three Fundamental Laws of Logic (3FLL) are more primitive than everything else**—including mathematics, abstract objects, and physical reality itself.
+
+This hierarchy matters because it shows:
+1. **What requires grounding** (everything below Level 2)
+2. **What cannot be brute** (all levels require non-arbitrary explanation)
+3. **Why only God works** (self-explaining necessity vs. arbitrary stopping points)
+
+### The Ontological Pyramid
+
+The following diagram shows the hierarchy of fundamentality—from most basic to most derivative:
+
+```mermaid
+graph TD
+    L1["<b>LEVEL 1: GOD</b><br/>Subsistent Rationality<br/>(Ipsum Intelligere Subsistens)"]
+    L2["<b>LEVEL 2: Three Fundamental Laws of Logic</b><br/>Law of Non-Contradiction (LNC)<br/>Law of Excluded Middle (LEM)<br/>Law of Identity (LI)"]
+    L3["<b>LEVEL 3: Abstract/Mathematical Truths</b><br/>Numbers, Sets, Platonic Forms<br/>Mathematical Structures"]
+    L4["<b>LEVEL 4: Formal Systems</b><br/>Arithmetic, Set Theory<br/>Peano Axioms, ZFC"]
+    L5["<b>LEVEL 5: Physical Reality</b><br/>Spacetime, Matter, Energy<br/>Physical Laws, Processes"]
+
+    L1 ==>|grounds non-arbitrarily| L2
+    L2 ==>|structures| L3
+    L3 ==>|enables| L4
+    L4 ==>|describes| L5
+
+    style L1 fill:#ccffcc,stroke:#009900,stroke-width:4px
+    style L2 fill:#e6f3ff,stroke:#0066cc,stroke-width:3px
+    style L3 fill:#fff4e6,stroke:#ff9900,stroke-width:2px
+    style L4 fill:#f9f9f9,stroke:#666,stroke-width:2px
+    style L5 fill:#f0f0f0,stroke:#333,stroke-width:2px
+```
+
+### Level 2: The Three Fundamental Laws of Logic
+
+**Why these are foundational:**
+
+**1. Performatively Undeniable**
+- Any denial employs logic
+- Cannot coherently question "Is the Law of Non-Contradiction true?"
+- More certain than any mathematical truth or empirical observation
+
+**2. Prior to Mathematics (Level 3)**
+- Mathematical objects must obey logic (7 cannot both be and not-be prime)
+- Platonic realm is itself logically structured
+- Therefore, logic is prior to Platonism
+
+**3. Prior to Formal Systems (Level 4)**
+- Gödel's incompleteness arises at Level 4 (arithmetic and formal systems)
+- The 3FLL at Level 2 are not subject to Gödelian limitations
+- Formal systems presuppose logic to be formalized
+
+**4. Prior to Physical Reality (Level 5)**
+- Physical reality must be logically coherent
+- Contradictions cannot exist physically
+- Science presupposes logic in all inference
+
+### Why Only God (Level 1) Grounds the 3FLL
+
+**Comparison of Candidates:**
+
+| Ground Candidate | Can Ground 3FLL? | Why/Why Not? |
+|-----------------|------------------|--------------|
+| Physical reality | ✗ NO | Presupposes logic (must be coherent) |
+| Mathematical Platonism | ✗ NO | Presupposes logic (abstract objects are logically structured) |
+| Brute necessity | ✗ NO | Arbitrary (why THESE laws? no sufficient reason) |
+| Formal systems | ✗ NO | Presuppose logic to be formalized |
+| Human convention | ✗ NO | Performatively absurd (logic existed before humans) |
+| **God as Subsistent Rationality** | ✓ **YES** | The 3FLL reflect God's necessary rational nature |
+
+**Why God Works:**
+
+1. **Non-Arbitrary:** God's essence IS rationality itself (*Subsistent Rationality*)
+2. **Self-Explaining:** God's nature explains God's existence (no external explanation needed)
+3. **Necessary:** Cannot fail to exist (necessary being)
+4. **Simple:** No parts requiring arrangement or external explanation
+
+**Thomas Aquinas:**
+> "God is not subject to logical laws as to external constraints. Rather, God's nature is perfect rationality, and logical laws reflect that divine nature."
+> — *Summa Theologica* I, q.25, a.3
+
+### Implications for the Four Demonstrations
+
+**This hierarchy shows:**
+
+1. **Demonstration II (From Logic to God) is foundational**
+   - Starts with Level 2 (3FLL) — performatively undeniable
+   - Shows only Level 1 (God) can ground them
+   - Most certain starting point possible
+
+2. **All demonstrations presuppose logic**
+   - Demo I uses logical inference
+   - Demo III uses logical coherence
+   - Demo IV uses modal logic
+   - Therefore, all depend on the 3FLL being grounded
+
+3. **Platonism alone is incomplete**
+   - Abstract objects (Level 3) presuppose logic (Level 2)
+   - Logic requires grounding (Level 1)
+   - Platonism needs theism to be complete
+
+4. **Naturalism fails at multiple levels**
+   - Cannot ground Level 2 (logic)
+   - Cannot ground Level 3 (abstract objects)
+   - Cannot explain Level 5's conformity to Levels 2-4
+
+**This is why the Consilience Argument is so powerful:** It doesn't just show God is probable—it shows God is the necessary foundation for rationality itself.
+
+---
+
 ## Meta-Syllogism 0: The Performative Foundation
 
 ### The Undeniable Premise
@@ -4526,6 +4638,45 @@ flowchart TD
 
 This is **practical certainty**.
 
+#### Bayesian Updating Visualization
+
+The following diagram shows how credence in theism increases as we sequentially update through each demonstration, starting from an agnostic prior (50/50):
+
+```mermaid
+graph LR
+    Prior["<b>Prior</b><br/>Agnostic: 50%<br/>Starting Point"]
+
+    Demo1["<b>After Demo I</b><br/>Intentionality<br/>Evidence LR: ~2.8<br/>Posterior: ~68%"]
+
+    Demo2["<b>After Demo II</b><br/>3FLL & Logic<br/>Evidence LR: ~4.5<br/>Posterior: ~85%"]
+
+    Demo3["<b>After Demo III</b><br/>Order-Actuation<br/>Evidence LR: ~3.2<br/>Posterior: ~93%"]
+
+    Demo4["<b>After Demo IV</b><br/>Selection<br/>Evidence LR: ~2.6<br/>Posterior: ~96%"]
+
+    Final["<b>Final Posterior</b><br/>~96% (Agnostic Prior)<br/>~99.97% (Combined)"]
+
+    Prior -->|Bayesian Update| Demo1
+    Demo1 -->|Bayesian Update| Demo2
+    Demo2 -->|Bayesian Update| Demo3
+    Demo3 -->|Bayesian Update| Demo4
+    Demo4 -->|Result| Final
+
+    style Prior fill:#e6f3ff,stroke:#0066cc,stroke-width:2px
+    style Demo1 fill:#d9f2e6,stroke:#00aa55,stroke-width:2px
+    style Demo2 fill:#d0f0d9,stroke:#009944,stroke-width:2px
+    style Demo3 fill:#c7efd0,stroke:#008833,stroke-width:2px
+    style Demo4 fill:#beedc7,stroke:#007722,stroke-width:2px
+    style Final fill:#ccffcc,stroke:#009900,stroke-width:4px
+```
+
+**Key Insight:** Even starting skeptical (agnostic 50%), consilience drives credence systematically upward. Each independent demonstration provides evidence that updates our rational belief. By the end, theism reaches exceptionally high probability.
+
+**Likelihood Ratio (LR) Explanation:**
+- LR measures how much better theism explains each piece of evidence compared to alternatives
+- LR > 1 favors theism; LR > 2 is strong evidence; LR > 4 is very strong
+- These are conservative estimates based on how well each position handles the phenomena
+
 ---
 
 ### D. Why Consilience Matters
@@ -5058,7 +5209,143 @@ This section examines **all major non-theistic positions** and shows each either
 
 ---
 
-### A. The Taxonomy of Positions
+### A. Why "Brute Fact" Explanations Fail: The Arbitrariness Problem
+
+Before examining specific alternatives, we must address a common escape hatch: **"It's just a brute fact—it has no explanation."**
+
+Many non-theistic positions bottom out in brute facts:
+- "The universe just exists—no reason why"
+- "The laws of logic just are—no explanation needed"
+- "Physical constants just have those values—brute necessity"
+
+**But invoking brute facts is philosophically fatal.** Here's why:
+
+#### What "Brute" Means
+
+- **No sufficient reason:** There is no explanation for why X rather than not-X
+- **No principle:** Nothing determines why THIS rather than THAT
+- **Arbitrary:** Could equally be otherwise (or not exist at all)
+
+**Crucial equation:** "Brute fact" = "Arbitrary stopping point"
+
+#### The Arbitrariness Problem Visualized
+
+```mermaid
+graph TD
+    Start[Why can explanation stop HERE?]
+
+    Q1[Why not stop HERE instead?]
+    Q2[Or stop HERE?]
+    Q3[Or stop ANYWHERE?]
+
+    Answer[Answer: No Reason<br/>= ARBITRARY BOUNDARY]
+
+    Collapse[Consequence:<br/>Restricted PSR is Incoherent<br/>If explanation can stop anywhere,<br/>it can stop everywhere]
+
+    Start --> Q1
+    Start --> Q2
+    Start --> Q3
+
+    Q1 -.-> Answer
+    Q2 -.-> Answer
+    Q3 -.-> Answer
+
+    Answer ==> Collapse
+
+    style Start fill:#fff4e6,stroke:#ff9900,stroke-width:2px
+    style Q1 fill:#ffe6e6,stroke:#cc0000,stroke-width:2px
+    style Q2 fill:#ffe6e6,stroke:#cc0000,stroke-width:2px
+    style Q3 fill:#ffe6e6,stroke:#cc0000,stroke-width:2px
+    style Answer fill:#ffcccc,stroke:#cc0000,stroke-width:3px
+    style Collapse fill:#ff9999,stroke:#990000,stroke-width:4px
+```
+
+#### The Core Problem
+
+**If X is brute, there is no reason why:**
+- X rather than Y
+- X rather than nothing
+- X rather than everything
+
+**Therefore:** Calling something "brute" provides no explanation—it just labels our ignorance (or abandons explanation).
+
+#### The Slippery Slope
+
+**Question:** Why can the universe be brute but quantum mechanics cannot?
+**Question:** Why can physical constants be brute but biological facts cannot?
+**Question:** Why can some facts be brute but others require explanation?
+
+**No principled answer exists.**
+
+If you allow brute facts at one level, what stops you from invoking them everywhere?
+- Universe = brute → Why not QM = brute?
+- QM ≠ brute → Why can universe = brute?
+
+**Any boundary is arbitrary.**
+
+**Visual:**
+```
+Restricted PSR: "Explanation stops HERE ←─┐"
+                                          │
+Question: "Why here rather than HERE ←───┘ or HERE or HERE?"
+
+Answer: "No reason" = ARBITRARY BOUNDARY
+
+Therefore: Restricted PSR undermines rationality itself
+```
+
+#### The Self-Undermining
+
+**Claim:** "Some facts can be brute."
+
+**Q:** Why can some facts be brute?
+
+**If "no reason":** The principle itself is arbitrary (self-undermining)
+
+**If "there's a reason":** Then not all facts lack explanations, but this very explanation uses reasoning. Contradiction.
+
+#### Even "Brute Necessity" Is Arbitrary
+
+Some defend: "The universe is necessarily what it is—necessarily brute."
+
+**But this still faces arbitrariness:**
+- WHY is it necessary rather than contingent? (no reason = arbitrary)
+- WHY this necessary state rather than others? (no reason = arbitrary)
+
+**"Brute necessity" = arbitrary stopping point dressed in philosophical language**
+
+#### Only Self-Explaining Necessity Is Non-Arbitrary
+
+**What escapes arbitrariness?**
+
+Only a being whose **essence = existence**:
+- **Essence explains existence** (nature is to-be)
+- **Necessary** (cannot be otherwise)
+- **Simple** (no parts requiring arrangement)
+- **Self-explaining** (terminates regress non-arbitrarily)
+
+**This is God (Ipsum Esse Subsistens).**
+
+**The difference:**
+> "Brute necessity" = arbitrary stopping point
+> "Self-explaining necessity" = rational terminus
+
+Only the latter preserves explanation. Only the latter avoids arbitrariness.
+
+#### Implication for the Following Sections
+
+**As we examine alternatives, watch for brute fact appeals:**
+- Naturalism: "Physical reality just exists"
+- Platonism: "Abstract objects just are"
+- Pantheism: "God-universe just is"
+
+**Each invokes brute facts.** Each faces the arbitrariness problem. Each fails to provide genuine explanation.
+
+**Classical theism alone offers a non-arbitrary terminus:** God's nature explains God's existence.
+
+---
+
+### B. The Taxonomy of Positions
 
 **All coherent positions on ultimate reality fall into these categories:**
 
