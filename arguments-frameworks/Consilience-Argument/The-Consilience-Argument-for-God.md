@@ -928,37 +928,17 @@ If human minds (physical systems) can transcend formal limitations, this suggest
 
 **1. Exceptionlessness Demands Explanation**
 
-Over **13.8 billion years**, across **10^80+ particles**, through **countless interactions**—not a single logical violation.
+Over **13.8 billion years**, across **10^80+ particles**, through **countless interactions**—not a single logical violation. If this were mere chance, we would expect occasional glitches. Yet: **Zero observed violations**. This level of reliability cannot be dismissed as "just luck."
 
-If this were mere chance, we would expect at least occasional glitches:
-- Contradictory states actualizing
-- Arithmetic failing in some domain
-- Logic breaking down at extreme scales
+**2. Brute Facts Are Self-Defeating**
 
-Yet: **Zero observed violations**. This level of reliability cannot be dismissed as "just luck."
+For comprehensive treatment of why brute fact appeals fail, see **Part V.C: The Brute Fact Objection**. Briefly: declaring the most fundamental regularity—logical consistency itself—a "brute fact" abandons the explanatory principle that makes science possible.
 
-**2. Science Rejects Brute Facts**
+**3. Contingency Confirms the Argument**
 
-Scientific method presumes regularities have explanations:
-- Why does water freeze at 0°C? (Molecular structure)
-- Why do objects fall? (Gravity)
-- Why does E=mc²? (Spacetime geometry)
+If you grant that consistency is contingent (could have been otherwise), you've conceded that it **requires explanation**. Our argument provides one: grounding in necessary Being whose nature is rational.
 
-Declaring the **most fundamental regularity**—logical consistency itself—a "brute fact" abandons the explanatory principle that makes science possible.
-
-**3. Leibniz's Principle of Sufficient Reason (PSR)**
-
-**Principle:** For every fact, there is a sufficient reason why it is so and not otherwise.
-
-If reality's consistency is contingent (could have been otherwise), PSR demands: *Why this way?*
-
-Answering "no reason" violates PSR and undermines rational inquiry.
-
-**4. Contingency Confirms the Argument**
-
-If you grant that consistency is contingent, you've conceded that it **requires explanation**. Our argument provides one: grounding in necessary Being whose nature is rational.
-
-**Conclusion:** The objection backfires. Contingent consistency strengthens the case for a necessary ground.
+*For extended discussion of the Principle of Sufficient Reason (PSR) and responses to PSR contestation, see **Part V.A**.*
 
 ---
 
@@ -996,45 +976,28 @@ The only way to validate a system's consistency is from **outside** that system.
 
 #### Objection 4: "This Leads to Infinite Regress or Circular Reasoning"
 
-**Objection:** If everything needs grounding, what grounds God? If God is self-grounding, why can't the universe be self-grounding? The argument either regresses infinitely or is circular.
+**Objection:** If everything needs grounding, what grounds God? If God is self-grounding, why can't the universe be self-grounding?
 
 **Response:**
 
 **1. Necessary Being Terminates Regress**
 
-**Contingent beings** (could fail to exist) require external explanation.
-**Necessary being** (cannot fail to exist) is self-explanatory—its essence is to exist.
+**Contingent beings** (could fail to exist) require external explanation. **Necessary being** (cannot fail to exist) is self-explanatory—its essence is to exist. The regress terminates in a being whose existence is not contingent upon anything external.
 
-The regress is not infinite because it terminates in a being whose existence is not contingent upon anything external.
+**2. Universe Cannot Be Self-Grounding**
 
-**2. Category Mistake**
+The universe is:
+- **Contingent** (began 13.8 billion years ago, could have been otherwise)
+- **Composite** (matter, energy, space, time as distinct components)
+- **Formal** (described by mathematical physics—Gödel-vulnerable)
 
-Asking "What grounds God?" misunderstands what "necessary being" means.
+Contingent, composite, formal entities **cannot** be self-grounding.
 
-**Analogy:** Asking "What is north of the North Pole?" is incoherent—the North Pole is the terminal point of "northness."
+**3. Non-Formal Being Can Be Self-Grounding**
 
-Similarly, asking what grounds necessary being is incoherent—necessary being is the terminal point of existential grounding.
+***Ipsum Esse Subsistens*** (Being Itself) is non-composite, non-formal, and necessary—thus capable of terminating the explanatory chain.
 
-**3. Universe Cannot Be Self-Grounding**
-
-**Why?**
-- Universe is contingent (began 13.8 billion years ago, could have been otherwise)
-- Universe is composite (matter, energy, space, time as distinct components)
-- Universe is formal (described by mathematical physics—Gödel-vulnerable)
-
-Contingent, composite, formal entities **cannot** be self-grounding. They require external ground.
-
-**4. Non-Formal Being Can Be Self-Grounding**
-
-***Ipsum Esse Subsistens*** (Being Itself):
-- Essence = Existence (no gap between "what" and "that")
-- Non-composite (absolutely simple)
-- Non-formal (transcends formal systems)
-- Necessary (cannot fail to be)
-
-This is not circular reasoning but recognition that **one** being—and only one—can terminate the explanatory chain by being self-explanatory.
-
-**Conclusion:** The objection confuses contingent and necessary being. Only necessary being can be self-grounding, and the universe is not necessary.
+*For comprehensive treatment of "Who designed God?", special pleading, and regress objections, see **Part V.F**.*
 
 ---
 
@@ -2168,72 +2131,31 @@ Don't multiply entities without necessity.
 
 #### Objection 5: "This Is Just God of the Gaps"
 
-**Objection:** You're arguing: "We don't know how physical processes produce intentionality, therefore God." This is classic God-of-the-gaps reasoning—invoking God to fill explanatory gaps that science might eventually close.
+**Objection:** You're arguing: "We don't know how physical processes produce intentionality, therefore God." This is classic God-of-the-gaps reasoning.
 
 **Response:**
 
 **Mischaracterization of Our Argument**
 
-**God-of-the-Gaps Structure:**
-1. Science currently can't explain X
-2. Therefore, God did X
-3. (Vulnerable: science might explain X tomorrow)
+**God-of-the-Gaps:** "Science currently can't explain X, therefore God"
 
-**Our Argument's Structure:**
-1. Intentionality is **categorically distinct** from physical properties (ontological claim)
-2. Categorial distinctions cannot be bridged by more detailed physical explanation (metaphysical necessity)
-3. Therefore, non-physical ground required (deductive conclusion)
+**Our Argument:** "Intentionality is categorically distinct from physical properties (ontological claim), therefore non-physical ground required (deductive conclusion)"
 
-**Not a Gap—An Ontological Barrier**
+**Not an Epistemic Gap (temporary ignorance), but an Ontological Barrier (in-principle impossibility):**
+- We're not saying: "We don't know the neural mechanisms"
+- We're saying: "Neural mechanisms are the wrong category of explanation"
 
-**We're not saying:**
-"We don't know the neural mechanisms" (epistemic gap)
+**Key Distinction:**
+- **Correlation ≠ Explanation of Grounding**
+- Even complete neuroscientific mapping wouldn't answer: Why does this pattern **mean** Paris? How does non-semantic become semantic?
 
-**We're saying:**
-"Neural mechanisms are the wrong category of explanation" (ontological mismatch)
-
-**Analogy:**
-- **Epistemic Gap:** "We don't yet know how the brain produces consciousness" (might be solved by neuroscience)
-- **Ontological Gap:** "No amount of physical description captures *what it's like*" (Chalmers' Hard Problem—not solvable by more physics)
-
-Our claim is the latter—an **in-principle** barrier, not a temporary ignorance.
-
-**Principle of Proportionate Causality**
-
-**Scholastic Principle:** The effect cannot possess perfections the cause lacks (unless received from another source).
-
-**Applied:**
-- Physical properties: Non-semantic, non-normative
-- Intentional properties: Semantic, normative
-- **No amount of non-semantic can produce semantic** (category error)
-
-This is not a gap to be filled by future neuroscience. It's a logical principle.
-
-**Positive Evidence, Not Mere Ignorance**
-
-**We provide positive arguments:**
+**We provide positive arguments** (not mere ignorance):
 - Brentano's thesis (intentionality as mark of mental)
 - Aboutness problem (physical lacks semantic content)
 - Normativity (truth-directedness requires rational ground)
 - Searle's Chinese Room (syntax ≠ semantics)
-- Philosophical consensus across traditions
 
-**This is not:**
-"We don't know, therefore God"
-
-**This is:**
-"We know the category mismatch, therefore non-physical ground required, therefore God"
-
-**Scientific Progress Wouldn't Change the Argument**
-
-**Even if neuroscience mapped every neural correlate of every thought:**
-- Would still face: Why does this pattern **mean** Paris?
-- Would still face: How does non-semantic become semantic?
-- Would still face: What grounds normativity?
-
-**Correlation ≠ Explanation of Grounding**
-
-**Conclusion:** This is not God-of-the-gaps. This is deductive metaphysical argument from established categorical distinctions. Future science won't bridge ontological gaps—only God can.
+*For comprehensive treatment of God-of-the-gaps objection and distinction between epistemic vs. ontological demonstrations, see **Part V.D**.*
 
 ---
 
@@ -3048,7 +2970,7 @@ Logic exists independently in abstract realm; God merely recognizes it.
 
 #### Objection 2: "This Assumes Principle of Sufficient Reason (PSR), Which Is Contested"
 
-**Objection:** Your argument relies on PSR—"everything has a sufficient reason." But PSR is controversial. Quantum mechanics shows uncaused events (radioactive decay). Rejecting PSR avoids your argument.
+**Objection:** Your argument relies on PSR—"everything has a sufficient reason." But PSR is controversial. Quantum mechanics shows uncaused events. Rejecting PSR avoids your argument.
 
 **Response:**
 
@@ -3056,56 +2978,23 @@ Logic exists independently in abstract realm; God merely recognizes it.
 
 **1. Denial of PSR Undermines All Rational Inquiry**
 
-**Science presupposes PSR:**
-- Every experiment seeks **reasons** (causes, explanations)
-- If PSR is false, why expect regularity, patterns, laws?
-- Science becomes impossible if "some things just happen for no reason"
-
-**Philosophy presupposes PSR:**
-- Argumentation seeks **reasons** for conclusions
-- Denying PSR means accepting "beliefs can be true for no reason"
-- Rational discourse collapses
-
-**To deny PSR is to abandon rationality itself.**
+Science and philosophy presuppose PSR. Every experiment seeks **reasons** (causes, explanations). To deny PSR is to abandon rationality itself—including the rationality of the objection.
 
 **2. Quantum Indeterminacy ≠ Violation of PSR**
 
-**Quantum Mechanics:**
-- Specific decay events are **unpredictable** (indeterminate)
-- But governed by **probabilistic laws** (Schrödinger equation, decay rates)
-
-**Sufficient Reason:**
-- Why does this atom have a 50% chance of decaying in time t? → **Nuclear forces, quantum field theory**
-- Why do radioactive processes follow statistical laws? → **Quantum mechanics**
-
-**Explanation exists—just probabilistic rather than deterministic.**
-
-**PSR doesn't require determinism.** It requires **sufficient reason**—which quantum mechanics provides (probabilistic laws).
+Quantum mechanics provides **probabilistic laws** (Schrödinger equation, decay rates). Explanation exists—just probabilistic rather than deterministic. PSR doesn't require determinism.
 
 **3. Restricted PSR Is Sufficient**
 
-**Even granting exceptions:**
-
 **Restricted PSR:** Contingent facts that **can** have explanations require them.
 
-**Our argument:**
-- The existence of static order + dynamic actuation **can** have explanation (theism provides one)
-- Therefore, should not be treated as brute fact without reason
+The existence of static order + dynamic actuation **can** have explanation (theism provides one)—therefore should not be treated as brute fact.
 
-**4. Denying PSR Doesn't Help the Objector**
+**4. Denying PSR Is Self-Defeating**
 
-**If PSR is false:**
-- Maybe God exists for no reason (brute fact)
-- Maybe universe exists for no reason (brute fact)
+If PSR is false, maybe your objection is true for no reason. Rational discourse becomes impossible.
 
-**But also:**
-- Maybe your objection is true for no reason
-- Maybe logic applies for no reason
-- **Rational discourse becomes impossible**
-
-**Denying PSR is self-defeating in philosophical argument.**
-
-**Conclusion:** PSR is rationally necessary. Quantum mechanics doesn't violate it. Denying it undermines the objection itself.
+*For comprehensive treatment of PSR contestation—including van Inwagen, Oppy, Delaunay/Manchak, and distinction between strong vs. weak PSR—see **Part V.A**.*
 
 ---
 
@@ -4036,52 +3925,35 @@ Same God identified in Demonstrations I-III:
 
 #### Objection 2: "Multiverse Explains Selection Without God—Anthropic Principle Handles It"
 
-**Objection:** If all (or many) possible universes exist in a multiverse, the anthropic principle explains why we observe **this** one: We couldn't exist in universes incompatible with life. No God needed.
+**Objection:** If all (or many) possible universes exist in a multiverse, the anthropic principle explains why we observe **this** one. No God needed.
 
 **Response:**
 
-**Anthropic Principle Explains Observation Selection, Not Existence**
+**Anthropic Principle Explains Observation Selection, Not Ontological Existence**
 
 **What Anthropic Principle Does:**
-
-**Given:** Multiple universes exist (some life-permitting, most not)
-**Explains:** Why observers find themselves in life-permitting universe (selection bias)
-
-**Analogy:**
-- 100 planets: 1 has water, 99 don't
-- Aliens on water-planet ask: "Why are we on a planet with water?"
-- Answer: Because you couldn't exist on waterless planets (anthropic selection)
+- **Given:** Multiple universes exist
+- **Explains:** Why observers find themselves in life-permitting universe (selection bias)
 
 **What Anthropic Principle Doesn't Explain:**
-
-**Why any life-permitting universe exists at all?**
-- Anthropic reasoning presupposes at least one life-permitting universe exists
-- Doesn't explain **why** possibility-space includes such universes
-- Doesn't explain **what generates** the multiverse
+- **Why any life-permitting universe exists at all?**
+- **What generates the multiverse?**
+- **Why possibility-space includes life-permitting options?**
 
 **Three Unexplained Facts:**
 
-**1. Multiverse Generator:**
-- What produces multiple universes?
-- Eternal inflation? String landscape? Quantum branching?
-- Each requires **specific mechanisms, laws**—themselves requiring explanation
+**1. Multiverse Generator:** Eternal inflation, string landscape, or quantum branching each requires **specific mechanisms, laws**—themselves requiring explanation
 
-**2. Fine-Tuning of Generator:**
-- Not all multiverse generators are equal
-- Generator must have properties that yield life-permitting universes
-- Why **this** generator rather than one producing only chaotic universes?
+**2. Fine-Tuning of Generator:** Generator must have properties that yield life-permitting universes—why **this** generator?
 
-**3. Why Possibility-Space Includes Life-Permitting Options:**
-- Logically, possibility-space **could** exclude life-permitting configurations
-- Why does it include them?
-- Anthropic principle can't answer—presupposes they exist
+**3. Possibility-Space:** Logically could exclude life-permitting configurations—why does it include them?
 
 **Theism Explains All Three:**
 - God creates (generates) universes
-- God's purposes include life/consciousness (explains why generator yields life-permitting options)
-- Possibility-space reflects divine rational nature (includes goodness, complexity, life)
+- God's purposes include life/consciousness
+- Possibility-space reflects divine rational nature
 
-**Conclusion:** Anthropic principle explains **observation selection bias** but not **ontological selection** (why life-permitting universes exist). Theism explains both.
+*For comprehensive treatment of multiverse objection—including anthropic principle limitations, fine-tuning generator problem, and Ockham's Razor analysis—see **Part V.E**.*
 
 ---
 
@@ -4163,26 +4035,15 @@ Same God identified in Demonstrations I-III:
 
 #### Objection 4: "Infinite Regress: If Everything Needs a Cause, What Caused God?"
 
-**Objection:** Your argument says contingent universe needs a cause (God). But then what caused God? If God doesn't need a cause, why does universe need one? Special pleading.
+**Objection:** Your argument says contingent universe needs a cause (God). But then what caused God? Special pleading.
 
 **Response:**
 
 **Necessary Being Terminates Regress**
 
 **The Argument Clarified:**
-
-**Not:** "Everything needs a cause"
-**But:** "**Contingent** things need causes"
-
-**Contingent:**
-- Could fail to exist
-- Depends on external factors
-- Has explanation outside itself
-
-**Necessary:**
-- Cannot fail to exist
-- Exists by its own nature
-- Self-explanatory
+- **Not:** "Everything needs a cause"
+- **But:** "**Contingent** things need causes"
 
 **Universe Is Contingent:**
 - Began 13.8 billion years ago (temporal beginning)
@@ -4196,19 +4057,9 @@ Same God identified in Demonstrations I-III:
 - Absolutely simple (no parts, no composition)
 - **Therefore, self-explanatory—no external cause needed**
 
-**Not Special Pleading:**
+**Not Special Pleading:** Different categories require different explanations. Contingent beings require external explanation; necessary being is self-explanatory by nature.
 
-**Different categories:**
-- Contingent: Require explanation (universe, physical objects, events)
-- Necessary: Self-explanatory (God, mathematical truths)
-
-**Analogy:**
-- "Why does this number exist?" → Contingent (could be different)
-- "Why does the concept of number exist?" → Necessary (self-grounding in logic/mathematics)
-
-**Aquinas:** The cosmological argument isn't "everything has a cause" but "contingent causal series must terminate in necessary being."
-
-**Conclusion:** Not special pleading. Necessary being terminates regress by being self-explanatory. Universe is contingent, God is necessary—different categories.
+*For comprehensive treatment of infinite regress, "Who designed God?", and special pleading objections, see **Part V.F**.*
 
 ---
 
