@@ -2,6 +2,8 @@
 
 **Four Independent Demonstrations Converging on Classical Theism**
 
+![The Consilience Argument for God - Cover](cover/CAG-book-cover.png)
+
 ---
 
 ## Version Information
