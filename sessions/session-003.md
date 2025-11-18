@@ -348,6 +348,24 @@ Initial approach was modifying the source document directly. **Corrected** to cr
 4. ✅ Comprehensive bibliography (66 sources, +1500 words)
 5. ✅ Version control structure implemented
 6. ✅ **Performative self-refutation of PSR denial** (~500 words) - **THE CONVERSATION-ENDER**
+7. ✅ **Strategic Decompression Plan** (~3,870 words added) - Added breathing room at key locations
+   - Phase 1: High-impact additions (Gödel analogy, mereological expansions, Platonism paragraph, convergence summary)
+   - Phase 2: 9 bridge paragraphs across all demonstrations
+   - Phase 3: 3 additional concrete analogies (Survival Sensor, Blueprint vs Factory, Architect)
+8. ✅ **8 High-Impact Tweaks** (~3,800 words) - Transformation into legendary status
+   - "To the Skeptic" hostile-disarming challenge box
+   - 3 ultra-short analogies (map, silent room, Powerball)
+   - 4 demonstration punchlines (one-sentence kill-shots)
+   - 2-page Executive Summary with full convergence matrix
+   - Limitations and Next Steps subsection
+   - Formal Confidence Calculation appendix
+9. ✅ **Cover Image** embedded (CAG-book-cover.png, 2.7 MB)
+10. ✅ **SVG Diagram Graphics** - 5 standalone SVG files (~25K total)
+    - ontological-pyramid.svg (line 330)
+    - purposive-inquiry-inescapability.svg (line 511)
+    - consilience-structure.svg (line 5731)
+    - bayesian-updating.svg (line 5901)
+    - arbitrariness-problem.svg (line 6489)
 
 **Remaining Work (Minor Polish):**
 - [ ] Standardize syllogisms (P1, P2, C1 format) throughout document
