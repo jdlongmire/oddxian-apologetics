@@ -4609,24 +4609,329 @@ Many philosophers have denied various principles later vindicated (e.g., exclude
 
 ### B. Divine Simplicity: Defense and Reconciliation
 
-**[TO BE DEVELOPED - approximately 1200-1500 words - NEW CONTENT]**
+#### Statement of the Doctrine
 
-**Structure:**
-1. Statement of the doctrine
-2. How divine simplicity follows from our demonstrations
-3. Plantinga's objections:
-   - Sovereignty-aseity problem
-   - Property vs. essence distinction worries
-4. Brower-Rea truthmaker issues
-5. Thomistic response: actus purus and pure actuality
-6. Reconciliation: Simplicity vs. divine freedom
-7. Simplicity vs. Trinity (acknowledge, defer to revelation)
+**Divine Simplicity (Classical Theism):** God is absolutely simple—without parts, composition, or complexity of any kind.
 
-**Key sources to engage:**
-- Plantinga, A. (2000) *Does God Have a Nature?*
-- Brower, J. & Rea, M. (2005) 'Material constitution and the Trinity'
-- Stump, E. & Kretzmann, N. (1985) 'Absolute simplicity'
-- Feser, E. (2017) *Five Proofs of the Existence of God*, ch. 1
+**Key Claims:**
+1. God has no **physical** parts (not composed of matter)
+2. God has no **metaphysical** parts (no essence-existence distinction, no form-matter, no substance-accidents)
+3. God's **attributes are identical** with His essence (God's knowledge = God's power = God's essence)
+4. God **is** His nature (God doesn't "have" a nature distinct from Himself)
+
+**Technical Formulation (*Ipsum Esse Subsistens*):**
+God is **subsistent being itself**—pure actuality with no potentiality, no composition, no multiplicity.
+
+**Aquinas (*Summa Theologica* I, Q.3):**
+> "God is not composed... [He is] His own essence, His own existence, His own deity."
+
+#### How Simplicity Follows from Our Demonstrations
+
+Divine simplicity is not arbitrarily imposed but **derived** from our four demonstrations:
+
+**From Demo I (3FLL/Logic):**
+- God is non-formal rational ground
+- Cannot be composite (composition requires formal structure)
+- Must be simple to ground all formal systems externally
+
+**From Demo II (Intentionality):**
+- God is necessary being
+- Necessary beings cannot have essence-existence distinction (would make existence contingent on essence)
+- Must be simple (*esse subsistens*)
+
+**From Demo III (Duality):**
+- God unifies static order (Intellect) and dynamic actuation (Will)
+- If Intellect and Will were **really distinct** parts, what unifies them?
+- Infinite regress or composition → contradiction with necessity
+- Must be simple (Intellect = Will = Essence)
+
+**From All Four:**
+- God is absolutely necessary (cannot fail to exist, cannot be otherwise)
+- Composition introduces contingency (parts could be arranged differently, could fail to combine)
+- **Necessity entails simplicity**
+
+**Therefore:** Divine simplicity is not optional speculation—it follows necessarily from God's nature as demonstrated.
+
+#### Objection 1: Plantinga's Sovereignty-Aseity Problem
+
+**Objection (Alvin Plantinga, *Does God Have a Nature?*, 1980):**
+
+If God has a nature (divine nature), and this nature determines what properties God must have (omniscience, omnipotence, etc.), then:
+1. **God is subject to His nature** (not fully sovereign)
+2. **God depends on His nature** (violates aseity—self-existence)
+3. Divine nature seems to be "above" or "prior to" God
+
+This creates dilemma:
+- **Horn 1:** God has a nature → God is constrained, not sovereign
+- **Horn 2:** God has no nature → No way to specify what God is, no divine attributes
+
+**Response:**
+
+**The Dilemma Is Based on a False Presupposition**
+
+Plantinga assumes **God** and **God's nature** are **two distinct things** (composition).
+
+**Classical theism denies this:**
+- God **is** His nature (identity, not composition)
+- God doesn't "have" a nature distinct from Himself
+- Divine simplicity: God's essence = God's existence = God Himself
+
+**Analogy:**
+
+**Problematic:** "The number 7 is constrained by being prime."
+- Presupposes 7 and primeness are distinct
+- **But:** 7 just **is** prime (intrinsic to what 7 is)
+- Not external constraint
+
+**Similarly:**
+- God just **is** omniscient, omnipotent, necessary
+- Not external constraints on God
+- Intrinsic to what God is (being itself)
+
+**Aseity Preserved:**
+
+**Aseity:** God depends on nothing external.
+
+**Divine simplicity ensures this:**
+- God's nature is not external to God (no dependence)
+- God **is** His nature (self-identity, not relation)
+
+**Plantinga's objection assumes composition** (God + nature), which classical theism explicitly denies.
+
+#### Objection 2: Property-Essence Distinction Worries
+
+**Objection (Plantinga and others):**
+
+Divine simplicity claims God's properties (omniscience, omnipotence, goodness) are identical with His essence and with each other.
+
+**But this seems incoherent:**
+- Omniscience ≠ omnipotence (knowing ≠ doing)
+- Justice ≠ mercy (seem opposite)
+- How can distinct properties all be the same thing?
+
+**Response:**
+
+**1. Distinction in Our Concepts ≠ Distinction in Reality**
+
+**Epistemic Limitation:**
+- We conceptualize God using **multiple concepts** (omniscience, omnipotence, etc.)
+- Our minds require **distinct concepts** to grasp different aspects
+- **But:** This doesn't entail real distinction in God
+
+**Analogy—The Morning Star and Evening Star:**
+- "Morning Star" and "Evening Star" are distinct concepts
+- But both refer to **same object** (Venus)
+- Conceptual distinction without real distinction
+
+**Similarly:**
+- "Omniscience" and "omnipotence" are distinct concepts
+- But refer to **same simple reality** (God's essence)
+- Our finite minds need multiple concepts for one infinite reality
+
+**2. Divine Transcendence and Analogical Language**
+
+**Aquinas's doctrine of analogy:**
+- Human language is fundamentally creaturely
+- When applied to God, terms are **analogical**, not univocal
+- "Knowledge" in God is not exactly like human knowledge (no learning, no process)
+
+**God's "knowledge":**
+- Not **part** of God
+- Not **distinct property** God possesses
+- But **God Himself** as comprehending all truth
+
+**God's single simple act** comprehends all truths (omniscience), actualizes all effects (omnipotence), wills all goods (omnibenevolence).
+
+**Not multiple distinct acts—one infinite simple act.**
+
+**3. Our Properties Are Composite; God's Are Not**
+
+**Human knowing:**
+- Mind + intentional content (two things)
+- Knower distinct from known
+- Act of knowing + thing known (composition)
+
+**Divine knowing:**
+- God's act of knowing = God's essence
+- God knows by being (not by acquiring content)
+- No composition
+
+**Therefore:** Objection trades on false analogy between human properties (composite) and divine attributes (simple).
+
+#### Objection 3: Brower-Rea Truthmaker Problem
+
+**Objection (Jeffrey Brower & Michael Rea, "Material Constitution and the Trinity"):**
+
+If God is absolutely simple, how can God be the **truthmaker** for diverse truths?
+
+**Example:**
+- God knows "2+2=4" (T1)
+- God knows "Caesar crossed Rubicon" (T2)
+- T1 and T2 are **different truths**
+- If God's knowledge is absolutely simple (no parts), how does one simple reality ground diverse truths?
+
+**Doesn't diversity of truths require diversity in God (composition)?**
+
+**Response:**
+
+**1. God's Single Act Grounds All Truth Pluralistically**
+
+**Classical theism:**
+- God's single, simple, eternal act of knowing
+- Comprehends all truths **simultaneously and eternally**
+- Not **multiple acts** (one per truth) but **one act** knowing all
+
+**Analogy—Sunlight:**
+- Single source (sun) produces diverse effects:
+  - Warms skin
+  - Enables photosynthesis
+  - Causes evaporation
+- Diverse effects don't require sun to be composite
+
+**Similarly:**
+- Single divine act (simple) grounds diverse truths
+- Diversity in **effects** (truths) doesn't require diversity in **cause** (God)
+
+**2. Truths Are Relational, Not Intrinsic Divine Parts**
+
+**Key Distinction:**
+
+**Truths about creation** (contingent) are **not** in God intrinsically—they're **relational.**
+
+**Examples:**
+- "Caesar crossed Rubicon" → contingent historical fact
+- True **in relation to** created history
+- God knows it by knowing **Himself** as cause of that history
+
+**God knows all truths by knowing:**
+1. His own essence (necessary truths—logic, mathematics)
+2. His creative act (what He has actualized—contingent truths)
+
+**No need for distinct "parts" in God corresponding to each truth.**
+
+**3. The Explanation Is in God's Comprehensive Causality**
+
+**God causes:**
+- All logical truths (by being Logos)
+- All contingent truths (by creating)
+
+**Single simple cause** → diverse effects → diverse truths.
+
+**Brower-Rea objection assumes:** Diverse truths require diverse truthmakers.
+
+**Classical theism responds:** Single simple truthmaker (God's essence + creative act) grounds all truths via comprehensive causality.
+
+#### Reconciling Simplicity with Divine Freedom
+
+**Problem:** If God is simple (no potentiality, pure actuality), how can God **freely choose** to create or not create? Choice seems to require potentiality (could have done otherwise).
+
+**Response:**
+
+**1. Libertarian Freedom Doesn't Require Potentiality in God**
+
+**Aquinas's Distinction:**
+- **Passive potentiality:** Capacity to be affected, changed (God lacks this)
+- **Active power:** Capacity to produce effects (God has this)
+
+**God's freedom:**
+- Not potentiality **in God** (God unchanging)
+- But potentiality **in what God creates** (many possible worlds)
+
+**God freely chooses** which possibilities to actualize, but this doesn't introduce change or potentiality into God's eternal being.
+
+**2. Eternal, Immutable Choice**
+
+**God's creative choice:**
+- Made **eternally**, not temporally (no "before" creation)
+- Eternally wills: "Let there be..." (simple eternal act)
+- From creation's perspective: temporal beginning
+- From God's perspective: single eternal decree
+
+**No transition from "not choosing" to "choosing" in God**—eternally simple, eternally willing this creation.
+
+**3. Multiple Possible Worlds Compatible with Simplicity**
+
+**God's power:**
+- Comprehends all possible worlds (infinite possibilities)
+- Actualizes one (this one) by simple eternal choice
+
+**God's single simple essence:**
+- Contains power for all possibilities (omnipotence)
+- No parts needed (power = essence)
+
+**Freedom preserved, simplicity maintained.**
+
+#### Simplicity and the Trinity
+
+**Problem:** If God is simple (no parts), how can God be three persons (Father, Son, Holy Spirit)?
+
+**Response:**
+
+**1. This Is Mystery of Revelation**
+
+Natural theology (our demonstrations) establishes **generic classical theism**:
+- One necessary, simple, personal God
+
+**Trinity is known by revelation:**
+- Scripture reveals three persons sharing one divine essence
+- Affirmed by Nicene Creed, ecumenical councils
+
+**Natural reason takes us to monotheism; revelation specifies Trinitarian structure.**
+
+**2. Trinity Doesn't Violate Simplicity (Properly Understood)**
+
+**Distinction of persons ≠ composition:**
+- Father, Son, Spirit are **relationally distinct** (different modes of subsistence)
+- But **essentially identical** (same essence, power, knowledge)
+- Not "parts" adding up to God—each person **is** fully God
+
+**Analogy (imperfect):**
+- One human being has intellect, will, and emotion (distinct capacities)
+- Yet remains one simple substance (not three beings)
+
+**Trinity:** One simple divine essence subsisting in three relational modes.
+
+**3. Deferring to Theology**
+
+**Our argument establishes:**
+- One God
+- Personal (Intellect + Will)
+- Simple, necessary, eternal
+
+**Whether this God is Trinitarian:**
+- Requires **revealed theology** (Scripture, tradition)
+- Not derivable from natural theology alone
+
+**Classical theism and Trinity are compatible**—both affirmed by Christian tradition.
+
+#### Summary: Divine Simplicity Defended
+
+**1. Simplicity Follows from Necessity**
+- Necessary being cannot be composite (composition introduces contingency)
+- Our demonstrations establish necessary God → simplicity follows
+
+**2. Plantinga's Objections Fail**
+- Assumes God and God's nature are distinct (false presupposition)
+- Classical theism: God **is** His nature (no composition)
+
+**3. Property-Essence Distinction Is Conceptual, Not Real**
+- We use multiple concepts (omniscience, omnipotence)
+- But they refer to one simple reality (God's essence)
+
+**4. Brower-Rea Truthmaker Problem Solved**
+- One simple divine act grounds all truths via comprehensive causality
+- Diversity of effects doesn't require diversity in cause
+
+**5. Freedom Compatible with Simplicity**
+- God eternally chooses (no temporal change)
+- Potentiality in creation, not in God
+- Simple eternal act wills this universe
+
+**6. Trinity Compatible with Simplicity**
+- Relational distinction (persons) ≠ essential composition
+- Revealed theology complements natural theology
+
+**Conclusion:** Divine simplicity is philosophically defensible, follows necessarily from our demonstrations, and withstands major objections. It remains a cornerstone of classical theism.
 
 ---
 
