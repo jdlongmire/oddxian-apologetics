@@ -16,6 +16,18 @@
 
 ---
 
+## Abstract
+
+This work establishes the existence of the God of classical theism through consilience—the convergence of independent lines of evidence toward a unified conclusion. Rather than presenting isolated arguments that skeptics can evaluate separately, I demonstrate how four independent deductive proofs, each employing different methods and starting from different premises, converge on a being with remarkably specific attributes: necessary, transcendent, omniscient, omnipotent, rational, volitional, and personal.
+
+The four demonstrations proceed from: (1) formal logic and Gödelian incompleteness, showing that the Three Fundamental Laws of Logic require a non-formal rational ground (*Ipsum Intelligere Subsistens*); (2) phenomenology of consciousness, demonstrating through mereological analysis that intentionality cannot reduce to physical constituents and requires a Personal Ground; (3) metaphysical analysis of causation, establishing that the duality of static order and dynamic actuation requires a unified Mind that both conceives and actualizes; (4) modal reasoning about contingency, proving that ontological selection from possibility-space requires a free volitional agent.
+
+Several methodological innovations distinguish this approach. First, I integrate Gödelian incompleteness results with classical theistic arguments in a novel way, demonstrating that formal systems cannot validate their own consistency. Second, I employ mereological analysis to show that certain phenomena involve systematic category errors when explained naturalistically—not mere gaps in current knowledge, but principled impossibilities. Third, I explicitly compare classical theism and naturalism as competing explanatory frameworks, demonstrating that naturalism systematically fails to provide coherent explanations for logical consistency, intentionality, the order-actuation unity, and ontological selection.
+
+Each demonstration is genuinely independent; the failure of one does not compromise the others. The cumulative confidence that at least one succeeds approaches practical certainty. When multiple independent lines of evidence converge on the same conclusion, consilience provides the strongest warrant available to finite minds. This work demonstrates that such consilience points unmistakably to the God of classical theism.
+
+---
+
 ## Author's Preface
 
 This work represents the convergence of two intellectual traditions that are rarely integrated: systematic theology and systems architecture. For over three decades, I have served as an ordained minister while simultaneously working as a systems architect in the defense industry. This dual vocation has afforded me a unique perspective on the question of God's existence—one that treats worldviews not as collections of isolated propositions, but as integrated explanatory frameworks that must be evaluated holistically.
