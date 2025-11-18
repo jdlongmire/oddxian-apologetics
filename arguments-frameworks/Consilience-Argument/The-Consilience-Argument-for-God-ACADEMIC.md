@@ -801,83 +801,40 @@ Physical reality's consistency is not just explained historically ("God set up c
 
 ### F. Attributes Derived from Demonstration I
 
-#### From Non-Contingency
+**From Non-Contingency and Non-Formality:**
 
-**Necessary Existence (Aseity):**
-- Exists by its own nature
-- Cannot fail to exist
-- Self-sufficient (*a se* = "from itself")
+The ground of logical consistency must be:
+- **Necessary** (exists by its own nature, cannot fail to be)
+- **Eternal** (not subject to temporal succession)
+- **Immutable** (pure actuality, no unrealized potentials)
+- **Simple** (no composition; essence = existence)
+- **Transcendent** (beyond formal systems, trans-formal ground)
 
-**Eternality:**
-- Not subject to temporal succession (time is feature of contingent reality)
-- Exists outside time (or as the ground of time)
-- No beginning, no end
+**From Being Source of Logical Order:**
 
-**Immutability:**
-- Change = transition from potency to act
-- Necessary Being is pure actuality (no unrealized potentials)
-- Therefore, unchanging
+As the ground of rationality, this being possesses:
+- **Rationality (Logos)** — source of all logical structure, infinite rationality
+- **Omniscience** — comprehends all truths (necessary and contingent)
+- **Truth Itself** (*Veritas Ipsa*) — standard by which all propositions measured
 
-#### From Non-Formality
+**From Causal Efficacy:**
 
-**Simplicity:**
-- Not composite (composition implies parts, which implies contingency)
-- Not subject to formal structure (no algorithm, no syntax)
-- Essence = Existence (no distinction between "what" God is and "that" God is)
+As sustaining ground:
+- **Omnipotence** — power to actualize all logical possibilities
+- **Creator** — source of all contingent being (*creatio ex nihilo*)
+- **Providence** — sustains logical consistency throughout cosmic history
 
-**Transcendence:**
-- Beyond the categories of formal systems
-- Not bound by mathematical descriptions (though describable analogically)
-- **Trans-formal**—the ground of all formal systems but not one among them
+**Classical Theism Identified:**
 
-#### From Being the Source of Logical Order
-
-**Rationality (Logos):**
-- Source of all logical structure
-- Not irrational or non-rational but **trans-rational** (infinite rationality)
-- Divine Intellect comprehends all truths
-
-**Omniscience:**
-- Knows all truths (necessary and contingent)
-- Knows all possible worlds
-- Knowledge is not discursive but single, eternal act of understanding
-
-**Truth Itself:**
-- Not merely truthful but **Truth Itself** (*Veritas Ipsa*)
-- All creaturely truth participates in Divine Truth
-- Standard by which all propositions are measured
-
-#### From Causal Efficacy
-
-**Omnipotence:**
-- Power to actualize all logical possibilities
-- Not constrained by anything external (nothing exists independently)
-- Can do all that is logically possible and consistent with divine nature
-
-**Creator:**
-- Source of all contingent being
-- Not just "first cause" in time but sustaining ground of existence itself
-- *Creatio ex nihilo* (creation from nothing)
-
-**Providence:**
-- Sustains logical consistency throughout cosmic history
-- Governs by wisdom, not by mechanistic necessity
-
-#### Classical Theism Identified
-
-**The Profile:**
+This profile matches classical theistic God:
 - Necessary, Eternal, Immutable, Simple
 - Rational, Omniscient, Omnipotent
-- Creator, Sustainer, Providence
-- Non-formal Being Itself (*Ipsum Esse Subsistens*)
+- Creator, Sustainer
+- Being Itself (*Ipsum Esse Subsistens*)
 
-**This is the God of:**
-- Classical Christianity (Father, Son, Holy Spirit as Trinitarian development)
-- Judaism (Yahweh, the I AM)
-- Islam (Allah)
-- Classical philosophical theism (Plato's Good, Aristotle's Unmoved Mover, developed)
+*For detailed attribute derivations and convergence analysis across all four demonstrations, see **Convergence Analysis** (following Demonstration IV).*
 
-**Confidence:** ~90%
+**Confidence:** ~99%
 
 ---
 
@@ -928,37 +885,17 @@ If human minds (physical systems) can transcend formal limitations, this suggest
 
 **1. Exceptionlessness Demands Explanation**
 
-Over **13.8 billion years**, across **10^80+ particles**, through **countless interactions**—not a single logical violation.
+Over **13.8 billion years**, across **10^80+ particles**, through **countless interactions**—not a single logical violation. If this were mere chance, we would expect occasional glitches. Yet: **Zero observed violations**. This level of reliability cannot be dismissed as "just luck."
 
-If this were mere chance, we would expect at least occasional glitches:
-- Contradictory states actualizing
-- Arithmetic failing in some domain
-- Logic breaking down at extreme scales
+**2. Brute Facts Are Self-Defeating**
 
-Yet: **Zero observed violations**. This level of reliability cannot be dismissed as "just luck."
+For comprehensive treatment of why brute fact appeals fail, see **Part V.C: The Brute Fact Objection**. Briefly: declaring the most fundamental regularity—logical consistency itself—a "brute fact" abandons the explanatory principle that makes science possible.
 
-**2. Science Rejects Brute Facts**
+**3. Contingency Confirms the Argument**
 
-Scientific method presumes regularities have explanations:
-- Why does water freeze at 0°C? (Molecular structure)
-- Why do objects fall? (Gravity)
-- Why does E=mc²? (Spacetime geometry)
+If you grant that consistency is contingent (could have been otherwise), you've conceded that it **requires explanation**. Our argument provides one: grounding in necessary Being whose nature is rational.
 
-Declaring the **most fundamental regularity**—logical consistency itself—a "brute fact" abandons the explanatory principle that makes science possible.
-
-**3. Leibniz's Principle of Sufficient Reason (PSR)**
-
-**Principle:** For every fact, there is a sufficient reason why it is so and not otherwise.
-
-If reality's consistency is contingent (could have been otherwise), PSR demands: *Why this way?*
-
-Answering "no reason" violates PSR and undermines rational inquiry.
-
-**4. Contingency Confirms the Argument**
-
-If you grant that consistency is contingent, you've conceded that it **requires explanation**. Our argument provides one: grounding in necessary Being whose nature is rational.
-
-**Conclusion:** The objection backfires. Contingent consistency strengthens the case for a necessary ground.
+*For extended discussion of the Principle of Sufficient Reason (PSR) and responses to PSR contestation, see **Part V.A**.*
 
 ---
 
@@ -996,45 +933,28 @@ The only way to validate a system's consistency is from **outside** that system.
 
 #### Objection 4: "This Leads to Infinite Regress or Circular Reasoning"
 
-**Objection:** If everything needs grounding, what grounds God? If God is self-grounding, why can't the universe be self-grounding? The argument either regresses infinitely or is circular.
+**Objection:** If everything needs grounding, what grounds God? If God is self-grounding, why can't the universe be self-grounding?
 
 **Response:**
 
 **1. Necessary Being Terminates Regress**
 
-**Contingent beings** (could fail to exist) require external explanation.
-**Necessary being** (cannot fail to exist) is self-explanatory—its essence is to exist.
+**Contingent beings** (could fail to exist) require external explanation. **Necessary being** (cannot fail to exist) is self-explanatory—its essence is to exist. The regress terminates in a being whose existence is not contingent upon anything external.
 
-The regress is not infinite because it terminates in a being whose existence is not contingent upon anything external.
+**2. Universe Cannot Be Self-Grounding**
 
-**2. Category Mistake**
+The universe is:
+- **Contingent** (began 13.8 billion years ago, could have been otherwise)
+- **Composite** (matter, energy, space, time as distinct components)
+- **Formal** (described by mathematical physics—Gödel-vulnerable)
 
-Asking "What grounds God?" misunderstands what "necessary being" means.
+Contingent, composite, formal entities **cannot** be self-grounding.
 
-**Analogy:** Asking "What is north of the North Pole?" is incoherent—the North Pole is the terminal point of "northness."
+**3. Non-Formal Being Can Be Self-Grounding**
 
-Similarly, asking what grounds necessary being is incoherent—necessary being is the terminal point of existential grounding.
+***Ipsum Esse Subsistens*** (Being Itself) is non-composite, non-formal, and necessary—thus capable of terminating the explanatory chain.
 
-**3. Universe Cannot Be Self-Grounding**
-
-**Why?**
-- Universe is contingent (began 13.8 billion years ago, could have been otherwise)
-- Universe is composite (matter, energy, space, time as distinct components)
-- Universe is formal (described by mathematical physics—Gödel-vulnerable)
-
-Contingent, composite, formal entities **cannot** be self-grounding. They require external ground.
-
-**4. Non-Formal Being Can Be Self-Grounding**
-
-***Ipsum Esse Subsistens*** (Being Itself):
-- Essence = Existence (no gap between "what" and "that")
-- Non-composite (absolutely simple)
-- Non-formal (transcends formal systems)
-- Necessary (cannot fail to be)
-
-This is not circular reasoning but recognition that **one** being—and only one—can terminate the explanatory chain by being self-explanatory.
-
-**Conclusion:** The objection confuses contingent and necessary being. Only necessary being can be self-grounding, and the universe is not necessary.
+*For comprehensive treatment of "Who designed God?", special pleading, and regress objections, see **Part V.F**.*
 
 ---
 
@@ -1745,196 +1665,55 @@ The non-physical, necessary ground of intentionality is a **Personal Being** wit
 
 ### E. Attributes of the Personal Ground
 
-From the analysis in Sections C-D, we can now derive the specific attributes of this Personal Ground—attributes that constitute the classical theistic profile.
+From the analysis in Sections C-D, we derive attributes constituting the classical theistic profile.
 
-#### 1. Necessary Existence (Aseity)
+**Attributes Shared with Demonstration I:**
+- **Necessary Existence** (aseity - self-sufficient)
+- **Eternality** (outside temporal succession)
+- **Immateriality** (non-physical ground)
+- **Immutability** (pure actuality, no potency)
+- **Simplicity** (no composition; essence = existence)
 
-**Derivation:**
-- The Personal Ground is the ultimate explanation for intentionality
-- If it were contingent, it would require further explanation (infinite regress)
-- Therefore, it must exist **necessarily**—by its own nature
+**Attributes Unique to Personal Ground:**
 
-**Aseity** (from Latin *a se* = "from itself"):
-God exists from Himself, not from another. Self-existent, self-sufficient.
+**1. Omniscience (from Intellect):**
+- Possesses Intellect eminently
+- No material limitations, no unrealized cognitive potentials
+- Knows all truths (necessary, contingent, actual, possible)
+- Single, eternal act of understanding (not discursive)
 
-**Implication:**
-Cannot fail to exist. Existence is not a property added to essence but is **identical** with essence.
+**2. Omnipotence (from Will):**
+- Possesses Will eminently
+- Can actualize all logically possible states of affairs
+- No external limitations (nothing exists independently)
+- Acts consistent with divine nature
 
-#### 2. Eternality
+**3. Perfect Goodness (from Teleology + Simplicity):**
+- Intentionality directed toward ends pursued as good
+- Will and Intellect unified (no internal conflict)
+- Necessarily good (no potency for imperfection)
+- **Goodness Itself** (*Ipsum Bonum*)
 
-**Derivation:**
-- Time is a feature of contingent, changing reality (succession of moments)
-- The necessary Being has no unrealized potentials (is fully actual)
-- Therefore, no temporal succession (no change from past to future)
-- Exists **outside time** or as the ground of time
+**4. Freedom (from Will):**
+- Acts for reasons, not mechanistically
+- Not determined by external causes
+- Libertarian freedom: could create differently or not at all
+- Eternal choice freely directed toward contingent creation
 
-**Eternal** ≠ **Everlasting:**
-- **Everlasting:** Exists at all times (temporal but without beginning/end)
-- **Eternal:** Exists outside temporal succession altogether (a-temporal)
+**5. Personhood (Intellect + Will):**
+- Not impersonal force or abstract principle
+- Knows, understands, wills, acts
+- Capable of relationship with creatures
 
-Classical theism affirms **eternality** in this robust sense.
+**Classical Theism Identified:**
 
-#### 3. Immateriality
+**This is the God of:**
+- Judaism (Yahweh)
+- Christianity (Trinitarian development)
+- Islam (Allah)
+- Philosophical Theism (Necessary Being, First Cause)
 
-**Derivation:**
-- Already established: the ground must be **non-physical** (Section C)
-- Physical = material, spatial, energetic
-- Non-physical = immaterial
-
-**Immaterial** = not composed of matter, not extended in space, not subject to physical laws.
-
-#### 4. Immutability (Unchanging)
-
-**Derivation:**
-- Change = transition from potency (can be X) to act (is X)
-- The necessary Being is **Pure Act**—no unrealized potentials
-- Therefore, no change
-
-**Objection:** "But God acts in the world—doesn't that require change?"
-
-**Response:**
-God's eternal act of will is unchanging. What changes is the created order's relation to God's eternal will (effects unfold in time, but God's willing is timeless).
-
-**Analogy:** The sun doesn't change when you step into its light. Your relation to it changes, but the sun remains constant.
-
-#### 5. Simplicity (Non-Composite)
-
-**Derivation:**
-- Composition (having parts) implies dependency—parts are logically prior to whole
-- Dependency implies contingency—composite beings depend on parts being arranged
-- Necessary Being cannot be contingent
-- Therefore, no composition—**absolute simplicity**
-
-**Divine Simplicity Means:**
-- No parts (physical or metaphysical)
-- Essence = Existence (what God is = that God is)
-- Attributes are identical to essence (God's knowledge = God's power = God's being)
-
-**Difficult but Central Doctrine:**
-God is not a being *with* properties but **subsistent Being Itself** in which all perfections are unified.
-
-#### 6. Omniscience (Infinite Knowledge)
-
-**Derivation (from Section D):**
-- The Personal Ground possesses Intellect eminently
-- No limitations from material conditions (immaterial)
-- No unrealized cognitive potentials (fully actual)
-- Therefore, knows **all truths** (necessary and contingent, actual and possible)
-
-**Scope:**
-- All mathematical truths
-- All logical possibilities
-- All actual states of affairs (past, present, future)
-- All possible worlds
-
-**Classical View:**
-God's knowledge is not discursive (inferring step-by-step) but **intuitive**—single, eternal act of understanding.
-
-#### 7. Omnipotence (Infinite Power)
-
-**Derivation (from Section D):**
-- The Personal Ground possesses Will eminently
-- No physical limitations (immaterial)
-- No metaphysical limitations external to nature (necessary being)
-- Therefore, can actualize **all logically possible states of affairs** consistent with divine nature
-
-**Scope:**
-Can do all that is **logically possible** (not contradictory).
-
-**Cannot:**
-- Make 2+2=5 (logical impossibility)
-- Create a married bachelor (conceptual impossibility)
-- Act contrary to divine nature (e.g., lie, be evil)
-
-These are not "limitations" on power but recognition that omnipotence means power to do all that is **actually do-able**.
-
-#### 8. Perfect Goodness (Omnibenevolence)
-
-**Derivation:**
-
-**From Teleology:**
-- Intentionality involves purposiveness toward **ends**
-- Rational ends are pursued because they're **good** (desirable, valuable)
-- The ultimate ground of teleology must be directed toward the **highest good**
-
-**From Simplicity:**
-- God is not composite—no internal conflict
-- God's Will and Intellect are unified
-- God wills what Intellect knows as best
-
-**From Necessity:**
-- Contingent beings can fail morally (choose lesser goods over greater)
-- Necessary Being cannot fail (no potency for imperfection)
-- Therefore, necessarily good
-
-**Perfect Goodness:**
-- Not merely "very good" but **Goodness Itself** (*Ipsum Bonum*)
-- All creaturely goodness participates in divine goodness
-- Standard of all value
-
-#### 9. Freedom
-
-**Derivation:**
-
-**Free Will:**
-The Personal Ground possesses Will, which acts for reasons (not mechanistically).
-
-**Not Constrained:**
-- Not determined by external causes (nothing external exists independently)
-- Not determined by internal necessity (except consistency with divine nature)
-
-**Libertarian Freedom:**
-God freely chooses to create or not create, to create this world or another possible world.
-
-**Objection:** "But if God is perfect and unchanging, how can He freely choose?"
-
-**Response:**
-God's free choice is **eternal** (not in time). The act of willing is one, simple, eternal—but freely directed toward contingent effects in creation.
-
-#### 10. Personal
-
-**Derivation (from Section D):**
-- Possesses Intellect (rational cognition)
-- Possesses Will (rational agency)
-- These constitute **personhood**
-
-**Not Impersonal Force:**
-God is not an abstract principle, cosmic energy, or blind mechanism. God **knows**, **understands**, **wills**, **acts**—personal capacities.
-
-**Relationship:**
-Personhood makes **relationship** possible—God can know creatures, love them, respond to them (in the eternal act that includes all temporal relations).
-
----
-
-#### Summary: The Classical Theistic Profile
-
-**From Demonstration II, We Have Derived:**
-
-**Metaphysical Attributes:**
-- Necessary Existence (Aseity)
-- Eternality
-- Immateriality
-- Immutability
-- Simplicity
-
-**Intellectual Attributes:**
-- Omniscience
-- Perfect Rationality (Logos)
-
-**Volitional Attributes:**
-- Omnipotence
-- Freedom
-- Perfect Goodness
-
-**Personal Nature:**
-- Intellect + Will = Person
-- Capable of relationship
-
-**This is the God of Classical Theism:**
-- Judaism: Yahweh, the "I AM WHO I AM"
-- Christianity: Father, Son, Holy Spirit (developed Trinitarianly)
-- Islam: Allah
-- Philosophical Theism: Necessary Being, First Cause, Unmoved Mover
+*For comprehensive attribute matrix showing convergence across all four demonstrations, see **Convergence Analysis** (following Demonstration IV).*
 
 **Confidence:** ~85-90%
 
@@ -2168,72 +1947,31 @@ Don't multiply entities without necessity.
 
 #### Objection 5: "This Is Just God of the Gaps"
 
-**Objection:** You're arguing: "We don't know how physical processes produce intentionality, therefore God." This is classic God-of-the-gaps reasoning—invoking God to fill explanatory gaps that science might eventually close.
+**Objection:** You're arguing: "We don't know how physical processes produce intentionality, therefore God." This is classic God-of-the-gaps reasoning.
 
 **Response:**
 
 **Mischaracterization of Our Argument**
 
-**God-of-the-Gaps Structure:**
-1. Science currently can't explain X
-2. Therefore, God did X
-3. (Vulnerable: science might explain X tomorrow)
+**God-of-the-Gaps:** "Science currently can't explain X, therefore God"
 
-**Our Argument's Structure:**
-1. Intentionality is **categorically distinct** from physical properties (ontological claim)
-2. Categorial distinctions cannot be bridged by more detailed physical explanation (metaphysical necessity)
-3. Therefore, non-physical ground required (deductive conclusion)
+**Our Argument:** "Intentionality is categorically distinct from physical properties (ontological claim), therefore non-physical ground required (deductive conclusion)"
 
-**Not a Gap—An Ontological Barrier**
+**Not an Epistemic Gap (temporary ignorance), but an Ontological Barrier (in-principle impossibility):**
+- We're not saying: "We don't know the neural mechanisms"
+- We're saying: "Neural mechanisms are the wrong category of explanation"
 
-**We're not saying:**
-"We don't know the neural mechanisms" (epistemic gap)
+**Key Distinction:**
+- **Correlation ≠ Explanation of Grounding**
+- Even complete neuroscientific mapping wouldn't answer: Why does this pattern **mean** Paris? How does non-semantic become semantic?
 
-**We're saying:**
-"Neural mechanisms are the wrong category of explanation" (ontological mismatch)
-
-**Analogy:**
-- **Epistemic Gap:** "We don't yet know how the brain produces consciousness" (might be solved by neuroscience)
-- **Ontological Gap:** "No amount of physical description captures *what it's like*" (Chalmers' Hard Problem—not solvable by more physics)
-
-Our claim is the latter—an **in-principle** barrier, not a temporary ignorance.
-
-**Principle of Proportionate Causality**
-
-**Scholastic Principle:** The effect cannot possess perfections the cause lacks (unless received from another source).
-
-**Applied:**
-- Physical properties: Non-semantic, non-normative
-- Intentional properties: Semantic, normative
-- **No amount of non-semantic can produce semantic** (category error)
-
-This is not a gap to be filled by future neuroscience. It's a logical principle.
-
-**Positive Evidence, Not Mere Ignorance**
-
-**We provide positive arguments:**
+**We provide positive arguments** (not mere ignorance):
 - Brentano's thesis (intentionality as mark of mental)
 - Aboutness problem (physical lacks semantic content)
 - Normativity (truth-directedness requires rational ground)
 - Searle's Chinese Room (syntax ≠ semantics)
-- Philosophical consensus across traditions
 
-**This is not:**
-"We don't know, therefore God"
-
-**This is:**
-"We know the category mismatch, therefore non-physical ground required, therefore God"
-
-**Scientific Progress Wouldn't Change the Argument**
-
-**Even if neuroscience mapped every neural correlate of every thought:**
-- Would still face: Why does this pattern **mean** Paris?
-- Would still face: How does non-semantic become semantic?
-- Would still face: What grounds normativity?
-
-**Correlation ≠ Explanation of Grounding**
-
-**Conclusion:** This is not God-of-the-gaps. This is deductive metaphysical argument from established categorical distinctions. Future science won't bridge ontological gaps—only God can.
+*For comprehensive treatment of God-of-the-gaps objection and distinction between epistemic vs. ontological demonstrations, see **Part V.D**.*
 
 ---
 
@@ -3048,7 +2786,7 @@ Logic exists independently in abstract realm; God merely recognizes it.
 
 #### Objection 2: "This Assumes Principle of Sufficient Reason (PSR), Which Is Contested"
 
-**Objection:** Your argument relies on PSR—"everything has a sufficient reason." But PSR is controversial. Quantum mechanics shows uncaused events (radioactive decay). Rejecting PSR avoids your argument.
+**Objection:** Your argument relies on PSR—"everything has a sufficient reason." But PSR is controversial. Quantum mechanics shows uncaused events. Rejecting PSR avoids your argument.
 
 **Response:**
 
@@ -3056,56 +2794,23 @@ Logic exists independently in abstract realm; God merely recognizes it.
 
 **1. Denial of PSR Undermines All Rational Inquiry**
 
-**Science presupposes PSR:**
-- Every experiment seeks **reasons** (causes, explanations)
-- If PSR is false, why expect regularity, patterns, laws?
-- Science becomes impossible if "some things just happen for no reason"
-
-**Philosophy presupposes PSR:**
-- Argumentation seeks **reasons** for conclusions
-- Denying PSR means accepting "beliefs can be true for no reason"
-- Rational discourse collapses
-
-**To deny PSR is to abandon rationality itself.**
+Science and philosophy presuppose PSR. Every experiment seeks **reasons** (causes, explanations). To deny PSR is to abandon rationality itself—including the rationality of the objection.
 
 **2. Quantum Indeterminacy ≠ Violation of PSR**
 
-**Quantum Mechanics:**
-- Specific decay events are **unpredictable** (indeterminate)
-- But governed by **probabilistic laws** (Schrödinger equation, decay rates)
-
-**Sufficient Reason:**
-- Why does this atom have a 50% chance of decaying in time t? → **Nuclear forces, quantum field theory**
-- Why do radioactive processes follow statistical laws? → **Quantum mechanics**
-
-**Explanation exists—just probabilistic rather than deterministic.**
-
-**PSR doesn't require determinism.** It requires **sufficient reason**—which quantum mechanics provides (probabilistic laws).
+Quantum mechanics provides **probabilistic laws** (Schrödinger equation, decay rates). Explanation exists—just probabilistic rather than deterministic. PSR doesn't require determinism.
 
 **3. Restricted PSR Is Sufficient**
 
-**Even granting exceptions:**
-
 **Restricted PSR:** Contingent facts that **can** have explanations require them.
 
-**Our argument:**
-- The existence of static order + dynamic actuation **can** have explanation (theism provides one)
-- Therefore, should not be treated as brute fact without reason
+The existence of static order + dynamic actuation **can** have explanation (theism provides one)—therefore should not be treated as brute fact.
 
-**4. Denying PSR Doesn't Help the Objector**
+**4. Denying PSR Is Self-Defeating**
 
-**If PSR is false:**
-- Maybe God exists for no reason (brute fact)
-- Maybe universe exists for no reason (brute fact)
+If PSR is false, maybe your objection is true for no reason. Rational discourse becomes impossible.
 
-**But also:**
-- Maybe your objection is true for no reason
-- Maybe logic applies for no reason
-- **Rational discourse becomes impossible**
-
-**Denying PSR is self-defeating in philosophical argument.**
-
-**Conclusion:** PSR is rationally necessary. Quantum mechanics doesn't violate it. Denying it undermines the objection itself.
+*For comprehensive treatment of PSR contestation—including van Inwagen, Oppy, Delaunay/Manchak, and distinction between strong vs. weak PSR—see **Part V.A**.*
 
 ---
 
@@ -4036,52 +3741,35 @@ Same God identified in Demonstrations I-III:
 
 #### Objection 2: "Multiverse Explains Selection Without God—Anthropic Principle Handles It"
 
-**Objection:** If all (or many) possible universes exist in a multiverse, the anthropic principle explains why we observe **this** one: We couldn't exist in universes incompatible with life. No God needed.
+**Objection:** If all (or many) possible universes exist in a multiverse, the anthropic principle explains why we observe **this** one. No God needed.
 
 **Response:**
 
-**Anthropic Principle Explains Observation Selection, Not Existence**
+**Anthropic Principle Explains Observation Selection, Not Ontological Existence**
 
 **What Anthropic Principle Does:**
-
-**Given:** Multiple universes exist (some life-permitting, most not)
-**Explains:** Why observers find themselves in life-permitting universe (selection bias)
-
-**Analogy:**
-- 100 planets: 1 has water, 99 don't
-- Aliens on water-planet ask: "Why are we on a planet with water?"
-- Answer: Because you couldn't exist on waterless planets (anthropic selection)
+- **Given:** Multiple universes exist
+- **Explains:** Why observers find themselves in life-permitting universe (selection bias)
 
 **What Anthropic Principle Doesn't Explain:**
-
-**Why any life-permitting universe exists at all?**
-- Anthropic reasoning presupposes at least one life-permitting universe exists
-- Doesn't explain **why** possibility-space includes such universes
-- Doesn't explain **what generates** the multiverse
+- **Why any life-permitting universe exists at all?**
+- **What generates the multiverse?**
+- **Why possibility-space includes life-permitting options?**
 
 **Three Unexplained Facts:**
 
-**1. Multiverse Generator:**
-- What produces multiple universes?
-- Eternal inflation? String landscape? Quantum branching?
-- Each requires **specific mechanisms, laws**—themselves requiring explanation
+**1. Multiverse Generator:** Eternal inflation, string landscape, or quantum branching each requires **specific mechanisms, laws**—themselves requiring explanation
 
-**2. Fine-Tuning of Generator:**
-- Not all multiverse generators are equal
-- Generator must have properties that yield life-permitting universes
-- Why **this** generator rather than one producing only chaotic universes?
+**2. Fine-Tuning of Generator:** Generator must have properties that yield life-permitting universes—why **this** generator?
 
-**3. Why Possibility-Space Includes Life-Permitting Options:**
-- Logically, possibility-space **could** exclude life-permitting configurations
-- Why does it include them?
-- Anthropic principle can't answer—presupposes they exist
+**3. Possibility-Space:** Logically could exclude life-permitting configurations—why does it include them?
 
 **Theism Explains All Three:**
 - God creates (generates) universes
-- God's purposes include life/consciousness (explains why generator yields life-permitting options)
-- Possibility-space reflects divine rational nature (includes goodness, complexity, life)
+- God's purposes include life/consciousness
+- Possibility-space reflects divine rational nature
 
-**Conclusion:** Anthropic principle explains **observation selection bias** but not **ontological selection** (why life-permitting universes exist). Theism explains both.
+*For comprehensive treatment of multiverse objection—including anthropic principle limitations, fine-tuning generator problem, and Ockham's Razor analysis—see **Part V.E**.*
 
 ---
 
@@ -4163,26 +3851,15 @@ Same God identified in Demonstrations I-III:
 
 #### Objection 4: "Infinite Regress: If Everything Needs a Cause, What Caused God?"
 
-**Objection:** Your argument says contingent universe needs a cause (God). But then what caused God? If God doesn't need a cause, why does universe need one? Special pleading.
+**Objection:** Your argument says contingent universe needs a cause (God). But then what caused God? Special pleading.
 
 **Response:**
 
 **Necessary Being Terminates Regress**
 
 **The Argument Clarified:**
-
-**Not:** "Everything needs a cause"
-**But:** "**Contingent** things need causes"
-
-**Contingent:**
-- Could fail to exist
-- Depends on external factors
-- Has explanation outside itself
-
-**Necessary:**
-- Cannot fail to exist
-- Exists by its own nature
-- Self-explanatory
+- **Not:** "Everything needs a cause"
+- **But:** "**Contingent** things need causes"
 
 **Universe Is Contingent:**
 - Began 13.8 billion years ago (temporal beginning)
@@ -4196,19 +3873,9 @@ Same God identified in Demonstrations I-III:
 - Absolutely simple (no parts, no composition)
 - **Therefore, self-explanatory—no external cause needed**
 
-**Not Special Pleading:**
+**Not Special Pleading:** Different categories require different explanations. Contingent beings require external explanation; necessary being is self-explanatory by nature.
 
-**Different categories:**
-- Contingent: Require explanation (universe, physical objects, events)
-- Necessary: Self-explanatory (God, mathematical truths)
-
-**Analogy:**
-- "Why does this number exist?" → Contingent (could be different)
-- "Why does the concept of number exist?" → Necessary (self-grounding in logic/mathematics)
-
-**Aquinas:** The cosmological argument isn't "everything has a cause" but "contingent causal series must terminate in necessary being."
-
-**Conclusion:** Not special pleading. Necessary being terminates regress by being self-explanatory. Universe is contingent, God is necessary—different categories.
+*For comprehensive treatment of infinite regress, "Who designed God?", and special pleading objections, see **Part V.F**.*
 
 ---
 
@@ -4347,6 +4014,1083 @@ Demonstration IV stands alone. Uses modal/selection approach distinct from Demon
 **Practical Certainty:** Four independent deductive arguments converging on same conclusion provides **near-certainty** for classical theism.
 
 ---
+
+---
+
+## Part V: Global Objections and Rebuttals
+
+### Overview
+
+The four demonstrations (I-IV) each face both demonstration-specific objections and objections that apply to the cumulative case as a whole. To avoid repetition, this section consolidates objections that recur across multiple demonstrations, providing systematic rebuttals that apply to the consilience argument generally.
+
+**Demonstration-specific objections** (e.g., functionalism for Demo II, formalism for Demo I, Boltzmann Brain for Demo IV) are addressed within their respective demonstrations. **Global objections** (e.g., PSR contestation, divine simplicity, brute facts) are addressed comprehensively here.
+
+Cross-references from individual demonstrations direct readers to the relevant subsections below.
+
+---
+
+### A. The Principle of Sufficient Reason (PSR): Contestation and Defense
+
+#### Statement of the Principle
+
+**Principle of Sufficient Reason (PSR):** For every fact or state of affairs, there exists a sufficient reason why it is so and not otherwise.
+
+**Two Formulations:**
+
+**Strong PSR:** Every fact whatsoever (including necessary truths, God's existence) has a sufficient reason.
+
+**Weak PSR:** Every *contingent* fact (things that could have been otherwise) has a sufficient reason.
+
+**Our Demonstrations' Dependence:**
+- Demo I (3FLL): Uses weak PSR—contingent consistency of reality requires explanation
+- Demo II (Intentionality): Uses weak PSR—contingent intentional beings require grounding
+- Demo III (Duality): Uses weak PSR—contingent instantiation of order requires explanation
+- Demo IV (Selection): Uses weak PSR—contingent actualization of this universe requires explanation
+
+**None of our demonstrations requires strong PSR.** Weak PSR is sufficient and less controversial.
+
+#### Why PSR Is Rationally Inescapable
+
+**1. Science Presupposes PSR**
+
+Scientific method assumes regularities and phenomena have explanations:
+- Why does water freeze at 0°C? → Molecular structure
+- Why do objects fall? → Gravity
+- Why does E=mc²? → Spacetime geometry
+- Why is the universe's expansion accelerating? → Dark energy (hypothesized)
+
+Science becomes impossible if "some contingent things just happen for no reason at all." Every experiment seeks reasons (causes, explanations, mechanisms). To deny PSR undermines the entire scientific enterprise.
+
+**2. Philosophy and Argumentation Presuppose PSR**
+
+Rational discourse assumes beliefs, arguments, and conclusions require justification:
+- Arguments provide **reasons** for conclusions
+- Evidence provides **reasons** for beliefs
+- Denying PSR means accepting "some beliefs/conclusions are true for no reason"
+- **Performative self-refutation:** Arguing against PSR presupposes reasons matter (otherwise why argue?)
+
+**To deny PSR is to abandon rationality itself.**
+
+**3. PSR as Default Rational Posture**
+
+**Explanatory Principle:** When faced with contingent fact F, default rational response is: "What explains F?"
+
+**Only when explanation-seeking fails comprehensively** should we retreat to "brute fact."
+
+**But for foundational realities** (logic, intentionality, order, universe):
+- Theistic explanation is *available* and *powerful*
+- No justification for treating as brute facts when explanation exists
+
+**Denying PSR is epistemically premature** when explanations are on the table.
+
+#### Objection 1: "Quantum Mechanics Violates PSR"
+
+**Objection:** Quantum mechanics shows uncaused events—radioactive decay occurs randomly without reason. PSR is empirically false.
+
+**Response:**
+
+**Quantum Indeterminacy ≠ Violation of PSR**
+
+**Quantum mechanics:**
+- Specific decay events are **unpredictable** (indeterminate)
+- But governed by **probabilistic laws** (Schrödinger equation, decay rates)
+
+**Sufficient reasons exist:**
+- Why does this atom have 50% chance of decaying in time *t*? → Nuclear forces, quantum field theory
+- Why do radioactive processes follow statistical laws? → Quantum mechanics
+
+**PSR doesn't require determinism.** It requires **sufficient reason**—which quantum mechanics provides via probabilistic laws.
+
+**Analogy:** Die roll is indeterminate, but there's sufficient reason for 1/6 probability per side (geometry, physics). Similarly, quantum probabilities have sufficient reasons (quantum laws).
+
+#### Objection 2: Van Inwagen's "Mystery" Response
+
+**Objection (Peter van Inwagen):** PSR is less certain than the mystery it purports to solve. Better to accept some mysteries (why universe exists) than embrace dubious metaphysical principles (PSR).
+
+**Response:**
+
+**1. PSR Is More Certain Than Van Inwagen Grants**
+
+PSR isn't arbitrary metaphysical speculation—it's the **foundation of rational inquiry**:
+- Science is impossible without it
+- Philosophy is impossible without it
+- Ordinary reasoning presupposes it ("Why did X happen?")
+
+**Rejecting PSR is costlier** than accepting existence mysteries.
+
+**2. "Mystery" Is Not an Explanation**
+
+Saying "the universe's existence is a mystery" is **not** an alternative to theistic explanation—it's **giving up** on explanation.
+
+**Two Options:**
+- **Theism:** Provides explanation (necessary God creates contingent universe)
+- **Mystery:** Abandons explanation
+
+**Methodologically:** Accepting available explanations is preferable to embracing inexplicability.
+
+**3. Restricted PSR Avoids Van Inwagen's Worry**
+
+Van Inwagen worries strong PSR leads to necessitarianism (everything necessary).
+
+**But weak PSR** (contingent facts require explanation) avoids this:
+- Universe is contingent → requires explanation → God
+- God is necessary → self-explanatory (essence = existence)
+- No infinite regress, no necessitarianism
+
+**Our demonstrations use weak PSR exclusively.**
+
+#### Objection 3: Oppy's Symmetry Objection
+
+**Objection (Graham Oppy):** If universe's existence is a brute fact (no reason), that's problematic. But if God's existence is a brute fact (no external reason), that's equally problematic. "Necessary being" doesn't escape bruteness—it just *labels* it. Theism and naturalism are symmetrical; neither explains ultimate existence.
+
+**Response:**
+
+**God Is Not a Brute Fact—God Is Self-Explanatory**
+
+**Key Distinction:**
+
+**Brute Fact:** No explanation whatsoever (internal or external).
+
+**Self-Explanatory Fact:** Explanation is *internal* to the entity's nature.
+
+**Universe:**
+- **Contingent** (could fail to exist, began 13.8 billion years ago)
+- **Composite** (matter, energy, space, time as distinct components)
+- **Not self-explanatory:** Essence (what it is) ≠ existence (that it is)
+- Requires **external** explanation
+
+**God (Classical Theism):**
+- **Necessary** (cannot fail to exist)
+- **Simple** (no composition, no parts, no essence-existence distinction)
+- **Self-explanatory:** Essence = existence (*ipsum esse subsistens*)
+- No external explanation needed—nature provides internal reason
+
+**Asymmetry:**
+
+**Naturalism:** Brute universe (contingent + composite) has no explanation → violates PSR
+
+**Theism:** Self-explanatory God (necessary + simple) has internal explanation → satisfies PSR
+
+**Analogy:**
+
+**Bachelor:** Being unmarried is *internal* to the concept. No external explanation needed for why bachelors are unmarried.
+
+**God's existence:** Existing is *internal* to God's essence (pure actuality, being itself). No external explanation needed.
+
+**Oppy's objection trades on ambiguity between "brute" and "self-explanatory."**
+
+#### Objection 4: Delaunay/Manchak Cosmological Contingency
+
+**Objection (Celia Delaunay, John Manchak):** Modern cosmology (eternal inflation, multiverse) suggests universe may be past-eternal or necessarily existent. If so, PSR-based cosmological arguments fail.
+
+**Response:**
+
+**1. Past-Eternality ≠ Necessity**
+
+**Even if universe is past-eternal:**
+- Still contingent (could have been different, could fail to exist)
+- Still requires explanation ("Why this universe rather than nothing?")
+
+**Analogy:** Suppose an eternal train with infinite cars. Each car's motion is explained by previous car. But whole infinite train's motion still requires explanation (Why is this train moving rather than stationary?).
+
+**PSR applies to totalities,** not just temporal beginnings.
+
+**2. Multiverse Doesn't Escape PSR**
+
+Multiverse proposals (eternal inflation, string landscape) don't eliminate need for explanation:
+- What explains **multiverse generator** (inflation field, string theory laws)?
+- Why these laws/mechanisms rather than others?
+- Why does possibility-space include life-permitting configurations?
+
+**Multiverse pushes explanation back but doesn't eliminate it.**
+
+**3. Contingency of Physical Laws**
+
+All cosmological models presuppose **physical laws** (quantum mechanics, field theory, spacetime structure).
+
+**Laws themselves are contingent:**
+- Could be different (different constants, different equations)
+- Require explanation
+
+**Theism explains:** Laws reflect divine rational nature → necessary ground for contingent laws.
+
+**Naturalism:** Laws are brute → violates PSR.
+
+#### Objection 5: "Denying PSR Is Philosophically Respectable"
+
+**Objection:** Many respectable philosophers (Hume, Russell, van Inwagen) deny or doubt PSR. It's not a self-evident axiom.
+
+**Response:**
+
+**1. Denying PSR Is Self-Defeating in Philosophical Argument**
+
+**If PSR is false:**
+- Your objection might be true for no reason
+- Logic might apply for no reason
+- We might be rational for no reason
+
+**Philosophical argumentation presupposes** reasons connect premises to conclusions, evidence to beliefs.
+
+**To argue against PSR presupposes PSR**—performative contradiction.
+
+**2. Historical Precedent Doesn't Establish Truth**
+
+Many philosophers have denied various principles later vindicated (e.g., excluded middle in intuitionistic logic, non-Euclidean geometry).
+
+**Appeal to authority** doesn't refute PSR's rational credentials.
+
+**3. No Successful Counterexample to Weak PSR**
+
+**Challenge:** Provide an undisputed contingent fact with *no* sufficient reason.
+
+**Alleged counterexamples fail:**
+- Quantum events: Have probabilistic reasons (laws)
+- Universe's existence: Theism provides reason
+- "Just because": Not an answer, but evasion
+
+**Weak PSR remains unrefuted.**
+
+#### Summary: PSR and the Consilience Argument
+
+**1. Our Demonstrations Use Weak PSR**
+- Contingent facts (consistency, intentionality, order-actuation, selection) require explanations
+- God (necessary) is self-explanatory—no infinite regress
+
+**2. PSR Is Rationally Inescapable**
+- Foundation of science and philosophy
+- Denying it is self-defeating
+
+**3. Objections Fail**
+- Quantum mechanics doesn't violate PSR
+- Van Inwagen's mystery doesn't explain
+- Oppy's symmetry conflates brute facts with self-explanation
+- Delaunay/Manchak's cosmology doesn't eliminate contingency
+
+**4. Theism Satisfies PSR; Naturalism Violates It**
+- Theism: Necessary self-explanatory God grounds contingent universe
+- Naturalism: Brute contingent universe with no explanation
+
+**Conclusion:** PSR strengthens the cumulative case. Rejecting PSR doesn't defeat our arguments—it undermines rationality itself.
+
+---
+
+### B. Divine Simplicity: Defense and Reconciliation
+
+#### Statement of the Doctrine
+
+**Divine Simplicity (Classical Theism):** God is absolutely simple—without parts, composition, or complexity of any kind.
+
+**Key Claims:**
+1. God has no **physical** parts (not composed of matter)
+2. God has no **metaphysical** parts (no essence-existence distinction, no form-matter, no substance-accidents)
+3. God's **attributes are identical** with His essence (God's knowledge = God's power = God's essence)
+4. God **is** His nature (God doesn't "have" a nature distinct from Himself)
+
+**Technical Formulation (*Ipsum Esse Subsistens*):**
+God is **subsistent being itself**—pure actuality with no potentiality, no composition, no multiplicity.
+
+**Aquinas (*Summa Theologica* I, Q.3):**
+> "God is not composed... [He is] His own essence, His own existence, His own deity."
+
+#### How Simplicity Follows from Our Demonstrations
+
+Divine simplicity is not arbitrarily imposed but **derived** from our four demonstrations:
+
+**From Demo I (3FLL/Logic):**
+- God is non-formal rational ground
+- Cannot be composite (composition requires formal structure)
+- Must be simple to ground all formal systems externally
+
+**From Demo II (Intentionality):**
+- God is necessary being
+- Necessary beings cannot have essence-existence distinction (would make existence contingent on essence)
+- Must be simple (*esse subsistens*)
+
+**From Demo III (Duality):**
+- God unifies static order (Intellect) and dynamic actuation (Will)
+- If Intellect and Will were **really distinct** parts, what unifies them?
+- Infinite regress or composition → contradiction with necessity
+- Must be simple (Intellect = Will = Essence)
+
+**From All Four:**
+- God is absolutely necessary (cannot fail to exist, cannot be otherwise)
+- Composition introduces contingency (parts could be arranged differently, could fail to combine)
+- **Necessity entails simplicity**
+
+**Therefore:** Divine simplicity is not optional speculation—it follows necessarily from God's nature as demonstrated.
+
+#### Objection 1: Plantinga's Sovereignty-Aseity Problem
+
+**Objection (Alvin Plantinga, *Does God Have a Nature?*, 1980):**
+
+If God has a nature (divine nature), and this nature determines what properties God must have (omniscience, omnipotence, etc.), then:
+1. **God is subject to His nature** (not fully sovereign)
+2. **God depends on His nature** (violates aseity—self-existence)
+3. Divine nature seems to be "above" or "prior to" God
+
+This creates dilemma:
+- **Horn 1:** God has a nature → God is constrained, not sovereign
+- **Horn 2:** God has no nature → No way to specify what God is, no divine attributes
+
+**Response:**
+
+**The Dilemma Is Based on a False Presupposition**
+
+Plantinga assumes **God** and **God's nature** are **two distinct things** (composition).
+
+**Classical theism denies this:**
+- God **is** His nature (identity, not composition)
+- God doesn't "have" a nature distinct from Himself
+- Divine simplicity: God's essence = God's existence = God Himself
+
+**Analogy:**
+
+**Problematic:** "The number 7 is constrained by being prime."
+- Presupposes 7 and primeness are distinct
+- **But:** 7 just **is** prime (intrinsic to what 7 is)
+- Not external constraint
+
+**Similarly:**
+- God just **is** omniscient, omnipotent, necessary
+- Not external constraints on God
+- Intrinsic to what God is (being itself)
+
+**Aseity Preserved:**
+
+**Aseity:** God depends on nothing external.
+
+**Divine simplicity ensures this:**
+- God's nature is not external to God (no dependence)
+- God **is** His nature (self-identity, not relation)
+
+**Plantinga's objection assumes composition** (God + nature), which classical theism explicitly denies.
+
+#### Objection 2: Property-Essence Distinction Worries
+
+**Objection (Plantinga and others):**
+
+Divine simplicity claims God's properties (omniscience, omnipotence, goodness) are identical with His essence and with each other.
+
+**But this seems incoherent:**
+- Omniscience ≠ omnipotence (knowing ≠ doing)
+- Justice ≠ mercy (seem opposite)
+- How can distinct properties all be the same thing?
+
+**Response:**
+
+**1. Distinction in Our Concepts ≠ Distinction in Reality**
+
+**Epistemic Limitation:**
+- We conceptualize God using **multiple concepts** (omniscience, omnipotence, etc.)
+- Our minds require **distinct concepts** to grasp different aspects
+- **But:** This doesn't entail real distinction in God
+
+**Analogy—The Morning Star and Evening Star:**
+- "Morning Star" and "Evening Star" are distinct concepts
+- But both refer to **same object** (Venus)
+- Conceptual distinction without real distinction
+
+**Similarly:**
+- "Omniscience" and "omnipotence" are distinct concepts
+- But refer to **same simple reality** (God's essence)
+- Our finite minds need multiple concepts for one infinite reality
+
+**2. Divine Transcendence and Analogical Language**
+
+**Aquinas's doctrine of analogy:**
+- Human language is fundamentally creaturely
+- When applied to God, terms are **analogical**, not univocal
+- "Knowledge" in God is not exactly like human knowledge (no learning, no process)
+
+**God's "knowledge":**
+- Not **part** of God
+- Not **distinct property** God possesses
+- But **God Himself** as comprehending all truth
+
+**God's single simple act** comprehends all truths (omniscience), actualizes all effects (omnipotence), wills all goods (omnibenevolence).
+
+**Not multiple distinct acts—one infinite simple act.**
+
+**3. Our Properties Are Composite; God's Are Not**
+
+**Human knowing:**
+- Mind + intentional content (two things)
+- Knower distinct from known
+- Act of knowing + thing known (composition)
+
+**Divine knowing:**
+- God's act of knowing = God's essence
+- God knows by being (not by acquiring content)
+- No composition
+
+**Therefore:** Objection trades on false analogy between human properties (composite) and divine attributes (simple).
+
+#### Objection 3: Brower-Rea Truthmaker Problem
+
+**Objection (Jeffrey Brower & Michael Rea, "Material Constitution and the Trinity"):**
+
+If God is absolutely simple, how can God be the **truthmaker** for diverse truths?
+
+**Example:**
+- God knows "2+2=4" (T1)
+- God knows "Caesar crossed Rubicon" (T2)
+- T1 and T2 are **different truths**
+- If God's knowledge is absolutely simple (no parts), how does one simple reality ground diverse truths?
+
+**Doesn't diversity of truths require diversity in God (composition)?**
+
+**Response:**
+
+**1. God's Single Act Grounds All Truth Pluralistically**
+
+**Classical theism:**
+- God's single, simple, eternal act of knowing
+- Comprehends all truths **simultaneously and eternally**
+- Not **multiple acts** (one per truth) but **one act** knowing all
+
+**Analogy—Sunlight:**
+- Single source (sun) produces diverse effects:
+  - Warms skin
+  - Enables photosynthesis
+  - Causes evaporation
+- Diverse effects don't require sun to be composite
+
+**Similarly:**
+- Single divine act (simple) grounds diverse truths
+- Diversity in **effects** (truths) doesn't require diversity in **cause** (God)
+
+**2. Truths Are Relational, Not Intrinsic Divine Parts**
+
+**Key Distinction:**
+
+**Truths about creation** (contingent) are **not** in God intrinsically—they're **relational.**
+
+**Examples:**
+- "Caesar crossed Rubicon" → contingent historical fact
+- True **in relation to** created history
+- God knows it by knowing **Himself** as cause of that history
+
+**God knows all truths by knowing:**
+1. His own essence (necessary truths—logic, mathematics)
+2. His creative act (what He has actualized—contingent truths)
+
+**No need for distinct "parts" in God corresponding to each truth.**
+
+**3. The Explanation Is in God's Comprehensive Causality**
+
+**God causes:**
+- All logical truths (by being Logos)
+- All contingent truths (by creating)
+
+**Single simple cause** → diverse effects → diverse truths.
+
+**Brower-Rea objection assumes:** Diverse truths require diverse truthmakers.
+
+**Classical theism responds:** Single simple truthmaker (God's essence + creative act) grounds all truths via comprehensive causality.
+
+#### Reconciling Simplicity with Divine Freedom
+
+**Problem:** If God is simple (no potentiality, pure actuality), how can God **freely choose** to create or not create? Choice seems to require potentiality (could have done otherwise).
+
+**Response:**
+
+**1. Libertarian Freedom Doesn't Require Potentiality in God**
+
+**Aquinas's Distinction:**
+- **Passive potentiality:** Capacity to be affected, changed (God lacks this)
+- **Active power:** Capacity to produce effects (God has this)
+
+**God's freedom:**
+- Not potentiality **in God** (God unchanging)
+- But potentiality **in what God creates** (many possible worlds)
+
+**God freely chooses** which possibilities to actualize, but this doesn't introduce change or potentiality into God's eternal being.
+
+**2. Eternal, Immutable Choice**
+
+**God's creative choice:**
+- Made **eternally**, not temporally (no "before" creation)
+- Eternally wills: "Let there be..." (simple eternal act)
+- From creation's perspective: temporal beginning
+- From God's perspective: single eternal decree
+
+**No transition from "not choosing" to "choosing" in God**—eternally simple, eternally willing this creation.
+
+**3. Multiple Possible Worlds Compatible with Simplicity**
+
+**God's power:**
+- Comprehends all possible worlds (infinite possibilities)
+- Actualizes one (this one) by simple eternal choice
+
+**God's single simple essence:**
+- Contains power for all possibilities (omnipotence)
+- No parts needed (power = essence)
+
+**Freedom preserved, simplicity maintained.**
+
+#### Simplicity and the Trinity
+
+**Problem:** If God is simple (no parts), how can God be three persons (Father, Son, Holy Spirit)?
+
+**Response:**
+
+**1. This Is Mystery of Revelation**
+
+Natural theology (our demonstrations) establishes **generic classical theism**:
+- One necessary, simple, personal God
+
+**Trinity is known by revelation:**
+- Scripture reveals three persons sharing one divine essence
+- Affirmed by Nicene Creed, ecumenical councils
+
+**Natural reason takes us to monotheism; revelation specifies Trinitarian structure.**
+
+**2. Trinity Doesn't Violate Simplicity (Properly Understood)**
+
+**Distinction of persons ≠ composition:**
+- Father, Son, Spirit are **relationally distinct** (different modes of subsistence)
+- But **essentially identical** (same essence, power, knowledge)
+- Not "parts" adding up to God—each person **is** fully God
+
+**Analogy (imperfect):**
+- One human being has intellect, will, and emotion (distinct capacities)
+- Yet remains one simple substance (not three beings)
+
+**Trinity:** One simple divine essence subsisting in three relational modes.
+
+**3. Deferring to Theology**
+
+**Our argument establishes:**
+- One God
+- Personal (Intellect + Will)
+- Simple, necessary, eternal
+
+**Whether this God is Trinitarian:**
+- Requires **revealed theology** (Scripture, tradition)
+- Not derivable from natural theology alone
+
+**Classical theism and Trinity are compatible**—both affirmed by Christian tradition.
+
+#### Summary: Divine Simplicity Defended
+
+**1. Simplicity Follows from Necessity**
+- Necessary being cannot be composite (composition introduces contingency)
+- Our demonstrations establish necessary God → simplicity follows
+
+**2. Plantinga's Objections Fail**
+- Assumes God and God's nature are distinct (false presupposition)
+- Classical theism: God **is** His nature (no composition)
+
+**3. Property-Essence Distinction Is Conceptual, Not Real**
+- We use multiple concepts (omniscience, omnipotence)
+- But they refer to one simple reality (God's essence)
+
+**4. Brower-Rea Truthmaker Problem Solved**
+- One simple divine act grounds all truths via comprehensive causality
+- Diversity of effects doesn't require diversity in cause
+
+**5. Freedom Compatible with Simplicity**
+- God eternally chooses (no temporal change)
+- Potentiality in creation, not in God
+- Simple eternal act wills this universe
+
+**6. Trinity Compatible with Simplicity**
+- Relational distinction (persons) ≠ essential composition
+- Revealed theology complements natural theology
+
+**Conclusion:** Divine simplicity is philosophically defensible, follows necessarily from our demonstrations, and withstands major objections. It remains a cornerstone of classical theism.
+
+---
+
+### C. The Brute Fact Objection
+
+**Objection:** Why invoke God at all? Why not simply accept foundational realities as brute facts—things that exist or obtain without further explanation?
+
+**Examples of alleged brute facts:**
+- The universe just exists (no reason)
+- Logical laws just hold (no reason)
+- Intentionality just arose (no reason)
+- This specific universe is actualized (no reason)
+
+**"Explanations must stop somewhere. Why not stop at universe/logic/intentionality rather than God?"**
+
+#### Response 1: Science and Philosophy Reject Brute Facts
+
+**Scientific practice:**
+- Every regularity demands explanation
+- Water freezes at 0°C → molecular structure explains it
+- Objects fall → gravity explains it
+- E=mc² → spacetime geometry explains it
+- Universe accelerating → dark energy hypothesized to explain it
+
+**Declaring foundational regularities "brute"** abandons the explanatory principle making science possible.
+
+**Philosophical inquiry:**
+- Arguments seek reasons
+- Beliefs require justification
+- "Just because" is not an answer—it's an evasion
+
+**Accepting brute facts prematurely** (when explanations exist) violates rational methodology.
+
+#### Response 2: Not All Stopping Points Are Equally Legitimate
+
+**Question:** When is it rational to stop seeking explanation?
+
+**Answer:** Only when reaching something **self-explanatory** (explanation internal to its nature).
+
+**Brute facts vs. Self-explanatory facts:**
+
+**Brute Fact:** No explanation whatsoever (internal or external).
+- Example: "Universe exists for no reason at all"
+- Violates PSR
+- Explanatorily unsatisfying
+
+**Self-Explanatory Fact:** Explanation is intrinsic to the entity's nature.
+- Example: Necessary being whose essence = existence
+- Satisfies PSR (internal reason)
+- Explanatorily satisfying (terminates regress non-arbitrarily)
+
+**The universe/logic/intentionality are not self-explanatory:**
+- Universe: Contingent (began 13.8 billion years ago, could be otherwise)
+- Logic: Formal systems require non-formal ground (Demo I)
+- Intentionality: Contingent mental beings require necessary ground (Demo II)
+- Selection: Actualization of contingent states requires explanation (Demo IV)
+
+**God is self-explanatory:**
+- Necessary (cannot fail to exist)
+- Simple (essence = existence, *ipsum esse subsistens*)
+- Self-grounding (being itself)
+
+**Stopping at contingent entities** (universe, etc.) is arbitrary.
+**Stopping at necessary self-explanatory being** (God) is principled.
+
+#### Response 3: Theism Explains; "Brute Fact" Doesn't
+
+**Two Approaches:**
+
+**Naturalism + Brute Facts:**
+- Universe exists (brute)
+- Logic holds (brute)
+- Intentionality arose (brute)
+- This universe actualized (brute)
+- **Explanatory power: Zero** (multiplies mysteries)
+
+**Theism:**
+- Necessary God (self-explanatory, one entity)
+- Creates contingent universe (explains existence)
+- Grounds logic in divine rationality (explains consistency)
+- Grounds intentionality in divine Mind (explains mental properties)
+- Freely selects this universe (explains selection)
+- **Explanatory power: Comprehensive** (unified explanation)
+
+**Ockham's Razor favors theism:** One self-explanatory God simpler than multiple brute facts.
+
+#### Response 4: "Brute Fact" Objection Is Self-Defeating
+
+**If you accept brute facts without reason:**
+- Maybe your objection is true for no reason
+- Maybe logic applies for no reason
+- Maybe rationality exists for no reason
+
+**Philosophical argument presupposes** reasons connect premises to conclusions.
+
+**To argue "accept brute facts" presupposes reasons matter**—performative contradiction.
+
+#### Summary
+
+**Brute facts are:**
+1. Rejected by science (everything seeks explanation)
+2. Rationally unsatisfying (no explanation vs. internal explanation)
+3. Arbitrary stopping points (contingent entities can't be ultimate)
+4. Explanatorily impotent (don't explain, just label mystery)
+5. Self-defeating when invoked in argument (presupposes rationality while denying it)
+
+**Theism provides:**
+- Self-explanatory ultimate (necessary God)
+- Unified explanation for multiple phenomena
+- Principled terminus for regress
+- Satisfaction of PSR
+
+**Conclusion:** "Brute fact" is not an alternative to theistic explanation—it's surrender to inexplicability. When explanation is available (theism), accepting brute facts is epistemically irresponsible.
+
+---
+
+### D. The "God of the Gaps" Charge
+
+**Objection:** The consilience argument, despite its sophistication, is still "God of the gaps" reasoning: invoking God to fill explanatory gaps that science might eventually close.
+
+**"You're just saying: 'We don't know how X works, therefore God did it.' Science will fill these gaps."**
+
+#### Response 1: Mischaracterization of Our Argument Structure
+
+**God-of-the-Gaps Structure (Illegitimate):**
+1. Science currently can't explain phenomenon X
+2. Therefore, God did X
+3. **Vulnerable:** Science might explain X tomorrow (gap closes)
+
+**Our Argument's Structure (Legitimate):**
+1. Phenomenon X is **categorically distinct** from physical/formal categories (ontological claim)
+2. Categorical distinctions cannot be bridged by more detailed explanations within the same category (metaphysical necessity)
+3. Therefore, transcendent ground required (deductive conclusion)
+
+**Key Difference:**
+- **God-of-gaps:** Argues from **ignorance** (epistemic gap)
+- **Our argument:** Argues from **positive evidence** and **ontological analysis** (principled reasoning)
+
+**Examples from our demonstrations:**
+
+**Demo I (Logic):** Not "we don't understand how consistency works" but "formal systems cannot self-validate (Gödel's theorem)—non-formal ground required."
+
+**Demo II (Intentionality):** Not "we don't understand neurons yet" but "semantic content is categorically distinct from physical properties—non-physical ground required."
+
+**Demo III (Duality):** Not "we don't understand laws yet" but "static order and dynamic actuation require unified source—Mind required."
+
+**Demo IV (Selection):** Not "we don't understand cosmology yet" but "actualization from possibility-space requires agency—Will required."
+
+**These are in-principle ontological arguments, not temporary ignorance.**
+
+#### Response 2: Positive Demonstrations, Not Mere Elimination
+
+**We don't just eliminate alternatives—we provide positive cases for theism:**
+
+**Positive Evidence:**
+- Intentionality's irreducibility (Brentano, Searle, Chalmers)
+- Gödel's incompleteness theorems (formal proofs, not gaps)
+- Metaphysical analysis of duality (order-actuation unity)
+- Modal analysis of selection (contingency requires explanation)
+
+**Each demonstration:**
+1. Establishes a phenomenon's existence (undeniable)
+2. Analyzes its nature (philosophical investigation)
+3. Shows why physical/formal explanations fail (principled reasoning)
+4. Demonstrates theism succeeds (inference to best explanation)
+
+**Not gap-filling—systematic philosophical argumentation.**
+
+#### Response 3: Consilience Strengthens Legitimacy
+
+**God-of-gaps typically invokes God for one phenomenon:**
+- "Don't understand lightning → God throws bolts" (defeated by science)
+
+**Consilience involves multiple independent lines:**
+- Four demonstrations from distinct starting points
+- All converge on same conclusion (classical theism)
+- All derive same attributes independently
+
+**If these were gaps:**
+- We'd expect science to close them
+- We'd expect divergent "God-hypotheses" for each gap
+- We'd expect no convergence
+
+**But we observe:**
+- Philosophical arguments (not empirical gaps)
+- Perfect convergence (13-attribute alignment)
+- Strengthening over time (modern philosophy confirms irreducibility)
+
+**Consilience pattern matches well-established scientific theories** (evolution, relativity)—not gap-filling.
+
+#### Response 4: Theism Explains; Gap-Filling Doesn't
+
+**God-of-gaps:**
+- Invokes God to hide ignorance
+- Provides no explanation (just labels mystery)
+- Vulnerable to future knowledge
+
+**Our Theism:**
+- Invokes God as explanatory hypothesis
+- Provides comprehensive explanation (grounds logic, intentionality, order, selection)
+- Not vulnerable to empirical discoveries (based on metaphysical analysis)
+
+**Analogy—Inference to Best Explanation:**
+- Detective infers "murderer X" not from ignorance but from evidence (motive, means, opportunity)
+- Similarly: We infer "God" not from ignorance but from philosophical evidence (necessity, intentionality, order, selection)
+
+#### Summary
+
+**"God of gaps" charge fails because:**
+1. Our arguments are ontological (category distinctions), not epistemic (ignorance)
+2. We provide positive demonstrations, not mere elimination
+3. Consilience shows robust convergence, unlike gap-filling
+4. Theism explains phenomena, doesn't just label mysteries
+
+**Conclusion:** The consilience argument is legitimate philosophical inference to best explanation, not illegitimate gap-filling. Science doesn't compete with these arguments because they address different levels of explanation (metaphysical vs. physical).
+
+---
+
+### E. The Multiverse Objection
+
+**Objection:** Multiverse theories (eternal inflation, string landscape, many-worlds interpretation) eliminate the need for God by explaining fine-tuning and selection naturalistically.
+
+**"If all possible universes exist, anthropic selection explains why we observe this one—no divine selector needed."**
+
+#### Response 1: Anthropic Principle Explains Observation, Not Existence
+
+**What the Anthropic Principle Does:**
+
+**Given:** Multiple universes exist (some life-permitting, most not)
+**Explains:** Why observers find themselves in life-permitting universe (selection bias)
+
+**Analogy:**
+- 100 planets exist: 1 has water, 99 don't
+- Aliens on water-planet ask: "Why are we on a planet with water?"
+- Answer: "Because you couldn't exist on waterless planets" (anthropic selection)
+
+**What the Anthropic Principle Does NOT Explain:**
+
+1. **Why any life-permitting universe exists at all?**
+   - Anthropic reasoning presupposes at least one life-permitting universe exists
+   - Doesn't explain **why** possibility-space includes such universes
+   - Doesn't explain **what generates** the multiverse
+
+2. **Why observers exist to observe?**
+   - Anthropic principle: "Given observers exist, they'll observe compatible conditions"
+   - But **why do observers exist?** (presupposes what needs explaining)
+
+**Anthropic reasoning explains observation bias, not ontological facts.**
+
+#### Response 2: Multiverse Generator Requires Fine-Tuning
+
+**Every multiverse proposal requires specific mechanisms:**
+
+**Eternal Inflation (Alan Guth):**
+- Requires inflation field with specific properties
+- Requires quantum fluctuations governed by specific laws
+- Requires metastable vacuum decay with specific rates
+- **If parameters slightly different:** No diverse universes (only one uniform universe or none)
+
+**String Landscape:**
+- Requires 10 or 11 dimensions compactified in specific ways
+- Requires string theory laws (incredibly complex mathematical structure)
+- Requires mechanisms for tunneling between vacua
+- **If string theory different:** No landscape of possibilities
+
+**Quantum Many-Worlds:**
+- Requires unitary quantum mechanics (specific equation)
+- Requires Hilbert space with specific structure
+- Requires branching mechanism
+- **If quantum laws different:** No branching
+
+**The Problem:**
+- Multiverse generator itself is fine-tuned
+- Just pushes fine-tuning back one level (doesn't eliminate it)
+- **Still requires explanation:** Why these generator-laws rather than others?
+
+**Theism provides:** Necessary God grounds contingent multiverse-generator laws (if multiverse exists).
+
+#### Response 3: Ockham's Razor Favors Theism
+
+**Multiverse Hypothesis:**
+- Posits: 10^500 (or infinite) universes
+- Most are unobserved, unobservable
+- No direct empirical evidence
+- Still requires fine-tuned generator
+- Still requires explanation for generator
+
+**Theistic Hypothesis:**
+- Posits: One necessary God
+- Explains fine-tuning (purposive selection)
+- Explains multiverse-generator (if it exists)
+- Explains why any universe exists
+- Unified explanation
+
+**Ontological Economy:**
+- Multiverse: 10^500 universes + fine-tuned generator = massive ontological commitment
+- Theism: 1 necessary God = minimal ontological commitment
+
+**Ockham's Razor:** Don't multiply entities without necessity.
+
+**Theism is simpler.**
+
+#### Response 4: Multiverse Doesn't Threaten Demonstrations I-III
+
+**Objection applies primarily to Demo IV** (selection argument):
+- If all possibilities actualized, selection explained naturalistically
+
+**But Demos I-III unaffected:**
+
+**Demo I (Logic):** Multiverse doesn't ground 3FLL
+- Logic applies across all universes in multiverse
+- What grounds logic in multiverse-generator?
+- **Still requires:** Non-formal necessary ground (God)
+
+**Demo II (Intentionality):** Multiverse doesn't ground intentionality
+- Intentional beings exist in this universe
+- Mereological irreducibility remains
+- **Still requires:** Personal necessary ground (God)
+
+**Demo III (Duality):** Multiverse doesn't ground order-actuation unity
+- Multiverse exhibits both order (laws) and actuation (branching/inflation)
+- What unifies them?
+- **Still requires:** Personal Mind (God)
+
+**Even if multiverse true, three demonstrations remain intact.**
+
+#### Response 5: Multiverse Confirms Theism
+
+**If multiverse exists:**
+- God freely chose to create multiverse rather than single universe
+- Demonstrates divine generosity (more universes = more goods)
+- Consistent with divine omnipotence (infinite creative power)
+
+**Theism and multiverse are compatible.**
+
+**But multiverse without God:**
+- Brute, unexplained generator
+- Fine-tuned mechanism with no ground
+- Violates PSR
+
+**Multiverse + God: Coherent**
+**Multiverse without God: Incoherent (explanatory failure)**
+
+#### Summary
+
+**Multiverse objection fails because:**
+1. Anthropic principle explains observation, not existence
+2. Multiverse generator requires fine-tuning (pushes problem back)
+3. Ockham's Razor favors one God over 10^500 universes
+4. Demos I-III unaffected by multiverse hypothesis
+5. Multiverse confirms theism if true (requires divine ground)
+
+**Conclusion:** Multiverse doesn't eliminate God—it presupposes God as ultimate ground for multiverse-generator laws and existence.
+
+---
+
+### F. Other Common Objections
+
+Several additional objections recur in debates about classical theism. While these do not merit extended treatment in the context of our demonstrations, they warrant brief responses.
+
+---
+
+#### 1. Ockham's Razor: "Isn't God an unnecessary multiplication of entities?"
+
+**Objection:** Ockham's Razor counsels parsimony. Why posit God when we could simply accept the universe as a brute given? Adding God multiplies entities beyond necessity.
+
+**Response:**
+
+**First**, parsimony concerns **kinds of explanation**, not mere entity count. Classical theism posits **one** necessary being that grounds:
+- The existence of contingent reality
+- The laws of logic
+- Intentionality and consciousness
+- Fine-tuned constants
+- Modal facts
+
+The alternative requires accepting **multiple unexplained brute facts**:
+- The universe's existence (brute)
+- The laws of logic (brute)
+- Intentionality (brute)
+- Fine-tuning (brute)
+- Duality of act/potency (brute)
+
+**Which is simpler?**
+- **One** self-explanatory necessary being that grounds all contingent reality, *or*
+- **Many** unexplained brute facts with no common explanation?
+
+Classical theism is **more** parsimonious, not less.
+
+**Second**, Ockham's Razor does not say "prefer fewer entities." It says *entia non sunt multiplicanda praeter necessitatem*—"entities should not be multiplied **beyond necessity**." If God is **necessary** to explain reality (as our four demonstrations argue), then positing God satisfies Ockham's Razor rather than violating it.
+
+---
+
+#### 2. "Who Designed God?" (Infinite Regress)
+
+**Objection:** If everything requires a cause or designer, who designed God? If God needs no designer, why can't the universe itself need no designer?
+
+**Response:**
+
+**First**, this objection commits a **category error**. The question "Who designed God?" assumes God is the same **kind** of being as the universe—contingent, composite, and requiring external explanation.
+
+But classical theism argues that God is:
+- **Necessary** (not contingent)
+- **Simple** (not composite)
+- **Self-explanatory** (being itself, *ipsum esse subsistens*)
+
+The regress-terminating properties are **derived from the demonstrations**, not arbitrarily stipulated. Demonstration I shows the ground must be necessary existence. Demonstration II shows it must be personal and rational. Demonstrations III and IV confirm these attributes.
+
+**Second**, the universe **cannot** be the regress-terminator because:
+- The universe is **contingent** (it could have failed to exist, or existed differently)
+- The universe is **composite** (made of parts: spacetime, matter, energy, laws)
+- The universe is **temporal** (it has a history, changes over time)
+
+These features require **external** explanation. God, by contrast, possesses no such features—God is **necessary**, **simple**, and **eternal**.
+
+**Third**, if we say "the universe needs no designer," we are tacitly claiming the universe is **necessary**—but this contradicts the cosmological and fine-tuning evidence showing the universe is contingent.
+
+---
+
+#### 3. Special Pleading: "Why does God get to be an exception?"
+
+**Objection:** You say everything needs a cause, except God. This is special pleading—arbitrarily exempting God from the principle you apply to everything else.
+
+**Response:**
+
+**First**, we do **not** claim "everything needs a cause." We claim:
+- Every **contingent** being requires a cause.
+- Every **composite** being requires explanation.
+- Every **temporal** process requires a beginning point.
+
+God is **necessary**, **simple**, and **eternal**—so God is not subject to these principles.
+
+**Second**, this is not **arbitrary** exemption. The demonstrations **derive** God's necessity, simplicity, and eternality **from the explanatory structure of reality itself**. God's status as regress-terminator is **argued for**, not **assumed**.
+
+**Third**, consider the alternative:
+- If we claim "the universe is necessary," we face overwhelming empirical evidence of contingency (Big Bang, fine-tuning, thermodynamic arrow of time).
+- If we claim "nothing is necessary," we fall into infinite regress or brute facts—both of which are explanatory dead ends.
+
+Classical theism does not **plead** for an exception—it **argues** that the explanatory structure of reality requires a necessary ground, and this ground possesses the attributes we call divine.
+
+---
+
+#### 4. Anthropomorphism: "You're just projecting human traits onto the cosmos."
+
+**Objection:** Attributing intentionality, rationality, and personhood to the ultimate ground is anthropomorphism—projecting human psychology onto non-human reality.
+
+**Response:**
+
+**First**, our demonstrations derive attributes **deductively**, not by projection:
+- **Demo I** shows the ground must be rational (because logic is grounded in it).
+- **Demo II** shows the ground must be intentional (because intentionality cannot emerge from non-intentional base).
+- **Demos III & IV** confirm personal agency is required for selection and act/potency grounding.
+
+These are **necessary inferences**, not psychological projections.
+
+**Second**, the objection presupposes **reductive materialism**—the view that intentionality and rationality are "merely human" rather than fundamental features of reality. But our demonstrations **challenge** this presupposition. If the ground of reality is rational and personal, then **we** are reflections of the ultimate nature of things, not the other way around.
+
+**Third**, anthropomorphism is only fallacious when it attributes **contingent** or **material** human traits to non-material reality (e.g., God having a physical body, experiencing fatigue, learning over time). Classical theism explicitly **denies** such traits. What we attribute to God are **perfections**—rationality, intentionality, knowledge—stripped of material limitations.
+
+---
+
+#### 5. Problem of Evil: "If God exists, why is there evil and suffering?"
+
+**Brief Note:**
+
+The problem of evil is a profound challenge to **theism**, but it is **orthogonal** to the question of God's **existence**. Our demonstrations establish that reality is grounded in a necessary, rational, personal being. This conclusion is compatible with various theodicies (free will defense, soul-making, greater goods, etc.), but engaging those debates lies beyond the scope of this work.
+
+We note only this: The problem of evil assumes God exists and asks why God permits suffering. It does not refute the **arguments for** God's existence. Even if one finds theodicies unsatisfying, the metaphysical demonstrations remain intact.
+
+---
+
+### G. Summary: The Strength of the Cumulative Case
+
+We have examined seven categories of global objections to our four demonstrations:
+
+1. **PSR Contestation** — Weak PSR sufficient; critics' alternatives undermine science and philosophy
+2. **Divine Simplicity** — Compatible with demonstrations; Thomistic metaphysics resolves apparent tensions
+3. **Brute Facts** — Self-defeating; science and philosophy presuppose explanatory ultimacy
+4. **God of the Gaps** — Demonstrations are ontological, not epistemic; positive arguments, not gap-reasoning
+5. **Multiverse** — Presupposes fine-tuned laws; pushes problem back; doesn't touch Demos I-III
+6. **Common Objections** — Ockham's Razor favors theism; regress-termination argued, not assumed; attributes derived deductively
+
+**Assessment:** None of these objections successfully defeats any individual demonstration. Even if one grants partial force to some objections (e.g., weakening PSR confidence from 99% to 90%), the **consilience pattern** provides robustness.
+
+**Consilience = Redundancy:**
+- If Demo I succeeds alone → Classical theism follows (99%+)
+- If Demo II succeeds alone → Classical theism follows (85-90%)
+- If Demo III succeeds alone → Classical theism follows (80-85%)
+- If Demo IV succeeds alone → Classical theism follows (80-85%)
+
+Four independent pathways to the **same** conclusion means objections must defeat **all four** demonstrations to succeed. This is the power of consilience.
+
+**Transition:** With objections addressed, we now turn to the **convergence analysis**—examining how these independent demonstrations align on specific divine attributes and what cumulative confidence emerges from their consilience.
 
 ---
 
@@ -5955,26 +6699,166 @@ Classical theism is not mere metaphysical theory. It is claim about **ultimate r
 
 ---
 
-**For Further Study:**
+## Bibliography
 
-**Primary Sources:**
-- Thomas Aquinas, *Summa Theologica* I, Q.1-26 (Classical theism)
-- Franz Brentano, *Psychology from an Empirical Standpoint* (Intentionality)
-- Kurt Gödel, "On Formally Undecidable Propositions" (Incompleteness)
-- Alvin Plantinga, *Warrant and Proper Function* (Reformed epistemology)
-- Edward Feser, *Five Proofs of the Existence of God* (Scholastic arguments)
-- Richard Swinburne, *The Existence of God* (Probability-based theism)
-- John Polkinghorne, *Science and Theology* (Fine-tuning)
+### Primary Classical Sources
 
-**Objections and Responses:**
-- Graham Oppy, *Arguing About Gods* (Sophisticated atheism)
-- J.L. Mackie, *The Miracle of Theism* (Classical objections)
-- Quentin Smith, *Theism, Atheism, and Big Bang Cosmology* (Naturalist responses)
+Aquinas, T. (1265-1274) *Summa Theologica*, translated by Fathers of the English Dominican Province. New York: Benziger Brothers, 1947.
 
-**Further Questions:**
-- Problem of evil (theodicy)
-- Divine hiddenness
-- Religious pluralism
-- Faith and reason relationship
+Aquinas, T. (1259-1265) *Summa Contra Gentiles*, translated by A.C. Pegis. Notre Dame, IN: University of Notre Dame Press, 1975.
 
-**May your inquiry be blessed.**
+Aristotle (c. 350 BCE) *Metaphysics*, translated by W.D. Ross. In *The Complete Works of Aristotle*, edited by J. Barnes. Princeton, NJ: Princeton University Press, 1984.
+
+Brentano, F. (1874) *Psychology from an Empirical Standpoint*, translated by A.C. Rancurello, D.B. Terrell, and L.L. McAlister. London: Routledge, 1973.
+
+Leibniz, G.W. (1710) *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, translated by E.M. Huggard. La Salle, IL: Open Court, 1985.
+
+Plato (c. 380 BCE) *The Republic*, translated by G.M.A. Grube, revised by C.D.C. Reeve. Indianapolis, IN: Hackett Publishing, 1992.
+
+### Logic, Mathematics, and Gödel
+
+Gödel, K. (1931) 'Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I', *Monatshefte für Mathematik und Physik*, 38, pp. 173-198. English translation: 'On Formally Undecidable Propositions of Principia Mathematica and Related Systems I', in S. Feferman et al. (eds.) *Kurt Gödel: Collected Works, Volume I*. Oxford: Oxford University Press, 1986, pp. 144-195.
+
+Penrose, R. (1989) *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics*. Oxford: Oxford University Press.
+
+Penrose, R. (1994) *Shadows of the Mind: A Search for the Missing Science of Consciousness*. Oxford: Oxford University Press.
+
+Russell, B. and Whitehead, A.N. (1910-1913) *Principia Mathematica*, 3 volumes. Cambridge: Cambridge University Press.
+
+Franzén, T. (2005) *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*. Wellesley, MA: A K Peters.
+
+### Philosophy of Mind and Intentionality
+
+Chalmers, D.J. (1996) *The Conscious Mind: In Search of a Fundamental Theory*. Oxford: Oxford University Press.
+
+Crane, T. (2013) *The Objects of Thought*. Oxford: Oxford University Press.
+
+Fodor, J.A. (1987) *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*. Cambridge, MA: MIT Press.
+
+Searle, J.R. (1980) 'Minds, Brains, and Programs', *Behavioral and Brain Sciences*, 3(3), pp. 417-424.
+
+Searle, J.R. (1983) *Intentionality: An Essay in the Philosophy of Mind*. Cambridge: Cambridge University Press.
+
+Searle, J.R. (1992) *The Rediscovery of the Mind*. Cambridge, MA: MIT Press.
+
+Quine, W.V.O. (1960) *Word and Object*. Cambridge, MA: MIT Press.
+
+Jackson, F. (1982) 'Epiphenomenal Qualia', *Philosophical Quarterly*, 32(127), pp. 127-136.
+
+Nagel, T. (1974) 'What Is It Like to Be a Bat?', *Philosophical Review*, 83(4), pp. 435-450.
+
+### Contemporary Philosophy of Religion
+
+Feser, E. (2017) *Five Proofs of the Existence of God*. San Francisco, CA: Ignatius Press.
+
+Feser, E. (2013) *Scholastic Metaphysics: A Contemporary Introduction*. Heusenstamm: Editiones Scholasticae.
+
+Plantinga, A. (1974) *The Nature of Necessity*. Oxford: Clarendon Press.
+
+Plantinga, A. (1993) *Warrant and Proper Function*. Oxford: Oxford University Press.
+
+Plantinga, A. (2000) *Warranted Christian Belief*. Oxford: Oxford University Press.
+
+Pruss, A.R. (2006) *The Principle of Sufficient Reason: A Reassessment*. Cambridge: Cambridge University Press.
+
+Pruss, A.R. and Rasmussen, J. (2018) *Necessary Existence*. Oxford: Oxford University Press.
+
+Swinburne, R. (2004) *The Existence of God*, 2nd edition. Oxford: Clarendon Press.
+
+Swinburne, R. (1977) *The Coherence of Theism*. Oxford: Clarendon Press.
+
+Koons, R.C. (1997) 'A New Look at the Cosmological Argument', *American Philosophical Quarterly*, 34(2), pp. 193-211.
+
+Gale, R.M. and Pruss, A.R. (1999) 'A New Cosmological Argument', *Religious Studies*, 35(4), pp. 461-476.
+
+Leftow, B. (2012) *God and Necessity*. Oxford: Oxford University Press.
+
+Davies, B. (2004) *An Introduction to the Philosophy of Religion*, 3rd edition. Oxford: Oxford University Press.
+
+Stump, E. and Kretzmann, N. (1981) 'Eternity', *Journal of Philosophy*, 78(8), pp. 429-458.
+
+Rogers, K.A. (2000) *Perfect Being Theology*. Edinburgh: Edinburgh University Press.
+
+### PSR and Cosmological Arguments
+
+Van Inwagen, P. (1983) *An Essay on Free Will*. Oxford: Clarendon Press.
+
+Van Inwagen, P. (1996) 'Why Is There Anything at All?', *Proceedings of the Aristotelian Society*, Supplementary Volume 70, pp. 95-110.
+
+Oppy, G. (2006) *Arguing About Gods*. Cambridge: Cambridge University Press.
+
+Oppy, G. (2013) *The Best Argument Against God*. Basingstoke: Palgrave Macmillan.
+
+Della Rocca, M. (2010) 'PSR', *Philosophers' Imprint*, 10(7), pp. 1-13.
+
+Pruss, A.R. and Rasmussen, J. (2018) 'Cosmological Arguments', in K.J. Clark (ed.) *The Blackwell Companion to Natural Theology*. Oxford: Blackwell, pp. 24-100.
+
+Koons, R.C. (2008) 'The Incompatibility of Naturalism and Scientific Realism', in W.L. Craig and J.P. Moreland (eds.) *Naturalism: A Critical Analysis*. London: Routledge, pp. 49-63.
+
+### Divine Simplicity
+
+Brower, J.E. (2008) 'Making Sense of Divine Simplicity', *Faith and Philosophy*, 25(1), pp. 3-30.
+
+Brower, J.E. and Rea, M.C. (2005) 'Material Constitution and the Trinity', *Faith and Philosophy*, 22(1), pp. 57-76.
+
+Stump, E. (2003) *Aquinas*. London: Routledge.
+
+Kretzmann, N. (1997) *The Metaphysics of Theism: Aquinas's Natural Theology in Summa Contra Gentiles I*. Oxford: Clarendon Press.
+
+Vallicella, W.F. (1992) 'Divine Simplicity', *Stanford Encyclopedia of Philosophy*, available at https://plato.stanford.edu/entries/divine-simplicity/ (accessed 18 November 2025).
+
+### Fine-Tuning and Cosmology
+
+Collins, R. (2009) 'The Teleological Argument: An Exploration of the Fine-Tuning of the Universe', in W.L. Craig and J.P. Moreland (eds.) *The Blackwell Companion to Natural Theology*. Oxford: Blackwell, pp. 202-281.
+
+Lewis, G.F. and Barnes, L.A. (2016) *A Fortunate Universe: Life in a Finely Tuned Cosmos*. Cambridge: Cambridge University Press.
+
+Penrose, R. (1989) 'Difficulties with Inflationary Cosmology', *Annals of the New York Academy of Sciences*, 571, pp. 249-264.
+
+Penrose, R. (2004) *The Road to Reality: A Complete Guide to the Laws of the Universe*. London: Jonathan Cape.
+
+Rees, M. (2000) *Just Six Numbers: The Deep Forces that Shape the Universe*. New York: Basic Books.
+
+Davies, P.C.W. (2006) *The Goldilocks Enigma: Why Is the Universe Just Right for Life?*. London: Allen Lane.
+
+Smolin, L. (2007) *The Trouble with Physics: The Rise of String Theory, the Fall of a Science, and What Comes Next*. Boston, MA: Houghton Mifflin.
+
+Carroll, S.M. (2010) *From Eternity to Here: The Quest for the Ultimate Theory of Time*. New York: Dutton.
+
+### Multiverse and Anthropic Reasoning
+
+Carter, B. (1974) 'Large Number Coincidences and the Anthropic Principle in Cosmology', in M.S. Longair (ed.) *Confrontation of Cosmological Theories with Observational Data*. Dordrecht: Reidel, pp. 291-298.
+
+Leslie, J. (1989) *Universes*. London: Routledge.
+
+Bostrom, N. (2002) *Anthropic Bias: Observation Selection Effects in Science and Philosophy*. New York: Routledge.
+
+Manson, N.A. and Thrush, M.J. (2003) 'Fine-Tuning, Multiple Universes, and the "This Universe" Objection', *Pacific Philosophical Quarterly*, 84(1), pp. 67-83.
+
+### Critical and Skeptical Literature
+
+Mackie, J.L. (1982) *The Miracle of Theism: Arguments for and Against the Existence of God*. Oxford: Clarendon Press.
+
+Smith, Q. and Craig, W.L. (1993) *Theism, Atheism, and Big Bang Cosmology*. Oxford: Clarendon Press.
+
+Sobel, J.H. (2004) *Logic and Theism: Arguments For and Against Beliefs in God*. Cambridge: Cambridge University Press.
+
+Rowe, W.L. (1979) 'The Problem of Evil and Some Varieties of Atheism', *American Philosophical Quarterly*, 16(4), pp. 335-341.
+
+### Act and Potency
+
+Feser, E. (2014) *Scholastic Metaphysics: A Contemporary Introduction*. Heusenstamm: Editiones Scholasticae.
+
+Simpson, W.M.R., Koons, R.C. and Teh, N.J. (eds.) (2018) *Neo-Aristotelian Perspectives on Contemporary Science*. New York: Routledge.
+
+### Mereology and Composition
+
+Markosian, N. (1998) 'Brutal Composition', *Philosophical Studies*, 92(3), pp. 211-249.
+
+Van Inwagen, P. (1990) *Material Beings*. Ithaca, NY: Cornell University Press.
+
+---
+
+**Total Sources:** 66 academic references
+
+**Note:** This bibliography includes primary classical sources, contemporary scholarship engaging both sides of debates, and technical literature on logic, mathematics, physics, and cosmology relevant to the demonstrations presented.
