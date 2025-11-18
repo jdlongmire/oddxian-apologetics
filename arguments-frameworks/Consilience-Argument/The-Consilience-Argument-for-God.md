@@ -4350,6 +4350,142 @@ Demonstration IV stands alone. Uses modal/selection approach distinct from Demon
 
 ---
 
+## Part V: Global Objections and Rebuttals
+
+### Overview
+
+The four demonstrations (I-IV) each face both demonstration-specific objections and objections that apply to the cumulative case as a whole. To avoid repetition, this section consolidates objections that recur across multiple demonstrations, providing systematic rebuttals that apply to the consilience argument generally.
+
+**Demonstration-specific objections** (e.g., functionalism for Demo II, formalism for Demo I, Boltzmann Brain for Demo IV) are addressed within their respective demonstrations. **Global objections** (e.g., PSR contestation, divine simplicity, brute facts) are addressed comprehensively here.
+
+Cross-references from individual demonstrations direct readers to the relevant subsections below.
+
+---
+
+### A. The Principle of Sufficient Reason (PSR): Contestation and Defense
+
+**[TO BE DEVELOPED - approximately 800-1000 words]**
+
+**Structure:**
+1. Statement of PSR (strong vs. weak formulations)
+2. Our demonstrations' dependence on weak PSR
+3. Van Inwagen's "mystery" objection
+4. Oppy's symmetry objection ("God is as brute as brute universe")
+5. Delaunay/Manchak cosmological contingency arguments
+6. Defense: Why weak PSR is rationally inescapable
+7. Defense: God is self-explanatory (essence = existence), universe is not
+
+**Content to be extracted from:**
+- Demo I objections section
+- Demo II objections section
+- Demo III objections section
+- Demo IV objections section
+- Convergence analysis PSR discussions
+
+---
+
+### B. Divine Simplicity: Defense and Reconciliation
+
+**[TO BE DEVELOPED - approximately 1200-1500 words - NEW CONTENT]**
+
+**Structure:**
+1. Statement of the doctrine
+2. How divine simplicity follows from our demonstrations
+3. Plantinga's objections:
+   - Sovereignty-aseity problem
+   - Property vs. essence distinction worries
+4. Brower-Rea truthmaker issues
+5. Thomistic response: actus purus and pure actuality
+6. Reconciliation: Simplicity vs. divine freedom
+7. Simplicity vs. Trinity (acknowledge, defer to revelation)
+
+**Key sources to engage:**
+- Plantinga, A. (2000) *Does God Have a Nature?*
+- Brower, J. & Rea, M. (2005) 'Material constitution and the Trinity'
+- Stump, E. & Kretzmann, N. (1985) 'Absolute simplicity'
+- Feser, E. (2017) *Five Proofs of the Existence of God*, ch. 1
+
+---
+
+### C. The Brute Fact Objection
+
+**[TO BE DEVELOPED - approximately 400 words]**
+
+**Structure:**
+1. Objection stated: "Why not accept universe/logic/intentionality as brute facts?"
+2. Response: PSR as rational default
+3. Response: Explanatory stopping points must be self-explanatory
+4. Response: God's necessity vs. universe's contingency
+
+**Content to be extracted from:**
+- Multiple demonstration objections sections
+- Consolidate repeated rebuttals
+
+---
+
+### D. The "God of the Gaps" Charge
+
+**[TO BE DEVELOPED - approximately 300 words]**
+
+**Structure:**
+1. Objection stated: "Consilience argument = sophisticated gap-filling"
+2. Response: Positive demonstrations, not negative elimination only
+3. Response: Consilience shows convergence of independent evidence
+4. Response: God explains data better than alternatives, not just "fills gaps"
+
+**Content to be extracted from:**
+- Scattered references in demonstrations
+- Inescapability Thesis connections
+
+---
+
+### E. The Multiverse Objection
+
+**[TO BE DEVELOPED - approximately 400 words]**
+
+**Structure:**
+1. Objection stated: "Multiverse explains fine-tuning, eliminates Demo IV"
+2. Response: Multiverse generator itself requires fine-tuning
+3. Response: Doesn't explain why *any* life-permitting universe exists
+4. Response: Anthropic principle explains observation bias, not existence
+5. Response: Theism simpler than 10^500 universes (Ockham's Razor favors theism)
+
+**Content to be extracted from:**
+- Demo III objections section
+- Demo IV objections section
+- Confirmatory Arguments (Fine-Tuning) section
+
+---
+
+### F. Other Common Objections
+
+**[TO BE DEVELOPED - approximately 500 words]**
+
+**Structure:**
+1. **Ockham's Razor:** One necessary God simpler than brute universe + brute logic + brute intentionality
+2. **"Who designed God?":** Category error—God is necessary, not contingent; design applies to contingent beings
+3. **Special Pleading:** Not special pleading—necessary being terminates regress by being self-explanatory
+4. **Anthropomorphism:** Classical theism derives attributes deductively, not by projection
+5. **Problem of Evil:** (Brief note) Not addressed here; orthogonal to God's existence
+
+**Content to be extracted from:**
+- Various objection sections
+- Common apologetic challenges
+
+---
+
+### G. Summary: The Strength of the Cumulative Case
+
+**[TO BE DEVELOPED - approximately 200 words]**
+
+**Structure:**
+1. Global objections do not defeat any individual demonstration
+2. Even if some objections succeed partially, consilience provides redundancy
+3. Four independent routes to same conclusion increases robustness
+4. Transition: With objections addressed, examine convergence in detail
+
+---
+
 ## Convergence Analysis: The Consilience Pattern
 
 ### Overview
