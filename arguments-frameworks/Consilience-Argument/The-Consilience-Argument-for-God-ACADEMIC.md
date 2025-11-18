@@ -4216,17 +4216,76 @@ All cosmological models presuppose **physical laws** (quantum mechanics, field t
 
 **Naturalism:** Laws are brute → violates PSR.
 
-#### Objection 5: "Denying PSR Is Philosophically Respectable"
+#### Objection 5: The Performative Self-Refutation of Rejecting PSR
+
+**Objection:** "I simply reject PSR. Weak PSR is still too strong. Some contingent things just happen without sufficient reason, and there's nothing incoherent about that position."
+
+**Response:**
+
+**Any denial of PSR—even weak PSR—is performatively self-defeating.**
+
+To argue that "the Principle of Sufficient Reason does not always hold" is to present that claim as **rationally warranted**—i.e., as something one has **sufficient reason** to believe.
+
+But if PSR sometimes fails, there is no sufficient reason to trust:
+- That one's cognitive faculties are reliable
+- That logic applies to this argument
+- That the inference "PSR sometimes fails → my belief is justified" is valid
+- That this very objection is anything more than a brute, unexplained neural event
+
+**The objector is using the very faculty of reason whose ultimate authority he is denying.**
+
+**Consider the dialectical situation:**
+
+**Theist:** "Contingent facts require sufficient reasons."
+
+**Skeptic:** "No they don't. I reject PSR."
+
+**Theist:** "Do you have a *reason* for rejecting PSR?"
+
+**Skeptic:** "Yes, because [X, Y, Z objections]..."
+
+**Theist:** "But if contingent facts don't require sufficient reasons, why should I accept that your reasons X, Y, Z are rationally binding? Why should I believe those reasons explain your position rather than being brute, unexplained mental events? You're appealing to reasons while denying that reasons matter."
+
+**The performative contradiction:**
+
+- **What the skeptic says:** "Sufficient reasons don't always exist."
+- **What the skeptic does:** Offers sufficient reasons for his position.
+
+**If PSR is false, there is no sufficient reason to believe the skeptic's denial of PSR is true**—or that any conclusion he has ever reached is rationally binding rather than a cosmic accident.
+
+**The rejection of PSR is not a live philosophical option for any rational agent.** It is intellectual suicide disguised as sophistication.
+
+---
+
+**One-line version for live debate:**
+
+*"If there is no sufficient reason why anything is the way it is, then there is no sufficient reason to believe your rejection of sufficient reason is true. So why are we still talking?"*
+
+---
+
+**Bottom Line:**
+
+You can **doubt PSR** privately as a psychological state. But the moment you **argue against PSR**, you performatively affirm it—because argumentation presupposes that reasons matter, that conclusions follow from premises for sufficient reasons, and that rational warrant exists.
+
+**To deny PSR in philosophical discourse is to saw off the branch you're sitting on.**
+
+This is why even sophisticated PSR skeptics (van Inwagen, Oppy) don't outright reject it—they raise worries about *which formulation* is defensible, or whether *alternative explanations* exist. But they cannot coherently deny that rational inquiry itself presupposes something like PSR.
+
+Our demonstrations require only **weak PSR**—that contingent facts have sufficient reasons. Denying even this minimal principle renders all rational discourse impossible.
+
+#### Objection 6: "Denying PSR Is Philosophically Respectable"
 
 **Objection:** Many respectable philosophers (Hume, Russell, van Inwagen) deny or doubt PSR. It's not a self-evident axiom.
 
 **Response:**
 
-**1. Denying PSR Is Self-Defeating in Philosophical Argument**
+**1. Respectability ≠ Rational Coherence**
 
-**If PSR is false:**
-- Your objection might be true for no reason
-- Logic might apply for no reason
+As shown in Objection 5, denying PSR is performatively self-defeating. That respectable philosophers doubt it doesn't make the position coherent—it makes their position incoherent.
+
+**2. What They Actually Deny**
+
+Most sophisticated skeptics don't deny PSR outright:
 - We might be rational for no reason
 
 **Philosophical argumentation presupposes** reasons connect premises to conclusions, evidence to beliefs.
