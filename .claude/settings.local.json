@@ -1,22 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git remote set-url:*)",
-      "Bash(git fetch:*)",
-      "WebFetch(domain:oddxian.com)",
-      "Bash(tree:*)",
-      "Bash(cat:*)",
-      "Bash(python health_check.py:*)",
-      "Bash(git rev-parse:*)",
       "Bash(git add:*)",
-      "Bash(git pull:*)",
-      "Bash(git commit -m \"$(cat <<''EOF''\nInitial repository setup with apologetics content and multi-LLM system\n\nAdded folder structure:\n- arguments-frameworks/ - Formal philosophical arguments\n- guides/ - Apologetics field guides\n- articles/ - Topical articles on fine-tuning, origin of life, epistemology, creation\n- assets/ - Visual resources and diagrams\n- multi_llm/ - Multi-LLM expert consultation system\n\nKey articles:\n- Fine-tuning and cosmic silence\n- Origin of life impossibility (James Tour)\n- Extraordinary claims (naturalism''s hidden assumptions)\n- Faith and reason as partners\n- Evolutionary epistemology consistency\n- Literal Programmatic Intervention (YEC systems approach)\n- Biblical slavery apologetics\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
-      "Bash(git push:*)",
       "Bash(git commit:*)",
-      "Bash(python mereological_consultation.py:*)",
-      "Bash(git restore:*)",
-      "Bash(find:*)",
-      "Bash(git mv:*)"
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
     ],
     "deny": [],
     "ask": []

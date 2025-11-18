@@ -327,25 +327,7 @@ This hierarchy matters because it shows:
 
 The following diagram shows the hierarchy of fundamentality—from most basic to most derivative:
 
-```mermaid
-graph TD
-    L1["<b>LEVEL 1: GOD</b><br/>Subsistent Rationality<br/>(Ipsum Intelligere Subsistens)"]
-    L2["<b>LEVEL 2: Three Fundamental Laws of Logic</b><br/>Law of Non-Contradiction (LNC)<br/>Law of Excluded Middle (LEM)<br/>Law of Identity (LI)"]
-    L3["<b>LEVEL 3: Abstract/Mathematical Truths</b><br/>Numbers, Sets, Platonic Forms<br/>Mathematical Structures"]
-    L4["<b>LEVEL 4: Formal Systems</b><br/>Arithmetic, Set Theory<br/>Peano Axioms, ZFC"]
-    L5["<b>LEVEL 5: Physical Reality</b><br/>Spacetime, Matter, Energy<br/>Physical Laws, Processes"]
-
-    L1 ==>|grounds non-arbitrarily| L2
-    L2 ==>|structures| L3
-    L3 ==>|enables| L4
-    L4 ==>|describes| L5
-
-    style L1 fill:#ccffcc,stroke:#009900,stroke-width:4px
-    style L2 fill:#e6f3ff,stroke:#0066cc,stroke-width:3px
-    style L3 fill:#fff4e6,stroke:#ff9900,stroke-width:2px
-    style L4 fill:#f9f9f9,stroke:#666,stroke-width:2px
-    style L5 fill:#f0f0f0,stroke:#333,stroke-width:2px
-```
+![Ontological Pyramid](graphics/ontological-pyramid.svg)
 
 ### Level 2: The Three Fundamental Laws of Logic
 
@@ -508,40 +490,7 @@ This leads us to the four demonstrations.
 
 The following diagram maps the logical paths available when confronted with the reality of purposive inquiry. Notice how every non-theistic path either collapses into self-refutation or loops back to requiring a transcendent ground:
 
-```mermaid
-graph TD
-    %% Main Starting Node
-    Start[PURPOSIVE INQUIRY<br/>The act of questioning, arguing, or evaluating this very argument]
-    style Start fill:#f9f9f9,stroke:#333,stroke-width:4px
-
-    %% Path 1: The Denial (Stubbornness)
-    Start -->|Option 1: Deny Purpose Exists| Denial[PERFORMATIVE SELF-REFUTATION<br/>'I am purposively arguing that purpose does not exist']
-    style Denial fill:#ffcccc,stroke:#cc0000,stroke-width:2px,stroke-dasharray: 5 5
-
-    %% Path 2: Naturalism / Physicalism
-    Start -->|Option 2: Ground in Physical/Emergence| Physicalism{The Mereological Test}
-    Physicalism -->|Syntax cannot produce Semantics| Fail1[MEREOLOGICAL FAILURE<br/>Ontological Gap: Matter cannot possess 'Aboutness']
-    style Fail1 fill:#ffcccc,stroke:#cc0000,stroke-width:2px
-
-    %% Path 3: The Existentialist Retreat (Non-Ultimate Purpose)
-    Start -->|Option 3: Claim Purpose is 'Constructed' or Subjective| Subjective[INTENTIONALITY PRESUPPOSED<br/>Construction requires representation & normativity]
-    Subjective -->|Still requires grounding| Physicalism
-    style Subjective fill:#fff4e6,stroke:#ff9900,stroke-width:2px
-
-    %% Path 4: Abstract Objects (Platonism)
-    Start -->|Option 4: Ground in Abstract Objects| Platonism[PLATONISM<br/>Mathematical/Logical objects as ultimate]
-    Platonism -->|Causal Inertness Problem<br/>Cannot actualize or select| Fail2[EXPLANATORY FAILURE<br/>Explains order but not actuation]
-    style Fail2 fill:#ffcccc,stroke:#cc0000,stroke-width:2px
-    Fail2 -->|Requires Personal Mind for actuation| Theism
-
-    %% Path 5: Chance / Multiverse
-    Start -->|Option 5: Appeal to Chance / Multiverse| Multiverse[MULTIVERSE GENERATOR]
-    Multiverse -->|The Generator itself requires<br/>Existence & Fine-Tuning & Selection| Theism
-
-    %% Path 6: Classical Theism
-    Start -->|Option 6: Ground in Personal Necessary Being| Theism[CLASSICAL THEISM<br/>✓ Explains Intentionality<br/>✓ Explains Logical Consistency<br/>✓ Explains Order-Actuation Unity<br/>✓ Explains Ontological Selection]
-    style Theism fill:#ccffcc,stroke:#009900,stroke-width:4px
-```
+![The Inescapability of Classical Theism](graphics/purposive-inquiry-inescapability.svg)
 
 **Key Insight:** This is not a mere preference or one argument among many. This is a map of **logical necessity**. Every alternative path encounters an insurmountable barrier or requires the very thing it seeks to avoid (a transcendent, personal ground). The diagram illustrates why classical theism is **rationally inescapable**.
 
@@ -5728,86 +5677,7 @@ This is consilience—and it is the signature of truth. When independent lines o
 
 The attribute matrix above shows **what** each demonstration proves. The following diagram shows **how** they converge—four independent starting points, four different methods, one unified conclusion:
 
-```mermaid
-flowchart TD
-    %% STRATEGY: Use "Title Nodes" (T1-T4) inside the boxes instead of subgraph labels.
-    %% This forces the renderer to allocate space for them, preventing clipping.
-
-    %% Central Conclusion Node
-    GOD["CLASSICAL THEISM<br/>Necessary, Personal, Rational, Volitional Ground"]
-    style GOD fill:#ccffcc,stroke:#009900,stroke-width:4px
-
-    %% Demonstration II
-    subgraph Demo1 [ ]
-        direction TB
-        %% Title Node acts as Header
-        T1["<b>Demonstration II</b><br/>Intentionality"]:::titleStyle
-
-        D1_Start["Starting Point:<br/>Purposive Inquiry Exists"]
-        D1_Method("Method:<br/>Mereological Analysis")
-        D1_Result["Result:<br/>Personal Ground w/ Intellect & Will"]
-
-        %% Link Title to Content invisibly
-        T1 ~~~ D1_Start --> D1_Method --> D1_Result
-    end
-    style Demo1 fill:#f9f9f9,stroke:#333,stroke-width:2px
-
-    %% Demonstration I
-    subgraph Demo2 [ ]
-        direction TB
-        T2["<b>Demonstration I</b><br/>Logical Consistency"]:::titleStyle
-
-        D2_Start["Starting Point:<br/>Formal Systems Exist"]
-        D2_Method("Method:<br/>Gödelian Incompleteness")
-        D2_Result["Result:<br/>Non-Formal Rational Validator"]
-
-        T2 ~~~ D2_Start --> D2_Method --> D2_Result
-    end
-    style Demo2 fill:#f9f9f9,stroke:#333,stroke-width:2px
-
-    %% Demonstration III
-    subgraph Demo3 [ ]
-        direction TB
-        T3["<b>Demonstration III</b><br/>Order & Actuation"]:::titleStyle
-
-        D3_Start["Starting Point:<br/>Duality of Law & Event"]
-        D3_Method("Method:<br/>Metaphysical Analysis")
-        D3_Result["Result:<br/>Unified Mind<br/>(Conceiver + Actualizer)"]
-
-        T3 ~~~ D3_Start --> D3_Method --> D3_Result
-    end
-    style Demo3 fill:#f9f9f9,stroke:#333,stroke-width:2px
-
-    %% Demonstration IV
-    subgraph Demo4 [ ]
-        direction TB
-        T4["<b>Demonstration IV</b><br/>Selection"]:::titleStyle
-
-        D4_Start["Starting Point:<br/>Contingent Universe Actualized"]
-        D4_Method("Method:<br/>Modal Elimination")
-        D4_Result["Result:<br/>Free Volitional Agent"]
-
-        T4 ~~~ D4_Start --> D4_Method --> D4_Result
-    end
-    style Demo4 fill:#f9f9f9,stroke:#333,stroke-width:2px
-
-    %% Convergence Links
-    D1_Result ==>|Confirms Personhood| GOD
-    D2_Result ==>|Confirms Rationality| GOD
-    D3_Result ==>|Confirms Unity| GOD
-    D4_Result ==>|Confirms Volition| GOD
-
-    %% Confirmatory Evidence
-    FineTuning[Fine-Tuning Evidence] -.->|Corroborates| D4_Result
-    ActPotency[Act/Potency Metaphysics] -.->|Corroborates| D3_Result
-
-    %% Cumulative Confidence Annotation
-    GOD --- Confidence["<b>CUMULATIVE CONFIDENCE: ~99.97%</b><br/>(Probability that all four independent lines fail is < 0.03%)"]
-    style Confidence fill:#ffffcc,stroke:#ffcc00,stroke-dasharray: 5 5
-
-    %% Style Class for Titles (Invisible background, bold text)
-    classDef titleStyle fill:none,stroke:none,font-size:16px,font-weight:bold,color:black;
-```
+![Consilience Structure](graphics/consilience-structure.svg)
 
 **Key Features:**
 
@@ -5898,33 +5768,7 @@ This is **practical certainty**.
 
 The following diagram shows how credence in theism increases as we sequentially update through each demonstration, starting from an agnostic prior (50/50):
 
-```mermaid
-graph LR
-    Prior["<b>Prior</b><br/>Agnostic: 50%<br/>Starting Point"]
-
-    Demo1["<b>After Demo II</b><br/>Intentionality<br/>Evidence LR: ~2.8<br/>Posterior: ~68%"]
-
-    Demo2["<b>After Demo I</b><br/>3FLL & Logic<br/>Evidence LR: ~4.5<br/>Posterior: ~85%"]
-
-    Demo3["<b>After Demo II</b><br/>Order-Actuation<br/>Evidence LR: ~3.2<br/>Posterior: ~93%"]
-
-    Demo4["<b>After Demo IV</b><br/>Selection<br/>Evidence LR: ~2.6<br/>Posterior: ~96%"]
-
-    Final["<b>Final Posterior</b><br/>~96% (Agnostic Prior)<br/>~99.97% (Combined)"]
-
-    Prior -->|Bayesian Update| Demo1
-    Demo1 -->|Bayesian Update| Demo2
-    Demo2 -->|Bayesian Update| Demo3
-    Demo3 -->|Bayesian Update| Demo4
-    Demo4 -->|Result| Final
-
-    style Prior fill:#e6f3ff,stroke:#0066cc,stroke-width:2px
-    style Demo1 fill:#d9f2e6,stroke:#00aa55,stroke-width:2px
-    style Demo2 fill:#d0f0d9,stroke:#009944,stroke-width:2px
-    style Demo3 fill:#c7efd0,stroke:#008833,stroke-width:2px
-    style Demo4 fill:#beedc7,stroke:#007722,stroke-width:2px
-    style Final fill:#ccffcc,stroke:#009900,stroke-width:4px
-```
+![Bayesian Updating](graphics/bayesian-updating.svg)
 
 **Key Insight:** Even starting skeptical (agnostic 50%), consilience drives credence systematically upward. Each independent demonstration provides evidence that updates our rational belief. By the end, theism reaches exceptionally high probability.
 
@@ -6486,35 +6330,7 @@ Many non-theistic positions bottom out in brute facts:
 
 #### The Arbitrariness Problem Visualized
 
-```mermaid
-graph TD
-    Start[Why can explanation stop HERE?]
-
-    Q1[Why not stop HERE instead?]
-    Q2[Or stop HERE?]
-    Q3[Or stop ANYWHERE?]
-
-    Answer[Answer: No Reason<br/>= ARBITRARY BOUNDARY]
-
-    Collapse[Consequence:<br/>Restricted PSR is Incoherent<br/>If explanation can stop anywhere,<br/>it can stop everywhere]
-
-    Start --> Q1
-    Start --> Q2
-    Start --> Q3
-
-    Q1 -.-> Answer
-    Q2 -.-> Answer
-    Q3 -.-> Answer
-
-    Answer ==> Collapse
-
-    style Start fill:#fff4e6,stroke:#ff9900,stroke-width:2px
-    style Q1 fill:#ffe6e6,stroke:#cc0000,stroke-width:2px
-    style Q2 fill:#ffe6e6,stroke:#cc0000,stroke-width:2px
-    style Q3 fill:#ffe6e6,stroke:#cc0000,stroke-width:2px
-    style Answer fill:#ffcccc,stroke:#cc0000,stroke-width:3px
-    style Collapse fill:#ff9999,stroke:#990000,stroke-width:4px
-```
+![The Arbitrariness Problem](graphics/arbitrariness-problem.svg)
 
 #### The Core Problem
 
