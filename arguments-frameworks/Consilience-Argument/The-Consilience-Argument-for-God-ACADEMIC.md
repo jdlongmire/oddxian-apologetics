@@ -160,6 +160,7 @@ Finally, I must acknowledge that this work itself exemplifies the rationality it
   - [H. Nihilism: No Ultimate Grounding](#h-nihilism-no-ultimate-grounding)
   - [I. Agnosticism: Cannot Know](#i-agnosticism-cannot-know)
   - [J. The Inescapability Map](#j-the-inescapability-map)
+  - [K. Summary of Inescapability Thesis](#k-summary-of-inescapability-thesis)
 - [Conclusion: The Rational Necessity of God](#conclusion-the-rational-necessity-of-god)
 - [Bibliography](#bibliography)
   - [Primary Classical Sources](#primary-classical-sources)
@@ -231,9 +232,9 @@ No single argument establishes all divine attributes. But taken together, these 
 
 **4. Cumulative Confidence (Consilience Power)**
 
-Demonstration I starts with 100% certainty (3FLL performatively undeniable). Demonstrations II-IV range from 85-90% confidence. But the cumulative case—where we ask "What is the probability that **at least one** succeeds?"—yields **~99.97% confidence**.
+Demonstration I starts with maximal certainty (3FLL performatively undeniable). Demonstrations II-IV are each highly probable on independent grounds. But the cumulative case—where we ask "What is the probability that **at least one** succeeds?"—yields **practical certainty** (>99.9% confidence; see Appendix for formal calculation).
 
-This is not argumentative redundancy. This is **consilience**: independent lines of evidence converging on the same reality with near-certainty.
+This is not argumentative redundancy. This is **consilience**: independent lines of evidence converging on the same reality with overwhelming probability.
 
 ---
 
@@ -242,25 +243,29 @@ This is not argumentative redundancy. This is **consilience**: independent lines
 **Meta-Syllogism 0: The Performative Foundation**
 - Establishes the undeniable starting point: purposive inquiry exists
 - Provides the rational foundation all subsequent arguments presuppose
-- Confidence: ~95-100% (performatively inescapable)
+- Assessment: Performatively inescapable (denial is self-refuting)
 
 **Four Primary Demonstrations** (Cumulative Case, Each Sufficient Independently)
-1. **From the Three Fundamental Laws of Logic to Subsistent Rationality** (~100% confidence)
+1. **From the Three Fundamental Laws of Logic to Subsistent Rationality**
    - Performatively undeniable starting point (3FLL)
    - Most philosophically fundamental demonstration
    - Establishes rational ground for all inquiry
+   - Assessment: Maximally certain
 
-2. **From Intentionality to Personal Ground** (~85-90% confidence)
+2. **From Intentionality to Personal Ground**
    - Phenomenological starting point
    - Mereological irreducibility of mental properties
+   - Assessment: Highly probable
 
-3. **From Duality to Mind** (~85% confidence)
+3. **From Duality to Mind**
    - Metaphysical starting point
    - Static order + dynamic actuation filter
+   - Assessment: Highly probable
 
-4. **From Ontological Selection to Volitional Agency** (~85% confidence)
+4. **From Ontological Selection to Volitional Agency**
    - Modal starting point
    - Actualization from possibility-space
+   - Assessment: Highly probable
 
 **Convergence Analysis**
 - Shows how four independent proofs point to one reality
@@ -351,7 +356,7 @@ This is **epistemic warrant for rational belief**—not absolute certainty (whic
 
 This document presents **four independent deductive demonstrations** for the existence of God, each using different methods and starting points, yet all converging on the **same conclusion**: a necessary, eternal, omniscient, omnipotent, personal Being—the God of classical theism.
 
-**The consilience structure** means that even if three demonstrations failed entirely, **one succeeding demonstration is sufficient** to establish classical theism. The probability that all four fail simultaneously is vanishingly small (~0.03%), yielding **99.97% cumulative confidence** that at least one succeeds.
+**The consilience structure** means that even if three demonstrations failed entirely, **one succeeding demonstration is sufficient** to establish classical theism. The probability that all four fail simultaneously is vanishingly small, yielding **practical certainty** (>99.9% confidence) that at least one succeeds (see Appendix for formal calculation).
 
 ---
 
@@ -6610,7 +6615,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### B. Naturalism: The Primary Alternative
+### C. Naturalism: The Primary Alternative
 
 **Naturalism Defined:** Only physical nature exists. No God, no immaterial souls, no abstract realm. Science describes all of reality.
 
@@ -6648,7 +6653,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### C. Platonism: Abstract Objects as Ultimate
+### D. Platonism: Abstract Objects as Ultimate
 
 **Platonism Defined:** Abstract objects (numbers, mathematical structures, logical truths) exist necessarily in independent realm. Physical reality "participates" in Forms.
 
@@ -6678,7 +6683,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### D. Pantheism: God = Universe
+### E. Pantheism: God = Universe
 
 **Pantheism Defined:** God and universe are identical. Everything that exists is God. No transcendent deity.
 
@@ -6705,7 +6710,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### E. Panpsychism: Proto-Mentality in Matter
+### F. Panpsychism: Proto-Mentality in Matter
 
 **Panpsychism Defined:** All fundamental particles possess primitive proto-mental properties. Consciousness emerges by combining proto-experiences.
 
@@ -6734,7 +6739,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### F. Idealism: Only Minds Exist
+### G. Idealism: Only Minds Exist
 
 **Idealism Defined:** Physical reality is mental construct. Only minds and ideas exist. Matter is appearance or idea in minds.
 
@@ -6760,7 +6765,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### G. Nihilism: No Ultimate Grounding
+### H. Nihilism: No Ultimate Grounding
 
 **Nihilism Defined:** No ultimate meaning, purpose, or grounding exists. Reality is brute, meaningless.
 
@@ -6791,7 +6796,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### H. Agnosticism: Cannot Know
+### I. Agnosticism: Cannot Know
 
 **Agnosticism Defined:** We cannot know whether God exists or what ultimate reality is.
 
@@ -6827,7 +6832,7 @@ Only the latter preserves explanation. Only the latter avoids arbitrariness.
 
 ---
 
-### I. The Inescapability Map
+### J. The Inescapability Map
 
 ```
 All Possible Positions on Ultimate Reality
@@ -6858,7 +6863,7 @@ All Possible Positions on Ultimate Reality
 
 ---
 
-### J. Summary of Inescapability Thesis
+### K. Summary of Inescapability Thesis
 
 **What We Have Shown:**
 
@@ -7211,7 +7216,7 @@ Classical theism is not mere metaphysical theory. It is claim about **ultimate r
 
 ---
 
-### G. Final Word
+### H. Final Word
 
 **The Consilience Argument for God** demonstrates:
 
