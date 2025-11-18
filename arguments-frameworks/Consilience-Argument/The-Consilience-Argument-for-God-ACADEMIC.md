@@ -4700,7 +4700,7 @@ Van Inwagen worries strong PSR leads to necessitarianism (everything necessary).
 **God (Classical Theism):**
 - **Necessary** (cannot fail to exist)
 - **Simple** (no composition, no parts, no essence-existence distinction)
-- **Self-explanatory:** Essence = existence (*ipsum esse subsistens*)
+- **Self-explanatory:** Essence = existence (*Ipsum Esse Subsistens*)
 - No external explanation needed—nature provides internal reason
 
 **Asymmetry:**
@@ -5255,7 +5255,7 @@ Natural theology (our demonstrations) establishes **generic classical theism**:
 
 **God is self-explanatory:**
 - Necessary (cannot fail to exist)
-- Simple (essence = existence, *ipsum esse subsistens*)
+- Simple (essence = existence, *Ipsum Esse Subsistens*)
 - Self-grounding (being itself)
 
 **Stopping at contingent entities** (universe, etc.) is arbitrary.
@@ -5599,7 +5599,7 @@ Classical theism is **more** parsimonious, not less.
 But classical theism argues that God is:
 - **Necessary** (not contingent)
 - **Simple** (not composite)
-- **Self-explanatory** (being itself, *ipsum esse subsistens*)
+- **Self-explanatory** (being itself, *Ipsum Esse Subsistens*)
 
 The regress-terminating properties are **derived from the demonstrations**, not arbitrarily stipulated. Demonstration I shows the ground must be necessary existence. Demonstration II shows it must be personal and rational. Demonstrations III and IV confirm these attributes.
 
