@@ -1,0 +1,28 @@
+{
+  "timestamp": "20251119_112102",
+  "gaps_analyzed": 4,
+  "gap1": {
+    "topic": "Isotope calculations & selective rescaling review",
+    "best_source": "grok",
+    "quality": 0.8099999999999999,
+    "file": "gap1_review_20251119_112102.json"
+  },
+  "gap2": {
+    "topic": "Israel junction conditions calculation",
+    "best_source": "grok",
+    "quality": 1.0,
+    "file": "gap2_israel_20251119_112102.json"
+  },
+  "gap3": {
+    "topic": "Intermediate H0 data search",
+    "best_source": "grok",
+    "quality": 1.0,
+    "file": "gap3_h0data_20251119_112102.json"
+  },
+  "gap4": {
+    "topic": "V_D -> Lambda mechanism evaluation",
+    "best_source": "grok",
+    "quality": 0.7,
+    "file": "gap4_lambda_20251119_112102.json"
+  }
+}
