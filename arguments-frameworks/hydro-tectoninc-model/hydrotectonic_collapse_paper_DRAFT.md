@@ -1,11 +1,9 @@
 # Hydrotectonic Collapse: A Physically Plausible Mechanism for Rapid Continental Reorganization During a Global Flood
 
-**Author:**
-James (JD) Longmire
-ORCID: 0009-0009-1383-7698
+**Author:**  
+James (JD) Longmire  
+ORCID: 0009-0009-1383-7698  
 Northrop Grumman Fellow (unaffiliated research)
-
-**Status:** Preprint. Submitted to Zenodo for open peer review and discussion. Supplementary appendices (mathematical models, energy budget tables, and detailed taphonomic analysis) in preparation.
 
 ---
 
@@ -414,10 +412,14 @@ Hydraulic collapse is not the final word but a physically plausible framework wi
 
 ---
 
-## APPENDICES
+## APPENDICES (OPTIONAL)
 
-Supplementary appendices containing detailed mathematical models, energy budget calculations, taphonomic sorting analysis, comparative tsunami modeling, and ringwoodite water-cycle documentation are in preparation and will be released as an updated version.
+### A. Mathematical Slip Models
+### B. Energy Budget Tables
+### C. Taphonomic Sorting Patterns
+### D. Comparative Tsunami Modeling
+### E. Ringwoodite Water-Cycle Notes
 
 ---
 
-**Correspondence:** jdlongmire@outlook.com
+**Draft Status:** Outline complete. Ready for section-by-section development.
