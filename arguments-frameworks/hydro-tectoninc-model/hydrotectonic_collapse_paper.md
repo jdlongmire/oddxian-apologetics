@@ -211,7 +211,7 @@ The heat budget during hydraulic collapse remains within bounds that allow surfa
 
 Total energy dissipation during the flood year can be estimated from the work required to move crustal blocks and deform sediments. Consider moving N blocks with average mass M over average distance D against frictional force F. The work done is W = N·F·D. For hydroplaning on thin water films with near-zero effective stress, F is far smaller than for dry friction. If friction coefficient drops from 0.6-0.85 (dry rock on rock; Byerlee, 1978) to ~0.01 (water-lubricated; Di Toro et al., 2011; Marone, 1998), the work required drops by a factor of 60-85. With friction reduced to roughly 1% of what would be required under lithostatic effective stress, only a small fraction of the available gravitational potential energy must be dissipated as frictional heat.
 
-For order-of-magnitude estimation: moving ten continental-scale blocks (M ~ 10²⁰ kg each) an average of 1000 km with friction coefficient 0.01 and effective stress reduced to 1% of lithostatic gives total work W ~ 10²³ J. This is one to two orders of magnitude above the integrated global seismic energy release over thousands of years, but dissipated in one year. Distributed over Earth's surface area (5 × 10¹⁴ m²) over one year (3 × 10⁷ s), this corresponds to an average flux of ~7 W/m².
+For order-of-magnitude estimation: moving ten continental-scale blocks (M ~ 10²⁰ kg each) an average of 1000 km with friction coefficient 0.01 and effective stress reduced to 1% of lithostatic gives total work W ~ 10²³ J. This is one to two orders of magnitude above the integrated global seismic energy release over thousands of years, but dissipated in one year. Distributed over Earth's surface area (5 × 10¹⁴ m²) over one year (3 × 10⁷ s), this corresponds to an average flux of ~7 W/m². This calculation accounts for frictional work during sliding. Additional heat from kinetic energy dissipation when blocks decelerate is negligible: for blocks moving at 100 m/hr, kinetic energy is KE = ½Mv² ≈ 4 × 10¹⁶ J per block, giving total kinetic dissipation of ~ 4 × 10¹⁷ J for ten blocks (less than 0.5% of the frictional budget). The dominant energy source is gravitational potential energy as blocks settle into lower elevations, releasing ΔPE = MgΔh ~ 10²⁴ J. The frictional dissipation estimate (10²³ J) represents approximately 10% of this available gravitational energy, with the remainder partitioned among seismic radiation, plastic deformation, and residual potential energy in the post-collapse configuration.
 
 For comparison, Earth's geothermal heat flux is ~0.09 W/m² (Pollack et al., 1993; Davies and Davies, 2010), and solar input is ~340 W/m² (Kopp and Lean, 2011). An additional 7 W/m² is significant but not catastrophic. Surface temperature increase depends on how efficiently this heat can be radiated away. If surface temperature rises by ΔT, the increase in outgoing radiation is approximately 4σT³ΔT, where σ is the Stefan-Boltzmann constant (σ = 5.67 × 10⁻⁸ W/m²K⁴) and T is surface temperature (Turcotte and Schubert, 2002). For T ~ 288 K, 4σT³ ~ 6 W/m²·K. To radiate an additional 7 W/m² requires ΔT ~ 1 K, completely negligible.
 
@@ -258,6 +258,12 @@ Mantle tomography shows thermal anomalies associated with upwelling plumes and d
 Heat flow measurements show elevated heat flux at mid-ocean ridges and low flux in old oceanic basins, consistent with the cooling of oceanic lithosphere as it moves away from spreading centers (Stein and Stein, 1992; Sclater et al., 1980). This pattern requires tens of millions of years to establish in uniformitarian models. In the hydrotectonic framework, it reflects rapid cooling of newly formed oceanic crust in the immediate post-collapse period followed by thermal equilibration over several thousand years. The functional form of heat flow vs. age can be similar even if the absolute timescale differs, particularly if one accounts for the elevated initial temperatures in regions that experienced intense deformation during collapse.
 
 Crustal thickness patterns correlate with tectonic setting: thick continental crust, thin oceanic crust, intermediate arc crust. These variations are established during and immediately after collapse through the processes described earlier: continental blocks retain their thick crust because interior deformation is minimal, oceanic crust forms thin because it is generated at mid-ocean ridges where mantle upwelling provides limited magma supply, and arc crust thickens through magmatic addition in subduction zones. Once established, these patterns persist because erosion and sedimentation operate slowly. The crustal structure we observe today is thus a combination of syn-collapse formation and post-collapse modification, both of which are consistent with known processes even if the timescales differ radically from uniformitarian assumptions.
+
+**A critical distinction regarding observational constraints:** Seismic tomography, geochemical analysis, and structural geology constrain the **present-day** configuration of Earth's lithosphere, not its pre-flood state. The observation that modern cratons possess deep lithospheric roots (extending 200-250 km into the mantle) with chemically depleted, buoyant compositions is fully consistent with the hydrotectonic model. The model explicitly predicts these features as **post-collapse structures** that formed during the transition to modern plate tectonics, not as pre-existing elements that survived collapse unchanged.
+
+During the post-collapse transition (Section 5.2), as blocks re-coupled to the mantle and lithospheric keels developed through chemical differentiation, thermal contraction, and isostatic adjustment, the cratonic roots observed today would have formed. The specific mechanisms and timescales for this lithospheric evolution represent an open research question: whether rapid chemical depletion can occur on millennial timescales under elevated heat flow and accelerated subduction rates requires detailed geochemical modeling beyond this paper's scope. However, the key methodological point stands: using current seismic structure to constrain pre-collapse crustal architecture is circular reasoning when the model explicitly predicts that modern lithospheric structure formed **after** hydraulic collapse ceased.
+
+To falsify the hydrotectonic model on the basis of cratonic roots, one must demonstrate that the observed deep lithospheric structure **existed before** the collapse event in its current configuration. Seismic tomography and geochemical observations show only the present state. Interpreting these observations as evidence of ancient (billion-year) stability imports uniformitarian assumptions about lithospheric evolution, the very framework this model challenges. The model does not require (nor does it exclude) the existence of lithospheric heterogeneities or incipient chemical differentiation in the pre-flood mantle; it requires only that the current deep-root configurations not be retroactively applied as constraints on the pre-flood crustal regime, which was fundamentally different in mechanical properties, fluid content, and permeability structure (Section 2.1).
 
 The critical point is that the transition from hydrotectonic to geothermal regime is not ad hoc but follows naturally from the exhaustion of mobile water. Once water drains from the crustal network, hydraulic processes cease, and mantle-driven processes take over. What we observe today reflects the operation of those mantle processes over the post-flood period. The absence of active hydrotectonic processes in the modern Earth is not evidence against the model but confirmation that the collapse was a transient event that exhausted itself and transitioned into the current regime.
 
@@ -384,6 +390,16 @@ The spatial arrangement of collapse features should show:
 
 This requires reconstructing pre-collapse geography, but once done, the pattern of features should make sense in terms of differential block motion rather than appearing randomly distributed.
 
+**Prediction 9: Post-collapse lithospheric evolution signatures**
+
+If cratonic roots formed during the post-collapse transition under elevated heat flow and rapid chemical differentiation (rather than over billions of years), they should show:
+- Geochemical signatures of rapid melt extraction (disequilibrium trace element patterns, kinetic fractionation effects)
+- Thermal histories indicating brief high-temperature episodes followed by rapid cooling
+- Structural fabrics consistent with rapid strain rates rather than slow annealing
+- Isotopic signatures indicating compressed timescales for chemical depletion
+
+These signatures would distinguish catastrophic root formation from slow uniformitarian evolution and provide testable constraints on the post-collapse timeline. If cratonic lithosphere shows evidence of formation under extreme conditions (high heat flow, rapid chemical transport, elevated fluid activity) rather than slow equilibrium processes, this would support the model's prediction that modern deep lithospheric structure developed during the post-collapse transition rather than pre-existing the flood event.
+
 **Falsification criteria:**
 
 The model would be falsified or severely weakened by:
@@ -424,6 +440,8 @@ Byerlee, J., 1978. Friction of rocks. *Pure and Applied Geophysics*, 116(4-5), p
 
 Carrivick, J.L. and Tweed, F.S., 2013. Proglacial lakes: character, behaviour and geological importance. *Quaternary Science Reviews*, 78, pp.34-52.
 
+Chester, F.M. and Chester, J.S., 1998. Ultracataclasite structure and friction processes of the Punchbowl fault, San Andreas system, California. *Tectonophysics*, 295(1-2), pp.199-221.
+
 Costa, J.E. and Schuster, R.L., 1988. The formation and failure of natural dams. *Geological Society of America Bulletin*, 100(7), pp.1054-1068.
 
 Davies, J.H. and Davies, D.R., 2010. Earth's surface heat flux. *Solid Earth*, 1(1), pp.5-24.
@@ -446,6 +464,8 @@ Grand, S.P., van der Hilst, R.D. and Widiyantoro, S., 1997. Global seismic tomog
 
 Hacker, B.R., Peacock, S.M., Abers, G.A. and Holloway, S.D., 2003. Subduction factory 2. Are intermediate‐depth earthquakes in subducting slabs linked to metamorphic dehydration reactions? *Journal of Geophysical Research: Solid Earth*, 108(B1).
 
+Held, I.M. and Soden, B.J., 2000. Water vapor feedback and global warming. *Annual Review of Energy and the Environment*, 25(1), pp.441-475.
+
 Hildebrand, A.R., Penfield, G.T., Kring, D.A., Pilkington, M., Camargo-Z., A., Jacobsen, S.B. and Boynton, W.V., 1991. Chicxulub crater: A possible Cretaceous/Tertiary boundary impact crater on the Yucatán Peninsula, Mexico. *Geology*, 19(9), pp.867-871.
 
 Hirth, G. and Kohlstedt, D.L., 2003. Rheology of the upper mantle and the mantle wedge: A view from the experimentalists. *Inside the Subduction Factory*, 138, pp.83-105.
@@ -453,6 +473,8 @@ Hirth, G. and Kohlstedt, D.L., 2003. Rheology of the upper mantle and the mantle
 Hudec, M.R. and Jackson, M.P.A., 2007. Terra infirma: Understanding salt tectonics. *Earth-Science Reviews*, 82(1-2), pp.1-28.
 
 Inoue, T., Yurimoto, H. and Kudoh, Y., 1995. Hydrous modified spinel, Mg1.75SiH0.5O4: a new water reservoir in the mantle transition region. *Geophysical Research Letters*, 22(2), pp.117-120.
+
+Iribarne, J.V. and Godson, W.L., 1981. *Atmospheric Thermodynamics*. 2nd ed. Dordrecht: D. Reidel Publishing.
 
 Jackson, M.P.A. and Talbot, C.J., 1991. A glossary of salt tectonics. *Bureau of Economic Geology, University of Texas at Austin*, Geological Circular 91-4.
 
@@ -462,11 +484,15 @@ Karato, S.I. and Wu, P., 1993. Rheology of the upper mantle: A synthesis. *Scien
 
 Keranen, K.M., Weingarten, M., Abers, G.A., Bekins, B.A. and Ge, S., 2014. Sharp increase in central Oklahoma seismicity since 2008 induced by massive wastewater injection. *Science*, 345(6195), pp.448-451.
 
+Kiehl, J.T. and Trenberth, K.E., 1997. Earth's annual global mean energy budget. *Bulletin of the American Meteorological Society*, 78(2), pp.197-208.
+
 Kohlstedt, D.L., Keppler, H. and Rubie, D.C., 1996. Solubility of water in the α, β and γ phases of (Mg,Fe)2SiO4. *Contributions to Mineralogy and Petrology*, 123(4), pp.345-357.
 
 Kopp, G. and Lean, J.L., 2011. A new, lower value of total solar irradiance: Evidence and climate significance. *Geophysical Research Letters*, 38(1), L01706.
 
 Lemmon, E.W., McLinden, M.O. and Friend, D.G., 2018. Thermophysical Properties of Fluid Systems. In: *NIST Chemistry WebBook, NIST Standard Reference Database Number 69*, Eds. P.J. Linstrom and W.G. Mallard, National Institute of Standards and Technology, Gaithersburg MD, 20899.
+
+Lachenbruch, A.H. and Sass, J.H., 1980. Heat flow and energetics of the San Andreas fault zone. *Journal of Geophysical Research*, 85(B11), pp.6185-6222.
 
 Marone, C., 1998. Laboratory-derived friction laws and their application to seismic faulting. *Annual Review of Earth and Planetary Sciences*, 26(1), pp.643-696.
 
@@ -512,7 +538,108 @@ Waples, D.W. and Waples, J.S., 2004. A review and evaluation of specific heat ca
 
 ## APPENDICES
 
-Supplementary appendices containing detailed mathematical models, energy budget calculations, taphonomic sorting analysis, comparative tsunami modeling, and ringwoodite water-cycle documentation are in preparation and will be released as an updated version.
+### APPENDIX B: ATMOSPHERIC EFFECTS OF STEAM PRODUCTION DURING HYDRAULIC COLLAPSE
+
+The reviewer raised a legitimate concern: if $10^{23}$ J of energy is dissipated into water during hydraulic collapse, significant vaporization could occur, potentially creating a runaway greenhouse effect. This appendix demonstrates quantitatively that steam production remains within bounds that allow biosphere survival.
+
+**Energy Budget and Vaporization**
+
+Not all frictional work becomes heat in water. Based on fault mechanics literature showing 70-90% of frictional work converts to heat (Lachenbruch and Sass, 1980; Chester and Chester, 1998), we conservatively assume 70% of total work heats water directly:
+
+$$E_{water} = 0.7 \times 10^{23} = 7 \times 10^{22}~\text{J}$$
+
+Of this, approximately 70% goes to vaporization at high-energy sites near fault zones, with the remainder causing bulk water heating:
+
+$$E_{vap} = 0.7 \times 7 \times 10^{22} = 5 \times 10^{22}~\text{J}$$
+
+Water must be heated from average surface temperature (15°C) to boiling (100°C) before vaporization. The energy per kilogram is:
+
+$$Q_{total} = c_p(T_b - T_i) + L_v = 4186(85) + 2.26 \times 10^6 = 2.62 \times 10^6~\text{J/kg}$$
+
+where $c_p = 4186$ J/kg·K is the specific heat capacity and $L_v = 2.26 \times 10^6$ J/kg is the latent heat of vaporization (Lemmon et al., 2018).
+
+Mass vaporized:
+$$m_{vap} = \frac{E_{vap}}{Q_{total}} = \frac{5 \times 10^{22}}{2.62 \times 10^6} = 1.9 \times 10^{16}~\text{kg}$$
+
+**Context:**
+- Ocean mass: $1.4 \times 10^{21}$ kg
+- Fraction vaporized: 0.0014% (negligible depletion)
+- Equivalent depth: 5.3 cm (trivial)
+
+**Temporal Distribution**
+
+Critical constraint: vaporization occurs over the entire flood year (3.15 × 10⁷ s), not instantaneously.
+
+Vaporization rate:
+$$\dot{m}_{vap} = \frac{1.9 \times 10^{16}}{3.15 \times 10^7} = 6.0 \times 10^8~\text{kg/s}$$
+
+Modern global evaporation rate: ~$1.6 \times 10^{10}$ kg/s
+
+**Interpretation:** The additional vaporization from frictional heating is only 3.8% of modern evaporation, a minor perturbation to the hydrological cycle.
+
+**Atmospheric Impact and Greenhouse Effect**
+
+Current atmospheric water vapor: ~$1.3 \times 10^{16}$ kg (0.25% of atmospheric mass)
+
+If all vaporized water entered the atmosphere simultaneously, vapor would increase by 146%. However, this scenario is unrealistic because:
+
+1. **Rapid condensation:** Atmospheric residence time for water vapor is ~9 days in modern climate, likely 3-5 days during the flood due to elevated convection
+2. **Continuous precipitation:** Condensation and rainfall return water to the surface
+3. **Steady-state balance:** Atmospheric vapor content adjusts to balance vaporization and precipitation rates
+
+In steady state, global precipitation increases by ~4% to match the enhanced vaporization, producing only a 4% increase in atmospheric water vapor (not 146%).
+
+Radiative forcing from water vapor scales logarithmically:
+$$\Delta F \approx 3.5 \times \ln(1.04) \approx 0.14~\text{W/m}^2$$
+
+Temperature response (Stefan-Boltzmann):
+$$\Delta T = \frac{\Delta F}{4\sigma T^3} = \frac{0.14}{5.39} \approx 0.03~\text{K}$$
+
+**Direct Atmospheric Heating**
+
+Alternative scenario: if latent heat from condensation heats the atmosphere directly:
+
+Latent heat released: $Q = m_{vap} \times L_v = 4.3 \times 10^{22}$ J
+
+Atmospheric heat capacity: $C_{atm} = m_{atm} \times c_p = 5.2 \times 10^{21}$ J/K
+
+Temperature increase: $\Delta T = Q/C_{atm} = 8.3$ K
+
+However, radiative cooling prevents this temperature from being sustained. Over one year, the atmosphere can radiate:
+
+$$E_{rad} = 4\sigma T^3 \Delta T \times A_{Earth} \times t \approx 7.2 \times 10^{23}~\text{J}$$
+
+This is 17× larger than the latent heat input, meaning the atmosphere cannot sustain an 8 K increase. Equilibrium warming is ~0.5-1.5 K as rapid radiation balances heat input.
+
+**Summary**
+
+| Parameter | Value | Interpretation |
+|-----------|-------|----------------|
+| Water vaporized | $1.9 \times 10^{16}$ kg | 0.0014% of ocean |
+| Vaporization rate | $6 \times 10^8$ kg/s | 4% of modern evaporation |
+| Precipitation increase | ~4% | Within natural variability |
+| Atmospheric vapor increase (steady-state) | ~4% | Not 146% (transient max) |
+| **Temperature increase** | **0.5-1.5 K** | **Tolerable for biosphere** |
+
+**Physical Mechanisms Preventing Runaway:**
+1. Temporal distribution (1 year, not instantaneous)
+2. Rapid condensation (residence time ~3-5 days)
+3. Elevated precipitation (water returns to surface)
+4. Radiative cooling (atmosphere radiates excess heat efficiently)
+5. Oceanic thermal inertia (ocean absorbs heat without large temperature change)
+
+**Conclusion:** The "steam problem" does not invalidate the hydrotectonic model. Water vaporization produces modest global warming (~1 K) and elevated precipitation, consistent with flood narrative and biosphere survival. No runaway greenhouse effect occurs.
+
+**Additional References for Appendix B:**
+- Chester, F.M. and Chester, J.S., 1998. Ultracataclasite structure and friction processes of the Punchbowl fault, San Andreas system, California. *Tectonophysics*, 295(1-2), pp.199-221.
+- Held, I.M. and Soden, B.J., 2000. Water vapor feedback and global warming. *Annual Review of Energy and the Environment*, 25(1), pp.441-475.
+- Iribarne, J.V. and Godson, W.L., 1981. *Atmospheric Thermodynamics*. 2nd ed. Dordrecht: D. Reidel Publishing.
+- Kiehl, J.T. and Trenberth, K.E., 1997. Earth's annual global mean energy budget. *Bulletin of the American Meteorological Society*, 78(2), pp.197-208.
+- Lachenbruch, A.H. and Sass, J.H., 1980. Heat flow and energetics of the San Andreas fault zone. *Journal of Geophysical Research*, 85(B11), pp.6185-6222.
+
+---
+
+**Note:** Supplementary appendices containing detailed mathematical models for other aspects (taphonomic sorting analysis, comparative tsunami modeling, and ringwoodite water-cycle documentation) are in preparation and will be released as an updated version.
 
 ---
 
