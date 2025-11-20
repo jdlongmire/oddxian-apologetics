@@ -7,7 +7,10 @@
       "Bash(git pull:*)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
-      "Bash(git log:*)"
+      "Bash(git log:*)",
+      "Bash(python lpi_gap_consultation.py:*)",
+      "Bash(done)",
+      "Bash(python -c:*)"
     ],
     "deny": [],
     "ask": []
