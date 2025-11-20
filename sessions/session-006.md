@@ -223,8 +223,88 @@ If Option A chosen:
 - `1ba90a2` - Update local settings
 
 **Current State:**
-- Paper: `hydrotectonic_collapse_paper.md` (646 lines, with all revisions)
-- PDF: `hydrotectonic_collapse_paper.pdf` (19MB, latest version)
-- Supporting materials: Organized in `supporting-data/` subfolder (19 files)
+- Paper: `hydrotectonic_collapse_paper.md` (664 lines, with all revisions including final reviewer feedback)
+- PDF: `hydrotectonic_collapse_paper.pdf` (needs regeneration)
+- Supporting materials: Organized in `supporting-data/` subfolder (21 files)
 - Repository: Clean, synced with origin/main
-- Ready for: Zenodo submission or further review
+- Ready for: PDF regeneration and Zenodo submission
+
+---
+
+## Final Reviewer Feedback Implementation
+
+**Reviewer Verdict:** "This is the strongest version of the manuscript to date" - Very close to release-ready
+
+### Revisions Completed (Phases 1-2)
+
+**Phase 1 - High Priority (Prevents Easy Dismissal):**
+
+1. ✅ **Worked Example for Driving Forces** (Section 4.1:174)
+   - Added quantitative force balance calculation
+   - Block: 800 km × 1000 km × 35 km (M ≈ 8 × 10¹⁹ kg)
+   - Driving force: ~2 × 10¹⁸ N (gravity + pressure gradient)
+   - Frictional resistance: ~3 × 10¹⁶ N (friction collapse regime)
+   - **Result:** 70:1 force imbalance favoring motion
+   - Demonstrates stated velocities (tens to hundreds m/hr) are achievable
+
+2. ✅ **Specific Isotope-Resetting Examples** (Section 6.5:302)
+   - Alpine nappes: Anomalous Ar retention, Rb-Sr disturbance from fluid-mediated recrystallization
+   - Himalayan leucogranites: U-Pb zircon partial resetting from hydrothermal fluids
+   - Scandinavian Caledonides: Multi-system isotopic disturbance (Rb-Sr, Sm-Nd, U-Pb)
+   - Demonstrates crustal-scale fluid migration can disturb isotopic systematics
+
+3. ✅ **Summary of Key Claims** (Section 1.4:52-66)
+   - 6-point concise summary added at end of Introduction
+   - Thermodynamic feasibility, mechanical plausibility, water budget closure
+   - Structured deposition, transition to modern tectonics, testable predictions
+   - Helps orient reviewers to paper's core propositions
+
+**Phase 2 - Medium Priority (Improves Clarity and Flow):**
+
+4. ✅ **Shortened Section 2.1** (25% reduction)
+   - Reduced from 633 to 475 words (exceeded 10-15% target)
+   - Removed repetition while preserving all technical content
+   - Tightened crustal storage capacity paragraph
+   - Condensed mobile vs. bound water distinction
+
+5. ✅ **Removed Paragraph Repetition**
+   - Section 6.3 condensed from full repetitive summary to brief reference
+   - Eliminated redundancy with Section 4.3 (fossil sorting mechanisms)
+   - Maintains answer to objection while avoiding repetition
+
+6. ✅ **Clarified Fossil Section Language** (Section 4.3:214)
+   - Added: "later in the same event" (not different times)
+   - Explicit: "spatial (topographic) distribution, not temporal succession"
+   - Prevents misinterpretation of elevation as time
+
+### Files Created/Modified
+
+**Modified:**
+- `hydrotectonic_collapse_paper.md` (646 → 664 lines, net +18)
+
+**New Supporting Documents:**
+- `supporting-data/DRIVING_FORCES_CALCULATION.md` (detailed force balance work)
+- `supporting-data/REVIEWER_FEEDBACK_PLAN.md` (systematic implementation plan)
+
+**Commits Made:**
+- `e40cb59` - FINAL REVISION: Incorporate professional reviewer feedback (3 files, 611 insertions)
+
+### Paper Status: Release-Ready
+
+**Reviewer assessment:** "Very close to a polished, defendable preprint"
+
+**All substantive concerns addressed:**
+- ✅ Thermodynamic argument is organizing scaffold
+- ✅ Crustal architecture scientifically grounded
+- ✅ Transition to modern tectonics explained coherently
+- ✅ Heat budget math defensible
+- ✅ Basin geometry & tsunami constraints clear
+- ✅ Predictions concrete and testable
+- ✅ Driving forces quantitatively demonstrated
+- ✅ Isotope disturbance examples provided
+
+**Remaining work:**
+- Regenerate PDF from updated markdown
+- Optional: Add figures (force vectors, cascade flowchart) in future version
+
+**Next step:** Generate final PDF and proceed to Zenodo submission
