@@ -1,4 +1,4 @@
-# Hydrotectonic Collapse: A Physically Plausible Mechanism for Rapid Continental Reorganization During a Global Flood
+# Rapid Continental Reorganization Through Hydraulic Collapse: A Solution to the Heat Problem in Catastrophic Plate Tectonics
 
 **Author:**
 James (JD) Longmire
