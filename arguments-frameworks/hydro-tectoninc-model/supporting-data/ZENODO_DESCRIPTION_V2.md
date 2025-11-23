@@ -1,8 +1,10 @@
 # Zenodo Entry Description - Version 2
 
 **Date:** 2025-11-22
-**DOI Concept:** 10.5281/zenodo.17663309
-**Status:** Version 2 description for Appendix C release
+**DOI (v2 specific):** 10.5281/zenodo.17684983
+**DOI (concept):** 10.5281/zenodo.17663309
+**Status:** Published
+**URL:** https://zenodo.org/records/17684983
 
 ---
 

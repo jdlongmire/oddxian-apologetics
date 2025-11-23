@@ -280,9 +280,38 @@ User preparing Zenodo v2 upload with Appendix C. Created documentation file with
 
 ---
 
+---
+
+### 9. Zenodo v2 Published - COMPLETED
+
+**DOI (v2 specific):** 10.5281/zenodo.17684983
+**DOI (concept):** 10.5281/zenodo.17663309
+**Publication date:** 2025-11-22
+
+**Files uploaded:**
+- Main paper: Rapid Continental Reorganization Through Hydraulic Collapse (~50 pages)
+- Appendix C: Earth-System Context for Hydraulic Collapse (~12 pages)
+- Total size: 207.3 kB
+
+**Description:** Updated with v2 additions section as documented in ZENODO_DESCRIPTION_V2.md
+
+**Early metrics:**
+- 53 views
+- 49 downloads
+
+Strong engagement for technical preprint. Heat problem solution clearly attracting interest.
+
+**Next planned version:**
+- v3: Add Heat-Transport-Dilatant-Shear.md as companion paper
+- Timing: TBD, after PDF creation and any additional review
+
+---
+
 ## Session Status: COMPLETE
 
 All work successfully committed and pushed to repository.
+
+Zenodo v2 published: https://zenodo.org/records/17684983
 
 ---
 
