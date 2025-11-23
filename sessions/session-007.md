@@ -227,6 +227,35 @@ User actions:
 
 ---
 
+---
+
+### 7. Support-01 Review and Rename - COMPLETED
+
+**Reviewed:** User's companion paper on crustal heat transport via dilatant shear mechanics
+
+**Alignment check:**
+- Heat budget fully consistent (10²³ J, ~6-7 W/m², ~1 K)
+- Addresses Tier 1 critical gap: heat transport through shear zones
+- Complementary scope: Main paper (bulk energy), Support-01 (crustal transport), Appendix C (atmospheric export)
+- No conflicts detected
+
+**Decision:** Keep as standalone companion paper rather than appendix
+- Support-01 is complete research paper (abstract, 10 sections, references, falsification criteria)
+- Not supplementary material - it's independent validation of key prediction
+- Standalone positioning maintains main paper focus
+
+**File organization:**
+- Renamed: `Hydrotectonics-support-01.md` → `Heat-Transport-Dilatant-Shear.md`
+- Location: Root hydro-tectonic folder (confirmed)
+- More descriptive filename matches paper content
+
+**Zenodo v2 structure:**
+- Primary: Rapid Continental Reorganization Through Hydraulic Collapse
+- Companion: Heat Transport via Dilatant Shear Mechanics
+- Supplementary: Appendix C Earth-System Context
+
+---
+
 ## Session Status: COMPLETE
 
 All work successfully committed and pushed to repository.
