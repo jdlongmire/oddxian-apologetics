@@ -256,6 +256,30 @@ User actions:
 
 ---
 
+---
+
+### 8. Zenodo v2 Description - COMPLETED
+
+**Created:** ZENODO_DESCRIPTION_V2.md in supporting-data/
+
+User preparing Zenodo v2 upload with Appendix C. Created documentation file with:
+- Complete updated description text
+- Metadata summary
+- Files for upload
+- Version notes (what's new in v2)
+
+**Key decision:** Modified existing description rather than adding separate description
+- Maintains coherent narrative about the work
+- Clearly documents v2 additions
+- Standard practice for versioned releases
+
+**Description structure:**
+1. Original core description (unchanged)
+2. Version 2 additions section (Appendix C)
+3. Files included list
+
+---
+
 ## Session Status: COMPLETE
 
 All work successfully committed and pushed to repository.
