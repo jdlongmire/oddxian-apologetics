@@ -37,7 +37,7 @@
 ---
 
 #### **2. Clarify Systems Engineering Metaphor Role**
-**Status:** Not Started
+**Status:** ✅ COMPLETED (2025-11-22)
 
 **Issue:** Currently conflates metaphor (programming language) with mechanism (hydrotectonic physics)
 
@@ -51,6 +51,22 @@
 - Introduction (Section 2)
 - Throughout where "programmatic" language appears
 - Add brief methodological note distinguishing analog from mechanism
+
+**Actual Changes Made:**
+1. **Abstract**: Added clarification that systems engineering concepts are "illustrative analogies" while mechanisms are "grounded in thermodynamics and geophysics"
+2. **Section 2.1 (NEW)**: Added comprehensive methodological note "Distinguishing Metaphor from Mechanism" explaining:
+   - Progressive revelation through technology
+   - Metaphors are pedagogical, not mechanistic
+   - Clear distinction between Illustrative Language vs. Substantive Mechanisms
+3. **Section 3 (PROGRAMMATIC)**: Revised to emphasize "analogous to sophisticated software" and "analogical language illuminating design principles"
+4. **Section 3 (INTERVENTION)**: Removed programming language ("admin-level commands"), focused on physics (temporal parameters, initial conditions)
+5. **Section 2 intro**: Changed "sophisticated programming" to "remarkable sophistication and latent capacities"
+6. **Section 7 intro**: Added "mechanism rests on thermodynamics and friction physics"
+7. **Section 7.1**: Changed "programmatic element" to "intentional design...analogous to how software engineers build systems"
+8. **Section 7.8**: Emphasized "testable physical mechanisms...not merely theological assertions cloaked in technical language"
+9. **Day 3 creation**: Changed "biological programming" to "encoded genetic information"
+
+**Result**: Metaphor role now clear throughout. Readers understand systems engineering language helps recognize design intent, but physics provides the testable content.
 
 ---
 
@@ -189,7 +205,7 @@
 | Section | Priority | Status | Notes |
 |---------|----------|--------|-------|
 | 5.2 Multi-Threading | 1 | ✅ COMPLETED | Expanded ~10 → ~82 lines |
-| Throughout (metaphor) | 1 | Not Started | Clarify role |
+| Throughout (metaphor) | 1 | ✅ COMPLETED | Metaphor vs. mechanism clarified |
 | 10.3 Falsification | 1 | Not Started | Distinguish core/mechanisms |
 | Objection 5 (Ice Cores) | 2 | Not Started | Remove or revise |
 | Objection 2 (Dating) | 2 | Not Started | Streamline |
