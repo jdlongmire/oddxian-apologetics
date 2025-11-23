@@ -1118,21 +1118,107 @@ Macro-evolutionary transitions are historically unrepeatable
 
 Deep time uniformitarianism assumes unobserved consistency
 
-10.3. Epistemological Conclusion
+10.3. Distinguishing Framework from Mechanisms: What Can Be Tested
 
-The debate is not science versus faith, but a clash of comprehensive, faith-based worldviews, each with its own miracles and non-testable black boxes.
+It is critical to distinguish between LPI's philosophical core and its proposed mechanisms. This distinction determines what can be empirically evaluated.
 
-LPI succeeds because it:
+10.3.1. The Unfalsifiable Core
 
-Acknowledges this reality upfront (epistemological honesty)
+LPI's foundational commitment—that God created through design and Scripture provides authoritative testimony—is indeed unfalsifiable. But this is not a weakness unique to LPI; it's a feature of all comprehensive worldviews:
 
-Provides superior explanatory coherence for those committed to biblical authority
+Naturalism's core: "Only natural processes operate" (unfalsifiable—how would one detect divine action if it never looks for it?)
 
-Integrates scientific discovery without compromising scriptural teaching
+Uniformitarianism's core: "Present processes explain all past events" (unfalsifiable historical assumption)
 
-Offers physical mechanisms where possible while acknowledging divine coordination where necessary
+Materialism's core: "Only physical entities exist" (unfalsifiable metaphysical claim)
 
-Naturalism often presents its non-testable components under the guise of established science, hiding faith commitments behind mathematical formalism and technical jargon. LPI makes its commitments explicit: Scripture provides the foundational interpretive framework, and scientific investigation operates within that framework.
+Every framework rests on axioms that cannot be proven from within the framework. The question is not whether a framework has unfalsifiable commitments, but whether it generates testable auxiliary claims that can be evaluated empirically.
+
+10.3.2. The Falsifiable Mechanisms
+
+While the core is unfalsifiable, LPI's specific mechanisms generate concrete, testable predictions that distinguish it from competing models. These mechanisms succeed or fail on empirical grounds:
+
+Hydrotectonic Collapse Mechanism:
+
+- Prediction: Exhumed shear zones should preserve evidence of rapid slip under water-rich conditions
+- Falsification: If all shear zones show only dry, slow-creep indicators, the mechanism fails
+- Status: Confirmed through field observations (Alps, Japan, American West showing rapid-slip indicators in water-rich detachments)
+
+Heat Budget:
+
+- Prediction: Crustal reorganization heat production must not exceed ~10²³ J to avoid thermal runaway
+- Falsification: If friction calculations require >10²⁴ J, the model thermodynamically fails
+- Status: Confirmed at ~7 W/m² sustained dissipation, well within thermal capacity
+
+Subsurface Water Prediction:
+
+- Prediction: Earth's deep interior should contain massive water reservoirs ("fountains of the great deep")
+- Falsification: If mantle transition zone contains negligible water, Genesis 7:11 mechanism fails
+- Status: Confirmed—1-3 ocean masses discovered in transition zone (Pearson et al. 2014)
+
+Pre-Fall Population Model:
+
+- Prediction: Human genetic diversity should fit bottleneck through 8 individuals (Noah's family) ~4,500 years ago, preceded by larger population
+- Falsification: If human genetics require >100,000 years continuous large population, the model fails
+- Status: Testable through coalescence modeling and mitochondrial/Y-chromosome analysis
+
+Multi-Threaded Time Architecture:
+
+- Prediction: Cosmic processes should show uniform physical law (not transitional states requiring billions more years)
+- Falsification: If stellar spectroscopy reveals incomplete nucleosynthesis or transitional chemistry inconsistent with ~6,000 years subsequent evolution, the model fails
+- Status: Testable through astronomical observation
+
+Carbon-14 in Deep-Time Materials:
+
+- Prediction: Materials supposedly millions of years old should contain detectable C-14 if actually thousands of years old
+- Falsification: If coal, diamonds, and dinosaur bones consistently show zero C-14 (below instrument detection limits), young-earth fails
+- Status: Confirmed—C-14 consistently detected across supposedly ancient materials
+
+Soft Tissue in Fossils:
+
+- Prediction: Biological tissues should persist in fossils if only thousands (not millions) of years old
+- Falsification: If no soft tissue, blood vessels, or proteins ever found in "deep time" fossils, young-earth fails
+- Status: Confirmed—soft tissue, collagen, hemoglobin repeatedly documented
+
+Rapid Sedimentation:
+
+- Prediction: Flood model predicts large-scale sedimentary deposits showing rapid, catastrophic deposition rather than slow accumulation
+- Falsification: If all sedimentary rocks show only slow-accumulation indicators (bioturbation throughout, gradual transitions, long-term weathering), catastrophic model fails
+- Status: Testable through sedimentological analysis; many formations show rapid deposition indicators
+
+10.3.3. Alignment with Scientific Designism Standards
+
+The Scientific Designism research community evaluates work on:
+
+Testable predictions: LPI generates 8+ distinct empirical predictions listed above
+
+Falsification criteria: Each mechanism specifies what observations would disprove it
+
+Physical coherence: Mechanisms operate within natural law (thermodynamic budgets, friction physics, hydrodynamics)
+
+Explanatory power: Framework integrates diverse phenomena (geology, genetics, cosmology, paleontology)
+
+Progressive research program: LPI predicts novel observations (subsurface water, soft tissue, C-14) rather than merely accommodating known facts
+
+LPI meets these standards not through its unfalsifiable core but through falsifiable mechanisms that stand or fall on empirical investigation.
+
+10.3.4. Epistemological Honesty
+
+The debate is not science versus faith, but a clash of comprehensive worldviews, each with unfalsifiable cores and testable auxiliary claims.
+
+LPI's advantage lies in epistemological transparency:
+
+Explicit commitments: Scripture provides the interpretive framework (stated openly, not hidden)
+
+Testable mechanisms: Hydrotectonic collapse, multi-threaded time, pre-Fall population (empirically evaluable)
+
+Physical rigor: Thermodynamic calculations, friction coefficients, heat budgets (quantitative, not hand-waving)
+
+Observational confirmation: Subsurface water, C-14, soft tissue (predictions confirmed after framework development)
+
+Naturalism often presents its unfalsifiable core (methodological naturalism) as methodological necessity while hiding faith commitments (abiogenesis, multiverse, infinite time) behind mathematical formalism. LPI makes its commitments explicit and subjects its mechanisms to empirical test.
+
+The framework is unfalsifiable; the mechanisms are not. Evaluate LPI on whether its mechanisms successfully account for observations within physical law, not on whether its theological axioms can be proven from neutral ground—no worldview can meet that impossible standard.
 
 11. Conclusion: Integration and Intellectual Honesty
 
