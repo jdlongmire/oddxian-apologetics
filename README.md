@@ -12,6 +12,37 @@ The goal is to provide intellectually sound, biblically-grounded responses that 
 
 ## Work Summary
 
+### ✅ Completed: Session 010 - New Frameworks (2025-11-29)
+
+**Three new argument frameworks added:**
+
+#### Hydrotectonic Collapse Model - Citation Validated
+Young-earth hydraulic mechanism for rapid plate tectonics, bypassing the heat problem of catastrophic plate tectonics.
+- **Core Innovation:** Shift from geothermal to hydraulic driving - crustal blocks hydroplane on thin water films
+- **Heat Budget:** ~7 W/m² flux producing ~1 K temperature increase (vs. hundreds of Kelvin in mantle models)
+- **Water Budget:** 1-3 ocean masses now in transition zone minerals (ringwoodite, wadsleyite)
+- **Citation Validation:** 32/51 references individually verified (100% success rate)
+- 📄 [hydrotectonic_collapse_paper.md](arguments-frameworks/hydro-tectoninc-model/hydrotectonic_collapse_paper.md)
+- 📋 [CITATION_VALIDATION_REPORT.md](arguments-frameworks/hydro-tectoninc-model/CITATION_VALIDATION_REPORT.md)
+
+#### Deep Time Unfalsifiability - Lakatosian Analysis
+Philosophy of science paper applying Lakatos's methodology of scientific research programmes to deep time.
+- **Thesis:** Deep time exhibits practical unfalsifiability - cannot specify falsification conditions in advance
+- **Domains Examined:** Soft tissue preservation, stratigraphic anomalies, radiometric discordances, circular calibration, epistemic distance
+- **Key Finding:** Framework systematically absorbs anomalies through post hoc auxiliary hypotheses
+- 📄 [deep_time_unfalsifiability_revised.md](arguments-frameworks/deep-time-reevaluated/deep_time_unfalsifiability_revised.md)
+- 📄 PDFs: v1.0 and v2.0 included
+
+#### Divine Hiddenness Response
+Theological response to the hiddenness objection against Christianity.
+- **Core Arguments:** God seeks love not forced recognition; hiddenness preserves moral agency
+- **Predictions:** Jesus predicted resurrection wouldn't convince hard hearts; Romans 1 accuracy on suppression
+- **Consilience:** Evidence across cosmology, biology, consciousness, mathematics, morality, history
+- **Key Insight:** Naturalists would reinterpret even blatant signs - the problem is interpretive posture
+- 📄 [divine-hiddenness-final.md](arguments-frameworks/divine-hiddenness/divine-hiddenness-final.md)
+
+---
+
 ### ✅ Completed: The Consilience Argument - Academic Edition (Session 003)
 
 **Status:** Publication-ready manuscript (~33,500 words) - Submission ready for Oxford/Cambridge/Routledge
