@@ -99,4 +99,17 @@
 
 ---
 
-## Interaction Count: 2
+### 3. Deep Time Unfalsifiability Paper - ADDED
+
+**New Framework:** `arguments-frameworks/deep-time-reevaluated/`
+
+**Files:**
+- `deep_time_unfalsifiability_revised.md` (530 lines)
+- `Longmire_Deep_Time_Unfalsifiability_2025.pdf`
+- `Longmire_Deep_Time_Unfalsifiability_2025_v2.0.pdf`
+
+**Summary:** Lakatosian analysis arguing deep time functions as a practically unfalsifiable research programme. Examines five domains: soft tissue preservation, stratigraphic anomalies, radiometric discordances, circular calibration, and epistemic distance.
+
+---
+
+## Interaction Count: 4
