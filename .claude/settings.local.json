@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nLPI-V3: Complete Priority 2 revisions (all items)\n\nPRIORITY 2 COMPLETED - All 4 Items:\n\nItem 4: Ice Core Objection\n- Revised from weak alternative to honest acknowledgment\n- Admits substantial challenge requiring further research\n\nItem 5: Radiometric Dating\n- Streamlined by removing weak arguments (accelerated decay, functional creation)\n- Kept strong Hawaiian lava example and assumption dependence\n\nItem 6: Fossil Sequence\n- Moderated claims, acknowledged uniformitarian success\n- Honest about fine-scale biostratigraphy challenges\n\nItem 7: Personal Testimony Separation\n- Removed all first-person framing from Section 2 (lines 36, 40, 42)\n- Revised Section 2.1 to objective tone (lines 54, 56)\n- Changed Section 5.2.2 to third-person (line 187)\n- Analytical tone throughout, suitable for academic publication\n\nFiles Modified:\n- Literal-Programmatic-Intervention-V3-SUBSTACK.md\n- sessions/session-008.md\n- LPI-V3-REVISION-PLAN.md\n\nStatus: Priority 1 & 2 complete. Priority 3 (enhancements) optional.\n\nGenerated with Claude Code\nhttps://claude.com/claude-code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
