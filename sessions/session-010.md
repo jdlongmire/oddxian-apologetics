@@ -95,7 +95,7 @@
 - Sources include: Nature, Science, GSA, AGU, Cambridge University Press, Springer, Wiley
 - Paper meets academic publication citation standards
 
-**Output File:** `CITATION_VALIDATION_REPORT.json` saved to hydro-tectoninc-model folder
+**Output File:** `CITATION_VALIDATION_REPORT.md` saved to hydro-tectoninc-model folder
 
 ---
 
