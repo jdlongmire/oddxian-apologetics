@@ -1,5 +1,7 @@
 # "Love Your Neighbor as Yourself": Refuting the "God Endorses Slavery" Error
 
+![Love Your Neighbor as Yourself - From Law to Liberation](figures/slavery-argument.jpg)
+
 **James (JD) Longmire**  
 ORCID: 0009-0009-1383-7698  
 Northrop Grumman Fellow (unaffiliated research)
