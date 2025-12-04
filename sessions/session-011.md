@@ -115,6 +115,23 @@ Expanded from ~230 words to ~550 words with fair engagement of naturalist positi
 
 **Key improvement:** Now presents naturalist positions in their strongest form before responding, rather than dismissing them as having "no explanation"
 
+### 7. Section 10.3 Radiometric Dating Revision
+Improved Cases 1 and 2 with fair acknowledgment of standard responses:
+
+**Case 1 (Hawaiian lava) improvements:**
+- Acknowledged Dalrymple was a mainstream geochronologist
+- Added Kelley 2002 reference on modern Ar-Ar techniques
+- Noted excess argon primarily affects specific rock types
+- Maintained Lakatosian critique of interpretive asymmetry
+
+**Case 2 (Zircon dates) improvements:**
+- Acknowledged zircon is "gold standard" for good reasons
+- Noted concordia diagrams designed to address discordances
+- Added Field & Raheim 1979, Wendt 1993 references
+- Maintained critique of selection process introducing interpretation
+
+**New references added:** Kelley 2002, Field & Raheim 1979, Wendt 1993
+
 ---
 
-## Interaction Count: 11
+## Interaction Count: 13

@@ -600,10 +600,18 @@ Applying Lakatos's framework reveals the structure:
 When measurements conflict with expectations, adjustments are made to auxiliary assumptions rather than to the hard core.
 
 **Case 1: Modern Lava Flows Dating "Too Old"**
-Hawaiian lava flows that erupted in 1800-1801 AD have been dated using potassium-argon methods. The results: apparent ages ranging from tens of thousands to nearly three million years (Dalrymple, 1969). The rocks are 200 years old. The method says they are millions of years old. The standard explanation invokes "excess argon" inherited from deeper crustal material. The hard core remains intact.
+Rocks of historically known age sometimes yield dramatically inflated radiometric ages. Dalrymple (1969), a mainstream geochronologist publishing in *Earth and Planetary Science Letters*, documented that approximately one-third of 26 historically erupted Hawaiian lava flows showed argon ratios inconsistent with their known ages, with apparent ages ranging from tens of thousands to nearly three million years.
+
+**The standard response:** Geochronologists acknowledge "excess argon" as a recognized phenomenon. Kelley (2002), in the authoritative *Reviews in Mineralogy and Geochemistry* volume, notes that modern Ar-Ar techniques include plateau age analysis and isochron methods specifically designed to identify and correct for inherited argon. The excess argon problem primarily affects rapidly cooled rocks, submarine basalts, and samples that crystallized under pressure. Dalrymple himself interpreted these results as manageable for dating rocks "a few million years old or older."
+
+**The Lakatosian observation:** While experts maintain that modern techniques can identify and correct for excess argon, the necessity of such corrections introduces an interpretive element into age determinations. Concordant dates are accepted as confirmation; discordant dates are explained by excess argon, open systems, or inappropriate sample selection. This asymmetry - where no discordant result challenges the framework - is the signature of protective belt modification rather than independent empirical testing.
 
 **Case 2: Discordant Zircon Dates**
-U-Pb zircon dates within single Grand Canyon formations often conflict by hundreds of millions of years. Same formation, same geological event, wildly different "ages." Standard explanations include lead loss, partial resetting, inherited zircon grains, and metamorphic overprinting. The hard core remains intact.
+U-Pb zircon dating is considered the "gold standard" of geochronology due to zircon's chemical robustness - it resists alteration and excludes lead during crystallization. Yet even this system yields significant discordances. Within single Grand Canyon formations, zircon dates can conflict by hundreds of millions of years.
+
+**The standard response:** Geochronologists recognize that zircons can be inherited from source rocks, partially reset by metamorphism, or lose lead through radiation damage. Concordia diagrams were developed specifically to identify and account for such effects. Discordant analyses are typically excluded, and ages are derived from concordant or statistically coherent populations.
+
+**The Lakatosian observation:** The necessity of selecting which zircons yield "valid" ages introduces interpretation. Field and Raheim (1979), writing in *Nature*, documented "geologically meaningless" isochron ages from rocks showing only minor alteration. Wendt (1993), in *Chemical Geology*, addressed the difficulty of distinguishing genuine isochrons from mixing lines - what appears to be a valid age may actually represent mixing of materials. The pattern persists: concordant results confirm deep time; discordant results reveal "complex geological histories" requiring auxiliary explanation.
 
 **Case 3: Carbon-14 in "Ancient" Materials**
 Multiple accelerator mass spectrometry labs have detected measurable C-14 in coal, petroleum, and diamonds-materials assumed to be millions to billions of years old. This should not be possible: C-14 decays completely in less than 100,000 years. Yet multiple independent labs using different techniques consistently detect it (Baumgardner, 2005; Taylor and Southon, 2007).
@@ -915,11 +923,15 @@ ENCODE Project Consortium. (2012). "An integrated encyclopedia of DNA elements i
 
 Erwin, D.H., Valentine, J.W., & Sepkoski, J.J. Jr. (1987). "A Comparative Study of Diversification Events: The Early Paleozoic versus the Mesozoic." *Evolution*, 41(6), 1177-1186. doi:10.2307/2409086
 
+Field, D. & Raheim, A. (1979). "Geologically meaningless Rb-Sr total rock isochrons." *Nature*, 282, 497-499.
+
 Friedman, W.E. (2009). "The meaning of Darwin's 'abominable mystery'." *American Journal of Botany*, 96(1), 5-21.
 
 Jacobsen, S.D. and Schmandt, B. (2014). "Dehydration melting at the top of the lower mantle." *Science*, 344(6189), 1265-1268.
 
 Jarvis, E.D. et al. (2014). "Whole-genome analyses resolve early branches in the tree of life of modern birds." *Science*, 346(6215), 1320-1331.
+
+Kelley, S. (2002). "K-Ar and Ar-Ar dating." *Reviews in Mineralogy and Geochemistry*, 47, 785-818.
 
 Kenrick, P. & Crane, P.R. (1997). *The Origin and Early Diversification of Land Plants: A Cladistic Study*. Smithsonian Institution Press.
 
@@ -980,6 +992,8 @@ Tour, J.M., Parker, M.C., and Jeynes, C. (2025). "Thermodynamic Limitations on t
 Valentine, J.W. (2004). *On the Origin of Phyla*. University of Chicago Press.
 
 Wells, J. (2011). *The Myth of Junk DNA*. Discovery Institute Press.
+
+Wendt, I. (1993). "Isochron or mixing line?" *Chemical Geology*, 104, 301-305.
 
 Wheeler, J.A. (1990). "Information, physics, quantum: The search for links." In *Complexity, Entropy, and the Physics of Information*, ed. W.H. Zurek. Addison-Wesley.
 
