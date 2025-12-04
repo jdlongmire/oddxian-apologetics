@@ -255,9 +255,21 @@ Symbolic codes with arbitrary assignments-like language-do not arise from physic
 
 **Christian Designism expectation**: If coal, diamonds, and other carbon-bearing materials are Flood deposits or young creation products, they should contain detectable C-14, which has a half-life of ~5,730 years and should be undetectable after ~100,000 years.
 
-**Deep-time expectation**: These materials are millions to billions of years old; any C-14 signal must be contamination or background noise.
+**Deep-time expectation**: These materials are millions to billions of years old; any C-14 signal must be explained by contamination, instrument background, or in-situ production mechanisms.
 
-**Outcome**: C-14 is persistently detected in coal, diamonds, and other supposedly ancient carbon sources. Deep-time must invoke contamination precisely *because* the samples "must" be old-a protective-belt move, not an independent assessment.
+**Outcome**: C-14 is persistently detected in coal, diamonds, and other supposedly ancient carbon sources. The RATE project reported C-14 levels of 0.1-0.5 pMC (percent modern carbon) in coal samples and 0.01-0.02 pMC in unprocessed diamonds (Baumgardner, 2005). Taylor and Southon (2007) independently measured unprocessed diamonds at 0.005-0.03 pMC.
+
+**Mainstream explanations and responses**:
+
+1. **Sample processing contamination**: Laboratory chemistry (pretreatment, combustion, graphitisation) typically introduces at least 1 microgram of modern carbon. However, this cannot explain results from *unprocessed* diamond samples measured without chemical preparation.
+
+2. **AMS instrument background**: Taylor and Southon (2007) interpret their diamond results as primarily instrument background (ion source memory). They observed correlation between low C-14 and high ion current for some samples, suggesting the signal scales with beam characteristics rather than sample properties. However, Baumgardner notes this correlation is absent in a subset of their data - six samples showed no correlation between C-14 level and ion current despite 50% differences in beam current.
+
+3. **In-situ production mechanisms**:
+   - *Neutron capture*: Uranium decay produces neutrons that can convert N-14 impurities to C-14 via the reaction N-14(n,p)C-14. However, calculations indicate this mechanism would produce less than one ten-thousandth of the measured amounts even under favourable assumptions. Additionally, if this were significant, C-14 content should vary wildly with nitrogen content - a correlation not observed.
+   - *Cluster decay*: Radium-223 (in the uranium decay chain) can emit C-14 clusters, but the branching ratio is approximately 10⁻⁸ to 10⁻¹⁰ relative to alpha decay - far too low to account for observed C-14 levels.
+
+**Assessment**: This remains a genuinely contested technical debate. The mainstream position treats persistent C-14 detection as an instrumentation artefact or contamination issue; the creationist position notes that proposed production mechanisms are quantitatively inadequate and that the consistency of results across independent laboratories is difficult to explain as contamination. Neither explanation is without difficulties. What is clear is that C-14 above background *is* consistently detected in materials conventionally dated to hundreds of millions of years - a pattern more naturally expected if these materials are recent than if they are ancient.
 
 ### 5.9 Fine-Tuning Persistence
 

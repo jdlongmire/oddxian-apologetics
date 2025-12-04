@@ -82,6 +82,23 @@ Web searches conducted for:
 - Mantle water: Acknowledged CPT model predicted steam/water from crustal sources, while 2014 discovery was mineralogically bound water
 - Early galaxies: Clarified Lisle's prediction was January 2022 (after JWST launch, before data)
 
+### 5. Section 5.8 C-14 Revision
+Expanded from 7 lines to substantive treatment (~350 words added):
+
+**Research conducted:**
+- Taylor & Southon 2007 paper on diamond AMS backgrounds
+- Baumgardner's RATE project results and responses
+- In-situ production mechanisms (neutron capture, cluster decay)
+- Bertsche criticism and Baumgardner's counter-response
+
+**New content:**
+- Three mainstream explanations engaged specifically:
+  1. Sample processing contamination (addressed by unprocessed samples)
+  2. AMS instrument background (Taylor & Southon interpretation + Baumgardner's response on correlation subset)
+  3. In-situ production: neutron capture (<0.01% of observed) and cluster decay (branching ratio 10⁻⁸)
+- Honest assessment: "genuinely contested technical debate" with difficulties on both sides
+- Maintained conclusion that pattern is "more naturally expected if materials are recent"
+
 ---
 
-## Interaction Count: 6
+## Interaction Count: 9
