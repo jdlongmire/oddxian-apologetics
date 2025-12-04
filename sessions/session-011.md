@@ -132,6 +132,13 @@ Improved Cases 1 and 2 with fair acknowledgment of standard responses:
 
 **New references added:** Kelley 2002, Field & Raheim 1979, Wendt 1993
 
+### 8. README Update
+Added Christian Designism paper to main README:
+- New Session 011 section at top of Work Summary
+- Framework description with core principle (LPI)
+- Predictive successes listed
+- Session improvements noted
+
 ---
 
-## Interaction Count: 13
+## Interaction Count: 14
