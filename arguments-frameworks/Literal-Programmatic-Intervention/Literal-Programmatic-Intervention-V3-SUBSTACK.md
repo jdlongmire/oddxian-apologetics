@@ -29,6 +29,8 @@ No human observer was present at the origin of the universe, but the Designer-Cr
 
 The choice is not *if* one has faith, but *in which* foundational, non-testable commitments one places that faith. Both frameworks begin with axioms that cannot be empirically verified: the question is which axiom provides superior explanatory coherence when consistently applied. LPI uniquely offers something naturalism cannot: claimed direct testimony from an eyewitness to creation itself.
 
+**Symmetrical evaluation:** Applying Lakatosian analysis to the naturalistic framework reveals significant unsolved problems requiring protective belt modifications. These include: the subduction initiation paradox (how plate tectonics began without pre-existing slab-pull - described as "a record of failure" by Stern & Gerya, 2018), mantle convection contradictions (layered vs. whole-mantle debate unresolved for decades), Earth's water origin problem (competing hypotheses shift with each new isotopic constraint), the Great Unconformity ("unresolved for over a century" - Peak et al., 2022), and the Cambrian Explosion ("central evolutionary problem" - Conway Morris, 2006). Both programmes employ protective belt modifications to absorb anomalies; the question is which generates more progressive problem-shifts. For detailed analysis with full citations, see Longmire (2025e), Section 1.0.3.
+
 ---
 
 ## 2. When God Codes Reality
@@ -1264,6 +1266,16 @@ The complete Literal Programmatic Intervention framework integrating biblical au
 Dalrymple, G.B. (1969). 40Ar/36Ar Analyses of Historic Lava Flows. *Earth and Planetary Science Letters* 6, 47-55.
 
 Pearson, D.G., Brenker, F.E., Nestola, F., McNeill, J., Nasdala, L., Hutchison, M.T., et al. (2014). Hydrous mantle transition zone indicated by ringwoodite included within diamond. *Nature* 507, 221–224. [https://doi.org/10.1038/nature13080](https://doi.org/10.1038/nature13080)
+
+### Symmetrical Critique References
+
+Conway Morris, S. (2006). Darwin's dilemma: the realities of the Cambrian 'explosion'. *Philosophical Transactions of the Royal Society B* 361(1470), 1069-1083.
+
+Longmire, J.D. (2025e). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge. [https://github.com/jdlongmire/oddxian-apologetics/blob/main/arguments-frameworks/hydro-tectoninc-model/hydrotectonic_collapse_v2.0.md](https://github.com/jdlongmire/oddxian-apologetics/blob/main/arguments-frameworks/hydro-tectoninc-model/hydrotectonic_collapse_v2.0.md)
+
+Peak, B.A., Flowers, R.M., Macdonald, F.A., and Cottle, J.M. (2022). Thermochronologic constraints on the origin of the Great Unconformity. *Proceedings of the National Academy of Sciences* 119(5), e2118682119.
+
+Stern, R.J. and Gerya, T. (2018). The inception of plate tectonics: a record of failure. *Philosophical Transactions of the Royal Society A* 376(2132), 20170414.
 
 ---
 
