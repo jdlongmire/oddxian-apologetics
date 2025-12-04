@@ -123,8 +123,21 @@ Added Section 1 contextualizing model within Christian Designism:
 - Methodological implications (what we model vs. what we stipulate)
 - Comparison table: Deep-Time Naturalism vs. Christian Designism
 - Added framework references (Longmire 2025c, 2025d)
-- Updated word count to ~5,500
+
+### 7. Symmetrical Critique Section Added
+Added Section 1.0.3 documenting unsolved problems in naturalistic model:
+
+**Five gaps identified with peer-reviewed citations:**
+1. Subduction Initiation Paradox (Stern & Gerya 2018 - "record of failure")
+2. Mantle Convection Contradictions (Anderson 2007 - layered vs whole debate)
+3. Earth's Water Origin Problem (multiple competing hypotheses)
+4. Great Unconformity (Peak et al. 2022 - "unresolved for a century")
+5. Cambrian Explosion (Conway Morris 2006 - "central evolutionary problem")
+
+**Key conclusion:** Both programmes employ protective belt modifications. The question is which generates more progressive problem-shifts.
+
+Updated word count: ~6,500 (main) + ~3,000 (appendices) = ~9,500 total
 
 ---
 
-## Interaction Count: 5
+## Interaction Count: 7

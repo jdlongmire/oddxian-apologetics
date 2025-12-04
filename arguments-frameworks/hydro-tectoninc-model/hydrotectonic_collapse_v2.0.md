@@ -84,6 +84,32 @@ The difference lies in **hard core commitments**:
 
 This paper demonstrates that the Christian Designism framework can generate a physically coherent model of rapid global reorganization - one that solves the heat problem that has made catastrophic plate tectonics appear impossible.
 
+### 1.0.3 Symmetrical Critique: Unsolved Problems in the Naturalistic Model
+
+Lakatosian analysis requires symmetrical evaluation. The naturalistic model also exhibits significant unsolved problems that require protective belt modifications:
+
+**1. The Subduction Initiation Paradox**
+
+Earth is the only rocky planet with active plate tectonics. The central unsolved question is how the first subduction was initiated when slab-pull force (which drives subduction) requires existing subduction to exist. A 2018 Royal Society paper titled "The inception of plate tectonics: a record of failure" acknowledges this remains "one of the biggest unanswered questions in Earth science" (Stern and Gerya, 2018). Proposed solutions invoke plume-induced initiation or episodic failed attempts over billions of years - protective belt modifications rather than hard core challenges.
+
+**2. Mantle Convection Contradictions**
+
+Seismic tomography provides only a snapshot of present-day structure, not flow direction or history. The "contradiction between geochemical and geophysical inference of layered vs whole mantle convection has been and largely remains" unresolved (Anderson, 2007). Large Low Shear Velocity Provinces (LLSVPs) are too large for conventional plume dynamics, and concerns persist that deep slab images may be artifacts of processing limitations. Models of mantle flow based on tomography "have yielded variable conclusions largely because of the inherent non-uniqueness and differing degrees of resolution."
+
+**3. Earth's Water Origin Problem**
+
+The origin of Earth's water remains "a matter of heated debate" (Scientific American, 2024). Comet D/H ratios (Rosetta data) don't match Earth's oceans. Late veneer delivery would produce an atmosphere too massive. Ruthenium isotopes suggest an inner solar system source - but inner solar system bodies are volatile-poor. New mechanisms continue to be proposed (sublimation disks, primordial retention), with the hypothesis shifting as each constraint emerges.
+
+**4. The Great Unconformity**
+
+"The origin of the phenomenon known as the Great Unconformity has been a fundamental yet unresolved problem in the geosciences for over a century" (Peak et al., 2022, PNAS). Recent thermochronologic work suggests "there may not be one but several Great Unconformities" - a protective belt move that changes the singular anomaly into multiple smaller ones requiring different explanations at different times and places.
+
+**5. The Cambrian Explosion**
+
+"The seemingly abrupt appearance of animals in the Cambrian 'explosion' remains a central evolutionary problem" (Conway Morris, 2006). Darwin called it "a grave difficulty to his theory." Practically all major animal phyla appear within 13-25 million years. Proposed solutions invoke stem groups, ecological triggers, oxygenation events, and incomplete fossil records - but "the dynamics of how metazoan phyla appeared and evolved remains elusive" (Zhu et al., 2021).
+
+**Assessment:** Both research programmes employ protective belt modifications to absorb anomalies. The question is not whether one framework has problems and the other does not, but which framework generates more progressive problem-shifts - novel predictions subsequently confirmed. This paper contributes to the Christian Designism programme by demonstrating that rapid global reorganization is thermodynamically feasible when initial conditions are appropriately specified.
+
 ---
 
 ## 2. THE HEAT PROBLEM IN CATASTROPHIC PLATE TECTONICS
@@ -435,8 +461,20 @@ Longmire, J.D. (2025c). "The Practical Unfalsifiability of Deep Time: A Lakatosi
 
 Longmire, J.D. (2025d). "God of the System: Christian Designism as a Progressive Research Programme." https://github.com/jdlongmire/oddxian-apologetics/blob/main/arguments-frameworks/Christian-Designism/god_of_the_system_revised.md
 
+### Symmetrical Critique References
+
+Anderson, D.L. (2007). "The eclogite engine: chemical geodynamics as a Galileo thermometer." *Geological Society of America Special Papers*, 430, 47-64.
+
+Conway Morris, S. (2006). "Darwin's dilemma: the realities of the Cambrian 'explosion'." *Philosophical Transactions of the Royal Society B*, 361(1470), 1069-1083.
+
+Peak, B.A., Flowers, R.M., Macdonald, F.A., and Cottle, J.M. (2022). "Thermochronologic constraints on the origin of the Great Unconformity." *Proceedings of the National Academy of Sciences*, 119(5), e2118682119.
+
+Stern, R.J. and Gerya, T. (2018). "The inception of plate tectonics: a record of failure." *Philosophical Transactions of the Royal Society A*, 376(2132), 20170414.
+
+Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Current understanding on the Cambrian Explosion: questions and answers." *PalZ*, 95, 641-660.
+
 ---
 
-**Word Count:** ~5,500
+**Word Count:** ~6,500
 **Version:** 2.0
 **Date:** December 2025
