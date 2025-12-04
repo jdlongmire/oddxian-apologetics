@@ -96,9 +96,9 @@ Added Session 012 section with:
 **Documents Created:**
 | File | Words | Content |
 |------|-------|---------|
-| `hydrotectonic_collapse_v2.0.md` | ~4,500 | Main paper with Three-Stage Framework |
+| `hydrotectonic_collapse_v2.0.md` | ~5,500 | Main paper with Christian Designism framing |
 | `hydrotectonic_v2.0_appendices.md` | ~3,000 | Mathematical appendices (A-D) |
-| **Total** | **~7,500** | Complete v2.0 package |
+| **Total** | **~8,500** | Complete v2.0 package |
 
 **Key Innovations:**
 1. Deep Mantle Paradox resolved via Stage 0 (Fiat Initial Conditions)
@@ -116,4 +116,15 @@ Added Session 012 section with:
 
 ---
 
-## Interaction Count: 4
+### 6. Christian Designism Framework Integration
+Added Section 1 contextualizing model within Christian Designism:
+- LPI (Literal Programmatic Intervention) framework
+- Three-Stage mapping: Stage 0 = LPI (Fiat), Stages 1-2 = Natural Process
+- Methodological implications (what we model vs. what we stipulate)
+- Comparison table: Deep-Time Naturalism vs. Christian Designism
+- Added framework references (Longmire 2025c, 2025d)
+- Updated word count to ~5,500
+
+---
+
+## Interaction Count: 5

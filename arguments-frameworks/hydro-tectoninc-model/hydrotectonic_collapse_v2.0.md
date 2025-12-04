@@ -25,7 +25,7 @@ This paper presents the Hybrid Hydrotectonic Model (v2.0), which resolves the De
 
 The model generates a novel testable prediction: seismic tomography should reveal a structural unconformity (texture break) between the chaotic, reworked upper lithosphere and the coherent, cold deep ballast. This framework maintains physical plausibility within defined axioms while integrating biblical boundary conditions as initial state specifications rather than ongoing miraculous intervention.
 
-**Keywords:** catastrophic plate tectonics, hydrotectonics, Genesis Flood, heat problem, deep mantle, Hypercanes, turbidity currents, fiat creation, seismic tomography
+**Keywords:** catastrophic plate tectonics, hydrotectonics, Genesis Flood, heat problem, deep mantle, Hypercanes, turbidity currents, fiat creation, seismic tomography, Christian Designism, Literal Programmatic Intervention
 
 **Appendices:** See companion document `hydrotectonic_v2.0_appendices.md` for detailed mathematical calculations:
 - Appendix A: Gravitational Potential Energy Budget
@@ -33,11 +33,62 @@ The model generates a novel testable prediction: seismic tomography should revea
 - Appendix C: Hypercane Physics and Heat Transport
 - Appendix D: Driving Forces and Block Velocity
 
+**Framework:** This paper is situated within the Christian Designism research programme (Longmire, 2025d).
+
 ---
 
-## 1. INTRODUCTION
+## 1. FRAMEWORK: CHRISTIAN DESIGNISM AND LITERAL PROGRAMMATIC INTERVENTION
 
-### 1.1 The Heat Problem in Catastrophic Plate Tectonics
+### 1.0 Situating the Model
+
+This paper develops a specific geological application within the broader **Christian Designism** research programme (Longmire, 2025d). Christian Designism proposes that the universe operates according to a designed system architecture in which:
+
+1. **Literal Programmatic Intervention (LPI):** God acts through designed, law-governed processes with scheduled interventions at specific points in history
+2. **Fiat Initial Conditions:** Creation events establish boundary conditions that subsequent natural processes operate within
+3. **Physical Plausibility:** Between interventions, the system operates according to discoverable physical laws
+
+The Hybrid Hydrotectonic Model exemplifies this framework:
+
+| Stage | Type | Description |
+|-------|------|-------------|
+| **Stage 0** | LPI (Fiat) | Supernatural emplacement of initial conditions |
+| **Stage 1** | Natural Process | Metastable equilibrium under physical law |
+| **Stage 2** | Triggered Discharge | Natural catastrophe from prepared initial state |
+
+### 1.0.1 Methodological Implications
+
+This framing has specific methodological implications:
+
+**What we model:** Stages 1 and 2 operate through natural physical processes and are subject to quantitative analysis, prediction, and potential falsification. The mathematical appendices demonstrate this: energy budgets, heat fluxes, force balances, and velocity estimates are all derived from physical law.
+
+**What we stipulate:** Stage 0 initial conditions are specified by biblical testimony, not derived from physical law. The deep ballast, the raised-continent configuration, and the gravitational potential energy stored in that configuration are boundary conditions, analogous to how cosmological models accept Big Bang initial conditions while modeling subsequent evolution through natural law.
+
+**Why this matters:** Critics often conflate "invoking God" with "abandoning physics." This model demonstrates the distinction. Stage 0 is a one-time establishment of initial conditions; Stages 1-2 are physics all the way down. The model is testable not by reproducing Stage 0 but by examining whether Stage 1-2 dynamics and their predicted signatures match observation.
+
+### 1.0.2 Relationship to Deep-Time Naturalism
+
+Christian Designism functions as a **competing research programme** to deep-time naturalism (Longmire, 2025c). Both frameworks:
+
+- Accept the same observational data (seismic tomography, stratigraphy, geochemistry)
+- Employ the same physical laws (thermodynamics, fluid mechanics, rheology)
+- Generate testable predictions
+
+The difference lies in **hard core commitments**:
+
+| Commitment | Deep-Time Naturalism | Christian Designism |
+|------------|---------------------|---------------------|
+| Timescale | Billions of years | Thousands of years |
+| Initial conditions | Naturalistic emergence | Fiat establishment |
+| Interventions | None permitted | Scheduled (Creation, Flood) |
+| Deep mantle structures | Gradual subduction | Created ballast |
+
+This paper demonstrates that the Christian Designism framework can generate a physically coherent model of rapid global reorganization - one that solves the heat problem that has made catastrophic plate tectonics appear impossible.
+
+---
+
+## 2. THE HEAT PROBLEM IN CATASTROPHIC PLATE TECTONICS
+
+### 2.1 The Physical Constraint
 
 Any model proposing rapid, global-scale tectonic reorganization must confront the energy budget. In standard plate tectonics, continental drift occurs at centimeters per year, driven by mantle convection with viscous dissipation distributed over geological timescales. Accelerating this process to thousands of kilometers in months requires proportionally greater energy input and produces dissipation that scales with velocity. For viscous flow, dissipation increases as v², meaning hundred-fold acceleration produces ten-thousand-fold increase in heat generation.
 
@@ -45,7 +96,7 @@ Conventional catastrophic plate models invoke runaway subduction or thermal inst
 
 This objection is not rhetorical but physical. The heat problem has remained the most compelling reason to reject catastrophic reorganization as physically implausible.
 
-### 1.2 The Original Hydrotectonic Solution (v1.0)
+### 2.2 The Original Hydrotectonic Solution (v1.0)
 
 The Hydrotectonic Collapse model (v1.0) solved the heat problem by shifting from geothermal to hydraulic driving mechanisms. Rather than accelerating mantle convection, v1.0 invoked the sudden failure of hydraulic seals in a water-saturated lithosphere. Continental and oceanic blocks moved by hydroplaning on thin water films along shallow detachment horizons (~50 km depth), with energy dissipation occurring in the fluid rather than through viscous mantle shear.
 
@@ -56,7 +107,7 @@ This shift fundamentally changed the energy budget:
 
 Mathematical validation confirmed that dissipating gravitational potential energy into water films generates a manageable ~7 W/m² heat flux and ~1 K global temperature rise - compatible with biosphere survival.
 
-### 1.3 The Deep Mantle Paradox
+### 2.3 The Deep Mantle Paradox
 
 Review of v1.0 identified a critical gap between the shallow model and observational data.
 
@@ -70,7 +121,7 @@ Review of v1.0 identified a critical gap between the shallow model and observati
 
 The Deep Mantle Paradox remained: how do cold, deep slabs exist without requiring either (a) lethal Flood-year heat, or (b) millions of years of gradual sinking?
 
-### 1.4 The Hybrid Solution: Three-Stage Framework
+### 2.4 The Hybrid Solution: Three-Stage Framework
 
 The Hybrid Hydrotectonic Model (v2.0) resolves this paradox by decoupling the *origin* of deep structures from the *mechanism* of the Flood. The model proposes a Three-Stage History that integrates biblical boundary conditions as initial state specifications:
 
@@ -378,8 +429,14 @@ van der Hilst, R.D., Widiyantoro, S., and Engdahl, E.R. (1997). "Evidence for de
 
 Waples, D.W. and Waples, J.S. (2004). "A review and evaluation of specific heat capacities of rocks, minerals, and subsurface fluids." *Natural Resources Research*, 13, 97-122.
 
+### Christian Designism Framework References
+
+Longmire, J.D. (2025c). "The Practical Unfalsifiability of Deep Time: A Lakatosian Analysis." Zenodo. https://zenodo.org/records/17770068
+
+Longmire, J.D. (2025d). "God of the System: Christian Designism as a Progressive Research Programme." https://github.com/jdlongmire/oddxian-apologetics/blob/main/arguments-frameworks/Christian-Designism/god_of_the_system_revised.md
+
 ---
 
-**Word Count:** ~4,500
+**Word Count:** ~5,500
 **Version:** 2.0
 **Date:** December 2025
