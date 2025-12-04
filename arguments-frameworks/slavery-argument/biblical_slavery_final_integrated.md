@@ -2,9 +2,10 @@
 
 ![Love Your Neighbor as Yourself - From Law to Liberation](figures/slavery-argument.jpg)
 
-**James (JD) Longmire**  
-ORCID: 0009-0009-1383-7698  
+**James (JD) Longmire**
+ORCID: 0009-0009-1383-7698
 Northrop Grumman Fellow (unaffiliated research)
+[oddXian.com](https://oddxian.com)
 
 ## Abstract
 
