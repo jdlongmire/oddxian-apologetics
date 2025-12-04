@@ -59,7 +59,7 @@ The latter view does not deny natural regularities or their investigability. Rat
 
 Metaphysical naturalism as the default worldview is, historically, the outlier. From Aquinas through the medieval scholastics, from Kepler and Newton through the Enlightenment, the working assumption of intellectuals was that a rational, ordering mind stood behind nature. Natural philosophy (early science) was pursued *within* a theistic framework, not against it.
 
-The consolidation of metaphysical naturalism as near-axiomatic occurred only in the late 19th and 20th centuries, often driven more by philosophical fashion and the success of methodological naturalism in certain domains than by direct empirical refutation of theism (Stanford Encyclopedia of Philosophy, 2007; Creation.org, 2021).
+The consolidation of metaphysical naturalism as near-axiomatic occurred only in the late 19th and 20th centuries, often driven more by philosophical fashion and the success of methodological naturalism in certain domains than by direct empirical refutation of theism (Stanford Encyclopedia of Philosophy, 2007; Numbers, 2006).
 
 ### 2.3 The Baseline Problem
 
@@ -79,7 +79,7 @@ A detailed Lakatosian analysis demonstrates that deep time functions as a practi
 
 ### 3.1 Archaeological Confirmation
 
-Decades of archaeological work have confirmed numerous specific biblical claims: the existence of certain kings and cities, administrative structures, trade networks, and historical events long thought legendary. While archaeology neither proves miracles nor resolves all historical questions, it demonstrates that the biblical narratives are **generally reliable on hard-to-fabricate details** about the ancient world (Biblical Archaeology Review; Smithsonian Magazine, 2019).
+Decades of archaeological work have confirmed numerous specific biblical claims: the existence of certain kings and cities, administrative structures, trade networks, and historical events long thought legendary. While archaeology neither proves miracles nor resolves all historical questions, it demonstrates that the biblical narratives are **generally reliable on hard-to-fabricate details** about the ancient world. The Tel Dan inscription (Biran & Naveh, 1993), containing the phrase "House of David," provides extra-biblical evidence for the Davidic dynasty. As William Dever, an agnostic archaeologist, concluded after decades of excavation: the biblical writers "knew a lot; and they knew it early" (Dever, 2001).
 
 ### 3.2 Inference from Historical Accuracy to Extraordinary Claims
 
@@ -91,7 +91,7 @@ For a theist willing to grant that God exists and can act in history, biblical r
 
 ### 3.3 The Written Record Horizon
 
-One often-overlooked consideration: verifiable written history spans only ~5,000 years. Deep-time models must explain 200,000+ years of anatomically modern human existence with virtually no direct human testimony. Young-Earth models, by contrast, align comfortably with the ~5,000-year span of known written records-making the historical silence before writing less anomalous if humans simply did not exist then (Wikipedia, "Recorded History"; Khan Academy, "Prehistory before written records").
+One often-overlooked consideration: verifiable written history spans only ~5,000 years. The earliest Sumerian cuneiform tablets date to approximately 3200 BCE (Uruk IV period), with proto-writing emerging slightly earlier (Schmandt-Besserat, 1996; Woods et al., 2010). Deep-time models must explain 200,000+ years of anatomically modern human existence with virtually no direct human testimony. Young-Earth models, by contrast, align comfortably with the ~5,000-year span of known written records-making the historical silence before writing less anomalous if humans simply did not exist then.
 
 ---
 
@@ -181,17 +181,17 @@ This prediction was made explicitly and in advance by ID theorists. Forrest Mims
 
 ### 5.3 Mantle Water Reserves
 
-**Christian Designism expectation**: Large subterranean water reserves should exist, consistent with Genesis references to "fountains of the great deep." Flood geology models have proposed this for decades.
+**Christian Designism expectation**: Large subterranean water reserves should exist, consistent with Genesis references to "fountains of the great deep." The Catastrophic Plate Tectonics model (Austin et al., 1994) explicitly proposed that "mantle waters were turned into superheated steam and ejected into the atmosphere as geysers, similar to what Scripture labels 'the fountains of the deep.'"
 
 **Deep-time expectation**: Not specifically predicted. The discovery was described as surprising.
 
 **Outcome**: In 2014, analysis of a diamond-encased ringwoodite sample confirmed massive water reserves in Earth's mantle transition zone-potentially "approaching the sort of mass of water that's present in all the world's ocean" (Pearson et al., 2014, *Nature*; Jacobsen and Schmandt, 2014, *Science*). Subsequent findings (2024) have reinforced this, with a second sample providing "much more convincing" evidence that mantle hydration is widespread (Scientific American, 2024).
 
-This finding confirms what Christian Designism expected and provides the water budget for the hydraulic collapse model of rapid plate motion during the Flood.
+**Important qualification**: The 2014 discovery found water bound within mineral crystal structures (ringwoodite), not free liquid water in chambers. The CPT model proposed steam/water from crustal sources, which differs from the mineralogically bound water discovered. Nevertheless, the existence of massive water reserves in the deep Earth-on the scale of oceans-aligns with the general expectation of significant subterranean water, even if the precise mechanism differs from early models. This finding provides the water budget for hydraulic collapse models of rapid plate motion during the Flood.
 
 ### 5.4 Early Mature Galaxies
 
-**Christian Designism expectation**: Rapid cosmic structure formation on compressed timescales. Early galaxies should appear mature, not primitive.
+**Christian Designism expectation**: Young-earth cosmology predicts that distant galaxies should appear mature rather than primitive. Jason Lisle articulated this explicitly in January 2022, after JWST's launch but before its scientific data was released: "Rather than galaxies just starting to form, I expect to see fully-formed (fully-designed) galaxies at unprecedented distances... I do not expect that the most distant galaxies are only partially formed, but rather I expect fully-designed galaxies including spirals and ellipticals" (Lisle, 2022). This expectation follows from the general YEC position that the universe was created mature.
 
 **Deep-time expectation**: Small, irregular, metal-poor early galaxies. As Scientific American reported, "JWST's discovery of bright galaxies in the early cosmos challenges this model. 'We should see lots of these little protogalactic fragments that have not yet merged to make a big galaxy,' says Stacy McGaugh. 'Instead we're seeing a few things that are already big galaxies'" (Scientific American, 2023).
 
@@ -336,11 +336,11 @@ Berkeley paleontologist James Valentine concluded: "the record that we have is n
 
 ### 6.3 The Great Ordovician Biodiversification Event (~485-445 Ma)
 
-Following the Cambrian, another major radiation produced a fourfold increase in the number of genera, with organisms that would dominate marine ecosystems for the remainder of the Paleozoic appearing abruptly (Britannica, "Ordovician radiation").
+Following the Cambrian, another major radiation produced a fourfold increase in the number of genera, with organisms that would dominate marine ecosystems for the remainder of the Paleozoic appearing abruptly. The GOBE has been described as "arguably the most important and sustained increase of marine biodiversity in Earth's history" (Webby et al., 2004; Servais & Harper, 2018).
 
 ### 6.4 The Devonian Terrestrial Revolution (~400 Ma)
 
-Land plants underwent "a uniquely rapid adaptive radiation" after a cryptic earlier history (Wikipedia, "Cambrian explosion"). This represents another instance of major innovations appearing abruptly.
+Land plants underwent "a uniquely rapid adaptive radiation" after a cryptic earlier history (Kenrick & Crane, 1997). This represents another instance of major innovations appearing abruptly.
 
 ### 6.5 The Angiosperm Radiation (~125-100 Ma)
 
@@ -361,7 +361,7 @@ The fossil record consistently shows:
 - Morphological disparity (different body types) appearing before diversity (many species within types)
 - Top-down pattern: phyla and classes appear before orders, families, and genera fill in
 
-As paleontologists Erwin, Valentine, and Sepkoski noted: "The fossil record suggests that the major pulse of diversification of phyla occurs before that of classes, classes before that of orders, orders before that of families."
+As paleontologists Erwin, Valentine, and Sepkoski noted: "The major pulse of diversification of phyla occurs before that of classes, classes before that of orders, and orders before that of families" (Erwin, Valentine, & Sepkoski, 1987, p. 1183).
 
 This is the opposite of what gradual Darwinian evolution predicts. It is exactly what Christian Designism predicts: created kinds, diversifying rapidly within their types after creation and post-Flood.
 
@@ -373,7 +373,7 @@ This is the opposite of what gradual Darwinian evolution predicts. It is exactly
 
 A "Lazarus taxon" is an organism that disappears from the fossil record for millions of years, then reappears alive or in younger strata. The most famous example is the coelacanth.
 
-**The Coelacanth Case**: Coelacanths have a rich fossil record from 410-66 million years ago, then disappear entirely. In 1938, a living specimen was caught off South Africa-"Its discovery over 60 million years after its supposed extinction makes the coelacanth the best-known example of a Lazarus taxon" (Wikipedia, "Coelacanth"). As the Natural History Museum notes, "Finding a living coelacanth has been described as like finding a dinosaur wandering around your garden" (NHM, "Coelacanths").
+**The Coelacanth Case**: Coelacanths have a rich fossil record from 410-66 million years ago, then disappear entirely. In 1938, a living specimen was caught off South Africa by fisherman Hendrik Goosen. Museum curator Marjorie Courtenay-Latimer recognized its significance, and ichthyologist J.L.B. Smith formally described it in *Nature* as "a living fish of Mesozoic type" (Smith, 1939). Its discovery over 60 million years after its supposed extinction makes the coelacanth the best-known example of a Lazarus taxon. As the Natural History Museum notes, "Finding a living coelacanth has been described as like finding a dinosaur wandering around your garden" (NHM, 2023).
 
 **Deep-time explanation**: Ghost lineages-the coelacanth existed for 66 million years without leaving any fossils. This requires positing 66 million years of existence with zero fossilisation.
 
@@ -865,15 +865,17 @@ The conversation has only just begun.
 
 Archibald, J.D. (2012). Extinction and Radiation: How the Fall of Dinosaurs Led to the Rise of Mammals. Johns Hopkins University Press.
 
+Austin, S.A., Baumgardner, J.R., Humphreys, D.R., Snelling, A.A., Vardiman, L., & Wise, K.P. (1994). "Catastrophic Plate Tectonics: A Global Flood Model of Earth History." *Proceedings of the Third International Conference on Creationism*, pp. 609-621.
+
 Baumgardner, J.R. (2005). "14C Evidence for a Recent Global Flood and a Young Earth." In Vardiman, L., Snelling, A.A., and Chaffin, E.F. (eds.) *Radioisotopes and the Age of the Earth: Results of a Young-Earth Creationist Research Initiative*, Vol. II. El Cajon, CA: Institute for Creation Research and Chino Valley, AZ: Creation Research Society, pp. 587-630.
 
-Biblical Archaeology Review. Various issues.
+Biran, A. & Naveh, J. (1993). "An Aramaic Stele Fragment from Tel Dan." *Israel Exploration Journal*, 43(2/3), 81-98.
 
 Collins, R. "The Fine-Tuning Design Argument." Stanford Encyclopedia of Philosophy (2017).
 
 Conway Morris, S. (2006). "Darwin's dilemma: the realities of the Cambrian 'explosion'." *Philosophical Transactions of the Royal Society B*, 361(1470), 1069-1083.
 
-Creation.org. (2021). "The Unexpected History of Scientific Naturalism."
+Dever, W.G. (2001). *What Did the Biblical Writers Know and When Did They Know It?: What Archaeology Can Tell Us about the Reality of Ancient Israel*. Eerdmans.
 
 Dembski, W.A. (1998). "Intelligent Science and Design." *First Things*, 86, 21-27.
 
@@ -883,15 +885,19 @@ Dalrymple, G.B. (1969). "40Ar/36Ar Analyses of Historic Lava Flows." *Earth and 
 
 ENCODE Project Consortium. (2012). "An integrated encyclopedia of DNA elements in the human genome." *Nature*, 489(7414), 57-74.
 
+Erwin, D.H., Valentine, J.W., & Sepkoski, J.J. Jr. (1987). "A Comparative Study of Diversification Events: The Early Paleozoic versus the Mesozoic." *Evolution*, 41(6), 1177-1186. doi:10.2307/2409086
+
 Friedman, W.E. (2009). "The meaning of Darwin's 'abominable mystery'." *American Journal of Botany*, 96(1), 5-21.
 
 Jacobsen, S.D. and Schmandt, B. (2014). "Dehydration melting at the top of the lower mantle." *Science*, 344(6189), 1265-1268.
 
 Jarvis, E.D. et al. (2014). "Whole-genome analyses resolve early branches in the tree of life of modern birds." *Science*, 346(6215), 1320-1331.
 
-Khan Academy. "Prehistory before written records."
+Kenrick, P. & Crane, P.R. (1997). *The Origin and Early Diversification of Land Plants: A Cladistic Study*. Smithsonian Institution Press.
 
 Lakatos, I. (1978). *The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1*. Cambridge University Press.
+
+Lisle, J. (2022). "Creation Cosmology Confirmed!" *Biblical Science Institute*, January 2022. https://biblicalscienceinstitute.com/origins/creation-cosmology-confirmed/
 
 Longmire, J.D. (2025). "Rapid Continental Reorganization Through Hydraulic Collapse: A Solution to the Heat Problem in Catastrophic Plate Tectonics." Zenodo. https://zenodo.org/records/17663309
 
@@ -907,13 +913,23 @@ Meyer, S.C. (2009). *Signature in the Cell*. HarperOne.
 
 Meyer, S.C. (2013). *Darwin's Doubt*. HarperOne.
 
+Natural History Museum. (2023). "Coelacanths: the fish that 'outdid' the Loch Ness Monster." https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html
+
+Numbers, R.L. (2006). *The Creationists: From Scientific Creationism to Intelligent Design*. Harvard University Press.
+
 O'Leary, M.A. et al. (2013). "The placental mammal ancestor and the post-K-Pg radiation of placentals." *Science*, 339(6120), 662-667.
 
 Pearson, D.G. et al. (2014). "Hydrous mantle transition zone indicated by ringwoodite included within diamond." *Nature*, 507(7491), 221-224.
 
 Pross, A. and Pascal, R. (2013). "The origin of life: what we know, what we can know and what we will never know." *Open Biology*, 3(3), 120190.
 
+Schmandt-Besserat, D. (1996). *How Writing Came About*. University of Texas Press.
+
 Schweitzer, M.H. et al. (2005). "Soft-tissue vessels and cellular preservation in *Tyrannosaurus rex*." *Science*, 307(5717), 1952-1955.
+
+Servais, T. & Harper, D.A.T. (2018). "The Great Ordovician Biodiversification Event (GOBE): definition, concept and duration." *Lethaia*, 51(2), 151-164.
+
+Smith, J.L.B. (1939). "A living fish of Mesozoic type." *Nature*, 143, 455-456.
 
 Schweitzer, M.H. et al. (2007). "Analyses of soft tissue from *Tyrannosaurus rex* suggest the presence of protein." *Science*, 316(5822), 277-280.
 
@@ -941,11 +957,9 @@ Wheeler, J.A. (1990). "Information, physics, quantum: The search for links." In 
 
 Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications on Pure and Applied Mathematics*, 13(1), 1-14.
 
-Wikipedia. "Cambrian explosion."
+Webby, B.D., Droser, M.L., Paris, F. & Percival, I. (eds.) (2004). *The Great Ordovician Biodiversification Event*. Columbia University Press.
 
-Wikipedia. "Coelacanth."
-
-Wikipedia. "Recorded History."
+Woods, C., Teeter, E., & Emberling, G. (eds.) (2010). *Visible Language: Inventions of Writing in the Ancient Middle East and Beyond*. Oriental Institute Museum Publications.
 
 ---
 
