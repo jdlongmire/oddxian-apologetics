@@ -27,6 +27,12 @@ The model generates a novel testable prediction: seismic tomography should revea
 
 **Keywords:** catastrophic plate tectonics, hydrotectonics, Genesis Flood, heat problem, deep mantle, Hypercanes, turbidity currents, fiat creation, seismic tomography
 
+**Appendices:** See companion document `hydrotectonic_v2.0_appendices.md` for detailed mathematical calculations:
+- Appendix A: Gravitational Potential Energy Budget
+- Appendix B: Heat Dissipation and Thermal Budget
+- Appendix C: Hypercane Physics and Heat Transport
+- Appendix D: Driving Forces and Block Velocity
+
 ---
 
 ## 1. INTRODUCTION

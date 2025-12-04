@@ -51,6 +51,37 @@ Created `hydrotectonic_collapse_v2.0.md` (~4,500 words):
 - Adds Stage 0 resolution of Deep Mantle Paradox
 - 5 testable predictions
 
+### 4. Mathematical Appendices Created
+Created `hydrotectonic_v2.0_appendices.md` (~3,000 words):
+
+**Appendix A: Gravitational Potential Energy Budget**
+- Continental block parameters (M ~ 8 × 10¹⁹ kg)
+- PE calculation: 10²⁴ J per block, 10²⁵ J total
+- Deep ballast contribution analysis
+
+**Appendix B: Heat Dissipation and Thermal Budget**
+- Energy partitioning (friction, seismic, plastic)
+- Frictional work: ~10²³ J (1% of available PE)
+- Heat flux: ~7 W/m²
+- Temperature rise: ~1 K global, ~50 K local (water films)
+- Kinetic energy shown negligible (<0.001%)
+
+**Appendix C: Hypercane Physics and Heat Transport**
+- Emanuel (1995) theory: SST threshold ~50°C
+- Carnot engine model for hurricane energetics
+- Latent heat flux: ~6 × 10¹⁵ W per hypercane
+- Stratospheric radiation capacity: matches frictional budget
+- Erosional capacity: 50× normal hurricane
+
+**Appendix D: Driving Forces and Block Velocity**
+- Force balance: 70:1 ratio favoring motion
+- Initial acceleration: 0.03 m/s²
+- Terminal velocity: 10-100 m/hr
+
+**Key sources:**
+- Emanuel (1995) JGR Hypercanes paper
+- Vardiman (2003) ICC Hypercanes Following Genesis Flood
+
 ---
 
-## Interaction Count: 2
+## Interaction Count: 3
