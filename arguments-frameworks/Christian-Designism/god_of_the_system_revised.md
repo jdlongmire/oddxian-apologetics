@@ -40,6 +40,8 @@ This framework is valuable because it applies symmetrically. Both naturalism and
 
 Critics often accuse creationists of "ad hoc" reasoning while treating naturalism's protective moves as normal science. Lakatos shows this is a double standard. If iron-mediated preservation (proposed after soft tissue was found) is legitimate science, then so is interpreting that same soft tissue as evidence for recent burial. The question is: which framework's core commitments more naturally predicted the finding in advance?
 
+**Symmetrical application:** The naturalistic model has significant unsolved problems requiring protective belt modifications. These include: the subduction initiation paradox (how plate tectonics began without pre-existing slab-pull), mantle convection contradictions (layered vs. whole-mantle debate unresolved for decades), Earth's water origin problem (competing hypotheses shift with each new constraint), the Great Unconformity ("unresolved for over a century" - Peak et al., 2022), and the Cambrian Explosion ("central evolutionary problem" - Conway Morris, 2006). For detailed analysis with full citations, see Longmire (2025e), Section 1.0.3.
+
 ---
 
 ## 2. The Philosophical Context: From "God of the Gaps" to "God of the System"
@@ -948,6 +950,8 @@ Longmire, J.D. (2025b). "What Radiometric Dating Really Measures: Understanding 
 Longmire, J.D. (2025c). "The Practical Unfalsifiability of Deep Time: A Lakatosian Analysis." Zenodo. https://zenodo.org/records/17770068
 
 Longmire, J.D. (2025d). "Literal Programmatic Intervention: A Systems Approach to Biblical Creation." *Oddxian*. https://www.oddxian.com/p/literal-programmatic-intervention-492
+
+Longmire, J.D. (2025e). "The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge." https://github.com/jdlongmire/oddxian-apologetics/blob/main/arguments-frameworks/hydro-tectoninc-model/hydrotectonic_collapse_v2.0.md
 
 Meyer, S.C. (2009). *Signature in the Cell*. HarperOne.
 
