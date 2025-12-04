@@ -288,13 +288,29 @@ Symbolic codes with arbitrary assignments-like language-do not arise from physic
 
 The universe, as a rational creation, should be thoroughly logical in its behaviour.
 
-**Naturalistic expectation**: Under naturalism, there is no particular reason why physical reality should conform to abstract logical principles. Logic, on this view, is either a human invention or a description of how our brains happen to process information. Why should mindless matter obey the dictates of abstract logical laws? This is simply a brute fact with no explanation.
+**Naturalistic responses and assessment**:
 
-**Outcome**: Physical reality has never violated these laws. Every physical process, every quantum event, every chemical reaction, every biological function operates within logical constraints. Scientists depend on this absolutely - the entire scientific enterprise presupposes that nature will not contradict itself, that measurements will obey identity, that excluded middle holds.
+Naturalists have proposed several accounts of why logic governs reality:
 
-No exception has ever been documented. Not one. This is precisely what theism predicts: a universe created by a logical Mind will be thoroughly logical. Under naturalism, this perfect logical coherence across all domains and all times is an unexplained cosmic coincidence.
+1. **Logic as description of regularities**: Logic is not prescriptive but descriptive - it describes patterns we observe in nature. On this view, "laws" of logic are empirical generalisations, not metaphysical necessities.
 
-Some attempt to ground logic in physical facts, but this inverts the actual relationship. We use logic to understand physical facts; physical facts do not generate logical necessity. The laws of logic are not empirical generalisations that might have exceptions - they are the preconditions for coherent thought about anything, including physical reality.
+   *Response*: This inverts the actual relationship. We use logic to identify and describe physical regularities; we cannot derive logical necessity from physical observation. The law of non-contradiction is not an inductive generalisation that might have exceptions - it is the precondition for coherent observation of anything. If contradiction were possible, no observation could count for or against any conclusion.
+
+2. **Logic as evolutionary heuristic**: Our logical intuitions evolved because they conferred survival advantage. Organisms that reasoned consistently outcompeted those that did not.
+
+   *Response*: This explains why *we believe* logical laws, not why they *hold*. Even if our logical intuitions are evolutionary products, the question remains: why does reality cooperate with these intuitions? An organism could evolve to believe 2+2=5 if that belief somehow aided survival - but reality would not comply. The evolutionary account explains psychology, not ontology.
+
+3. **Logic as brute necessity**: Logical laws simply hold necessarily in all possible worlds. No further explanation is required or possible.
+
+   *Response*: Declaring something a "brute fact" is not an explanation but an admission that no explanation is available. Furthermore, this raises the specificity problem: why *these* particular laws rather than others or none? Why has no exception occurred across 13.8 billion years of cosmic history? Science does not typically accept brute facts at fundamental levels - it seeks explanations. Making an exception for the most fundamental structure of reality is ad hoc.
+
+4. **Logic as human convention**: Logical laws are rules we have adopted, like the rules of chess.
+
+   *Response*: This is performatively absurd. Logic governed reality before humans existed. The early universe obeyed non-contradiction billions of years before any mind formulated the principle. Moreover, the very act of proposing or defending a convention presupposes logical rules by which the proposal could count as coherent.
+
+**Outcome**: Physical reality has never violated these laws. Every physical process, every quantum event, every chemical reaction operates within logical constraints. Scientists depend on this absolutely - the entire scientific enterprise presupposes that nature will not contradict itself.
+
+**Assessment**: Theism offers a positive explanation: a universe created by a rational Mind will be thoroughly logical because it reflects that Mind's nature. The Logos doctrine - that the divine Word is the rational principle through which all things were made (John 1:1-3) - predicts exactly what we observe: a cosmos pervaded by logical order at every scale and in every domain. Naturalism can acknowledge this logical coherence but cannot explain why mindless matter should be constrained by abstract rational principles. The exceptionless reign of logic across all of reality is a datum more naturally expected on theism than on naturalism.
 
 ### 5.11 Information-Theoretic, Computational Structure of Reality
 

@@ -99,6 +99,22 @@ Expanded from 7 lines to substantive treatment (~350 words added):
 - Honest assessment: "genuinely contested technical debate" with difficulties on both sides
 - Maintained conclusion that pattern is "more naturally expected if materials are recent"
 
+### 6. Section 5.10 Logical Coherence Revision
+Expanded from ~230 words to ~550 words with fair engagement of naturalist positions:
+
+**Four naturalist positions addressed:**
+1. Logic as description of regularities → Response: inverts actual relationship
+2. Logic as evolutionary heuristic → Response: explains psychology, not ontology
+3. Logic as brute necessity → Response: not explanation, specificity problem
+4. Logic as human convention → Response: performatively absurd, presupposes logic
+
+**Sources used:**
+- Consilience Argument repo content (arguments, not citations)
+- Web research on Quine, naturalized epistemology, philosophy of logic
+- Stanford Encyclopedia entries on psychologism and a priori justification
+
+**Key improvement:** Now presents naturalist positions in their strongest form before responding, rather than dismissing them as having "no explanation"
+
 ---
 
-## Interaction Count: 9
+## Interaction Count: 11
