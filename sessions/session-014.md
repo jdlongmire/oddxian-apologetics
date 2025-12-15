@@ -167,7 +167,52 @@ Added Scripture references throughout Part I:
 - This was leftover from Part I restructuring when chapters were renumbered
 - Removed duplicate summary/reflect section (lines 1436-1451)
 
+### 11. Part III Complete
+- **Chapter 10: How to Have the Conversation** (~2,200 words)
+  - Goal isn't winning, listen first, questions vs. attacks
+  - It's okay not to have all answers
+  - When to engage/walk away, staying calm, long game
+  - Scripture: Colossians 4:5-6, James 1:19, Proverbs 15:1, Matthew 10:14, 1 Corinthians 3:6
+
+- **Chapter 11: Answering the Classroom** (~2,400 words)
+  - Unique environment with authority figures
+  - Not every challenge is persecution
+  - Speaking up without being "that kid"
+  - Socratic approach, knowing rights
+  - Grades and academic integrity
+  - Scripture: Matthew 10:16, Philippians 2:14-15
+
+- **Chapter 12: Answering Your Friends** (~2,300 words)
+  - When a friend is deconstructing (5 causes, 8 responses)
+  - "Spiritual but not religious" conversation
+  - Responding to mockery without overreacting
+  - Planting seeds vs. forcing conclusions
+  - Friendship at risk - some may not survive
+  - Scripture: Matthew 5:11-12, 1 Corinthians 3:6, Matthew 10:34,36
+
+- **Chapter 13: Answering Online** (~2,500 words)
+  - Nature of online debate (algorithms, silent observers)
+  - Should you engage? Consider emotional state, knowledge, time, motive
+  - Don't feed trolls, but don't hide either
+  - Practical guidelines (short, questions, calm, don't type angry)
+  - Building vs. defending, digital presence as witness
+  - Mental health protection
+  - Scripture: Proverbs 26:4, 1 Peter 3:15, Matthew 5:16
+
+- **Chapter 14: Answering Your Own Doubts** (~2,000 words)
+  - Doubt ≠ unbelief (Thomas, John Baptist, Psalms)
+  - Intellectual vs. emotional doubt - different approaches
+  - When evidence seems weak, when God feels distant
+  - Resources for going deeper (books, websites, oddXian.com)
+  - When to talk to someone
+  - Goal: faith that's yours
+  - Scripture: Matthew 11:3, 1 Corinthians 13:11
+
+### Part III Complete
+- Chapters 10-14 drafted
+- Total Part III: ~11,400 words
+
 ---
 
-## Interaction Count: 37
+## Interaction Count: 38
 
