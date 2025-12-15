@@ -2796,6 +2796,14 @@ Think about what you already understand from gaming and tech:
 
 **Code Complexity:** Modern games contain millions of lines of code coordinating graphics, physics, AI, networking, and sound in real-time.
 
+Here's something worth noticing: we give more creative freedom to DreamWorks animators than we do to God.
+
+When animators create a world where toys come alive, or animals talk, or physics bends to serve the story, we don't object. "That's impossible!" We accept it. They're the creators. They set the rules. If they want gravity to work differently in their world, that's their prerogative.
+
+But when it comes to God creating *actual* reality, suddenly we insist He must have followed uniform physical laws and timelines that we observe *today*. The Omnipotent Creator of the universe gets less creative license than the team behind *Shrek*.
+
+That's backwards.
+
 Every one of these capabilities you take for granted in human-designed systems points toward something crucial: if we can do this with our limited understanding, what can the Omniscient Creator do with reality itself?
 
 ### The Core Framework: Three Principles
