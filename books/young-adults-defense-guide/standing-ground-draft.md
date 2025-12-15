@@ -128,6 +128,9 @@ None of this means their pain isn't real. It often is. But pain doesn't make som
 
 When you see a deconstruction story, ask: What specifically did they believe before? What specific arguments changed their mind? Or is this more about feelings and experiences than actual evidence?
 
+![Deconstruction Wave: People being swept along in a rising cultural trend](figures/fig-1.2-deconstruction-wave.png)
+*Deconstruction has become a cultural wave - a content trend with its own tropes and built-in audience. Not everyone swept along has examined the evidence carefully.*
+
 ### Why Faith Gets Mocked
 
 Here's something that might surprise you: most people mocking Christianity online haven't seriously examined the evidence. They're not philosophers who carefully weighed the arguments and found them wanting. They're people repeating things they've heard from other people who also haven't examined the evidence.
@@ -157,6 +160,9 @@ Christianity has survived Roman persecution, Enlightenment criticism, Communist 
 The question isn't whether Christianity is popular. It's whether Christianity is *true*.
 
 And that's what we'll spend the rest of this book examining.
+
+![Social Pressure: Young person surrounded by pressure from social media, school, peers, and entertainment](figures/fig-1.1-social-pressure.png)
+*The pressure comes from everywhere - social media, academics, peers, entertainment. Understanding where it comes from helps you respond to it.*
 
 ### But First: Where Do We Stand?
 
@@ -213,6 +219,9 @@ There are three different ways to approach the question of Scripture's trustwort
 
 **Experiential reasons** ask: Does the Bible work? Does it ring true? Does it transform lives the way it claims to?
 
+![Three Pillars: Theological, Historical, and Experiential evidence supporting Scripture](figures/fig-2.2-three-pillars.png)
+*Three pillars of evidence support the trustworthiness of Scripture: Theological (God-breathed), Historical (manuscripts and archaeology), and Experiential (transformed lives).*
+
 Let's take each one seriously.
 
 ### Theological: God's Self-Revelation
@@ -248,6 +257,9 @@ This is where the evidence gets interesting.
 **Manuscript evidence.** We have more ancient copies of the New Testament than any other document from the ancient world - over 5,800 Greek manuscripts, plus thousands more in other languages. Compare that to other ancient texts that scholars trust completely: we have maybe 10-20 copies of most classical works, often copied 1,000+ years after the original.
 
 The New Testament manuscripts are earlier and more numerous by orders of magnitude. And when we compare them, they agree to an extraordinary degree - over 99% textual consistency. The 1% that varies is mostly spelling differences and minor word order issues that don't affect any doctrine.
+
+![Manuscript Evidence Comparison: New Testament 5,800+ manuscripts vs. other ancient texts](figures/fig-2.1-manuscript-evidence.png)
+*The New Testament has vastly more manuscript evidence than any other ancient document. If we trust Plato or Homer, we have far better reasons to trust the New Testament text.*
 
 If you trust that we know what Plato or Aristotle wrote, you have far better reasons to trust that we know what the New Testament authors wrote.
 
@@ -363,6 +375,9 @@ None of these are scientific conclusions. They're philosophical assumptions impo
 
 But they're presented as if they're just "what science says."
 
+![Two Worldviews Diverging: Naturalism leads to chaos and meaninglessness; Theism leads to order and purpose](figures/fig-3.1-two-worldviews.png)
+*Two paths from the same starting point. Naturalism (left) leads to chaos and meaninglessness. Theism (right) leads to order, purpose, and light. The worldview you choose shapes everything.*
+
 ### The "Science vs. Religion" Myth
 
 You'll hear this constantly: science and religion are at war. Science is about evidence and reason. Religion is about faith and feelings. Science progresses. Religion holds us back.
@@ -428,6 +443,9 @@ Paul addressed this directly: "For what can be known about God is plain to them,
 That's not a gap in our current knowledge that science will eventually fill. These are questions that naturalism, by its very nature, cannot answer. If only physical stuff exists, there's no explanation for why physical stuff exists. If everything is deterministic brain chemistry, there's no such thing as "truth" or "meaning" - just neurons firing.
 
 Naturalism isn't the default, obvious position that only dumb people question. It's a worldview with massive explanatory holes that its proponents mostly just ignore.
+
+![Science's Scope: A metal detector finds coins but cannot detect love, meaning, or purpose](figures/fig-3.2-metal-detector.png)
+*Science is like a metal detector - excellent at finding physical things, but not designed to detect non-physical realities like love, meaning, and purpose.*
 
 Your education will rarely mention this. Now you know.
 
