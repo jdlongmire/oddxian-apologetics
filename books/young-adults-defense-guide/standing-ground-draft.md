@@ -1433,20 +1433,3 @@ When suffering hits - and it will - you won't reach for philosophical arguments.
 
 ---
 
-### Chapter 4 Summary
-
-- The fear of being different is real but often disproportionate to actual danger
-- "Tolerance" has been redefined from respectful disagreement to mandatory agreement
-- You can love people and disagree with their choices - that's often what love requires
-- "You can't think for yourself" applies to everyone; the real question is whether you've examined your beliefs
-- Be wise about public speech, but don't confuse prudence with denial
-- Cultural pressure is real but temporary; truth outlasts trends
-
-### Reflect
-
-1. Where do you feel the most social pressure about your faith?
-2. How do you typically respond when someone accuses Christians of being intolerant or hateful?
-3. Is there a difference between being private about your beliefs and being ashamed of them? Where's the line for you?
-
----
-
