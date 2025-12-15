@@ -12,6 +12,29 @@ The goal is to provide intellectually sound, biblically-grounded responses that 
 
 ## Work Summary
 
+### ✅ Completed: Session 014 - Young Adult's Christian Defense Guide (2025-12-14/15)
+
+**First draft complete - accessible apologetics for ages 12-18:**
+
+#### Young Adult's Christian Defense Guide
+*A Practical Handbook to Defend Against Today's Challenges*
+
+Full-length book adapting repository frameworks for young adult audience.
+- **17 Chapters + 4 Appendices** (~49,000 words)
+- **Part I: Know What You're Facing** - Cultural landscape, Bible trustworthiness, naturalism critique, social cost
+- **Part II: Know What You Believe** - God's existence (Beginning, Design, Mind, Logic/Logos), slavery question, science/faith, hiddenness, suffering
+- **Part III: Know How to Respond** - Conversations, classroom, friends, online, personal doubts
+- **Part IV: Know Who You Are** - Identity in Christ, courage, building foundation
+- **Appendix D:** "When God Codes Reality" - Literal Programmatic Intervention framework with gaming/programming analogies
+- **Key Distinctions:** Micro vs. macro evolution (NOT theistic evolution); deep time assumptions challenged
+- **Scripture Integration:** ESV throughout, grounded in Holy Spirit's stewardship of Scripture
+- 📄 [standing-ground-draft.md](books/young-adults-defense-guide/standing-ground-draft.md)
+- 📄 [DEVELOPMENT-OUTLINE.md](books/young-adults-defense-guide/DEVELOPMENT-OUTLINE.md)
+- 📄 [graphics-prompts.md](books/young-adults-defense-guide/graphics-prompts.md) - 30+ AI image generation prompts
+- 🖼️ [figures/](books/young-adults-defense-guide/figures/) - 6 figures for Chapters 1-3
+
+---
+
 ### ✅ Completed: Session 012 - Hybrid Hydrotectonic Model v2.0 (2025-12-04)
 
 **Major revision addressing the Deep Mantle Paradox:**
