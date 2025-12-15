@@ -126,3 +126,4 @@ Northrop Grumman Fellow (unaffiliated research)
 
 
 - always commit to both the local and remote repos
+- all scripture references shall be from the ESV
