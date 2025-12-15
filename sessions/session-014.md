@@ -212,7 +212,45 @@ Added Scripture references throughout Part I:
 - Chapters 10-14 drafted
 - Total Part III: ~11,400 words
 
+### 12. Part IV Complete
+- **Chapter 15: You Are Not Your Followers** (~2,100 words)
+  - Identity in social media age, approval trap
+  - What God says about who you are (created, image-bearer, new creation, adopted, loved)
+  - Audience of One, untangling identity
+  - True significance is faithfulness not fame
+  - Scripture: James 4:4, Psalm 139:13, Genesis 1:27, 2 Cor 5:17, 1 John 3:1, Romans 5:8, Galatians 1:10, Matthew 6:3-4, 19:30, Mark 9:35
+
+- **Chapter 16: Courage Isn't the Absence of Fear** (~2,300 words)
+  - Courage = doing right while afraid
+  - Biblical young people: Daniel, Shadrach/Meshach/Abednego, David, Esther, Timothy
+  - Long game: faithfulness over popularity
+  - You're not alone (communion of saints, God with you)
+  - What everyday courage looks like
+  - Scripture: Daniel 3:17-18, 6:10; 1 Samuel 17:37; Esther 4:16; 1 Timothy 4:12; Galatians 6:9; Joshua 1:9; 1 Kings 19:18; Phil 4:13; 2 Tim 1:7; Isaiah 41:10
+
+- **Chapter 17: Building Your Foundation Now** (~2,200 words)
+  - Habits that strengthen faith (Scripture, prayer, gathering, practice, fasting, service)
+  - Finding your people (community)
+  - Resources for continued growth
+  - The adventure ahead
+  - Scripture: Joshua 1:8, Phil 4:6, Heb 10:24-25, James 2:17, Matthew 6:16, 13:44, Romans 8:38-39, 1 Thess 5:24
+
+- **Closing** (~350 words)
+  - Final encouragement, Soli Deo Gloria
+
+### All Main Content Complete
+- Part I: ~8,500 words (4 chapters)
+- Part II: ~14,100 words (5 chapters)
+- Part III: ~11,400 words (5 chapters)
+- Part IV: ~7,500 words (3 chapters + closing)
+- **Total: ~41,500 words** (17 chapters)
+
+### Appendices Pending
+- Appendix A: Quick Reference Cards
+- Appendix B: Recommended Resources
+- Appendix C: Glossary
+
 ---
 
-## Interaction Count: 38
+## Interaction Count: 39
 
