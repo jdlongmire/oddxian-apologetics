@@ -8,7 +8,9 @@
       "Bash(git commit:*)",
       "WebSearch",
       "Bash(git rm:*)",
-      "Bash('God Endorses Slavery' Error\"\n\nCore argument:\n- Mosaic law embedded abolitionist trajectory via Lev 19:18\n- Accommodation under Noahic covenant structurally necessary\n- Prophetic tradition prioritizes principles over institutions\n- Tension between Lev 19:34 (love sojourner) and Lev 25:44-46\n  drives trajectory toward abolition\n\nKey distinctions:\n- Debt servitude vs. chattel slavery\n- Stated principles vs. accommodated practices\n- Hebrew vs. foreign servant regulations\n\nEngages critics: Avalos, Stark, responds to Copan/Wright\n\nIncludes figure: slavery-argument.jpg\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+      "Bash('God Endorses Slavery' Error\"\n\nCore argument:\n- Mosaic law embedded abolitionist trajectory via Lev 19:18\n- Accommodation under Noahic covenant structurally necessary\n- Prophetic tradition prioritizes principles over institutions\n- Tension between Lev 19:34 (love sojourner) and Lev 25:44-46\n  drives trajectory toward abolition\n\nKey distinctions:\n- Debt servitude vs. chattel slavery\n- Stated principles vs. accommodated practices\n- Hebrew vs. foreign servant regulations\n\nEngages critics: Avalos, Stark, responds to Copan/Wright\n\nIncludes figure: slavery-argument.jpg\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "Bash(git stash:*)"
     ],
     "deny": [],
     "ask": []
