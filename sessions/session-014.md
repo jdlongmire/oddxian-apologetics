@@ -250,7 +250,16 @@ Added Scripture references throughout Part I:
 - Appendix B: Recommended Resources
 - Appendix C: Glossary
 
+### 13. Appendix D Added
+- **When God Codes Reality: Understanding Creation Through the Eyes of the Ultimate Programmer** (~4,500 words)
+- Literal Programmatic Intervention (LPI) framework
+- Gaming/programming analogies (Minecraft, admin commands, multi-threaded processing)
+- Young earth perspective with sophisticated framing
+- Topics: DNA as code, multi-threaded time architecture, pre-Fall world, Flood catastrophism
+- Jesus' miracles as admin commands
+- Added reference in Chapter 7 pointing to Appendix D
+
 ---
 
-## Interaction Count: 39
+## Interaction Count: 41
 
