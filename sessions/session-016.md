@@ -254,7 +254,16 @@ Addressed all outstanding critic objections:
 
 **Model Version:** Updated to v2.3 (Objection-Response Edition)
 
+### 16. Numerical Simulation Notebook
+Created `notebooks/20251217_energy_partitioning_simulation.ipynb`:
+- Time-stepping model of PE release during Stage 2
+- Energy partitioning: friction, seismic, viscous, plastic
+- Heat flux calculations and comparison to critic
+- Temperature rise estimates
+- Sensitivity analysis (λ and μ)
+- Visualization plots
+
 ---
 
-## Interaction Count: 18
+## Interaction Count: 19
 
