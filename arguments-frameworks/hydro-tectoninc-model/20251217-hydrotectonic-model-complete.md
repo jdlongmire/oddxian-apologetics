@@ -15,7 +15,7 @@ Northrop Grumman Fellow (unaffiliated research)
 
 ## ABSTRACT
 
-The original Hydrotectonic Collapse model (v1.0) solved the heat problem for rapid crustal motion by invoking shallow, water-lubricated hydroplaning (~7 W/m² heat flux, ~1 K warming). However, it failed to account for deep mantle structures - seismically imaged cold slabs extending through the transition zone (660 km) into the lower mantle - without reintroducing lethal heat or requiring millions of years of conventional sinking.
+The original Hydrotectonic Collapse model (v1.0) solved the heat problem for rapid crustal motion by invoking shallow, water-lubricated hydroplaning (~20 W/m² heat flux per numerical simulation, <1 K global warming). However, it failed to account for deep mantle structures - seismically imaged cold slabs extending through the transition zone (660 km) into the lower mantle - without reintroducing lethal heat or requiring millions of years of conventional sinking.
 
 This paper presents the Hybrid Hydrotectonic Model (v2.0), which resolves the Deep Mantle Paradox by decoupling the *origin* of deep structures from the *mechanism* of the Flood. The model proposes a Three-Stage History:
 
@@ -138,7 +138,7 @@ This shift fundamentally changed the energy budget:
 - Dissipation in thin fluid films distributes heat over large areas at shallow depths
 - The mantle remains largely stationary; it need not flow at catastrophic velocities
 
-Mathematical validation confirmed that dissipating gravitational potential energy into water films generates a manageable ~7 W/m² heat flux and ~1 K global temperature rise - compatible with biosphere survival.
+Mathematical validation confirmed that dissipating gravitational potential energy into water films generates a manageable heat flux (~20 W/m² per numerical simulation) and <1 K global temperature rise - compatible with biosphere survival.
 
 ### 2.3 The Deep Mantle Paradox
 
@@ -343,7 +343,7 @@ Darcy flow calculations (Appendix F) demonstrate that the fracture/channel netwo
 
 ### 5.3 The Heat Sink: Hypercanes
 
-The hydraulic collapse mechanism generates heat primarily in the water films. While v1.0's ~7 W/m² flux is survivable, the model benefits from an additional heat dissipation mechanism: Hypercanes.
+The hydraulic collapse mechanism generates heat primarily in the water films. While the model's ~20 W/m² flux is survivable (30× below lethal threshold), the model benefits from an additional heat dissipation mechanism: Hypercanes.
 
 **Definition:** Hypercanes are theoretical supersonic cyclonic storms that form when ocean temperatures exceed ~40°C (Emanuel, 1994). They are orders of magnitude more powerful than modern hurricanes.
 
@@ -527,14 +527,14 @@ These predictions could distinguish between competing interpretations:
 
 The Hybrid Model (v2.0) incorporates rather than replaces v1.0:
 
-| Component | V1.0 | V2.0 |
-|-----------|------|------|
+| Component | V1.0 | V2.0+ |
+|-----------|------|-------|
 | Heat solution | Shallow hydraulic motion | Retained |
-| Energy budget | ~7 W/m², ~1 K warming | Retained |
+| Energy budget | ~7 W/m² (analytical) | ~20 W/m² (numerical simulation) |
 | Water budget | Transition zone sequestration | Retained |
 | Deep mantle structures | Not addressed | Resolved via Stage 0 |
 | Trigger mechanism | Unspecified seal failure | Meteor impacts |
-| Heat dissipation | Water films only | Water films + Hypercanes |
+| Heat dissipation | Water films only | Water films + Hypercanes + heat removal |
 | Sedimentation | Generic hydraulic | Wave-base + turbidity currents |
 | Initial conditions | Implicit | Explicit Three-Stage Framework |
 
@@ -559,7 +559,7 @@ The objection calculates friction work using FULL lithostatic normal stress. The
 | Normal stress | σ_n = 400 MPa | σ'_n = 4 MPa (1% of lithostatic) |
 | Friction force | 3.2×10¹⁸ N | 3.2×10¹⁶ N |
 | Work (10 blocks) | ~10²⁵ J | ~10²³ J |
-| Heat flux | ~600 W/m² | ~6 W/m² |
+| Heat flux | ~600 W/m² | ~20 W/m² |
 
 **The 100× difference arises entirely from pore pressure effects.** See Appendix B.2 for full derivation.
 
@@ -589,9 +589,9 @@ The objection assumes sealed-compartment physics (fault valving model):
 
 **Thermal stability:** The numerical simulation demonstrates that even the reduced heat generation rate (~1.1×10¹⁶ W) is readily dissipated by the system's heat removal mechanisms.
 
-![Figure 3: Heat Balance - Input rate vs removal capacity](notebooks/heat_balance.png)
+![Figure 2: Heat Balance - Input rate vs removal capacity](notebooks/heat_balance.png)
 
-*Figure 3: Heat balance analysis. The red dashed line shows heat input rate from frictional and viscous dissipation. The blue curve shows heat removal capacity as a function of sea surface temperature excess. Heat removal exceeds input even at low temperatures, indicating the system is self-cooling rather than experiencing thermal runaway. Heat removal mechanisms include: evaporative cooling, convective water flow through the channeled-porosity network, and radiative cooling.*
+*Figure 2: Heat balance analysis. The red dashed line shows heat input rate from frictional and viscous dissipation. The blue curve shows heat removal capacity as a function of sea surface temperature excess. Heat removal exceeds input even at low temperatures, indicating the system is self-cooling rather than experiencing thermal runaway. Heat removal mechanisms include: evaporative cooling, convective water flow through the channeled-porosity network, and radiative cooling.*
 
 The convective water flow alone (1.67×10¹⁶ W, from Darcy calculations) exceeds the heat input rate (1.11×10¹⁶ W). The system reaches thermal equilibrium without significant warming.
 
@@ -599,7 +599,7 @@ The convective water flow alone (1.67×10¹⁶ W, from Darcy calculations) excee
 
 **Objection (summarized):** "You provide no shear-stress derivation, no lubrication-theory equations, no Reynolds number analysis, no drainage-rate calculations, no energy-budget closure."
 
-**Response:** This version (v2.3) now includes:
+**Response:** This version (v2.4) now includes:
 
 | Requested | Location | Status |
 |-----------|----------|--------|
@@ -615,9 +615,9 @@ The convective water flow alone (1.67×10¹⁶ W, from Darcy calculations) excee
 
 **Response:** See Appendix B.3 for detailed energy partitioning, and the numerical simulation notebook for quantitative verification.
 
-![Figure 2: Energy Budget Closure - Partitioning of gravitational PE during Stage 2](notebooks/energy_partitioning_results_v2.png)
+![Figure 3: Energy Budget Closure - Partitioning of gravitational PE during Stage 2](notebooks/energy_partitioning_results_v2.png)
 
-*Figure 2: Energy partitioning during Stage 2 hydraulic collapse. Top-left: Cumulative energy dissipation over one year. Top-right: Final energy budget showing ~94% remains as residual PE (blocks reach equilibrium before fully settling). Bottom-left: Heat flux comparison (model: ~22 W/m² vs critic: ~600 W/m²). Bottom-right: Heat generation comparison showing 91× reduction from pore pressure effects. Generated from numerical simulation (see `notebooks/20251217_energy_partitioning_simulation.ipynb`).*
+*Figure 3: Energy partitioning during Stage 2 hydraulic collapse. Top-left: Cumulative energy dissipation over one year. Top-right: Final energy budget showing ~94% remains as residual PE (blocks reach equilibrium before fully settling). Bottom-left: Heat flux comparison (model: ~22 W/m² vs critic: ~600 W/m²). Bottom-right: Heat generation comparison showing 91× reduction from pore pressure effects. Generated from numerical simulation (see `notebooks/20251217_energy_partitioning_simulation.ipynb`).*
 
 | Energy Sink | Estimate | Percentage | Mechanism |
 |-------------|----------|------------|-----------|
@@ -656,10 +656,11 @@ This is a serious objection that deserves honest engagement.
 
 Intellectual honesty requires acknowledging what remains unresolved:
 
-1. **Full energy closure:** Order-of-magnitude estimates provided, but precise partitioning requires numerical simulation
+1. **Energy partitioning uncertainties:** Numerical simulation provides budget closure, but seismic efficiency and viscous dissipation fractions are order-of-magnitude estimates
 2. **Scale extrapolation:** Submarine hydroplaning observed at 100s km; model requires 1000s km
-3. **Pore pressure maintenance:** Mechanism plausible via channeled-porosity, but not directly demonstrated
+3. **Pore pressure maintenance:** Mechanism plausible via channeled-porosity and supported by Darcy calculations, but not directly demonstrated at crustal scale
 4. **Temporal dynamics:** Steady-state assumed; start-up transients not modeled
+5. **Spatial heterogeneity:** Model treats blocks uniformly; actual motion would be spatially variable
 
 **These are modeling challenges, not physical impossibilities.** The model provides a framework for addressing them, not a claim to have solved everything.
 
@@ -841,7 +842,7 @@ $$W_{total} = 10 \times 3.2 \times 10^{22} = 3.2 \times 10^{23}~\text{J} \approx
 | Shear stress τ | 4 MPa | 40 kPa | 100× |
 | Friction force F | 3.2×10¹⁸ N | 3.2×10¹⁶ N | 100× |
 | Frictional work (10 blocks) | 3.2×10²⁵ J | 3.2×10²³ J | 100× |
-| Heat flux | ~600 W/m² | ~6 W/m² | 100× |
+| Heat flux | ~600 W/m² | ~20 W/m² | 30× |
 
 **The entire dispute reduces to one question:** Can near-lithostatic pore pressure be maintained during sliding? Section 4.3 (Channeled-Porosity Architecture) and Section 5.2.1 (Submarine Hydroplaning Analog) address this question with literature support.
 
@@ -890,24 +891,30 @@ The critic assumes all PE converts to heat at the sliding interface. This is inc
 | Calculation | Friction Force | Work | Heat Flux |
 |-------------|---------------|------|-----------|
 | Critic (full σ_n) | μ × m × g = 8×10¹⁸ N | 8×10²⁴ J | ~60 W/m² |
-| This model (σ'_eff) | μ × σ'_eff × A = 3×10¹⁶ N | 3×10²² J | ~0.6 W/m² |
-| This model (10 blocks) | - | 3×10²³ J | ~6 W/m² |
+| This model (σ'_eff) | μ × σ'_eff × A = 3×10¹⁶ N | 3×10²² J | ~0.6 W/m² (per block) |
+| This model (10 blocks) | - | 3.5×10²³ J | ~22 W/m² (numerical simulation) |
 
-**Note:** The critic's claimed 8×10²⁰ N force and 8×10²⁶ J work appear to contain arithmetic errors. With μ = 0.01 and m = 8×10¹⁹ kg: F = μ×m×g = 0.01 × 8×10¹⁹ × 10 = 8×10¹⁸ N, not 8×10²⁰ N.
+**Note:** The critic's claimed 8×10²⁰ N force and 8×10²⁶ J work appear to contain arithmetic errors. With μ = 0.01 and m = 8×10¹⁹ kg: F = μ×m×g = 0.01 × 8×10¹⁹ × 10 = 8×10¹⁸ N, not 8×10²⁰ N. The numerical simulation gives total heat dissipation of 3.5×10²³ J (friction + viscous), resulting in ~22 W/m² average heat flux.
 
 #### B.3.4 Acknowledgment of Uncertainties
 
-The full energy partitioning requires detailed numerical modeling not yet performed. Outstanding questions:
+The numerical simulation (see `notebooks/20251217_energy_partitioning_simulation.ipynb`) provides budget closure:
 
-1. **Seismic efficiency at scale:** Are continental-scale events comparable to fault-scale earthquakes?
-2. **Viscous dissipation distribution:** How much spreads through water volume vs. concentrates at interfaces?
-3. **Residual PE magnitude:** How close to equilibrium do blocks settle?
+| Energy Sink | Amount | Fraction |
+|-------------|--------|----------|
+| Frictional dissipation | 3.2×10²³ J | 5.0% of available PE |
+| Viscous dissipation | 3.2×10²² J | 0.5% |
+| Seismic radiation | 1.6×10²² J | 0.25% |
+| Residual PE | 6.0×10²⁴ J | 94.2% |
 
-**Position:** The ~7 W/m² frictional heat flux is defensible based on effective stress physics. The fate of remaining PE is distributed among non-local sinks (seismic radiation, viscous dissipation in water volume). Full closure requires numerical simulation.
+**Key insight:** The large residual PE fraction is physically expected - blocks reach equilibrium before fully settling.
 
-**What we can claim:** Frictional heating at sliding interfaces is ~100× lower than critic calculates due to pore pressure effects. This is the mechanism that solves the heat problem.
+**Remaining uncertainties:**
+1. **Seismic efficiency at scale:** Estimate of 5% may vary
+2. **Viscous dissipation distribution:** Order-of-magnitude estimate
+3. **Spatial heterogeneity:** Model assumes uniform block behavior
 
-**What remains open:** Precise partitioning among seismic, viscous, and plastic sinks. This is a modeling challenge, not a physical impossibility.
+**What we can claim:** Frictional heating at sliding interfaces is ~100× lower than critic calculates due to pore pressure effects. The numerical simulation confirms ~20 W/m² heat flux, 30× below lethal threshold.
 
 ### B.4 Heat Flux Calculation
 
@@ -962,17 +969,19 @@ $$\frac{3 \times 10^{17}}{10^{23}} = 3 \times 10^{-6} = 0.0003\%$$
 
 | Parameter | Value | Notes |
 |-----------|-------|-------|
-| Available PE | 10²⁵ J | Gravitational battery |
-| Frictional dissipation | 10²³ J | ~1% of PE |
-| Heat flux | ~7 W/m² | Averaged over Earth, 1 year |
-| Ocean temperature rise | <1 K | If fully mixed |
-| Local water film warming | ~50 K | Active sliding zones |
+| Available PE | 6.35×10²⁴ J | Gravitational battery (10 blocks, 1 km settling) |
+| PE dissipated | 3.65×10²³ J | ~5.8% of available PE |
+| PE residual | 5.98×10²⁴ J | ~94% remains (blocks reach equilibrium) |
+| Heat flux | ~22 W/m² | Averaged over Earth, 1 year (numerical simulation) |
+| Ocean temperature rise | <0.1 K | If fully mixed |
+| Local water film warming | ~160 K | Without heat removal; ~10 K with heat removal |
+| Heat removal capacity | >2.5×10¹⁶ W | Exceeds input rate |
 | Kinetic energy | <0.001% | Negligible |
 
 **Comparison to lethal threshold:**
 - Conventional catastrophic models: hundreds of K warming
-- Hydrotectonic model: ~1 K global, ~50 K local (water films)
-- Survivability margin: 100-1000× safer
+- Hydrotectonic model: <0.1 K global, system self-cooling
+- Survivability margin: 30× below critic's estimate (~600 W/m²)
 
 ### B.8 Sensitivity Analysis
 
@@ -980,7 +989,7 @@ The heat generation rate depends critically on two parameters: pore pressure rat
 
 ![Figure 4: Sensitivity Analysis - Parameter dependence of heat flux](notebooks/sensitivity_analysis.png)
 
-*Figure 4: Sensitivity of average heat flux to model parameters. Left: Variation with pore pressure ratio λ. The model assumes λ = 0.99; heat flux increases sharply as λ decreases (less pressure → more friction). Right: Variation with friction coefficient μ. The model assumes μ = 0.01 (consistent with wet fault zones). Green line: model claim (~7 W/m²); red line: lethal threshold (~600 W/m²).*
+*Figure 4: Sensitivity of average heat flux to model parameters. Left: Variation with pore pressure ratio λ. The model assumes λ = 0.99; heat flux increases sharply as λ decreases (less pressure → more friction). Right: Variation with friction coefficient μ. The model assumes μ = 0.01 (consistent with wet fault zones). Purple line: model parameters; red line: lethal threshold (~600 W/m²).*
 
 **Critical parameter values:**
 - For heat flux < 10 W/m²: requires λ > 0.97 (pore pressure > 97% lithostatic)
@@ -1068,7 +1077,7 @@ $$\dot{Q}_{latent} = 6.3 \times 10^{15}~\text{W}$$
 $$q = \frac{6.3 \times 10^{15}}{10^{11}} = 6.3 \times 10^4~\text{W/m}^2$$
 
 **Comparison to frictional input:**
-- Frictional heat flux: ~7 W/m² (global average)
+- Frictional heat flux: ~20 W/m² (global average)
 - Hypercane latent heat flux: ~60,000 W/m² (local)
 
 **Conclusion:** A single hypercane can transport heat at rates 10,000× greater than the global average frictional input. Even a few hypercanes operating simultaneously could dissipate the entire frictional heat budget.
@@ -1266,7 +1275,7 @@ $$Q_{evap} ≈ 2.2 × 10^{17}~\text{W}$$
 **Per-unit-area heat flux:**
 $$q_{evap} ≈ 430~\text{W/m}²$$
 
-This represents approximately 60× the heat flux from friction dissipation calculated in the main paper (~7 W/m² sustained water-film dissipation). However, this is an upper bound under peak thermal stress conditions. The actual sustained rate would be lower and depends on atmospheric capacity to export the latent heat.
+This represents approximately 20× the heat flux from friction dissipation calculated in the main paper (~20 W/m² sustained water-film dissipation). However, this is an upper bound under peak thermal stress conditions. The actual sustained rate would be lower and depends on atmospheric capacity to export the latent heat.
 
 #### E.3.2 Atmospheric Radiative Export
 
@@ -1296,7 +1305,7 @@ The atmospheric mechanisms described above operate in parallel with the water-me
 
 1. **Primary source:** Gravitational potential energy release during crustal collapse (~10²³ J total)
 
-2. **Primary sink:** Water-film dissipation at shallow depths (~7 W/m² sustained)
+2. **Primary sink:** Water-film dissipation at shallow depths (~20 W/m² sustained)
 
 3. **Secondary sink:** Evaporative heat export (~100-400 W/m² during peak thermal stress, declining as ocean cools)
 
@@ -1693,7 +1702,7 @@ Where f is a geometry-dependent factor.
 1. Viscous dissipation in water is negligible compared to solid friction
 2. Flow is turbulent in channels but laminar in matrix
 3. Classical film failure modes don't directly apply to open porous systems
-4. The ~7 W/m² heat flux comes from reduced-friction sliding, not viscous shear in fluid
+4. The ~20 W/m² heat flux comes from reduced-friction sliding, not viscous shear in fluid
 
 ---
 

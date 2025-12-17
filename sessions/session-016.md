@@ -314,7 +314,33 @@ Updated `20251217-hydrotectonic-model-complete.md` to v2.4 (Numerical Simulation
 - Reproducible calculations via Jupyter notebook
 - Proper energy budget closure demonstration
 
+### 19. Editorial Pass
+
+Performed comprehensive editorial review:
+
+**Heat Flux Consistency:**
+- Updated all references from ~7 W/m² to ~20 W/m² (per numerical simulation)
+- Maintained historical reference to v1.0's ~7 W/m² where appropriate (in v1.0 vs v2.0 comparison)
+- Updated tables in Section 8.1, Appendix B, and other locations
+
+**Version References:**
+- Changed "This version (v2.3)" to "This version (v2.4)"
+- Updated all comparison tables
+
+**Outstanding Issues Section:**
+- Updated item 1: Now references numerical simulation for budget closure
+- Added item 5: Spatial heterogeneity as modeling challenge
+
+**Figure Numbering:**
+- Corrected sequential ordering (was 1, 3, 2, 4; now 1, 2, 3, 4)
+- Figure 2: Heat balance (Section 8.2)
+- Figure 3: Energy partitioning (Section 8.4)
+
+**Appendix B.3.4:**
+- Completely updated to reference numerical simulation results
+- Added summary table with energy partitioning values
+
 ---
 
-## Interaction Count: 21
+## Interaction Count: 22
 
