@@ -340,7 +340,17 @@ Performed comprehensive editorial review:
 - Completely updated to reference numerical simulation results
 - Added summary table with energy partitioning values
 
+### 20. Figure Reorganization
+
+Moved all embedded figures to dedicated `figures/` folder:
+- `channeled-porosity.png` → `figures/channeled-porosity.png`
+- `notebooks/heat_balance.png` → `figures/heat_balance.png`
+- `notebooks/energy_partitioning_results_v2.png` → `figures/energy_partitioning_results_v2.png`
+- `notebooks/sensitivity_analysis.png` → `figures/sensitivity_analysis.png`
+
+Updated all embed links in paper and text references in Appendix F.
+
 ---
 
-## Interaction Count: 22
+## Interaction Count: 23
 

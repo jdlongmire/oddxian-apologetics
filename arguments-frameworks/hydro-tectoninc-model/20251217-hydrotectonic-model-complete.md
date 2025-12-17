@@ -231,7 +231,7 @@ Modern analogs exist in regions of high crustal fluid content: overpressured sed
 
 ### 4.3 The Channeled-Porosity Architecture
 
-![Figure 1: Channeled-Porosity Architecture - Interconnected network of water-saturated channels and porous zones enabling continuous seepage support during Stage 2 discharge](channeled-porosity.png)
+![Figure 1: Channeled-Porosity Architecture - Interconnected network of water-saturated channels and porous zones enabling continuous seepage support during Stage 2 discharge](figures/channeled-porosity.png)
 
 *Figure 1: Schematic of the channeled-porosity architecture. Water flows through an interconnected network of high-permeability channels (blue) within a porous matrix, providing continuous seepage support. Unlike sealed compartments, this open-flow system maintains effective stress reduction even as water drains - because fresh water continuously enters.*
 
@@ -589,7 +589,7 @@ The objection assumes sealed-compartment physics (fault valving model):
 
 **Thermal stability:** The numerical simulation demonstrates that even the reduced heat generation rate (~1.1×10¹⁶ W) is readily dissipated by the system's heat removal mechanisms.
 
-![Figure 2: Heat Balance - Input rate vs removal capacity](notebooks/heat_balance.png)
+![Figure 2: Heat Balance - Input rate vs removal capacity](figures/heat_balance.png)
 
 *Figure 2: Heat balance analysis. The red dashed line shows heat input rate from frictional and viscous dissipation. The blue curve shows heat removal capacity as a function of sea surface temperature excess. Heat removal exceeds input even at low temperatures, indicating the system is self-cooling rather than experiencing thermal runaway. Heat removal mechanisms include: evaporative cooling, convective water flow through the channeled-porosity network, and radiative cooling.*
 
@@ -615,7 +615,7 @@ The convective water flow alone (1.67×10¹⁶ W, from Darcy calculations) excee
 
 **Response:** See Appendix B.3 for detailed energy partitioning, and the numerical simulation notebook for quantitative verification.
 
-![Figure 3: Energy Budget Closure - Partitioning of gravitational PE during Stage 2](notebooks/energy_partitioning_results_v2.png)
+![Figure 3: Energy Budget Closure - Partitioning of gravitational PE during Stage 2](figures/energy_partitioning_results_v2.png)
 
 *Figure 3: Energy partitioning during Stage 2 hydraulic collapse. Top-left: Cumulative energy dissipation over one year. Top-right: Final energy budget showing ~94% remains as residual PE (blocks reach equilibrium before fully settling). Bottom-left: Heat flux comparison (model: ~22 W/m² vs critic: ~600 W/m²). Bottom-right: Heat generation comparison showing 91× reduction from pore pressure effects. Generated from numerical simulation (see `notebooks/20251217_energy_partitioning_simulation.ipynb`).*
 
@@ -987,7 +987,7 @@ $$\frac{3 \times 10^{17}}{10^{23}} = 3 \times 10^{-6} = 0.0003\%$$
 
 The heat generation rate depends critically on two parameters: pore pressure ratio (λ) and friction coefficient (μ). The numerical simulation explores how results vary across plausible parameter ranges.
 
-![Figure 4: Sensitivity Analysis - Parameter dependence of heat flux](notebooks/sensitivity_analysis.png)
+![Figure 4: Sensitivity Analysis - Parameter dependence of heat flux](figures/sensitivity_analysis.png)
 
 *Figure 4: Sensitivity of average heat flux to model parameters. Left: Variation with pore pressure ratio λ. The model assumes λ = 0.99; heat flux increases sharply as λ decreases (less pressure → more friction). Right: Variation with friction coefficient μ. The model assumes μ = 0.01 (consistent with wet fault zones). Purple line: model parameters; red line: lethal threshold (~600 W/m²).*
 
@@ -1477,7 +1477,7 @@ $$Q_{required} = \frac{1.6 \times 10^{13}}{3.15 \times 10^7} \approx 5 \times 10
 
 **Flow through inter-block fractures:**
 
-From channeled-porosity.png (Figure 1), the fracture network provides water supply:
+From Figure 1 (channeled-porosity architecture), the fracture network provides water supply:
 | Parameter | Estimate | Notes |
 |-----------|----------|-------|
 | Number of fractures | ~100 | Order of magnitude from figure |
@@ -1558,7 +1558,7 @@ The scale difference (1000s km vs 100s km) is addressed by:
 
 ### F.10 Caveats and Uncertainties
 
-1. **Fracture geometry:** Values estimated from channeled-porosity.png; actual network may differ
+1. **Fracture geometry:** Values estimated from Figure 1; actual network may differ
 2. **Permeability distribution:** Assumed uniform; actual distribution heterogeneous
 3. **Temporal dynamics:** Assumes steady-state; start-up transients not modeled
 4. **Scale effects:** Linear scaling assumed; non-linear effects possible
