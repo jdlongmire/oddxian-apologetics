@@ -212,5 +212,15 @@ Updated `20251217-hydrotectonic-model-complete.md`:
 
 ---
 
-## Interaction Count: 16
+### 14. Terminology Update
+- Replaced "spongy-model" → "channeled-porosity" throughout documents
+- Replaced "spongy zone" → "porous zone"
+- More scientifically appropriate terminology
+- Files updated:
+  - `20251217-hydrotectonic-model-complete.md` (now v2.2 Channeled-Porosity Edition)
+  - `20251217_PorePressure_LiteratureReview.md`
+
+---
+
+## Interaction Count: 17
 

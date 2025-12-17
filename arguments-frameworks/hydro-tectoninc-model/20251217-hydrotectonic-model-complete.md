@@ -1,6 +1,6 @@
 # The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge
 
-**Version 2.2 - Spongy-Model Edition**
+**Version 2.2 - Channeled-Porosity Edition**
 
 **Author:**
 James (JD) Longmire
@@ -35,7 +35,7 @@ The model generates a novel testable prediction: seismic tomography should revea
 - Appendix C: Hypercane Physics and Heat Transport
 - Appendix D: Driving Forces and Block Velocity
 - Appendix E: Earth-System Context for Hydraulic Collapse
-- Appendix F: Darcy Flow Calculations for Spongy-Model Architecture
+- Appendix F: Darcy Flow Calculations for Channeled-Porosity Architecture
 
 **Framework:** This paper is situated within the Christian Designism research programme (Longmire, 2025d).
 
@@ -226,11 +226,11 @@ The antediluvian crust was not a slightly wetter version of the present configur
 
 Modern analogs exist in regions of high crustal fluid content: overpressured sedimentary basins (Flemings et al., 2008), décollement horizons in accretionary wedges (Moore and Saffer, 2001), and salt detachment systems (Hudec and Jackson, 2007). The difference is one of scale and connectivity: the antediluvian crust had such features distributed globally and hydraulically linked.
 
-### 4.3 The Spongy-Model Architecture
+### 4.3 The Channeled-Porosity Architecture
 
-**[See Figure 1: spongy-model.png]**
+**[See Figure 1: channeled-porosity.png]**
 
-A critical feature of the Stage 1 configuration is the **spongy-model architecture** of the mid-to-lower crust. Unlike modern crustal structure with discrete fault zones and isolated aquifers, the antediluvian crust featured:
+A critical feature of the Stage 1 configuration is the **channeled-porosity architecture** of the mid-to-lower crust. Unlike modern crustal structure with discrete fault zones and isolated aquifers, the antediluvian crust featured:
 
 **Interconnected Channel Network:**
 - A water-saturated porous zone beneath the brittle upper crust
@@ -256,9 +256,9 @@ This architecture determines which physics governs Stage 2 dynamics:
 | Architecture | Drainage Behavior | Applicable Physics |
 |--------------|-------------------|-------------------|
 | Sealed compartments | Breach → drain → friction returns | Fault valving |
-| Spongy/connected | Flow-through → seepage support | Submarine hydroplaning |
+| Channeled-porosity | Flow-through → seepage support | Submarine hydroplaning |
 
-The spongy-model architecture means the system operates via **continuous flow** rather than **pressure release**. This has critical implications for the hydraulic collapse mechanism (see Section 5.2.1).
+The channeled-porosity architecture means the system operates via **continuous flow** rather than **pressure release**. This has critical implications for the hydraulic collapse mechanism (see Section 5.2.1).
 
 ### 4.4 Stability Duration
 
@@ -307,7 +307,7 @@ Velocities of tens to hundreds of meters per hour are consistent with the energy
 
 ### 5.2.1 Submarine Hydroplaning: The Observational Analog
 
-The spongy-model architecture (Section 4.3) means the hydraulic collapse mechanism operates via **continuous flow** rather than sealed pressure release. The closest observed natural analog is **submarine landslide hydroplaning**.
+The channeled-porosity architecture (Section 4.3) means the hydraulic collapse mechanism operates via **continuous flow** rather than sealed pressure release. The closest observed natural analog is **submarine landslide hydroplaning**.
 
 **Observed Phenomenon:**
 Submarine mass transport deposits (MTDs) travel extraordinary distances on slopes as gentle as 1° - far exceeding what conventional friction models predict. Laboratory experiments and field observations attribute this to hydroplaning:
@@ -317,11 +317,11 @@ Submarine mass transport deposits (MTDs) travel extraordinary distances on slope
 > "The basal shear zone represents a hydroplaning 'carpet' consisting of a liquefied/fluidized mixture of water and loose sediments"
 
 **Why This Analog Applies:**
-The spongy-model architecture creates conditions analogous to submarine hydroplaning:
+The channeled-porosity architecture creates conditions analogous to submarine hydroplaning:
 
 | Submarine Landslide | Hydrotectonic Model |
 |--------------------|---------------------|
-| Debris flow on seafloor | Continental block on spongy zone |
+| Debris flow on seafloor | Continental block on porous zone |
 | Water-saturated basal layer | Water-saturated channel network |
 | Continuous water supply (ambient ocean) | Continuous supply (flooding + deep sources) |
 | Hydroplaning "carpet" | Seepage-supported sliding surface |
@@ -331,7 +331,7 @@ Recent research (2023) demonstrates that lubrication can be maintained even with
 
 > "Liquefaction can occur under drained conditions... porous fluid flow toward a drained boundary is accompanied by pore pressure gradients that exert seepage forces on the soil grains, supporting their weight, weakening grain contacts, and reducing soil strength" (Nature Communications, 2023)
 
-This addresses a common objection: that drainage would terminate lubrication. In an open flow system like the spongy-model architecture, **flow itself provides the support** via seepage forces. Continuous water supply maintains continuous support.
+This addresses a common objection: that drainage would terminate lubrication. In an open flow system like the channeled-porosity architecture, **flow itself provides the support** via seepage forces. Continuous water supply maintains continuous support.
 
 **Quantitative Validation:**
 Darcy flow calculations (Appendix F) demonstrate that the fracture/channel network can supply water ~800× faster than consolidation would drain it, maintaining the seepage-supported condition throughout Stage 2.
@@ -1076,7 +1076,7 @@ This appendix outlines a potential Earth-system context for hydrotectonic collap
 
 ### F.1 The Question
 
-Can water flow through the spongy zone fast enough to maintain seepage support under continental load? This appendix demonstrates that the fracture/channel network supplies water far faster than consolidation would drain it.
+Can water flow through the porous zone fast enough to maintain seepage support under continental load? This appendix demonstrates that the fracture/channel network supplies water far faster than consolidation would drain it.
 
 ### F.2 Darcy's Law
 
@@ -1101,7 +1101,7 @@ Where:
 | Width | W_block | 800 km = 8 × 10⁵ m |
 | Base area | A_base | 8 × 10¹¹ m² |
 
-**Spongy zone parameters** (stipulated for Stage 1 architecture):
+**Porous zone parameters** (stipulated for Stage 1 architecture):
 | Parameter | Symbol | Value | Notes |
 |-----------|--------|-------|-------|
 | Thickness | h_sponge | 1-5 km | Order of magnitude |
@@ -1122,10 +1122,10 @@ $$\Delta P = \rho_w \cdot g \cdot h = (1000)(9.8)(1000) = 9.8 \times 10^6~\text{
 
 ### F.4 Required Flow Rate
 
-To maintain seepage support, water must flow through the spongy zone faster than consolidation drains it.
+To maintain seepage support, water must flow through the porous zone faster than consolidation drains it.
 
 **Consolidation estimate:**
-From Terzaghi consolidation theory, if the spongy zone compresses by 1% under load:
+From Terzaghi consolidation theory, if the porous zone compresses by 1% under load:
 - Volume change: ΔV = 0.01 × A_base × h_sponge
 - For h_sponge = 2 km:
 $$\Delta V = 0.01 \times 8 \times 10^{11} \times 2000 = 1.6 \times 10^{13}~\text{m}^3$$
@@ -1137,7 +1137,7 @@ $$Q_{required} = \frac{1.6 \times 10^{13}}{3.15 \times 10^7} \approx 5 \times 10
 
 **Flow through inter-block fractures:**
 
-From spongy-model.png (Figure 1), the fracture network provides water supply:
+From channeled-porosity.png (Figure 1), the fracture network provides water supply:
 | Parameter | Estimate | Notes |
 |-----------|----------|-------|
 | Number of fractures | ~100 | Order of magnitude from figure |
@@ -1150,7 +1150,7 @@ From spongy-model.png (Figure 1), the fracture network provides water supply:
 For open fractures (k ~ 10⁻⁸ m²):
 $$v = \frac{k \cdot \Delta P}{\mu \cdot L}$$
 
-With ΔP = 10⁷ Pa, L = 2000 m (spongy zone thickness):
+With ΔP = 10⁷ Pa, L = 2000 m (porous zone thickness):
 $$v = \frac{10^{-8} \times 10^7}{10^{-3} \times 2000} = \frac{10^{-1}}{2} = 0.05~\text{m/s}$$
 
 **Volumetric flow rate:**
@@ -1188,9 +1188,9 @@ If consolidation is 10× faster (high compressibility):
 ### F.8 Physical Interpretation
 
 **Why this works:**
-1. The spongy-model architecture provides high-permeability pathways (channels, fractures)
+1. The channeled-porosity architecture provides high-permeability pathways (channels, fractures)
 2. Flood inundation provides continuous hydraulic head from above
-3. Water flows DOWN through fractures, THROUGH the spongy zone
+3. Water flows DOWN through fractures, THROUGH the porous zone
 4. Seepage forces from this flow support the overlying blocks
 5. Continuous flow = continuous support = sustained low friction
 
@@ -1218,7 +1218,7 @@ The scale difference (1000s km vs 100s km) is addressed by:
 
 ### F.10 Caveats and Uncertainties
 
-1. **Fracture geometry:** Values estimated from spongy-model.png; actual network may differ
+1. **Fracture geometry:** Values estimated from channeled-porosity.png; actual network may differ
 2. **Permeability distribution:** Assumed uniform; actual distribution heterogeneous
 3. **Temporal dynamics:** Assumes steady-state; start-up transients not modeled
 4. **Scale effects:** Linear scaling assumed; non-linear effects possible
@@ -1233,7 +1233,7 @@ The scale difference (1000s km vs 100s km) is addressed by:
 | Submarine analog exists | Observational support for mechanism |
 | Continuous supply essential | Provided by Flood inundation + deep sources |
 
-**Conclusion:** Order-of-magnitude calculations confirm that the spongy-model architecture can maintain seepage-supported sliding throughout Stage 2, provided the stipulated channel network exists.
+**Conclusion:** Order-of-magnitude calculations confirm that the channeled-porosity architecture can maintain seepage-supported sliding throughout Stage 2, provided the stipulated channel network exists.
 
 ---
 
@@ -1287,7 +1287,7 @@ Vardiman, L. (2003). "Hypercanes Following the Genesis Flood." *Proceedings of t
 
 Waples, D.W. and Waples, J.S. (2004). "A review and evaluation of specific heat capacities of rocks, minerals, and subsurface fluids." *Natural Resources Research*, 13, 97-122.
 
-### Spongy-Model and Hydroplaning References
+### Channeled-Porosity and Hydroplaning References
 
 De Blasio, F.V., Elverhøi, A., Issler, D., Harbitz, C.B., Bryn, P., and Lien, R. (2004). "Flow models of natural debris flows originating from overconsolidated clay materials." *Marine Geology*, 213(1-4), 439-455.
 
@@ -1321,7 +1321,7 @@ Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Curren
 
 ## DOCUMENT INFORMATION
 
-**Version:** 2.2 (Spongy-Model Edition)
+**Version:** 2.2 (Channeled-Porosity Edition)
 **Date:** 2025-12-17
 **Word Count:** ~15,000
 **Author:** James (JD) Longmire
@@ -1333,7 +1333,7 @@ Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Curren
 - v1.0 (2025-11): Original Hydrotectonic Collapse paper
 - v2.0 (2025-12): Hybrid model with Three-Stage Framework
 - v2.1 (2025-12-17): Consolidated edition with all appendices (A-E)
-- v2.2 (2025-12-17): Added spongy-model architecture (Section 4.3), submarine hydroplaning analog (Section 5.2.1), and Darcy flow calculations (Appendix F)
+- v2.2 (2025-12-17): Added channeled-porosity architecture (Section 4.3), submarine hydroplaning analog (Section 5.2.1), and Darcy flow calculations (Appendix F)
 
 **Suggested citation:**
-Longmire, J.D. (2025). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge (v2.2 Spongy-Model Edition). https://github.com/jdlongmire/oddxian-apologetics
+Longmire, J.D. (2025). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge (v2.2 Channeled-Porosity Edition). https://github.com/jdlongmire/oddxian-apologetics

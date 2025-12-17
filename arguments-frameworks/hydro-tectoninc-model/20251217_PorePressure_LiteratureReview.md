@@ -315,16 +315,16 @@ The model can defensibly claim:
 
 ---
 
-**Document Status**: Research complete - REVISED after spongy-model clarification
+**Document Status**: Research complete - REVISED after channeled-porosity clarification
 **Assessment**: Stronger support than initially assessed when correct analog applied
 **Recommendation**: Develop quantitative Darcy flow analysis for stipulated architecture
 
 ---
 
-# PART II: REVISED ANALYSIS FOR SPONGY-MODEL ARCHITECTURE
+# PART II: REVISED ANALYSIS FOR CHANNELED-POROSITY ARCHITECTURE
 
 **Date**: 2025-12-17 (Revision)
-**Trigger**: User clarification that model stipulates spongy, interconnected crustal architecture (see spongy-model.png)
+**Trigger**: User clarification that model stipulates porous, interconnected crustal architecture (see channeled-porosity.png)
 
 ---
 
@@ -336,7 +336,7 @@ The initial analysis (Sections 1-10) applied **fault valving** literature, which
 - Permeability increase during slip drains pressure
 
 But the model stipulates a fundamentally different architecture:
-- Water-saturated "spongy" lower crust
+- Water-saturated porous lower crust with channel network
 - Interconnected channel network
 - Continuous water supply from above (Flood inundation)
 - Open flow system, not sealed compartments
@@ -349,7 +349,7 @@ But the model stipulates a fundamentally different architecture:
 
 ### 12.1 Submarine Landslide Hydroplaning
 
-This is the closest natural analog to the spongy-model mechanism.
+This is the closest natural analog to the channeled-porosity mechanism.
 
 **Key findings from literature:**
 
@@ -359,7 +359,7 @@ This is the closest natural analog to the spongy-model mechanism.
 
 > "Many seafloor slides are accompanied by very large runout distances. **Hydroplaning is one mechanism that may explain such large runout distances**" on slopes as gentle as 1°.
 
-**Relevance to model**: The spongy-model architecture (water-saturated zone beneath sliding blocks) is directly analogous to submarine hydroplaning conditions.
+**Relevance to model**: The channeled-porosity architecture (water-saturated zone beneath sliding blocks) is directly analogous to submarine hydroplaning conditions.
 
 ### 12.2 Seepage-Supported Sliding (Drained Liquefaction)
 
@@ -369,9 +369,9 @@ Critical 2023 research addresses the drainage objection:
 
 **Key insight**: Flow ITSELF provides support. Drainage doesn't necessarily kill lubrication - seepage forces from flowing water can support the overlying load.
 
-**Relevance to model**: In the spongy architecture:
+**Relevance to model**: In the channeled-porosity architecture:
 - Water flows DOWN through inter-block fractures
-- Water flows THROUGH the spongy zone channels
+- Water flows THROUGH the porous zone channels
 - Seepage forces from this continuous flow support overlying blocks
 - Continuous supply = continuous support = sustained low friction
 
@@ -381,7 +381,7 @@ Critical 2023 research addresses the drainage objection:
 
 > "For the well-studied Storegga Slide, the failure is considered to have been preconditioned by **high pore-fluid pressure** related to high sedimentation rates"
 
-**Relevance to model**: The spongy zone functions as a pre-existing weak layer - its water saturation pre-conditions it for low-friction sliding when triggered.
+**Relevance to model**: The porous zone functions as a pre-existing weak layer - its water saturation pre-conditions it for low-friction sliding when triggered.
 
 ---
 
@@ -404,7 +404,7 @@ Critical 2023 research addresses the drainage objection:
 > "The moment a fracture opens, it drains... the moment pressure drops, lubrication fails"
 
 **Revised response**:
-This objection assumes sealed compartments that breach. In the spongy-model:
+This objection assumes sealed compartments that breach. In the channeled-porosity:
 
 1. **No sealed compartments** - system is already connected
 2. **Continuous recharge** - water flows in through fractures from above
@@ -426,11 +426,11 @@ These are addressed in Section 14 (Darcy Flow Calculations).
 
 ---
 
-## 14. Darcy Flow Calculations for Spongy-Model Architecture
+## 14. Darcy Flow Calculations for Channeled-Porosity Architecture
 
 ### 14.1 The Question
 
-Can water flow through the spongy zone fast enough to maintain seepage support under continental load?
+Can water flow through the porous zone fast enough to maintain seepage support under continental load?
 
 ### 14.2 Darcy's Law
 
@@ -451,7 +451,7 @@ Where:
 - Width: W_block = 800 km = 8 × 10⁵ m
 - Base area: A_base = 8 × 10¹¹ m²
 
-**Spongy zone parameters** (stipulated):
+**Porous zone parameters** (stipulated):
 - Thickness: h_sponge = 1-5 km (estimate)
 - Porosity: φ = 0.1-0.3 (water-saturated porous medium)
 
@@ -466,7 +466,7 @@ Where:
 
 ### 14.4 Required Flow Rate
 
-To maintain seepage support, water must flow through the spongy zone at a rate sufficient to:
+To maintain seepage support, water must flow through the porous zone at a rate sufficient to:
 1. Replace water squeezed out by block weight
 2. Maintain pore pressure against drainage
 
@@ -475,11 +475,11 @@ To maintain seepage support, water must flow through the spongy zone at a rate s
 - Where c_v = coefficient of consolidation = k / (μ × m_v)
 - m_v = coefficient of volume compressibility
 
-For the spongy zone to remain in "undrained" condition (pore pressure maintained):
+For the porous zone to remain in "undrained" condition (pore pressure maintained):
 - Fluid supply rate must exceed consolidation drainage rate
 
 **Order of magnitude**:
-- If spongy zone compresses by 1% under load
+- If porous zone compresses by 1% under load
 - Volume change: ΔV = 0.01 × A_base × h_sponge
 - For h_sponge = 2 km: ΔV = 0.01 × 8 × 10¹¹ × 2000 = 1.6 × 10¹³ m³
 - If this occurs over 1 year: Q_required = 1.6 × 10¹³ / (3.15 × 10⁷) = 5 × 10⁵ m³/s
@@ -487,7 +487,7 @@ For the spongy zone to remain in "undrained" condition (pore pressure maintained
 ### 14.5 Available Flow Rate
 
 **Flow through inter-block fractures**:
-- Number of fractures: ~100 (estimate from spongy-model.png)
+- Number of fractures: ~100 (estimate from channeled-porosity.png)
 - Fracture width: w = 100 m (estimate)
 - Fracture length: l = 800 km = 8 × 10⁵ m
 - Total fracture area: A_frac = 100 × 100 × 8 × 10⁵ = 8 × 10⁹ m²
@@ -497,7 +497,7 @@ For fracture flow (high permeability, k ~ 10⁻⁸ m² for open fractures):
 
 $$v = \frac{k \cdot \Delta P}{\mu \cdot L}$$
 
-With ΔP = 10⁷ Pa, L = 2000 m (spongy zone thickness), k = 10⁻⁸ m²:
+With ΔP = 10⁷ Pa, L = 2000 m (porous zone thickness), k = 10⁻⁸ m²:
 
 $$v = \frac{10^{-8} \times 10^7}{10^{-3} \times 2000} = \frac{10^{-1}}{2} = 0.05~\text{m/s}$$
 
@@ -518,7 +518,7 @@ $$Q_{available} = v \times A_{frac} = 0.05 \times 8 \times 10^9 = 4 \times 10^8~
 
 1. **Fracture geometry**: Assumed values; actual network may differ
 2. **Permeability**: 10⁻⁸ m² is high (open fractures); matrix permeability much lower
-3. **Spongy zone behavior**: Simplified; actual mechanics more complex
+3. **Porous zone behavior**: Simplified; actual mechanics more complex
 4. **Scale effects**: May not scale linearly to continental dimensions
 5. **Temporal dynamics**: Assumes steady-state; transients not modeled
 
@@ -566,8 +566,8 @@ The model can now defensibly claim:
 
 ### 15.4 Recommended Model Updates
 
-1. Add explicit description of spongy-model architecture (currently implicit)
-2. Include spongy-model.png as figure
+1. Add explicit description of channeled-porosity architecture (currently implicit)
+2. Include channeled-porosity.png as figure
 3. Reference submarine hydroplaning as analog
 4. Add Darcy flow calculation to appendices
 5. Acknowledge seepage-support mechanism explicitly
@@ -603,4 +603,4 @@ The model can now defensibly claim:
 
 **Document Status**: REVISED - Stronger support identified
 **Assessment**: Mechanism plausible for stipulated architecture
-**Recommendation**: Update model document with explicit spongy-model description and Darcy calculations
+**Recommendation**: Update model document with explicit channeled-porosity description and Darcy calculations
