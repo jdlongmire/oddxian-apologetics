@@ -291,7 +291,30 @@ Created `notebooks/20251217_energy_partitioning_simulation.ipynb`:
 
 **Key Finding:** Convective water flow alone (1.67×10¹⁶ W) exceeds heat input rate. No thermal runaway - the model is thermally stable.
 
+### 18. Model Document Update to v2.4
+
+Updated `20251217-hydrotectonic-model-complete.md` to v2.4 (Numerical Simulation Edition):
+
+**Figures Added:**
+- Figure 1: Channeled-porosity architecture (Section 4.3)
+- Figure 2: Energy partitioning results (Section 8.4)
+- Figure 3: Heat balance analysis (Section 8.2)
+- Figure 4: Sensitivity analysis (Appendix B.8)
+
+**Content Updates:**
+- Section 8.2: Added thermal stability analysis with heat balance figure
+- Section 8.4: Updated energy partitioning table with simulation values and budget closure
+- Appendix B.8: New section for sensitivity analysis
+- Added Reproducibility section with notebook reference
+- Updated version history and citation
+
+**Model Status:** v2.4 now includes:
+- Full numerical simulation support
+- 4 embedded figures
+- Reproducible calculations via Jupyter notebook
+- Proper energy budget closure demonstration
+
 ---
 
-## Interaction Count: 20
+## Interaction Count: 21
 

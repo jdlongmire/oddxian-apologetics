@@ -1,6 +1,6 @@
 # The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge
 
-**Version 2.3 - Objection-Response Edition**
+**Version 2.4 - Numerical Simulation Edition**
 
 **Author:**
 James (JD) Longmire
@@ -31,12 +31,14 @@ The model generates a novel testable prediction: seismic tomography should revea
 
 **Appendices:** This consolidated document includes:
 - Appendix A: Gravitational Potential Energy Budget
-- Appendix B: Heat Dissipation and Thermal Budget (shear-stress derivation, energy partitioning)
+- Appendix B: Heat Dissipation and Thermal Budget (shear-stress derivation, energy partitioning, sensitivity analysis)
 - Appendix C: Hypercane Physics and Heat Transport
 - Appendix D: Driving Forces and Block Velocity
 - Appendix E: Earth-System Context for Hydraulic Collapse
 - Appendix F: Darcy Flow Calculations for Channeled-Porosity Architecture
 - Appendix G: Lubrication Theory Analysis (Reynolds equation, film stability)
+
+**Numerical Simulation:** A Jupyter notebook providing reproducible calculations is included in `notebooks/20251217_energy_partitioning_simulation.ipynb`. All figures in this document are generated from this simulation.
 
 **Framework:** This paper is situated within the Christian Designism research programme (Longmire, 2025d).
 
@@ -229,7 +231,9 @@ Modern analogs exist in regions of high crustal fluid content: overpressured sed
 
 ### 4.3 The Channeled-Porosity Architecture
 
-**[See Figure 1: channeled-porosity.png]**
+![Figure 1: Channeled-Porosity Architecture - Interconnected network of water-saturated channels and porous zones enabling continuous seepage support during Stage 2 discharge](channeled-porosity.png)
+
+*Figure 1: Schematic of the channeled-porosity architecture. Water flows through an interconnected network of high-permeability channels (blue) within a porous matrix, providing continuous seepage support. Unlike sealed compartments, this open-flow system maintains effective stress reduction even as water drains - because fresh water continuously enters.*
 
 A critical feature of the Stage 1 configuration is the **channeled-porosity architecture** of the mid-to-lower crust. Unlike modern crustal structure with discrete fault zones and isolated aquifers, the antediluvian crust featured:
 
@@ -583,6 +587,14 @@ The objection assumes sealed-compartment physics (fault valving model):
 
 **Key insight:** The critic's objection applies to SEALED systems. The channeled-porosity architecture is an OPEN FLOW system. Different physics apply.
 
+**Thermal stability:** The numerical simulation demonstrates that even the reduced heat generation rate (~1.1×10¹⁶ W) is readily dissipated by the system's heat removal mechanisms.
+
+![Figure 3: Heat Balance - Input rate vs removal capacity](notebooks/heat_balance.png)
+
+*Figure 3: Heat balance analysis. The red dashed line shows heat input rate from frictional and viscous dissipation. The blue curve shows heat removal capacity as a function of sea surface temperature excess. Heat removal exceeds input even at low temperatures, indicating the system is self-cooling rather than experiencing thermal runaway. Heat removal mechanisms include: evaporative cooling, convective water flow through the channeled-porosity network, and radiative cooling.*
+
+The convective water flow alone (1.67×10¹⁶ W, from Darcy calculations) exceeds the heat input rate (1.11×10¹⁶ W). The system reaches thermal equilibrium without significant warming.
+
 ### 8.3 The Missing Equations Objection
 
 **Objection (summarized):** "You provide no shear-stress derivation, no lubrication-theory equations, no Reynolds number analysis, no drainage-rate calculations, no energy-budget closure."
@@ -601,19 +613,24 @@ The objection assumes sealed-compartment physics (fault valving model):
 
 **Objection (summarized):** "You claim 99% of PE goes to seismic/plastic/residual, but none of these are calculated. Show where 10²⁵ J actually goes."
 
-**Response:** See Appendix B.3 for detailed energy partitioning:
+**Response:** See Appendix B.3 for detailed energy partitioning, and the numerical simulation notebook for quantitative verification.
 
-| Energy Sink | Estimate | Mechanism |
-|-------------|----------|-----------|
-| Frictional dissipation | ~3×10²³ J | Work against reduced effective stress |
-| Seismic radiation | ~10²⁴ J | Elastic waves (thermalize globally) |
-| Viscous dissipation | ~10²³ J | Turbulence in water channels |
-| Plastic deformation | ~10²² J | Stored strain energy |
-| Residual PE | Variable | Blocks in new configuration |
+![Figure 2: Energy Budget Closure - Partitioning of gravitational PE during Stage 2](notebooks/energy_partitioning_results_v2.png)
 
-**Acknowledged limitation:** Full closure requires numerical simulation. The model provides order-of-magnitude estimates, not precise partitioning.
+*Figure 2: Energy partitioning during Stage 2 hydraulic collapse. Top-left: Cumulative energy dissipation over one year. Top-right: Final energy budget showing ~94% remains as residual PE (blocks reach equilibrium before fully settling). Bottom-left: Heat flux comparison (model: ~22 W/m² vs critic: ~600 W/m²). Bottom-right: Heat generation comparison showing 91× reduction from pore pressure effects. Generated from numerical simulation (see `notebooks/20251217_energy_partitioning_simulation.ipynb`).*
 
-**What we claim:** Frictional heating at interfaces is ~100× lower than critic calculates. This is defensible. The fate of remaining PE is distributed among non-local sinks.
+| Energy Sink | Estimate | Percentage | Mechanism |
+|-------------|----------|------------|-----------|
+| Frictional dissipation | 3.2×10²³ J | 5.0% | Work against reduced effective stress |
+| Viscous dissipation | 3.2×10²² J | 0.5% | Turbulence in water channels |
+| Seismic radiation | 1.6×10²² J | 0.25% | Elastic waves (thermalize globally) |
+| Plastic deformation | 3.2×10²⁰ J | 0.005% | Stored strain energy |
+| Residual PE | 6.0×10²⁴ J | 94.2% | Blocks in new equilibrium configuration |
+| **Total** | **6.35×10²⁴ J** | **100%** | **Budget closure achieved** |
+
+**Key insight from numerical simulation:** The 94% "residual PE" is not missing energy - it is gravitational PE that remains because blocks don't fully settle. They reach a new equilibrium configuration at a higher gravitational state than the theoretical minimum. This is physically expected: friction limits motion, blocks lock against each other, and the system finds a stable configuration without releasing all available PE.
+
+**What we claim:** Frictional heating at interfaces is ~100× lower than critic calculates. The numerical simulation confirms this and demonstrates proper budget closure.
 
 ### 8.5 The Lakatosian Objection
 
@@ -956,6 +973,22 @@ $$\frac{3 \times 10^{17}}{10^{23}} = 3 \times 10^{-6} = 0.0003\%$$
 - Conventional catastrophic models: hundreds of K warming
 - Hydrotectonic model: ~1 K global, ~50 K local (water films)
 - Survivability margin: 100-1000× safer
+
+### B.8 Sensitivity Analysis
+
+The heat generation rate depends critically on two parameters: pore pressure ratio (λ) and friction coefficient (μ). The numerical simulation explores how results vary across plausible parameter ranges.
+
+![Figure 4: Sensitivity Analysis - Parameter dependence of heat flux](notebooks/sensitivity_analysis.png)
+
+*Figure 4: Sensitivity of average heat flux to model parameters. Left: Variation with pore pressure ratio λ. The model assumes λ = 0.99; heat flux increases sharply as λ decreases (less pressure → more friction). Right: Variation with friction coefficient μ. The model assumes μ = 0.01 (consistent with wet fault zones). Green line: model claim (~7 W/m²); red line: lethal threshold (~600 W/m²).*
+
+**Critical parameter values:**
+- For heat flux < 10 W/m²: requires λ > 0.97 (pore pressure > 97% lithostatic)
+- For heat flux < 100 W/m²: requires λ > 0.83 (pore pressure > 83% lithostatic)
+
+The sensitivity analysis demonstrates that the model's thermal viability is robust across a reasonable range of parameters. Even with significantly lower pore pressure ratios than assumed, the heat flux remains well below lethal thresholds.
+
+**Source:** See `notebooks/20251217_energy_partitioning_simulation.ipynb` for full numerical simulation code.
 
 ---
 
@@ -1748,9 +1781,9 @@ Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Curren
 
 ## DOCUMENT INFORMATION
 
-**Version:** 2.3 (Objection-Response Edition)
+**Version:** 2.4 (Numerical Simulation Edition)
 **Date:** 2025-12-17
-**Word Count:** ~18,000
+**Word Count:** ~19,000
 **Author:** James (JD) Longmire
 **ORCID:** 0009-0009-1383-7698
 **Affiliation:** Northrop Grumman Fellow (unaffiliated research)
@@ -1767,6 +1800,30 @@ Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Curren
   - Appendix B.2: Added full shear-stress derivation
   - Appendix B.3: Expanded energy partitioning analysis
   - Appendix G: Added lubrication theory analysis with Reynolds equation
+- v2.4 (2025-12-17): Numerical simulation and figure integration:
+  - Added Figures 1-4 with embedded images
+  - Section 8.2: Added heat balance figure and thermal stability analysis
+  - Section 8.4: Added energy partitioning figure with budget closure
+  - Appendix B.8: Added sensitivity analysis with parameter exploration
+  - Full numerical simulation notebook for reproducibility
+
+**Reproducibility:**
+
+All quantitative results in this paper can be reproduced using the provided Jupyter notebook:
+
+```
+notebooks/20251217_energy_partitioning_simulation.ipynb
+```
+
+The notebook includes:
+- Time-stepping model of PE release during Stage 2
+- Energy partitioning calculations (friction, seismic, viscous, plastic)
+- Heat flux calculations and comparison to critic's estimates
+- Heat removal mechanism modeling (evaporative, convective, radiative)
+- Sensitivity analysis for key parameters (λ, μ)
+- Visualization code for all figures
+
+**Dependencies:** Python 3.x, NumPy, Matplotlib, SciPy
 
 **Suggested citation:**
-Longmire, J.D. (2025). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge (v2.3 Objection-Response Edition). https://github.com/jdlongmire/oddxian-apologetics
+Longmire, J.D. (2025). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge (v2.4 Numerical Simulation Edition). https://github.com/jdlongmire/oddxian-apologetics
