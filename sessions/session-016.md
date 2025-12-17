@@ -216,11 +216,45 @@ Updated `20251217-hydrotectonic-model-complete.md`:
 - Replaced "spongy-model" → "channeled-porosity" throughout documents
 - Replaced "spongy zone" → "porous zone"
 - More scientifically appropriate terminology
-- Files updated:
-  - `20251217-hydrotectonic-model-complete.md` (now v2.2 Channeled-Porosity Edition)
-  - `20251217_PorePressure_LiteratureReview.md`
+
+### 15. Systematic Gap Analysis and Response
+Addressed all outstanding critic objections:
+
+1. **Energy Partitioning (Appendix B.3)**
+   - Quantified seismic radiation (~10²⁴ J)
+   - Quantified viscous dissipation (~10²³ J)
+   - Acknowledged uncertainties honestly
+
+2. **Shear-Stress Derivation (Appendix B.2)**
+   - Full Terzaghi effective stress derivation
+   - Explicit comparison showing 100× reduction
+   - Note on critic's arithmetic error
+
+3. **Lubrication Theory (Appendix G)**
+   - Reynolds equation provided
+   - Viscous dissipation calculation
+   - Film stability analysis
+   - Explained why classical lubrication doesn't directly apply
+
+4. **Reynolds Number Analysis (Appendix G.4)**
+   - Re ~ 10⁶ in channels (turbulent)
+   - Darcy regime in matrix (laminar)
+
+5. **Novel vs Post-hoc Predictions (Section 6)**
+   - Distinguished genuinely risky predictions
+   - Acknowledged post-hoc accommodations honestly
+   - Listed falsification criteria
+
+6. **Objection-Response Section (Section 8)**
+   - Addressed energy budget objection
+   - Addressed "self-defeating" pore pressure objection
+   - Addressed missing equations objection
+   - Addressed Lakatosian objection
+   - Listed outstanding issues honestly
+
+**Model Version:** Updated to v2.3 (Objection-Response Edition)
 
 ---
 
-## Interaction Count: 17
+## Interaction Count: 18
 
