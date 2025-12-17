@@ -175,7 +175,42 @@ Updated `20251217-hydrotectonic-model-complete.md`:
 - **References:** Added hydroplaning and seepage literature
 - **Version:** Updated to v2.2 (Spongy-Model Edition)
 
+### 13. Git Commit - Session Work Complete
+- **Commit:** a430caf
+- **Files committed (8):**
+  - `SANITY_CHECK_PROTOCOL.md` (original)
+  - `SANITY_CHECK_PROTOCOL_SCIENTIFIC.md` (scientific adaptation)
+  - `20251217-hydrotectonic-model-complete.md` (v2.2)
+  - `20251217_HydrotectonicModel_SanityCheck.md` (sanity check report)
+  - `20251217_PorePressure_LiteratureReview.md` (literature review)
+  - `20251217-model-challenges.md` (Facebook critic challenges)
+  - `spongy-model.png` (architecture diagram)
+  - `session-016.md` (this session log)
+- **Pushed to remote:** Synced with origin/main
+
 ---
 
-## Interaction Count: 15
+## Session Summary
+
+**Major Accomplishments:**
+1. Created Scientific Sanity Check Protocol (10 checks for challenging consensus)
+2. Ran sanity check on Hydrotectonic Model - identified critical gaps
+3. Conducted pore pressure literature review - initial FAIL, then revised
+4. **Key insight:** Model stipulates spongy/open architecture, not sealed compartments
+5. Found correct analogs: submarine hydroplaning, seepage-supported sliding
+6. Darcy flow calculations show ~800:1 excess capacity for water supply
+7. Updated model to v2.2 (Spongy-Model Edition)
+
+**Status Change:**
+- Initial sanity check: ❌ FAIL (pore pressure objection appeared fatal)
+- After correct analog search: ✅ SUPPORTED (mechanism analogous to observed phenomena)
+
+**Next Steps (for future sessions):**
+- Quantify energy partitioning (seismic + plastic + residual = total PE)
+- Sharpen novel predictions vs post-hoc accommodations
+- Consider response document to Facebook challenges
+
+---
+
+## Interaction Count: 16
 
