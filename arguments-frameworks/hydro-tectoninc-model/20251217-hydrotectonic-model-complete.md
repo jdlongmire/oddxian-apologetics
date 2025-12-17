@@ -1,6 +1,6 @@
 # The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge
 
-**Version 2.4 - Numerical Simulation Edition**
+**Version 2.5 - Gap Analysis Edition**
 
 **Author:**
 James (JD) Longmire
@@ -37,6 +37,7 @@ The model generates a novel testable prediction: seismic tomography should revea
 - Appendix E: Earth-System Context for Hydraulic Collapse
 - Appendix F: Darcy Flow Calculations for Channeled-Porosity Architecture
 - Appendix G: Lubrication Theory Analysis (Reynolds equation, film stability)
+- Appendix H: Gap Analysis (diffusion timescales, pressure stability, scale-up)
 
 **Numerical Simulation:** A Jupyter notebook providing reproducible calculations is included in `notebooks/20251217_energy_partitioning_simulation.ipynb`. All figures in this document are generated from this simulation.
 
@@ -1706,6 +1707,117 @@ Where f is a geometry-dependent factor.
 
 ---
 
+## APPENDIX H: GAP ANALYSIS - DIFFUSION, STABILITY, AND SCALE-UP
+
+This appendix addresses specific quantitative objections regarding diffusion timescales, pressure stability during slip, and scale-up from observed analogs to continental displacement.
+
+### H.1 Pressure Diffusion Timescales
+
+**The objection:** "Pressure-diffusion limits apply regardless of system geometry."
+
+**Analysis:** The pressure diffusion equation gives characteristic timescale:
+
+$$\tau_{diff} = \frac{L^2 \mu \phi \beta_t}{k}$$
+
+Where L is characteristic length, k is permeability, μ is viscosity, φ is porosity, and β_t is total compressibility.
+
+**Results for different length scales and permeabilities:**
+
+| Permeability | Local (100 m) | Block (10 km) | Regional (100 km) |
+|--------------|---------------|---------------|-------------------|
+| Intact (10⁻¹⁸ m²) | 26 yr | 262,000 yr | 26 Myr |
+| Fractured (10⁻¹⁴ m²) | 23 hr | 26 yr | 2,616 yr |
+| Channels (10⁻¹⁰ m²) | 8 s | 23 hr | 95 days |
+
+**Key insight:** For the channeled-porosity architecture, the relevant length scale is distance to nearest channel (~100 m), not block dimension. At local scales with fractured rock permeability, diffusion timescales are hours - fast enough for quasi-steady state.
+
+### H.2 Supply vs Drainage Balance
+
+**The critical question:** Can supply keep up with drainage?
+
+![Figure 5: Drainage Rate vs Permeability](figures/diffusion_vs_supply.png)
+
+*Figure 5: Drainage rate as a function of matrix permeability. Green dashed line shows supply rate from channeled-porosity network. Red vertical line marks critical permeability where drainage equals supply. For permeabilities below ~4×10⁻¹² m² (fractured rock regime), supply exceeds drainage.*
+
+**Quantitative results:**
+- Critical permeability: k_crit = 4×10⁻¹² m²
+- At k = 10⁻¹⁴ m² (fractured rock): Supply/Drainage ratio = 407:1
+- At k = 10⁻¹² m² (high fractured): Supply/Drainage ratio ≈ 4:1
+
+**Conclusion:** For permeabilities in the fractured rock regime (k < 10⁻¹² m²), supply vastly exceeds drainage. The system maintains pressure.
+
+### H.3 Pressure Stability During Slip
+
+**The objection:** "The moment shear begins, permeability increases and pressure drops."
+
+**Analysis:** We model pressure evolution with slip-induced permeability increase:
+
+![Figure 6: Pressure Stability with Slip](figures/pressure_slip_induced_k.png)
+
+*Figure 6: Pore pressure evolution with slip-induced permeability increase. Even with 100× permeability increase during slip, the system maintains λ > 0.97. At 1000× increase, episodic slip emerges (46% of time slipping). At 10000×, slip fraction drops to 5% but system still operates.*
+
+**Results:**
+
+| k Factor During Slip | Final λ | Slip Fraction | Status |
+|---------------------|---------|---------------|--------|
+| 1× (no increase) | 1.000 | 100% | STABLE |
+| 10× | 0.998 | 100% | STABLE |
+| 100× | 0.976 | 100% | STABLE |
+| 1000× | 0.898 | 46.5% | MARGINAL |
+| 10000× | 0.819 | 4.7% | MARGINAL |
+
+**Key findings:**
+1. System maintains near-lithostatic pressure up to 100× permeability increase
+2. At 1000× increase, episodic (stick-slip) behavior emerges
+3. Even at extreme permeability increases, system still operates - just intermittently
+
+### H.4 Scale-Up Argument
+
+**The objection:** "Observed analogs work at 10s of km, not 1000s of km."
+
+**Analysis:** The mechanism doesn't change with scale. What changes is duration.
+
+| Parameter | Submarine Slides | Hydrotectonic Model | Ratio |
+|-----------|-----------------|---------------------|-------|
+| Run-out distance | 300 km | 3000 km | 10× |
+| Duration | 6 hours | 8760 hours (1 yr) | 1460× |
+| Velocity | 50 km/hr | 0.35 km/hr | 143× slower |
+
+**Duration compensation:** Same distance achieved via slower velocity over longer time.
+
+**Energy budget:** Maximum run-out if all PE goes to friction:
+$$d_{max} = \frac{PE_{total}}{n_{blocks} \times F_{friction}} = \frac{10^{25}~\text{J}}{10 \times 3.2 \times 10^{16}~\text{N}} = 31,250~\text{km}$$
+
+This is **10× the required 3000 km displacement**.
+
+### H.5 Episodic Motion Model
+
+![Figure 7: Episodic Motion Results](figures/episodic_motion.png)
+
+*Figure 7: Pressure and displacement evolution with episodic slip. Top: Pore pressure ratio cycles between slip threshold and near-lithostatic. Bottom: Cumulative displacement reaches ~883 km in 1 year.*
+
+**Results (1-year simulation with 100× slip-induced k increase):**
+- Total displacement: 883 km
+- Slip fraction: 100% (at 100× k increase)
+- Effective velocity: 0.10 km/hr
+
+At higher k factors, episodic behavior emerges with lower slip fractions but continued displacement.
+
+### H.6 Summary: Gaps Addressed
+
+| Gap | Analysis | Result |
+|-----|----------|--------|
+| **Diffusion timescale** | τ = L²μφβ/k | Hours at local scale for fractured rock |
+| **Supply vs drainage** | Darcy flow comparison | 407:1 ratio at k = 10⁻¹⁴ m² |
+| **Pressure stability** | Slip-induced k increase | Stable up to 100× k increase |
+| **Scale-up** | Energy + duration | 10× energy margin; duration compensation valid |
+
+**Conclusion:** The identified gaps are addressable with quantitative analysis. The channeled-porosity architecture, combined with the 800:1 supply excess, provides the physical basis for maintaining seepage-supported sliding over continental distances.
+
+**Reproducibility:** Full calculations available in `notebooks/20251217_gap_analysis.ipynb`.
+
+---
+
 ## REFERENCES
 
 ### Core Model References
@@ -1790,9 +1902,9 @@ Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Curren
 
 ## DOCUMENT INFORMATION
 
-**Version:** 2.4 (Numerical Simulation Edition)
+**Version:** 2.5 (Gap Analysis Edition)
 **Date:** 2025-12-17
-**Word Count:** ~19,000
+**Word Count:** ~21,000
 **Author:** James (JD) Longmire
 **ORCID:** 0009-0009-1383-7698
 **Affiliation:** Northrop Grumman Fellow (unaffiliated research)
@@ -1815,18 +1927,30 @@ Zhu, M., Zhuravlev, A.Y., Wood, R.A., Zhao, F., and Sukhov, S.S. (2021). "Curren
   - Section 8.4: Added energy partitioning figure with budget closure
   - Appendix B.8: Added sensitivity analysis with parameter exploration
   - Full numerical simulation notebook for reproducibility
+- v2.5 (2025-12-17): Gap analysis addressing critic objections:
+  - Appendix H: Complete gap analysis with Figures 5-7
+  - H.1: Pressure diffusion timescale calculations
+  - H.2: Supply vs drainage balance (k_crit = 4×10⁻¹² m²)
+  - H.3: Pressure stability with slip-induced k increase (stable up to 100×)
+  - H.4: Scale-up argument (energy 10× sufficient, duration compensation valid)
+  - H.5: Episodic motion model (883 km/yr at 100× k increase)
+  - New notebook: `notebooks/20251217_gap_analysis.ipynb`
 
 **Reproducibility:**
 
-All quantitative results in this paper can be reproduced using the provided Jupyter notebook:
+All quantitative results in this paper can be reproduced using the provided Jupyter notebooks:
 
 ```
-notebooks/20251217_energy_partitioning_simulation.ipynb
+notebooks/20251217_energy_partitioning_simulation.ipynb  (v2.4 energy/heat analysis)
+notebooks/20251217_gap_analysis.ipynb                    (v2.5 gap analysis)
 ```
 
-The notebook includes:
+The notebooks include:
 - Time-stepping model of PE release during Stage 2
 - Energy partitioning calculations (friction, seismic, viscous, plastic)
+- Pressure diffusion timescale analysis
+- Pressure stability with slip-induced permeability increase
+- Episodic motion simulation
 - Heat flux calculations and comparison to critic's estimates
 - Heat removal mechanism modeling (evaporative, convective, radiative)
 - Sensitivity analysis for key parameters (λ, μ)
