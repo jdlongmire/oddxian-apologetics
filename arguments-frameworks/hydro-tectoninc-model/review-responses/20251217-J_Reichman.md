@@ -41,29 +41,29 @@
 
 ### Summary
 
-Reichman's critique is substantive and correctly identifies gaps that required quantitative analysis. Those gaps are now addressed in v2.5 of the model. The math has been done. The results support the mechanism's feasibility within specified parameter ranges.
+Your critique is substantive and correctly identifies gaps that required quantitative analysis. You asked for the math. Here it is. The gaps are now addressed in v2.5 of the model, and the results support the mechanism's feasibility within specified parameter ranges.
 
 ### The Mechanism Distinction
 
-Reichman's objection assumes the model operates like fault valving - sealed compartments that breach and drain. But the Hydrotectonic Model stipulates a channeled-porosity architecture, which is an open-flow system. Different physics applies to each:
+Your objection assumes the model operates like fault valving - sealed compartments that breach and drain. But I'm stipulating a channeled-porosity architecture, which is an open-flow system. Different physics applies to each:
 
-In **fault valving systems** (Reichman's objection target): Pressure builds in isolation. When slip begins, permeability increases, pressure drains, and lubrication fails. The mechanism is self-defeating.
+In **fault valving systems** (your objection target): Pressure builds in isolation. When slip begins, permeability increases, pressure drains, and lubrication fails. The mechanism is self-defeating. You're right that this doesn't work.
 
-In **open-flow systems** (the model's claim): Pressure is maintained by continuous supply through a fracture network. Slip enhances flow, but seepage support continues. The mechanism is self-sustaining.
+In **open-flow systems** (my claim): Pressure is maintained by continuous supply through a fracture network. Slip enhances flow, but seepage support continues. The mechanism is self-sustaining.
 
-The empirical record Reichman cites (fault zones, décollements, overpressured basins) describes fault valving behavior. That is not the claimed mechanism. Submarine hydroplaning and seepage-supported sliding demonstrate that continuous-flow systems can maintain reduced effective stress because the flow itself exerts force on the grains.
+The empirical record you cite (fault zones, décollements, overpressured basins) describes fault valving behavior. That's not the mechanism I'm proposing. Submarine hydroplaning and seepage-supported sliding demonstrate that continuous-flow systems can maintain reduced effective stress because the flow itself exerts force on the grains.
 
-This is not appeal to miracle. It is appeal to a different - and empirically documented - physical mechanism.
+This is not appeal to miracle. It's appeal to a different - and empirically documented - physical mechanism.
 
 ### The Quantitative Answers
 
-**On diffusion timescales:** The relevant length scale is not the block dimension (1000 km). It is the distance to the nearest high-permeability channel (~100 m). At local scales in fractured rock, diffusion equilibrates in hours - fast enough for quasi-steady state. The pressure diffusion equation has been applied; the numbers are in Part III.
+**On diffusion timescales:** The relevant length scale is not the block dimension (1000 km). It's the distance to the nearest high-permeability channel (~100 m). At local scales in fractured rock, diffusion equilibrates in hours - fast enough for quasi-steady state. I've applied the pressure diffusion equation; the numbers are in Part III.
 
-**On supply vs drainage:** We compared supply rate to drainage rate using Darcy's Law. For permeabilities in the fractured rock regime (below ~4×10⁻¹² m²), supply exceeds drainage by a factor of 400:1. The system does not self-drain.
+**On supply vs drainage:** I compared supply rate to drainage rate using Darcy's Law. For permeabilities in the fractured rock regime (below ~4×10⁻¹² m²), supply exceeds drainage by a factor of 400:1. The system does not self-drain.
 
-**On pressure stability under slip:** We modeled pressure evolution with slip-induced permeability increases from 1× to 10,000×. The system maintains near-lithostatic pressure (λ > 0.97) up to 100× permeability increase. At higher factors, episodic stick-slip behavior emerges - which still achieves displacement over time. This is physically realistic and consistent with observed fault behavior.
+**On pressure stability under slip:** I modeled pressure evolution with slip-induced permeability increases from 1× to 10,000×. The system maintains near-lithostatic pressure (λ > 0.97) up to 100× permeability increase. At higher factors, episodic stick-slip behavior emerges - which still achieves displacement over time. This is physically realistic and consistent with observed fault behavior.
 
-**On scale-up:** The mechanism does not change with scale. What changes is duration. Submarine slides achieve 300 km in 6 hours at 50 km/hr. The hydrotectonic mechanism achieves 3000 km in 8760 hours at 0.35 km/hr. Same physics, longer operation. The energy budget shows a 10× margin - sufficient PE to move blocks 31,250 km against friction, versus the 3,000 km required.
+**On scale-up:** The mechanism doesn't change with scale. What changes is duration. Submarine slides achieve 300 km in 6 hours at 50 km/hr. The hydrotectonic mechanism achieves 3000 km in 8760 hours at 0.35 km/hr. Same physics, longer operation. The energy budget shows a 10× margin - sufficient PE to move blocks 31,250 km against friction, versus the 3,000 km required.
 
 ### What This Shows
 
@@ -79,21 +79,21 @@ This is not appeal to miracle. It is appeal to a different - and empirically doc
 
 ### Honest Acknowledgment of Remaining Uncertainties
 
-The calculations address the specific objections raised. Uncertainties remain:
+The calculations address the specific objections you raised. Uncertainties remain:
 
-1. **Permeability evolution during slip:** We assumed up to 100× increase is sustainable; actual behavior depends on rock type and strain rate.
+1. **Permeability evolution during slip:** I assumed up to 100× increase is sustainable; actual behavior depends on rock type and strain rate.
 
-2. **Spatial heterogeneity:** Analysis treats blocks uniformly; actual system would have variable properties.
+2. **Spatial heterogeneity:** My analysis treats blocks uniformly; the actual system would have variable properties.
 
-3. **Multi-block interactions:** Analysis is single-block; collisions and buttressing not modeled.
+3. **Multi-block interactions:** This is a single-block analysis; collisions and buttressing aren't modeled.
 
-4. **Channel network geometry:** Assumed from conceptual model; actual distribution unknown.
+4. **Channel network geometry:** Assumed from the conceptual model; actual distribution unknown.
 
 These are modeling challenges, not physical impossibilities. The model provides a framework for addressing them.
 
 ### Conclusion
 
-Reichman's critique was substantive and correctly identified gaps that required quantitative analysis. Those gaps are now addressed:
+Your critique was substantive and correctly identified gaps that required quantitative analysis. Those gaps are now addressed:
 
 - **Diffusion timescales:** Calculated. ~23 hours at local scale.
 - **Drainage rates:** Calculated. Supply exceeds by 400:1.
@@ -101,9 +101,9 @@ Reichman's critique was substantive and correctly identified gaps that required 
 - **Energy budget:** Calculated. 10× margin.
 - **Scale-up:** Analyzed. Duration compensation valid.
 
-The math has been done. The mechanism is not "speculative" - it is "quantitatively bounded with identified parameter ranges for feasibility."
+You asked for the math. I've done the math. The mechanism is not "speculative" - it is "quantitatively bounded with identified parameter ranges for feasibility."
 
-Whether those parameter ranges correspond to the actual antediluvian configuration is a separate question - one that involves geological interpretation and biblical boundary conditions. But within the analyzed parameter ranges, the physics is no longer the categorical obstacle Reichman claimed it was.
+Whether those parameter ranges correspond to the actual antediluvian configuration is a separate question - one that involves geological interpretation and biblical boundary conditions. But within the analyzed parameter ranges, the physics is no longer the categorical obstacle you claimed it was.
 
 ---
 
