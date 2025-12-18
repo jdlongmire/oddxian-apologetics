@@ -1,7 +1,7 @@
 # Session 017
 
 **Date:** 2025-12-17
-**Status:** ACTIVE
+**Status:** CLOSED
 **Context:** Continuation from Session 016
 
 ---
@@ -160,7 +160,24 @@
   - **Part III: Analysis Details and Figures** - All tables, equations, and figure references
 - Cleaner separation between critique, response, and technical support
 
+### 12. Final Polish
+- Updated Part I with full critique text (including "hinge" framing)
+- Converted Part II to first person for direct engagement
+
 ---
 
-## Interaction Count: 14
+## Session Summary
+
+**Key Deliverables:**
+- Gap analysis notebook with diffusion, stability, and scale-up calculations
+- Model v2.5 with Appendix H
+- Comprehensive Reichman response (3-section format, first person)
+- Sanity check verification (38/38 values match)
+- 4 supporting figures
+
+**Model Status:** v2.5 - Quantitative gaps addressed
+
+---
+
+## Interaction Count: 18
 
