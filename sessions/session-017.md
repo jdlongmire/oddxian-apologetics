@@ -164,6 +164,15 @@
 - Updated Part I with full critique text (including "hinge" framing)
 - Converted Part II to first person for direct engagement
 
+### 13. Repository Reorganization
+- Fixed typo: renamed `hydro-tectoninc-model` to `hydrotectonic-model`
+- Created standalone repo: `global-flood-hydrotectonic-model`
+  - Initialized git, created CLAUDE.md, .gitignore, sessions/
+  - Initial commit with all model files
+- Archived hydrotectonic-model in oddxian-apologetics
+  - Moved all files to `archive/` subfolder
+  - Created README.md pointing to new standalone repo
+
 ---
 
 ## Session Summary
@@ -174,10 +183,11 @@
 - Comprehensive Reichman response (3-section format, first person)
 - Sanity check verification (38/38 values match)
 - 4 supporting figures
+- Standalone repo created: `global-flood-hydrotectonic-model`
 
-**Model Status:** v2.5 - Quantitative gaps addressed
+**Model Status:** v2.5 - Quantitative gaps addressed, standalone repo ready
 
 ---
 
-## Interaction Count: 18
+## Interaction Count: 19
 
