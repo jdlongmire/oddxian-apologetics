@@ -18,7 +18,9 @@
       "Bash(cat:*)",
       "Bash(python:*)",
       "Bash(python -m jupyter nbconvert:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nSESSION-017: Gap analysis and Reichman response\n\n- Created gap analysis notebook addressing critic''s demands:\n  - Diffusion timescale calculations\n  - Supply vs drainage comparison \\(407:1 ratio\\)\n  - Pressure stability under slip-induced k increase\n  - Scale-up argument with duration compensation\n- Updated model to v2.5 with Appendix H \\(gap analysis\\)\n- Created comprehensive response to J. Reichman\n- Added sanity check verification \\(all 38 values match\\)\n- Restructured response into 3 sections: objection/prose/analysis\n- Generated 4 supporting figures\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nSESSION-017: Gap analysis and Reichman response\n\n- Created gap analysis notebook addressing critic''s demands:\n  - Diffusion timescale calculations\n  - Supply vs drainage comparison \\(407:1 ratio\\)\n  - Pressure stability under slip-induced k increase\n  - Scale-up argument with duration compensation\n- Updated model to v2.5 with Appendix H \\(gap analysis\\)\n- Created comprehensive response to J. Reichman\n- Added sanity check verification \\(all 38 values match\\)\n- Restructured response into 3 sections: objection/prose/analysis\n- Generated 4 supporting figures\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git init:*)",
+      "Bash(git branch:*)"
     ],
     "deny": [],
     "ask": []
