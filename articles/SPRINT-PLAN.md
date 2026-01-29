@@ -24,8 +24,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 90  
-**Remaining:** 57
+**Converted:** 95  
+**Remaining:** 52
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -35,11 +35,11 @@
 
 | Category | Count | Target |
 |----------|-------|--------|
-| apologetics | 10 | ~40 |
+| apologetics | 13 | ~40 |
 | epistemology | 15 | ~25 |
 | science-and-faith | 11 | ~20 |
-| theology | 19 | ~20 |
-| biblical-studies | 10 | ~15 |
+| theology | 20 | ~20 |
+| biblical-studies | 11 | ~15 |
 | theodicy | 2 | ~10 |
 | ai-and-technology | 2 | ~10 |
 | cultural-commentary | 0 | ~5 |
@@ -199,11 +199,11 @@ Exegesis, hermeneutics, biblical controversies.
 | 88 | ✅ | Preservation Through Multiplicity | biblical-studies |
 | 89 | ✅ | Damned If We Do, Damned If We Don't | biblical-studies |
 | 90 | ✅ | The Law and Its Fulfillment | biblical-studies |
-| 91 | ⬜ | Whether You're Young Earth, Old Earth... | biblical-studies |
-| 92 | ⬜ | The Hierarchy of Understanding | theology |
-| 93 | ⬜ | Does Reason Point Us to God? | apologetics |
-| 94 | ⬜ | Examining the Evidence for God | apologetics |
-| 95 | ⬜ | Atheists: You Want Evidence? | apologetics |
+| 91 | ✅ | Whether You're Young Earth, Old Earth... | biblical-studies |
+| 92 | ✅ | The Hierarchy of Understanding | theology |
+| 93 | ✅ | Does Reason Point Us to God? | apologetics |
+| 94 | ✅ | Examining the Evidence for God | apologetics |
+| 95 | ✅ | Atheists: You Want Evidence? | apologetics |
 | 96 | ⬜ | The Most Offensive Christmas Claim | theology |
 | 97 | ⬜ | The Event That Divides Time | theology |
 | 98 | ⬜ | We All Have Faith | epistemology |
@@ -332,3 +332,4 @@ Only proceed with new conversions after all checks pass.
 | 2026-01-29 | 4d | 4 | Sprint 4 batch 4 (items 77-80) - Theology - **Sprint 4 Complete** |
 | 2026-01-29 | 5a | 5 | Sprint 5 batch 1 (items 81-85) - Biblical Studies - Nephilim/Gen 6 series |
 | 2026-01-29 | 5b | 5 | Sprint 5 batch 2 (items 86-90) - Biblical Studies - Reliability/Law |
+| 2026-01-29 | 5c | 5 | Sprint 5 batch 3 (items 91-95) - Mixed: Origins/Evidence/Apologetics |
