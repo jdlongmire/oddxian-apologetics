@@ -2,8 +2,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 48  
-**Remaining:** 99
+**Converted:** 51  
+**Remaining:** 96
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -122,10 +122,10 @@ Creation science, flood geology, evolution critique.
 | 43 | ✅ | The Triple Fallacy of Macroevolutionary Theory | science-and-faith |
 | 44 | ✅ | Unproven Assumptions in Evolutionary Theory | science-and-faith |
 | 45 | ✅ | The 98% Myth: Human-Chimp Differences | science-and-faith |
-| 46 | ⬜ | When the Deep Burst Open: Global Flood | science-and-faith |
-| 47 | ⬜ | Defending the Global Flood | science-and-faith |
-| 48 | ⬜ | What Radiometric Dating Really Measures | science-and-faith |
-| 49 | ⬜ | Beyond Distant Starlight | science-and-faith |
+| 46 | ✅ | When the Deep Burst Open: Global Flood | science-and-faith |
+| 47 | ✅ | Defending the Global Flood | science-and-faith |
+| 48 | ✅ | What Radiometric Dating Really Measures | science-and-faith |
+| 49 | ⏸️ | Beyond Distant Starlight | science-and-faith | *Not found in export*
 | 50 | ✅ | Fine-Tuning and Cosmic Silence | science-and-faith |
 | 51 | ⬜ | When Does a Scientific Framework Become Unfalsifiable? | science-and-faith |
 | 52 | ⬜ | The Verification-Suppression Pattern | science-and-faith |
@@ -290,3 +290,4 @@ AI/AGI content and remaining miscellaneous.
 | 2026-01-29 | 2c | 5 | Sprint 2 batch 3 (items 32-36) - Burden of Proof |
 | 2026-01-29 | 2d | 3 | Sprint 2 batch 4 (items 37,39,40) - Complete Sprint 2 |
 | 2026-01-29 | 3a | 4 | Sprint 3 batch 1 (items 41,43-45) - Evolution Critique |
+| 2026-01-29 | 3b | 3 | Sprint 3 batch 2 (items 46-48) - Flood & Dating |
