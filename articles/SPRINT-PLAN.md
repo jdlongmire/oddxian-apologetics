@@ -24,8 +24,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 85  
-**Remaining:** 62
+**Converted:** 90  
+**Remaining:** 57
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -39,7 +39,7 @@
 | epistemology | 15 | ~25 |
 | science-and-faith | 11 | ~20 |
 | theology | 19 | ~20 |
-| biblical-studies | 5 | ~15 |
+| biblical-studies | 10 | ~15 |
 | theodicy | 2 | ~10 |
 | ai-and-technology | 2 | ~10 |
 | cultural-commentary | 0 | ~5 |
@@ -194,11 +194,11 @@ Exegesis, hermeneutics, biblical controversies.
 | 83 | ✅ | Against the Genesis 6 Connection | biblical-studies |
 | 84 | ✅ | A Final Word on Sons and Watchers | biblical-studies |
 | 85 | ✅ | When the Logos Interprets | biblical-studies |
-| 86 | ⬜ | The Sin of Angels and the Sin of Sodom | biblical-studies |
-| 87 | ⬜ | Is the Bible Riddled with Contradictions? | biblical-studies |
-| 88 | ⬜ | Preservation Through Multiplicity | biblical-studies |
-| 89 | ⬜ | Damned If We Do, Damned If We Don't | biblical-studies |
-| 90 | ⬜ | The Law and Its Fulfillment | biblical-studies |
+| 86 | ✅ | The Sin of Angels and the Sin of Sodom | biblical-studies |
+| 87 | ✅ | Is the Bible Riddled with Contradictions? | biblical-studies |
+| 88 | ✅ | Preservation Through Multiplicity | biblical-studies |
+| 89 | ✅ | Damned If We Do, Damned If We Don't | biblical-studies |
+| 90 | ✅ | The Law and Its Fulfillment | biblical-studies |
 | 91 | ⬜ | Whether You're Young Earth, Old Earth... | biblical-studies |
 | 92 | ⬜ | The Hierarchy of Understanding | theology |
 | 93 | ⬜ | Does Reason Point Us to God? | apologetics |
@@ -331,3 +331,4 @@ Only proceed with new conversions after all checks pass.
 | 2026-01-29 | 4c | 5 | Sprint 4 batch 3 (items 71-74,76) - Epistemology & Theology |
 | 2026-01-29 | 4d | 4 | Sprint 4 batch 4 (items 77-80) - Theology - **Sprint 4 Complete** |
 | 2026-01-29 | 5a | 5 | Sprint 5 batch 1 (items 81-85) - Biblical Studies - Nephilim/Gen 6 series |
+| 2026-01-29 | 5b | 5 | Sprint 5 batch 2 (items 86-90) - Biblical Studies - Reliability/Law |
