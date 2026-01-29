@@ -2,8 +2,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 66  
-**Remaining:** 81
+**Converted:** 71  
+**Remaining:** 76
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -18,9 +18,9 @@
 | apologetics | 10 | ~40 |
 | epistemology | 14 | ~25 |
 | science-and-faith | 11 | ~20 |
-| theology | 7 | ~20 |
+| theology | 11 | ~20 |
 | biblical-studies | 0 | ~15 |
-| theodicy | 1 | ~10 |
+| theodicy | 2 | ~10 |
 | ai-and-technology | 2 | ~10 |
 | cultural-commentary | 0 | ~5 |
 | ethics | 1 | ~5 |
@@ -148,11 +148,11 @@ Systematic theology, Christology, soteriology.
 | 63 | ✅ | Agency or Robots: Why Evil and Jesus Are Necessary | theology |
 | 64 | ✅ | The Christian Hypothesis | theology |
 | 65 | ✅ | Imago Dei, Decree, and Desire | theology |
-| 66 | ⬜ | Inherited Condition, Not Imputed Guilt | theology |
-| 67 | ⬜ | God's Gracious Election | theology |
-| 68 | ⬜ | On the Logical Necessity of Evil and Grace | theodicy |
-| 69 | ⬜ | Persons First, Then Nations: Federal Headship | theology |
-| 70 | ⬜ | Time, Logic, and the Necessary Mind | theology |
+| 66 | ✅ | Inherited Condition, Not Imputed Guilt | theology |
+| 67 | ✅ | God's Gracious Election | theology |
+| 68 | ✅ | On the Logical Necessity of Evil and Grace | theodicy |
+| 69 | ✅ | Persons First, Then Nations: Federal Headship | theology |
+| 70 | ✅ | Time, Logic, and the Necessary Mind | theology |
 | 71 | ⬜ | The Epistemic Asymmetry of Brute Facts | epistemology |
 | 72 | ⬜ | Joy, Happiness, and the Christian End | theology |
 | 73 | ⬜ | The Perfection of Scripture | theology |
@@ -266,6 +266,19 @@ AI/AGI content and remaining miscellaneous.
 5. **Update this sprint plan** (mark ✅)
 6. **Commit batch** after each sprint
 
+## Resume Protocol (Before Continuing From a Stop)
+
+Before starting any new batch after a session break:
+
+1. **Review current files:** `find articles -name "*.md" ! -name "SPRINT-PLAN.md" | wc -l`
+2. **Check local git status:** `git status` in oddxian-apologetics repo
+3. **Verify remote sync:** `git log --oneline -5` vs `git log --oneline origin/main -5`
+4. **Reconcile sprint plan:** Ensure ✅ marks match actual files on disk
+5. **Commit any uncommitted work:** Stage, commit, push if needed
+6. **Confirm counts:** Sprint plan totals must match actual file count
+
+Only proceed with new conversions after all checks pass.
+
 ---
 
 ## Notes
@@ -294,3 +307,4 @@ AI/AGI content and remaining miscellaneous.
 | 2026-01-29 | 3c | 5 | Sprint 3 batch 3 (items 51-55) - Philosophy of Science |
 | 2026-01-29 | 3d | 5 | Sprint 3 batch 4 (items 56-60) - Completes Sprint 3 |
 | 2026-01-29 | 4a | 5 | Sprint 4 batch 1 (items 61-65) - Theology & Doctrine |
+| 2026-01-29 | 4b | 5 | Sprint 4 batch 2 (items 66-70) - Theology & Theodicy |
