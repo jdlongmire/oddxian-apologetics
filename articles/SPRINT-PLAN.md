@@ -2,8 +2,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 36  
-**Remaining:** 111
+**Converted:** 41  
+**Remaining:** 106
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -102,11 +102,11 @@ Exposing internal problems with atheistic naturalism.
 | 29 | ✅ | The Supernatural Status of Logic | epistemology |
 | 30 | ✅ | The Argument Naturalism Can't Answer | apologetics |
 | 31 | ✅ | Ad Hoc or Modus Ponens? | apologetics |
-| 32 | ⬜ | Design vs Unguided Nature | apologetics |
-| 33 | ⬜ | The Atheistic Sleight of Hand | apologetics |
-| 34 | ⬜ | The Definitional Two-Step | apologetics |
-| 35 | ⬜ | Everyone Has the Burden of Proof | apologetics |
-| 36 | ⬜ | Pay no mind to what's behind the curtain | apologetics |
+| 32 | ✅ | Design vs Unguided Nature | apologetics |
+| 33 | ✅ | The Atheistic Sleight of Hand | apologetics |
+| 34 | ✅ | The Definitional Two-Step | apologetics |
+| 35 | ✅ | Everyone Has the Burden of Proof | apologetics |
+| 36 | ✅ | Pay no mind to what's behind the curtain | apologetics |
 | 37 | ⬜ | Atheism's "Bug": Evolved Reason Can't Delete Meaning | epistemology |
 | 38 | ✅ | You Didn't Choose to Be Born | epistemology |
 | 39 | ⬜ | Theology vs. Atheology | apologetics |
@@ -287,3 +287,4 @@ AI/AGI content and remaining miscellaneous.
 | 2026-01-29 | 1 | 6 | Completed Sprint 1 (items 15-20) |
 | 2026-01-29 | 2a | 5 | Sprint 2 batch 1 (items 21-25) - Naturalism Critique |
 | 2026-01-29 | 2b | 5 | Sprint 2 batch 2 (items 27-31) - Naturalism Critique |
+| 2026-01-29 | 2c | 5 | Sprint 2 batch 3 (items 32-36) - Burden of Proof |
