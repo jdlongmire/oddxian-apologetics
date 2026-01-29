@@ -1,13 +1,33 @@
 # Article Conversion Sprint Plan
 
+## Project Context
+
+**What We're Doing:** Converting 147 Substack articles from HTML export to organized Markdown files with proper frontmatter, categorized into topic folders for the oddXian Apologetics repository.
+
+**Why:** Building a searchable, organized archive of JD's apologetics writing that can be referenced, linked, and potentially published via Hugo/static site.
+
+---
+
+## Repository Information
+
+| Location | Path/URL |
+|----------|----------|
+| **Local (Windows)** | `G:\GitHub_Repos\oddxian-apologetics` |
+| **Local (WSL)** | `/mnt/g/GitHub_Repos/oddxian-apologetics` |
+| **Remote (GitHub)** | `https://github.com/jdlongmire/oddxian-apologetics` |
+| **Source HTML** | `articles/substack_export/posts/` (gitignored) |
+| **Output Location** | `articles/<category>/` |
+
+---
+
+## Current Status
+
 **Created:** 2026-01-29  
 **Total Articles:** 147  
 **Converted:** 71  
 **Remaining:** 76
 
 **Work Mode:** 5 articles per session (revised from 20)
-
-**Repo Location:** `G:\GitHub_Repos\oddxian-apologetics` (Windows) / `/mnt/g/GitHub_Repos/oddxian-apologetics` (WSL)
 
 ---
 
