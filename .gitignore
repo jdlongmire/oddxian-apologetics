@@ -31,3 +31,4 @@ desktop.ini
 
 # Drafts and WIP (optional - uncomment if you want to exclude drafts from commits)
 # drafts/*
+articles/substack_export/
