@@ -24,8 +24,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 137  
-**Remaining:** 10
+**Converted:** 138  
+**Remaining:** 9
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -262,9 +262,9 @@ AI/AGI content and remaining miscellaneous.
 | 139 | ✅ | The God of the System (original) | apologetics |
 | 140 | ✅ | FREE EARLY DRAFT: Field Guide | apologetics |
 | 141 | ⏸️ | The Apologist's Field Guide | apologetics | *99KB book content, too large* |
-| 142 | ⬜ | Addressing a common skeptic tactic (podcast) | apologetics |
-| 143 | ⬜ | Certainty, Distance, and the Point | epistemology |
-| 144 | ⬜ | The Christian Apologist's Field Guide | apologetics |
+| 142 | ⏸️ | Addressing a common skeptic tactic (podcast) | apologetics | *Audio only, no text* |
+| 143 | ✅ | Certainty, Distance, and the Point | epistemology |
+| 144 | ⏸️ | The Christian Apologist's Field Guide | apologetics | *Duplicate of 140/141* |
 
 ---
 
@@ -342,3 +342,4 @@ Only proceed with new conversions after all checks pass.
 | 2026-01-29 | 7b | 5 | Sprint 7 batch 2 (items 127-131) - AGI impossibility series |
 | 2026-01-29 | 7c | 4 | Sprint 7 batch 3 (items 132-135) - Existence/AI/Creation (136 image-only) |
 | 2026-01-29 | 7d | 3 | Sprint 7 batch 4 (items 137,139,140) - Music/God of System/Field Guide (138,141 skipped) |
+| 2026-01-29 | 7e | 1 | Sprint 7 batch 5 (item 143) - Epistemology (142,144 skipped) |
