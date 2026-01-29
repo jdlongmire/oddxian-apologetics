@@ -2,8 +2,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 61  
-**Remaining:** 86
+**Converted:** 66  
+**Remaining:** 81
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -18,7 +18,7 @@
 | apologetics | 10 | ~40 |
 | epistemology | 14 | ~25 |
 | science-and-faith | 11 | ~20 |
-| theology | 2 | ~20 |
+| theology | 7 | ~20 |
 | biblical-studies | 0 | ~15 |
 | theodicy | 1 | ~10 |
 | ai-and-technology | 2 | ~10 |
@@ -143,11 +143,11 @@ Systematic theology, Christology, soteriology.
 
 | # | Status | Title | Category |
 |---|--------|-------|----------|
-| 61 | ⬜ | The Eternal Trinitarian Covenant | theology |
-| 62 | ⬜ | Why the God-Man? Logical Necessity of Christ | theology |
-| 63 | ⬜ | Agency or Robots: Why Evil and Jesus Are Necessary | theology |
-| 64 | ⬜ | The Christian Hypothesis | theology |
-| 65 | ⬜ | Imago Dei, Decree, and Desire | theology |
+| 61 | ✅ | The Eternal Trinitarian Covenant | theology |
+| 62 | ✅ | Why the God-Man? Logical Necessity of Christ | theology |
+| 63 | ✅ | Agency or Robots: Why Evil and Jesus Are Necessary | theology |
+| 64 | ✅ | The Christian Hypothesis | theology |
+| 65 | ✅ | Imago Dei, Decree, and Desire | theology |
 | 66 | ⬜ | Inherited Condition, Not Imputed Guilt | theology |
 | 67 | ⬜ | God's Gracious Election | theology |
 | 68 | ⬜ | On the Logical Necessity of Evil and Grace | theodicy |
@@ -293,3 +293,4 @@ AI/AGI content and remaining miscellaneous.
 | 2026-01-29 | 3b | 3 | Sprint 3 batch 2 (items 46-48) - Flood & Dating |
 | 2026-01-29 | 3c | 5 | Sprint 3 batch 3 (items 51-55) - Philosophy of Science |
 | 2026-01-29 | 3d | 5 | Sprint 3 batch 4 (items 56-60) - Completes Sprint 3 |
+| 2026-01-29 | 4a | 5 | Sprint 4 batch 1 (items 61-65) - Theology & Doctrine |
