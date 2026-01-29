@@ -24,8 +24,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 110  
-**Remaining:** 37
+**Converted:** 115  
+**Remaining:** 32
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -226,11 +226,11 @@ Moral arguments, slavery passages, cultural critique.
 | 109 | ✅ | Two Dilemmas: One False, One Real | ethics |
 | 110 | ✅ | Reflections on Justice, Mercy, and the Spirit | ethics |
 | 111 | ✅ | Justice and Mercy in Mixture | ethics |
-| 112 | ⬜ | Divine Hiddenness | theodicy |
-| 113 | ⬜ | Why Hell Is Just | theodicy |
-| 114 | ⬜ | What Hell Really Is | theodicy |
-| 115 | ⬜ | The Cross vs. The Void: Annihilationism | theodicy |
-| 116 | ⬜ | Kirk Cameron, Hell, and the Cost of Softening | theodicy |
+| 112 | ✅ | Divine Hiddenness | theodicy |
+| 113 | ✅ | Why Hell Is Just | theodicy |
+| 114 | ✅ | What Hell Really Is | theodicy |
+| 115 | ✅ | The Cross vs. The Void: Annihilationism | theodicy |
+| 116 | ✅ | Kirk Cameron, Hell, and the Cost of Softening | theodicy |
 | 117 | ⬜ | When "Perfect" Isn't the Point: Disability | theodicy |
 | 118 | ⬜ | The Axiology of Agony | theodicy |
 | 119 | ⬜ | Twisting Scripture: Toxic Empathy | cultural-commentary |
@@ -336,3 +336,4 @@ Only proceed with new conversions after all checks pass.
 | 2026-01-29 | 5d | 5 | Sprint 5 batch 4 (items 96-100) - **Sprint 5 Complete** |
 | 2026-01-29 | 6a | 5 | Sprint 6 batch 1 (items 101,103-106) - Ethics/Slavery |
 | 2026-01-29 | 6b | 5 | Sprint 6 batch 2 (items 107-111) - Ethics/Moral Philosophy |
+| 2026-01-29 | 6c | 5 | Sprint 6 batch 3 (items 112-116) - Theodicy/Hell |
