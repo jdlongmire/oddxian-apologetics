@@ -24,8 +24,8 @@
 
 **Created:** 2026-01-29  
 **Total Articles:** 147  
-**Converted:** 80  
-**Remaining:** 67
+**Converted:** 85  
+**Remaining:** 62
 
 **Work Mode:** 5 articles per session (revised from 20)
 
@@ -39,7 +39,7 @@
 | epistemology | 15 | ~25 |
 | science-and-faith | 11 | ~20 |
 | theology | 19 | ~20 |
-| biblical-studies | 0 | ~15 |
+| biblical-studies | 5 | ~15 |
 | theodicy | 2 | ~10 |
 | ai-and-technology | 2 | ~10 |
 | cultural-commentary | 0 | ~5 |
@@ -189,11 +189,11 @@ Exegesis, hermeneutics, biblical controversies.
 
 | # | Status | Title | Category |
 |---|--------|-------|----------|
-| 81 | ⬜ | "I and the Father Are One": Psalm 82, John 10 | biblical-studies |
-| 82 | ⬜ | Reassessing the Nephilim | biblical-studies |
-| 83 | ⬜ | Against the Genesis 6 Connection | biblical-studies |
-| 84 | ⬜ | A Final Word on Sons and Watchers | biblical-studies |
-| 85 | ⬜ | When the Logos Interprets | biblical-studies |
+| 81 | ✅ | "I and the Father Are One": Psalm 82, John 10 | biblical-studies |
+| 82 | ✅ | Reassessing the Nephilim | biblical-studies |
+| 83 | ✅ | Against the Genesis 6 Connection | biblical-studies |
+| 84 | ✅ | A Final Word on Sons and Watchers | biblical-studies |
+| 85 | ✅ | When the Logos Interprets | biblical-studies |
 | 86 | ⬜ | The Sin of Angels and the Sin of Sodom | biblical-studies |
 | 87 | ⬜ | Is the Bible Riddled with Contradictions? | biblical-studies |
 | 88 | ⬜ | Preservation Through Multiplicity | biblical-studies |
@@ -330,3 +330,4 @@ Only proceed with new conversions after all checks pass.
 | 2026-01-29 | 4b | 5 | Sprint 4 batch 2 (items 66-70) - Theology & Theodicy |
 | 2026-01-29 | 4c | 5 | Sprint 4 batch 3 (items 71-74,76) - Epistemology & Theology |
 | 2026-01-29 | 4d | 4 | Sprint 4 batch 4 (items 77-80) - Theology - **Sprint 4 Complete** |
+| 2026-01-29 | 5a | 5 | Sprint 5 batch 1 (items 81-85) - Biblical Studies - Nephilim/Gen 6 series |
