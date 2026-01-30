@@ -10,6 +10,12 @@ This repository contains research, arguments, and development materials for rigo
 
 The goal is to provide intellectually sound, biblically-grounded responses that challenge popular consensus where it conflicts with Christian doctrine—examining the intersections between biblical interpretation and worldly perspectives with philosophical precision.
 
+---
+
+> **📚 [Articles Wiki](articles/INDEX.md)** - The primary guide to this repository. Browse 138 articles across 9 categories: Apologetics, Epistemology, Theology, Science & Faith, Biblical Studies, AI & Technology, Ethics, Theodicy, and Cultural Commentary.
+
+---
+
 ## Work Summary
 
 ### ✅ Completed: Session 014 - Young Adult's Christian Defense Guide (2025-12-14/15)
