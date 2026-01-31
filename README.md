@@ -2,7 +2,14 @@
 
 **CHALLENGE THE CONSENSUS / Working out the harmony of God's Word and God's World**
 
-A repository for Christian apologetics resources and development, supporting [oddxian.com](https://oddxian.com).
+A repository for Christian apologetics resources and development.
+
+| Resource | Link |
+|----------|------|
+| **Website** | [oddxian.com](https://oddxian.com) |
+| **Wiki** | [Research Wiki](https://github.com/jdlongmire/oddxian-apologetics/wiki) |
+| **AI Research** | [airesearchandphilosophy.substack.com](https://airesearchandphilosophy.substack.com) |
+| **ThinxAI** | [thinxai.net](https://thinxai.net) |
 
 ## About
 
