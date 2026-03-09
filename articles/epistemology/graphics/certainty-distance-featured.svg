@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="certaintyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ade80"/>
+      <stop offset="50%" style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#ef4444"/>
+    </linearGradient>
+    <linearGradient id="historyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa"/>
+      <stop offset="100%" style="stop-color:#3b82f6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGrad)"/>
+
+  <!-- Grid lines for depth -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <line x1="100" y1="100" x2="100" y2="400"/>
+    <line x1="200" y1="100" x2="200" y2="400"/>
+    <line x1="300" y1="100" x2="300" y2="400"/>
+    <line x1="400" y1="100" x2="400" y2="400"/>
+    <line x1="500" y1="100" x2="500" y2="400"/>
+    <line x1="600" y1="100" x2="600" y2="400"/>
+    <line x1="700" y1="100" x2="700" y2="400"/>
+    <line x1="100" y1="150" x2="700" y2="150"/>
+    <line x1="100" y1="200" x2="700" y2="200"/>
+    <line x1="100" y1="250" x2="700" y2="250"/>
+    <line x1="100" y1="300" x2="700" y2="300"/>
+    <line x1="100" y1="350" x2="700" y2="350"/>
+  </g>
+
+  <!-- Axes -->
+  <line x1="100" y1="400" x2="700" y2="400" stroke="#ffffff" stroke-width="2" stroke-opacity="0.8"/>
+  <line x1="100" y1="100" x2="100" y2="400" stroke="#ffffff" stroke-width="2" stroke-opacity="0.8"/>
+
+  <!-- X-axis label -->
+  <text x="400" y="460" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif" font-size="16" font-style="italic">
+    Distance from Present
+  </text>
+
+  <!-- Y-axis label -->
+  <text x="50" y="250" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif" font-size="16" font-style="italic" transform="rotate(-90, 50, 250)">
+    Epistemic Certainty
+  </text>
+
+  <!-- Time markers -->
+  <text x="150" y="425" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="11">Now</text>
+  <text x="350" y="425" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="11">Historical</text>
+  <text x="550" y="425" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="11">Ancient</text>
+  <text x="680" y="425" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="11">Origins</text>
+
+  <!-- Science certainty decay curve -->
+  <path d="M 100 120 Q 200 130, 300 200 Q 400 280, 500 340 Q 600 370, 700 380"
+        fill="none" stroke="url(#certaintyGrad)" stroke-width="4" filter="url(#glow)"/>
+
+  <!-- Science label -->
+  <text x="180" y="110" fill="#4ade80" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    Experimental Science
+  </text>
+
+  <!-- Decay annotation -->
+  <text x="420" y="260" fill="#fbbf24" font-family="Arial, sans-serif" font-size="12" font-style="italic">
+    Signal weakens
+  </text>
+  <text x="560" y="335" fill="#ef4444" font-family="Arial, sans-serif" font-size="12" font-style="italic">
+    Presuppositions rise
+  </text>
+
+  <!-- Historical claim marker - vertical line at 1st century -->
+  <line x1="420" y1="100" x2="420" y2="400" stroke="#60a5fa" stroke-width="2" stroke-dasharray="8,4" stroke-opacity="0.7"/>
+
+  <!-- The Point - glowing circle -->
+  <circle cx="420" cy="260" r="12" fill="#60a5fa" filter="url(#glow)" opacity="0.9"/>
+  <circle cx="420" cy="260" r="6" fill="#ffffff"/>
+
+  <!-- History arrow pointing to The Point -->
+  <path d="M 520 180 Q 480 200, 435 250" fill="none" stroke="#60a5fa" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#60a5fa"/>
+    </marker>
+  </defs>
+
+  <!-- History label box -->
+  <rect x="480" y="140" width="180" height="50" rx="8" fill="#1e3a5f" stroke="#60a5fa" stroke-width="1"/>
+  <text x="570" y="163" text-anchor="middle" fill="#60a5fa" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    THE POINT
+  </text>
+  <text x="570" y="180" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="11">
+    History takes over
+  </text>
+
+  <!-- Category boundary annotation -->
+  <rect x="580" y="320" width="110" height="55" rx="6" fill="#7f1d1d" fill-opacity="0.6" stroke="#ef4444" stroke-width="1"/>
+  <text x="635" y="340" text-anchor="middle" fill="#fca5a5" font-family="Arial, sans-serif" font-size="10">
+    Category
+  </text>
+  <text x="635" y="355" text-anchor="middle" fill="#fca5a5" font-family="Arial, sans-serif" font-size="10">
+    Boundary
+  </text>
+  <text x="635" y="370" text-anchor="middle" fill="#fca5a5" font-family="Arial, sans-serif" font-size="9" font-style="italic">
+    Science ends
+  </text>
+
+  <!-- Two domains boxes -->
+  <rect x="110" y="70" width="160" height="30" rx="4" fill="#166534" fill-opacity="0.5" stroke="#4ade80" stroke-width="1"/>
+  <text x="190" y="90" text-anchor="middle" fill="#4ade80" font-family="Arial, sans-serif" font-size="12">
+    Repeatable / Observable
+  </text>
+
+  <rect x="540" y="70" width="150" height="30" rx="4" fill="#7f1d1d" fill-opacity="0.5" stroke="#f87171" stroke-width="1"/>
+  <text x="615" y="90" text-anchor="middle" fill="#f87171" font-family="Arial, sans-serif" font-size="12">
+    Singular / Historical
+  </text>
+</svg>

@@ -4,7 +4,10 @@ date: 2025-12-20
 category: epistemology
 tags: [epistemology, science, history, christianity, origins]
 source: substack
+featured_image: graphics/certainty-distance-featured.svg
 ---
+
+![Certainty, Distance, and the Point - Epistemic certainty decays as distance from the present increases, until history takes over at the category boundary](graphics/certainty-distance-featured.svg)
 
 Science is strongest where observation is direct and experiments are repeatable. That isn't a criticism. It's the reason science works. Repeatability collapses uncertainty. Signal overwhelms noise. Confidence compounds.
 
@@ -60,7 +63,7 @@ The other is to allow a grounding explanation that is not constrained by the sys
 
 Once you step there, science is no longer the right tool. History is.
 
-Origins are not repeatable events. They are singular. When explanation reaches that level, the rational question becomes whether there is a historically reliable source that speaks to those origins—not in abstraction, but in claims anchored to time, place, and public events.
+Origins are not repeatable events. They are singular. When explanation reaches that level, the rational question becomes whether there is a historically reliable source that speaks to those origins. Not in abstraction, but in claims anchored to time, place, and public events.
 
 The Christian claim is that such a source exists, that rational order is not impersonal, and that this source acted in history in a way meant to be examined, challenged, and either accepted or rejected.
 
