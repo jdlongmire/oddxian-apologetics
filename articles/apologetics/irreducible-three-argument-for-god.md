@@ -1,4 +1,19 @@
-# Argument for God from the "Irreducible 3" and Agency
+---
+layout: default
+title: "Argument for God from the Irreducible 3 and Agency"
+date: 2026-03-24
+author: James (JD) Longmire
+categories: [apologetics, philosophy, theology]
+tags: [design-argument, teleological-argument, agency, irreducible-3]
+featured: true
+image: /articles/apologetics/irreducible-three-featured.png
+permalink: /articles/apologetics/irreducible-three-argument-for-god/
+excerpt: "We routinely distinguish designed artifacts from natural formations. Three features appearing together reliably trigger the inference to mind: deep logical structure, specified information, and dynamic organization toward outcomes. The universe exhibits this same triad."
+---
+
+<div class="topic-header">
+  <h1>Argument for God from the "Irreducible 3" and Agency</h1>
+</div>
 
 **James (JD) Longmire**
 March 24, 2026
