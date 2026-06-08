@@ -1,0 +1,37 @@
+
+:root{--ink:#1a1a1a;--muted:#5b6470;--line:#e3e6ea;--accent:#5b3a8c;--bg:#fbfbfc}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,serif;
+  font-family:Georgia,"Times New Roman",serif}
+.wrap{max-width:760px;margin:0 auto;padding:48px 22px 80px}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:34px}
+header.site h1{font-size:30px;margin:0 0 6px;letter-spacing:.2px}
+header.site .tagline{color:var(--muted);font-style:italic;margin:0}
+header.site .intro{color:var(--ink);font-size:15.5px;margin:16px 0 0}
+.article{padding:22px 0;border-bottom:1px solid var(--line)}
+.article h2{font-size:21px;margin:0 0 4px;line-height:1.3}
+.meta{color:var(--muted);font-size:14px;margin:0 0 10px}
+.abstract{margin:0 0 12px}
+.badges a{display:inline-block;font-family:-apple-system,Segoe UI,Roboto,sans-serif;
+  font-size:12.5px;border:1px solid var(--line);border-radius:5px;
+  padding:3px 10px;margin:0 8px 0 0;color:var(--muted);background:#fff}
+.badges a:hover{border-color:var(--accent);color:var(--accent);text-decoration:none}
+.keywords{margin-top:10px;color:var(--muted);font-size:13px}
+article.paper h1{font-size:25px;line-height:1.28;margin:0 0 8px}
+article.paper .authors{font-size:16px;margin:0 0 2px}
+article.paper .subhead{color:var(--muted);font-size:14px;margin:0 0 22px}
+article.paper h3{font-size:14px;text-transform:uppercase;letter-spacing:.6px;
+  color:var(--muted);margin:30px 0 8px}
+.cite{background:#fff;border:1px solid var(--line);border-radius:6px;
+  padding:14px 16px;font-size:14.5px;line-height:1.5}
+.actions a{display:inline-block;background:var(--accent);color:#fff;
+  font-family:-apple-system,Segoe UI,Roboto,sans-serif;font-size:14px;
+  padding:9px 16px;border-radius:6px;margin:0 10px 10px 0}
+.actions a.alt{background:#fff;color:var(--accent);border:1px solid var(--accent)}
+.actions a:hover{text-decoration:none;opacity:.9}
+footer.site{margin-top:46px;padding-top:18px;border-top:1px solid var(--line);
+  color:var(--muted);font-size:13px;font-family:-apple-system,Segoe UI,Roboto,sans-serif}
+.back{font-family:-apple-system,Segoe UI,Roboto,sans-serif;font-size:13.5px}
