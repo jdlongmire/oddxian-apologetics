@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "REPLACE — Article Title",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "description": "REPLACE — abstract / description (plain text or simple HTML). 2-4 sentences.",
+    "creators": [
+      {
+        "name": "Longmire, James D.",
+        "orcid": "0009-0009-1383-7698"
+      }
+    ],
+    "keywords": [
+      "theology",
+      "REPLACE-keyword"
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "version": "1.0",
+    "language": "eng",
+    "notes": "OPTIONAL — provenance note, e.g. source repo path or prior publication.",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/jdlongmire/oddxian-apologetics",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

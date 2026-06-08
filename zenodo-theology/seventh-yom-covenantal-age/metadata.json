@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "The Seventh Day and the First Covenantal Age: Bounded Cessation, the Eternal Covenant of Obedience, and the Inheritance of the Curse",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "description": "This paper advances a unified reading of the creation account and its covenantal aftermath. It argues that the seventh yom of Genesis 2:2-3 marks the cessation of a specific divine work, the work of special cosmological creation, and not the cessation of divine activity as such. On the seventh day God rests from forming the cosmos while continuing to uphold it by providence and, after the Fall, to act within it by special redemptive work. This threefold distinction among cosmological creation, providence, and redemption resolves the apparent tension between Genesis 2:2-3 and John 5:17 and grounds the seventh day as the inauguration of the first covenantal age, the age of man's works and will under the sovereignty of God. Within that frame the paper construes the first covenant as a covenant of obedience rather than of merited works: a bond of obedience owed by the creature to the Creator, inaugurated at creation and holding eternally, tested in Eden, breached under the curse, satisfied by the obedience of the second Adam, and rendered perfectly by the glorified in the consummation. On this construal Hosea 6:7 is reconciled rather than merely conceded, since an eternally holding and universal obligation is attested as breached under every available rendering of the verse, including the toponymic reading favored by Andersen and Freedman. The paper then argues that what propagates from Adam to his posterity is the curse of the broken covenant together with inherited corruption, rather than the forensic imputation of Adam's personal guilt, on the grammatical-historical ground that the consecutive sense of eph' ho in Romans 5:12, established by Fitzmyer, underdetermines the imputation reading that the Latin in quo tradition built upon. The deliberately asymmetric structure of the Adam-Christ parallel in Romans 5:15-19 is shown to confirm rather than threaten this construal, and the obedience framing is shown to cohere with that asymmetry better than a merit framing does. The paper closes by reconciling the argument with the enterable rest of Hebrews 4 and the new-creation motif. Throughout, the method is grammatical-historical exegesis operating under the authority and self-interpreting priority of Scripture.",
+    "creators": [
+      {
+        "name": "Longmire, James (JD)",
+        "orcid": "0009-0009-1383-7698"
+      }
+    ],
+    "keywords": [
+      "covenant theology",
+      "covenant of obedience",
+      "covenant of works",
+      "Sabbath rest",
+      "Genesis 2:2-3",
+      "John 5:17",
+      "Hebrews 4",
+      "Hosea 6:7",
+      "Romans 5:12",
+      "federal headship",
+      "original sin",
+      "imputation",
+      "Adam-Christ typology",
+      "grammatical-historical exegesis",
+      "Reformed theology"
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "version": "1.0",
+    "language": "eng",
+    "notes": "Independent research. Source: jdlongmire/oddxian-apologetics, zenodo-theology/seventh-yom-covenantal-age.",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/jdlongmire/oddxian-apologetics",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}
