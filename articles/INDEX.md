@@ -1,6 +1,6 @@
 # oddXian Articles Index
 
-**138 articles** converted from Substack export · Last updated: 2026-01-29
+**139 articles** converted from Substack export, plus new original pieces · Last updated: 2026-08-15
 
 This index provides navigation to all articles in the oddXian Apologetics archive, organized by category.
 
@@ -13,7 +13,7 @@ This index provides navigation to all articles in the oddXian Apologetics archiv
 | [Apologetics](#-apologetics) | 26 | Arguments for Christianity, responses to skeptics |
 | [Epistemology](#-epistemology) | 20 | Knowledge, logic, rationality, naturalism critique |
 | [Theology](#-theology) | 23 | Doctrine, Christology, soteriology, systematic theology |
-| [Science & Faith](#-science--faith) | 18 | Creation, evolution critique, cosmology, origins |
+| [Science & Faith](#-science--faith) | 19 | Creation, evolution critique, cosmology, origins |
 | [Biblical Studies](#-biblical-studies) | 11 | Exegesis, hermeneutics, biblical interpretation |
 | [AI & Technology](#-ai--technology) | 11 | AGI impossibility, AI limitations, consciousness |
 | [Ethics](#-ethics) | 11 | Moral philosophy, slavery passages, sexual ethics |
@@ -143,6 +143,7 @@ Creation, evolution critique, cosmology, and origins science.
 | [Milk as Code](science-and-faith/milk-as-code.md) | Biological information |
 | [The Logos-Intelligibility Argument](science-and-faith/the-logos-intelligibility-argument.md) | Why science works |
 | [Methodological Designism as Philosophy of Science](science-and-faith/methodological-designism-as-philosophy-of-science.md) | Design as methodology |
+| [Logical Sovereignty or Brute Emergence](science-and-faith/logical-sovereignty-or-brute-emergence.md) | Quantum actualization, Aristotle's act/potency, and Deut. 29:29 |
 
 ---
 
