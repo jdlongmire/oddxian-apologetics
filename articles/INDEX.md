@@ -1,6 +1,6 @@
 # oddXian Articles Index
 
-**140 articles** converted from Substack export, plus new original pieces · Last updated: 2026-08-29
+**141 articles** converted from Substack export, plus new original pieces · Last updated: 2026-09-04
 
 This index provides navigation to all articles in the oddXian Apologetics archive, organized by category.
 
@@ -10,7 +10,7 @@ This index provides navigation to all articles in the oddXian Apologetics archiv
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| [Apologetics](#-apologetics) | 26 | Arguments for Christianity, responses to skeptics |
+| [Apologetics](#-apologetics) | 27 | Arguments for Christianity, responses to skeptics |
 | [Epistemology](#-epistemology) | 20 | Knowledge, logic, rationality, naturalism critique |
 | [Theology](#-theology) | 23 | Doctrine, Christology, soteriology, systematic theology |
 | [Science & Faith](#-science--faith) | 20 | Creation, evolution critique, cosmology, origins |
@@ -28,6 +28,7 @@ Core arguments for Christianity and responses to skepticism.
 
 | Article | Description |
 |---------|-------------|
+| [How a Character Finds Its Author](apologetics/how-a-character-finds-its-author.md) | Why a transcendent Creator's evidence would appear through creation, signs, revelation, and incarnation |
 | [oddXian: Challenge the Consensus](apologetics/oddxian-challenge-the-consensus.md) | Manifesto and mission statement |
 | [Why Believe God Exists?](apologetics/why-believe-god-exists.md) | Foundational case for theism |
 | [Introducing the Duality Argument](apologetics/introducing-the-duality-argument.md) | Novel argument framework |
