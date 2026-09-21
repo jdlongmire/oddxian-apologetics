@@ -1,5 +1,7 @@
 # The Spirit of Truth and God's Word
 
+![The Spirit of Truth and God's Word: the Holy Spirit as Giver, the fixed apostolic Deposit, the Spirit as continuing Steward, and God's People growing in understanding.](figures/spirit-and-scripture.png)
+
 ## Confessional statement
 
 We believe that the Holy Spirit, the Spirit of truth, is the infallible Giver and Steward of God's written Word. He inspired the Scriptures, carrying along their human authors so that what they wrote is God-breathed and possesses its authority from God alone (2 Tim. 3:16; 2 Pet. 1:21).
