@@ -1,7 +1,7 @@
 # Triune Loving Communion: Moral Order, Sin, Law, and Eternal Covenant
 
 James (JD) Longmire | ORCID: 0009-0009-1383-7698
-Northrop Grumman Fellow (unaffiliated research)
+oddXian Apologetics Ministry
 
 **Status:** Working draft v0.1. Exegetical audit and peer review pending.
 
