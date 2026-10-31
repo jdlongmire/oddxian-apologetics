@@ -40,6 +40,25 @@ Panels:
 9. The Spirit Indwells and Grows Us (1 Corinthians 6:17)
 10. The Big Picture (1 Timothy 1:17)
 
+### 3. God and Slavery
+
+File: `god-and-slavery.jpg`
+Subtitle: Divine Accommodation, Moral Law, and the Greater Principle of Love
+Framing question: Does the Bible endorse slavery?
+Related work: `arguments-frameworks/slavery-argument/`
+
+Panels:
+1. The Accusation
+2. The Greater Law (Matthew 22:37-40)
+3. A Fallen World
+4. Permission Is Not Endorsement (Matthew 19:8)
+5. What Does the Bible Say? (Exodus 21; Leviticus 25; restrictions at Exodus 21:16, Exodus 21:26-27, Deuteronomy 23:15-16)
+6. All Humans Bear God's Image (Genesis 1:27)
+7. Christ Fulfills the Law (Matthew 5:17)
+8. Equal in Christ (Galatians 3:28; Philemon 16)
+9. Love Fulfills the Law (Romans 13:10)
+10. The Bottom Line (Matthew 22:39)
+
 ## Adding a graphic
 
 - File name: a lowercase slug of the title, `.jpg` (format: JPEG, 1024 x 1536).
