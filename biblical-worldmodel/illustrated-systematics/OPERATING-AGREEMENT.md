@@ -29,3 +29,6 @@ A bridge inbox message is a work request, not evidence of completed ingestion. M
 - **superseded/rejected:** reason, reviewer and replacement recorded
 
 No force pushes, unauthorized merges, silent overwrites, or changes to doctrinal canon without review.
+
+## Narrative and source research extension
+GPT-6 drafts companion narrative Markdown, verifies accessible internal public repository references and external primary evidence, classifies claims, and maps each panel to its source. Muse independently validates source URLs/locators, checks canonical-corpus precedence, maintains narrative-to-asset backlinks, verifies visible oddXian.com attribution, and records final publication permalinks. JD adjudicates contested doctrine and authorizes publication. No invented links or citations.
