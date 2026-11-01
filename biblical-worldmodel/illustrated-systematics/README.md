@@ -11,6 +11,7 @@ A 25-volume, ten-panel-per-volume illustrated systematic theology, arranged in e
 - [Operating agreement](OPERATING-AGREEMENT.md): human and agent responsibilities, controls and handoff.
 - [Asset manifest](ASSET-MANIFEST.csv): traceable graphic and script metadata.
 - [Panel script template](PANEL-SCRIPT-TEMPLATE.md): repeatable source of truth for each image.
+- [Visual QA process](QA-PROCESS.md): mandatory element-by-element magnified verification for every plate.
 
 ## Publication workflow
 proposed → scripted → theological-review → graphic-draft → visual-qa → candidate → JD-approved → published; rejected or superseded are terminal dispositions for individual revisions.

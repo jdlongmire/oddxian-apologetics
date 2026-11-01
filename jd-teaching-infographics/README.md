@@ -59,6 +59,10 @@ Panels:
 9. Love Fulfills the Law (Romans 13:10)
 10. The Bottom Line (Matthew 22:39)
 
+## Series home
+
+The Illustrated Systematics series (BWM-IS volumes) has its canonical home at `biblical-worldmodel/illustrated-systematics/` in this repository (decided 2026-11-01). The Triune Foundation plate above corresponds to BWM-IS-01 and will be ingested there; this folder remains the home of standalone teaching graphics and keeps its own copies.
+
 ## Adding a graphic
 
 - File name: a lowercase slug of the title, `.jpg` (format: JPEG, 1024 x 1536).
