@@ -242,6 +242,27 @@ Deuteronomy 29:29 assigns secret things to the LORD and revealed things to His p
 
 **Pastoral constraint:** No observer should use a presumed secret reason to minimize a victim's suffering, justify an aggressor, or excuse failures to oppose evil. The revealed duties of justice, mercy, and lament remain binding.
 
+### 6.13 Formal consistency test and inferential boundaries
+
+This section tests the argument's internal validity without claiming to have established every theological premise independently.
+
+**Definitions:** Let **D** denote the actual eternal decree; **H** its realized history; **E(e)** that event *e* is an evil or suffering event within H; **G(e)** that God's governance of *e* has a morally sufficient purpose; **I(e)** that *e* is uniquely instrumentally indispensable to the final redemptive end; **K(h,e)** that human observer *h* knows the particular divine reason for *e*.
+
+**Theological premises:**
+
+- **T1 (revealed and synthesized):** God is perfectly good, holy, just, and wise in His governance.
+- **T2 (revealed and synthesized):** Every event in H falls within God's comprehensive providential governance (Ephesians 1:11; compare Genesis 50:20).
+- **T3 (explicit bridge premise):** Perfectly good and wise divine governance of an evil or suffering event entails a morally sufficient justification for its inclusion in H. T3 is a moral-theological commitment of the model; it is not simply the definition of sovereignty.
+- **T4 (revealed, with specified beneficiary):** All things work together for the good of those called according to God's purpose, whose destiny is conformity to Christ and glorification (Romans 8:28–30).
+
+**Derivation:** For any *e* in H, if E(e), then T1–T3 jointly entail G(e). Consequently, within the model, no E(e) is actually gratuitous. T4 positively specifies the promised redemptive good for the called; it must not be expanded into an identical promise of glorification to every human being. Genesis 50:20 provides an instance of contrasting divine and creaturely intentions; it is not, by itself, a universal quantification over all suffering.
+
+**Non-entailments:** G(e) does not entail I(e); G(e) does not entail K(h,e). Likewise, the necessity of the actual history conditional upon D does not establish that D was metaphysically the only possible decree. The existence of actual suffering does not demonstrate that mutable creatures were bound to sin independently of D. The thesis therefore preserves both God's comprehensive purposiveness and the creature's limited access to the particular rationale.
+
+**Consistency verdict:** The conjunction of original goodness, genuine creaturely evil, divine moral displeasure, comprehensive providence, and final consummation is logically satisfiable under the foregoing distinctions. This is an internal consistency finding, conditional on T1–T4. The argument's soundness additionally requires independent warrant for the premises and a defensible account of divine agency, moral justification, and secondary causes.
+
+**Outstanding verification:** Check T3 against primary Reformed sources, examine Romans 8:28's Greek variants and immediate context, and develop an account of secondary causation that avoids transferring creaturely culpability to God. No claim of complete exegetical or historical validation is made here.
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
