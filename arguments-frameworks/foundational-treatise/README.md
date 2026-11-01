@@ -16,5 +16,8 @@ This directory holds the treatise program's working files. Parts I-X will be dra
   - `03-genesis-50-20.md` - complete (working draft)
   - `04-deuteronomy-29-29.md` - complete (working draft)
   - `05-romans-8-28-30.md` - complete (working draft)
+  - `06-ephesians-1-3-14.md` - complete (working draft)
+  - `07-luke-22-42.md` - complete (working draft)
+  - `08-john-6-38.md` - complete (working draft)
 
 Human-Curated, AI-Enabled (HCAE)
