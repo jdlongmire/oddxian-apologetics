@@ -4,7 +4,7 @@
 **Claim under test (universal form):** Every sin derives from closed self-interest, the self turned in on itself (incurvatus in se) against triune loving communion. Source of the claim: the internal corpus (triune-loving-communion systematic theology; Covenant and Communion systematic theology), as summarized for this test.
 **Question:** Does the universal form survive the four hardest counterexample classes (ignorance, omission, fear, misguided altruism), and in what formulation may Part IV state it?
 **Method:** Strongest biblical cases per class, adjudicated [Absorbed / Absorbed with qualification / Not absorbed] with confidence. Scripture is quoted or closely paraphrased from the ESV as consulted (biblia.com and esv.org displays), unless another version is named. Secondary sources are labeled by mediation in section 6 and the source list.
-**Status:** Research note. It decides nothing by itself; it recommends a formulation for JD's approval before Part IV is drafted.
+**Status:** Research note. The recommended formulation (b) was ADOPTED by JD on 2026-11-01 as the governing form for Part IV. Scrutiny item 1 is satisfied in the qualified form; drafting Part IV in the unqualified universal-motive form is barred.
 
 ## 1. Ignorance
 
