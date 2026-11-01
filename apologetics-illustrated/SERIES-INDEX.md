@@ -33,13 +33,14 @@ The two Triune plates in `jd-teaching-infographics/` (The Triune Foundation of O
 
 | ID | Framing objection | Title | Seeds | Status |
 |---|---|---|---|---|
-| AI-01 | "The Bible endorses slavery." | God and Slavery: Does the Bible Endorse Slavery? | S-1, S-2, S-3 | planned; plate already exists as S-1, so this is the natural pilot: audit it, write its companion narrative, and bring it to candidate |
-| AI-02 | "If God exists, He would make it obvious." | Divine Hiddenness | S-4 | planned |
-| AI-03 | "Reason needs no God." | The Naturalist Trilemma | S-5 | planned |
-| AI-04 | "One argument is never enough." | The Consilience Argument for God | S-6 | planned |
-| AI-05 | "Every worldview just assumes its starting point." | The Logos Syllogism | S-7 | planned |
-| AI-06 | "The universe just is." | Contingency: The Godelian and Duality Arguments | S-7 | planned |
-| AI-07 | "Deep time settles it." | Deep Time and the Falsifiability Standard | S-8 | planned |
+| AI-01 | "The Bible is just a man-made book, copied and changed for centuries." | Why You Can Trust Your Bible | JD's corpus: BWM-IS-03 (plate, script, narrative) and the foundational treatise Prolegomena; cross-referenced with BWM-IS-03 both ways | graphic-draft produced 2026-11-01 on JD's direction; element QA passed with no repairs; awaiting JD approval |
+| AI-02 | "The Bible endorses slavery." | God and Slavery: Does the Bible Endorse Slavery? | S-1, S-2, S-3 | planned; plate already exists as S-1: audit it, write its companion narrative, and bring it to candidate |
+| AI-03 | "If God exists, He would make it obvious." | Divine Hiddenness | S-4 | planned |
+| AI-04 | "Reason needs no God." | The Naturalist Trilemma | S-5 | planned |
+| AI-05 | "One argument is never enough." | The Consilience Argument for God | S-6 | planned |
+| AI-06 | "Every worldview just assumes its starting point." | The Logos Syllogism | S-7 | planned |
+| AI-07 | "The universe just is." | Contingency: The Godelian and Duality Arguments | S-7 | planned |
+| AI-08 | "Deep time settles it." | Deep Time and the Falsifiability Standard | S-8 | planned |
 
 Further volumes are added to this index as JD approves them. No graphic is approved or published without JD's disposition.
 
