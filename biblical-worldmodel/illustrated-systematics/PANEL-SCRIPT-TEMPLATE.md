@@ -14,7 +14,7 @@ For each panel 1–9 record: title, doctrinal claim, claim classification, Scrip
 Panel 10: synthesis and cross-volume links.
 
 ## Visual constraints
-Red shirt and dark jacket; glasses; white goatee with clean upper lip; no depictions of divine Persons; navy, gold, parchment; accurate labels.
+Shirt color rotates through the style guide palette (red, purple, blue, navy, green, burgundy, slate, charcoal), one color per graphic; glasses; white goatee with clean upper lip; no depictions of divine Persons; navy, gold, parchment; accurate labels.
 
 ## Validation
 - [ ] Canonical systematic alignment
