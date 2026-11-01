@@ -1,0 +1,3 @@
+volume_id,revision,asset_path,script_path,narrative_path,sha256,bytes,width,height,source_reference,review_status,approval_reference,publication_url,oddxian_pointer_verified,supersedes
+SEED-S1,,jd-teaching-infographics/god-and-slavery.jpg,,,,,1024,1536,"Seed plate referenced in place; JD teaching infographic filed 2026-10-31 (PR #4)","seed (predates program; QA audit not yet run)",,,,
+SEED-S2,,arguments-frameworks/slavery-argument/figures/slavery-argument.jpg,,,,,,,"Seed figure referenced in place; carried by the slavery-argument manuscript","seed (referenced, not ingested)",,,,
