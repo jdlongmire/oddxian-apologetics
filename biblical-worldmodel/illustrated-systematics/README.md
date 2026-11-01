@@ -19,3 +19,6 @@ Never label a generated image published or approved merely because it appeared i
 
 ## Visual identity
 Ten numbered panels, scholarly illustrated narrator with glasses, white goatee, clean-shaven upper lip, **red shirt** and dark jacket; navy/gold/parchment; symbolic rather than anthropomorphic depictions of divine Persons; verified spelling and verse attribution. Images are derivative educational illustrations, not independent doctrinal authorities.
+
+## Substantiation and publication
+Every volume requires a [companion narrative](NARRATIVE-TEMPLATE.md) following the [source policy](SOURCING-POLICY.md), with internal corpus cross-references and external primary-source research. Every graphic displays **oddXian.com** and its volume ID; a verified publication permalink replaces the site-root pointer when published.
