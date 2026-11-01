@@ -8,7 +8,7 @@
 | BWM-IS-01 | ST-1 | The Triune Foundation of Our Faith | chat-draft (not ingested in this path; a Triune Foundation plate exists in jd-teaching-infographics on main) |
 | BWM-IS-02 | ST-1 | The Eternal Decree and Covenant | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval |
 | BWM-IS-03 | ST-1 | The Bible: Divine Authorship and Providential Stewardship | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval |
-| BWM-IS-04 | ST-1 | The Attributes and Glory of God | planned |
+| BWM-IS-04 | ST-1 | The Attributes and Glory of God | graphic-draft ingested 2026-11-01 (built by thinx-muse; example plate approved by JD), QA logged, awaiting JD publication approval |
 | BWM-IS-05 | ST-2 | Creation: Very Good | planned |
 | BWM-IS-06 | ST-2 | Humanity in God's Image | planned |
 | BWM-IS-07 | ST-2 | The Original Covenant and Human Calling | planned |
