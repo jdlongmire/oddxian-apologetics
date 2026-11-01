@@ -10,14 +10,14 @@ The governing visual document is the Visual Series Style Guide of the systematic
 
 - **Plate format:** one sheet, ten panels (header, nine numbered panels, closing Bottom Line panel), portrait 2:3 (1024 x 1536 or 1280 x 1920).
 - **The host:** the same scholarly illustrated narrator throughout: bald head, white goatee, clean-shaven upper lip, **amber-tinted glasses**, warm confident scholarly expression. Clear or dark lenses are a style failure. The likeness standard is JD's oddXian exemplar (fuller face, warm slight smile; the exemplar dress is a purple shirt with a navy blazer). The host's placement is governed by the Host placement section at the foot of this guide (JD ruling, 2026-11-01): header in contemplation mode, footer in friendly instruction mode, and no host image in any body panel. This supersedes the earlier same-day ruling that the host appears in the panels where he teaches and does not have to be in every panel.
-- **Voicing rule (JD ruling, 2026-11-01):** the objection or charge is never voiced by the host. Under the host placement rule it is carried by the panel's quotation card and caption over a content scene, not by a depicted dialogue; this supersedes the earlier same-day interlocutor staging, in which a questioner figure made the charge while the host listened.
+- **Voicing rule (JD ruling, 2026-11-01):** the objection or charge is never voiced by the host. Under the host placement rule it is carried by the panel's quotation bubble and caption within a freely illustrated content scene, not by a depicted dialogue; this supersedes the earlier same-day interlocutor staging, in which a questioner figure made the charge while the host listened.
 - **Rendering:** vibrant, rich, full-color modern editorial illustration. Sepia treatments and vintage-engraving looks are a style failure, however good the lettering.
 - **Production rule:** every plate generation passes the Visual Series Style Guide image and at least one approved exemplar plate to the generator as image references. Text-only style prompts have already failed once (AI-01 revision 1, superseded 2026-11-01).
 - **Likeness reference of record (JD direction, 2026-11-01):** JD supplied a real photograph of himself so the host is drawn from his actual appearance. The photo and the illustrated portrait generated from it are filed with the brand assets (jd-likeness-photo.jpg, jd-host-illustrated.jpg, with a JD-LIKENESS.md note). Host generations pass the portrait (and the photo) as identity references together with the style guide and exemplar.
 - **Palette:** the style guide's 8-color shirt rotation for the host, volume by volume; navy, gold, and parchment as the plate's governing colors.
 - **Header treatment:** main title, subtitle, framing box, book stack, volume marker. In this program the framing box carries the framing objection and the one-line answer (see the panel script template).
 - **Panel furniture:** numbered panels, each with a title, a scene, a quotation bubble with its reference, and a parchment caption carrying the takeaway, matching the teaching-plate anatomy the seed plate (God and Slavery) already uses.
-- **Panel numbering (JD ruling, 2026-11-01):** the panel number appears only in the gold circular badge at the panel's corner; panel title text never carries a number. Doubled numbering (badge plus a number in the title) is a defect. The closing Bottom Line panel, which has no badge, carries its number in its title.
+- **Panel numbering (JD ruling, 2026-11-01, simplified the same day):** simple numbering. The panel number appears only as a plain bold numeral in the gold block at the left end of the panel's title band, in the manner of The Eternal Decree and Covenant plate; panel title text never carries a number. Doubled numbering is a defect. The closing Bottom Line panel carries its number in its title.
 - **Depiction rule:** people may be depicted freely where they forward the story, but God, the Trinity, and the divine Persons are never shown in human form; divine presence is shown by the adopted symbols only (see Iconography of the divine Persons). This is absolute, and it includes the Son: no human figure of Jesus appears in these plates (JD ruling, 2026-11-01).
 - **Footer:** oddXian.com and the volume ID, in the systematics footer treatment (navy band, cream text), with the host's footer portrait in friendly instruction mode (see Host placement).
 - **Lettering standard:** verified spelling and verse attribution; the QA process adopted by reference in QA-LOG.md is the enforcement mechanism, including letter-by-letter checks of proper nouns and references.
@@ -34,9 +34,11 @@ Section pages on the GitHub Pages site follow the illustrated-systematics pages:
 Human-Curated, AI-Enabled (HCAE)
 
 
-## Quotation cards (JD ruling, 2026-11-01)
+## Body panels: comic illustration freedom and quotations (JD rulings, 2026-11-01)
 
-Quotations are anchored cards, never floating oval bubbles (the defect JD corrected in AI-01 revision 5, exemplar: The Eternal Decree and Covenant). The card is a warm-white rounded rectangle with a thin dark outline, set flush against the scene frame's top edge (bottom edge only where the composition requires it), with no tail. The scripture reference stands inside the card at its foot. Card lettering is typeset, not generated, so it is exact by construction. Scene generations for card panels are directed with plain background at the anchor edge.
+Body panels are freely composed comic illustration in the manner of The Eternal Decree and Covenant plate: each panel is its own composition (scenes, people where they forward the story, symbols, objects), with no uniform scene discipline imposed across panels. Quotations sit inside the scene's art as speech or quotation bubbles in the exemplar's manner: the quoted words carry quotation marks, and the scripture reference stands inside the bubble at its foot. A bubble is placed by the composition, resting against the scene's own elements (sky, shelves, light, open space in the scene), never left floating over busy detail. Lettering, whether typeset into the scene in production or generated with it, is verified word by word at magnification under the QA process before a plate is called done.
+
+This section supersedes the anchored-card rule adopted earlier the same day (which governed the AI-01 card builds, kept in that volume's record as superseded revisions). The Host placement and Iconography sections are unaffected and stand: the host confirmed the same day that the header-and-footer-only rule holds alongside this freedom.
 
 
 ## Host placement (JD ruling, 2026-11-01)
@@ -44,7 +46,7 @@ Quotations are anchored cards, never floating oval bubbles (the defect JD correc
 The host bookends the plate and does not appear inside it:
 
 - **Header:** the host in contemplation mode, the Thinking/Reflecting pose (chin on hand, reflective). This is the only contemplation appearance.
-- **Body panels:** no host image in any panel, numbered or closing. Panels carry the content itself: scenes, objects, and settings (an open Bible, manuscripts, a landscape). Other figures may appear where the argument needs them, but the host never teaches from inside a panel.
+- **Body panels:** no host image in any panel, numbered or closing. Panels carry the content itself in freely composed comic scenes (see Body panels): objects, settings, and other figures where the argument needs them. The host never teaches from inside a panel.
 - **Footer:** the host in friendly instruction mode, the Teaching pose (warm, open-handed, addressing the reader), as a portrait element in the footer treatment alongside oddXian.com and the volume ID. This is the only instruction-mode appearance.
 
 This section supersedes any earlier statement in this guide about where the host appears.

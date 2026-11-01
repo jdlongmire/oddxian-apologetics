@@ -23,8 +23,8 @@ Footer: oddXian.com and the volume ID, with the host in friendly instruction mod
 
 Production conventions (JD rulings, 2026-11-01):
 
-- Panel numbers appear only in the gold badge; panel title text never carries a number. The closing panel, which has no badge, carries its number in its title.
-- The objection is never voiced by the host; it is carried by the panel's quotation card and caption over a content scene.
+- Panel numbers are simple: a plain bold numeral in the gold block at the left end of the title band; panel title text never carries a number. The closing panel carries its number in its title.
+- The objection is never voiced by the host; it is carried by the panel's quotation bubble and caption within a freely illustrated content scene.
 - Host placement: the host appears only in the header (contemplation mode) and the footer (friendly instruction mode). Body panels carry content scenes with no host image; write each panel's Scene line as content only.
 
 ## Per-panel block (repeat for panels 1 to 9, then the closing panel)
