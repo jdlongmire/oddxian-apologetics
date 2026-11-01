@@ -2,7 +2,7 @@
 
 **Work package:** WP-FOUNDATIONAL-TREATISE, Phase 1
 **Direction:** JD, 2026-11-01: "Proceed systematically."
-**Status:** In progress. Unit 01 complete (working draft). Units 02-11 queued.
+**Status:** In progress. Units 01-05 complete (working drafts). Units 06-11 queued.
 
 ## Order
 
@@ -24,10 +24,10 @@ Each exegetical study contains, in this order:
 | Unit | Text | Gates (treatise parts) | Starting coverage | Status |
 |---|---|---|---|---|
 | 01 | Genesis 1:31 | II, III, V | WP 6.17; tamim / shalem survey open | Complete (working draft) |
-| 02 | Genesis 6:5-7 (6:6) | IV, V | WP 6.18 partial; stems and translation comparison open | Queued |
-| 03 | Genesis 50:20 | II, V | WP 6.18 partial; textual-critical check open | Queued |
-| 04 | Deuteronomy 29:29 | V, Prolegomena | WP 6.9 at argument level; verse study open | Queued |
-| 05 | Romans 8:28-30 | II, V, VIII | WP 6.11, 6.15 partial; Greek apparatus and syntax open | Queued |
+| 02 | Genesis 6:5-7 (6:6) | IV, V | WP 6.18 partial; stems and translation comparison open | Complete (working draft) |
+| 03 | Genesis 50:20 | II, V | WP 6.18 partial; textual-critical check open | Complete (working draft) |
+| 04 | Deuteronomy 29:29 | V, Prolegomena | WP 6.9 at argument level; verse study open | Complete (working draft) |
+| 05 | Romans 8:28-30 | II, V, VIII | WP 6.11, 6.15 partial; Greek apparatus and syntax open | Complete (working draft) |
 | 06 | Ephesians 1:3-14 (1:11) | II | WP 6.21 contextual; full study open | Queued |
 | 07 | Luke 22:42 | VII | WP 6.24 as control text; full study open | Queued |
 | 08 | John 6:38 | VII | WP 6.24 conciliar citation; full study open | Queued |
