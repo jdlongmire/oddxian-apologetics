@@ -219,6 +219,27 @@ Deuteronomy 29:29 assigns secret things to the LORD and revealed things to His p
 
 **Exegetical obligation:** Examine the Greek syntax and textual variants of Romans 8:28, including the agency expressed by *synergei* and the referent of *panta*, before making stronger grammatical claims. The present theological conclusion relies on the clear contextual scope of the passage rather than a disputed syntactic reconstruction.
 
+### 6.12 The epistemic asymmetry of divine wisdom and apparent gratuitousness
+
+**Principle:** The limits of creaturely understanding do not set the limits of divine wisdom. First Corinthians 3:19 contrasts the wisdom of this world with God's judgment of it; Isaiah 55:8–9 contrasts God's thoughts and ways with human thoughts and ways. These texts do not license contradictions or invalidate sound reasoning. They caution against inferring that a reason is absent solely because a finite observer cannot identify it.
+
+**Definitions:** *Apparently gratuitous suffering* is suffering for which an observer cannot discern a morally sufficient divine reason. *Actually gratuitous suffering* is suffering for which no morally sufficient reason exists. The former does not entail the latter.
+
+**Framework-level conclusion:** Given comprehensive, wise, and holy providence (Ephesians 1:11), God's good intention through genuinely evil events (Genesis 50:20), and the promise that all things work together for the good of those called according to His purpose (Romans 8:28–30), the model denies that any suffering in the ordained history is ultimately without a morally sufficient purpose. This denial is **conditional on the truth of the theological premises** and the further moral premise that God's perfectly good governance of suffering includes sufficient justification for permitting or ordaining it. The assertion must not be presented as an independently demonstrated empirical fact.
+
+**Epistemic argument:**
+
+- **E1:** Human observers frequently lack access to the full causal and purposive context of an event; Deuteronomy 29:29 also distinguishes revealed matters from God's secret counsel.
+- **E2:** Failure to identify a morally sufficient reason establishes actual gratuitousness only if the observer has adequate grounds to expect that such a reason would be discernible.
+- **E3:** The scriptural account of divine wisdom (Isaiah 55:8–9; 1 Corinthians 3:19) challenges an unargued expectation of exhaustive human access to divine purposes.
+- **Conditional conclusion:** The inference from *no reason is apparent to us* to *there is no sufficient reason* is unwarranted without a defended epistemic bridge.
+
+**Remaining external challenge:** An objector can contest the truth or evidential warrant of the scriptural premises, argue for a reasonable expectation of discernible reasons in particular cases, or challenge whether the total evidence supports perfect goodness. The asymmetry principle does not automatically defeat such arguments, immunize the model from falsification, or imply that an event's divine purpose is available for confident human identification.
+
+**Necessity qualification:** A morally sufficient purpose for every event does not entail that every event was uniquely indispensable to redemption. The actual decree includes the particulars of history, but instrumental indispensability is a stronger claim.
+
+**Pastoral constraint:** No observer should use a presumed secret reason to minimize a victim's suffering, justify an aggressor, or excuse failures to oppose evil. The revealed duties of justice, mercy, and lament remain binding.
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
