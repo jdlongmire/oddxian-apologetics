@@ -87,7 +87,7 @@ Engagement rules for this corpus: state opposing positions fairly before answeri
 - Phase 0: Ratification and filing of this work package. DONE 2026-11-01.
 - Phase 1: Exegetical foundation. Scripture matrix plus verse-by-verse work on the anchor texts; close the section 6 gates part by part. Starting point (Romans 8:28 apparatus vs Hebrew lexical work) is JD's call, not yet made.
 - Phase 2: Logical architecture and scholarship registers. One unified axiom and premise set reconciling Covenant and Communion, the Declaration of Faith, and the working paper; formal consistency audit across the set; and the per-locus broader-corpus source register (Appendix C), each part's interlocutors named for JD's approval before that part is drafted.
-- Phase 3: Drafting, part by part, each part a branch and draft PR for JD review. No merge without JD approval.
+- Phase 3: Drafting, part by part, each part a branch and draft PR for JD review. Merges proceed under the execution plan envelope recorded in section 8.
 - Phase 4: Objections, cross-tradition engagement, review, and any status elevation JD directs. Includes a contribution assessment against section 1's aim (what the finished treatise adds to apologetics and systematics, stated with evidence) and JD's decision on the publication pathway (for example journal submission, a DOI-registered release as with JD's other papers, or book development). The pathway is Phase 4 business; no venue is presumed earlier.
 
 ## 6. Open research carried in as gates
@@ -110,10 +110,12 @@ Inherited from WP-TRIUNE-LOVING-COMMUNION and applied to every part:
 - Each part carries a contribution statement: what it adds to Christian apologetics or systematics beyond its sources, checked against the Appendix C register before the claim is made in the text.
 - Existing corpus reviewed and cross-referenced; no undocumented replacement.
 - Internal links, reference integrity, and Markdown formatting validated.
-- Work on feature branches with review before merge; merge only on JD's approval.
+- Work on feature branches with review before merge; merges proceed under the execution plan envelope recorded in section 8.
 
 ## 8. Scope and governance
 
 This work package ratifies the treatise program and its method. It does not assert that any part is drafted, that sources are fully audited, or that any publication is released. PR #5 (the Very Good working paper) remains a separate draft; merging it is a separate decision for JD. Follow the canonical EBCC-001 in jdlongmire/ai-bridge and target-repository governance.
+
+**Execution envelope (JD approval, 2026-11-01).** JD approved the execution plan filed alongside this work package (work-packages/EXECUTION-PLAN-FOUNDATIONAL-TREATISE.md), including a standing merge and cleanup envelope for this repository only. Pull requests created under the plan (branches treatise/*, wp/*, docs/*, including the Phase 1 PR) may be merged by the coordinator without per-merge approval when all five conditions hold: (1) the section 7 quality gates are checked (claim tags and confidence levels, citations spot-verified, no fabricated references, terminology stable, HCAE footer, correct byline); (2) the ASCII and em-dash scan is clean; (3) a fresh gate immediately before merging confirms the head SHA is unchanged from the verified state and the PR is mergeable, and the merge call carries the head-SHA guard; (4) post-merge server readback verifies the merge commit on main and the file blobs; (5) the merged branch is deleted and the deletion verified. Cleanup under the envelope covers merged branches, superseded drafts closed with an explanatory comment, reconciliation of local working copies at each phase close, and archiving the ai-bridge handoff at Phase 1 close. Still reserved to JD: the merger of the pull request that records this envelope; the content list for the GitHub Pages section; any novelty claim in public-facing text before its Appendix C register check is logged; the publication pathway beyond the Pages section (Phase 4); and anything outside this repository. PR #5 (the Very Good working paper) remains a separate draft; its disposition under the envelope at Phase 1 close is JD's decision.
 
 Human-Curated, AI-Enabled (HCAE)
