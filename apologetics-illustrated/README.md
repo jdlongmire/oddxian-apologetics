@@ -27,6 +27,7 @@ One volume is one defense on one plate: a ten-panel illustrated sheet built arou
 - [Narrative template](NARRATIVE-TEMPLATE.md): the companion defense narrative every volume requires.
 - [Sourcing policy](SOURCING-POLICY.md): how objections, Scripture, and sources are handled.
 - [QA log](QA-LOG.md): visual QA is governed by the Illustrated Systematics QA process, adopted by reference (see the QA log header); this program keeps its own log of audits performed.
+- [Style guide](STYLE-GUIDE.md): this program's visual and production style is the Illustrated Systematics style, adopted by reference, so the two programs read as one family on the site; the style guide file records what carries over and what does not.
 
 ## Publication workflow
 
