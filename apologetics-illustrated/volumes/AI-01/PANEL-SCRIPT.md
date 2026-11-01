@@ -115,3 +115,5 @@ On the plate, panel titles carry no numbers; the gold badge carries the panel nu
 - [x] Cross-references filed both ways (this volume and BWM-IS-03)
 
 Human-Curated, AI-Enabled (HCAE)
+
+- [x] Revision 6 (2026-11-01): host-panel scenes regenerated bubble-free; quotations typeset as anchored cards per JD's exemplar ruling; all five cards verified exact at 3x; pixel diff confined to the five scene boxes; PR #25 updated, nothing merged.

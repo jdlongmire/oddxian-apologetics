@@ -83,3 +83,13 @@ Panel 10. THE BOTTOM LINE. God-breathed in origin, not man-invented / Human auth
 Footer: oddXian.com | AI-01
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Revision 6: anchored quotation cards (JD direction, 2026-11-01)
+
+JD's ruling on revision 5: its oval speech bubbles FLOAT, unanchored. His exemplar (The Eternal Decree and Covenant) sets the standard: quotations sit in rectangular cards with a thin outline, anchored flush to the scene frame's edge, no tails. Revision 6 rebuilds the five host panels to that standard:
+
+- The five host-panel scenes were regenerated with NO bubble and NO text, from the portrait v2 likeness reference plus JD's front and side photos (style guide image and exemplar passed as references on every call). Two first attempts were discarded rather than squeezed: a panel 1 generation at 3:1 ultra-wide, and head-filling compositions for panels 1 and 8 that left no anchored-card space; the accepted scenes seat the subjects low with bookshelf headroom.
+- The quotations were then TYPESET as anchored cards (warm-white rounded rectangle, thin dark outline, soft shadow), flush to the top edge of each scene (panel 7: bottom edge, where its composition requires it), each reference inside its card at the foot. Because the lettering is typeset rather than generated, it is exact by construction; all five cards were verified at 3x magnification.
+- Header and panels 3, 5, 6, 9, and 10 are revision 5's artwork unchanged; a pixel diff confirms changes are confined to the five scene boxes.
+- The standing charge label on panel 1 stands inside its card in italic, matching its earlier treatment as a label rather than a scripture reference.
+- Carried deviations unchanged: the header framing box carries the one-line answer only; panel 3's bubble is parchment-toned; panel 10's closing panel is cream and gold rather than navy. Panels 3, 5, 6, and 9 keep their generated oval bubbles; the card standard governs host-panel quotations and future volumes.

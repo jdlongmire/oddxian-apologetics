@@ -46,3 +46,13 @@
 - Standing lessons added: (1) a panel's scene frame must be measured on the actual plate, not inferred from its row: panel 7's bubble reaches some 25px lower than panel 8's frame. (2) Feather a composite edge only over content that can show through safely; over lettering (the header book stack) even a 15px feather ghosts the old letters through.
 
 Human-Curated, AI-Enabled (HCAE)
+
+
+## AI-01 revision 6: anchored quotation cards (2026-11-01)
+
+Trigger: JD on revision 5: the speech bubbles float, unanchored; The Eternal Decree and Covenant plate supplied as the style standard.
+
+- All five host panels rebuilt: bubble-free scene generations (portrait v2 likeness set), composited into the revision 5 plate; quotations typeset as warm-white rounded-rectangle cards with thin dark outline, anchored flush to the scene's top edge (panel 7 bottom edge), reference inside each card at its foot.
+- Discarded, not squeezed: panel 1 at 3:1 ultra-wide; panels 1 and 8 first compositions whose heads filled the frame (no card space). Accepted scenes seat subjects low.
+- QA: all five cards read at 3x magnification: PASS, lettering exact by construction (typeset). Pixel diff against revision 5: changes confined to the five scene boxes.
+- Standing lessons added: (6) Quotations on host panels are anchored cards, never floating ovals: rectangular card, thin outline, flush to a scene-frame edge, no tail, reference inside at the foot (exemplar: The Eternal Decree and Covenant). (7) When a quotation treatment will be typeset over a generated scene, direct the generation's composition for it: subjects low, headroom at the anchor edge. (8) Typeset lettering beats generated lettering wherever the layout allows it: exactness stops depending on the generator.

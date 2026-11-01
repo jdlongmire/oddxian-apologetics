@@ -32,3 +32,8 @@ Section pages on the GitHub Pages site follow the illustrated-systematics pages:
 - **Category and content:** nothing about the shared style makes a defense plate into doctrine or a doctrine plate into a defense. Filing follows the charter, not the artwork.
 
 Human-Curated, AI-Enabled (HCAE)
+
+
+## Quotation cards (JD ruling, 2026-11-01)
+
+Quotations on host panels are anchored cards, never floating oval bubbles (the defect JD corrected in AI-01 revision 5, exemplar: The Eternal Decree and Covenant). The card is a warm-white rounded rectangle with a thin dark outline, set flush against the scene frame's top edge (bottom edge only where the composition requires it), with no tail. The scripture reference stands inside the card at its foot. Card lettering is typeset, not generated, so it is exact by construction. Scene generations for card panels are directed with the subjects seated low and plain background at the anchor edge.
