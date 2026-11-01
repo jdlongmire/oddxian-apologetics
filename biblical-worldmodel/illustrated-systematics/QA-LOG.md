@@ -6,7 +6,7 @@ Ingested by thinx-muse at JD's direction from originals JD uploaded to the thinx
 
 ### Assets ingested and verified
 
-Each file below was downloaded back from the branch through the Contents API after commit, and its SHA-256 recomputed from the downloaded bytes. The recomputed hash matched the hash of JD's uploaded original in every case, so the committed files are byte-identical to the originals (no recompression).
+Each file below was downloaded back from the branch after commit through the GitHub API (Contents API, plus the Git Blobs API for the two files over the 1 MB Contents API limit), and its SHA-256 recomputed from the downloaded bytes. The recomputed hash matched the hash of JD's uploaded original in every case, so the committed files are byte-identical to the originals (no recompression).
 
 | Volume ID | Asset | SHA-256 | Bytes | Size (px) |
 |---|---|---|---|---|
