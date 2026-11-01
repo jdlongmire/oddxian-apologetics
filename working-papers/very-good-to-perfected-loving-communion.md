@@ -392,6 +392,18 @@ The following separates directly identifiable primary-source passages from edito
 
 **Assessment:** **HIGH** for the core conciliar distinction and direct scriptural claims; **MEDIUM** for the classical inference to impeccability; **OPEN** for the detailed Reformed treatment of two wills and temptation.
 
+### 6.24 Two natural wills and Christ's impeccability
+
+**Primary conciliar anchor:** The Third Council of Constantinople (680-681), the sixth ecumenical council, condemned monothelitism and proclaimed "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion." It added that the two wills are not opposed: Christ's human will follows, does not resist or struggle, and is subject to His divine and all-powerful will. Dyothelitism therefore protects the reality of Christ's human willing while maintaining the unity of His person: willing belongs to nature, and the one Son wills and acts in each nature in communion with the other. Source: the council's Exposition of the Faith, English text at Kolbe Foundation, Council of Constantinople III: http://kolbefoundation.org/gbookswebsite/studentlibrary/churchcouncils/constantinople3/constan3.htm
+
+**Confessional anchor:** The Westminster Larger Catechism, questions 36-40, confesses the same structural points without itself formulating the two-wills doctrine. Question 36: Christ "was and continues to be God and man, in two entire distinct natures, and one person, forever." Question 37: He took "a true body, and a reasonable soul," and was born of the Virgin "yet without sin." Question 40: the Mediator had to be God and man "in one person, that the proper works of each nature might be accepted of God for us, and relied on by us, as the works of the whole person." Source: Westminster Larger Catechism text at Bible Study Tools: https://www.biblestudytools.com/history/creeds-confessions/catechisms/the-westminster-larger-catechism.html
+
+**Scriptural controls:** Luke 22:42 ("not my will, but yours, be done") and John 6:38, which the council itself cites, supply the biblical pattern for genuine human obedience freely aligned with the Father's will. Hebrews 4:15 supplies temptation in every respect yet without sin. Together they establish genuine human willing, obedience, temptation, and sinlessness.
+
+**Modal qualification:** Sinlessness alone does not establish that Christ could not sin. The impeccability claim requires the additional Christological premises this section supplies: the willing subject is the one divine Son, His human will is by conciliar definition never opposed to the divine will, and the works of each nature are the works of the whole person. Even with those premises, impeccability remains a theological inference from the identity and unity of the person, not a direct lexical entailment of Hebrews 4:15.
+
+**Assessment:** HIGH for the conciliar two-wills definition and the catechism's one-person, two-natures, without-sin confession, both checked against the primary texts in English translation. MEDIUM for the classical inference to impeccability. OPEN for original-language critical verification of the council definition and for detailed Reformed exposition of two wills and temptation.
+
 ## 7. Research and validation plan
 
 1. **Partially completed:** Genesis 1:31's *ṭôḇ meʾōḏ* examined in the Hebrew text (§6.17). Complete contextual studies of *tāmîm* and *šālēm*.
