@@ -23,3 +23,6 @@ Ten numbered panels, scholarly illustrated narrator with glasses, white goatee, 
 
 ## Substantiation and publication
 Every volume requires a [companion narrative](NARRATIVE-TEMPLATE.md) following the [source policy](SOURCING-POLICY.md), with internal corpus cross-references and external primary-source research. Every graphic displays **oddXian.com** and its volume ID; a verified publication permalink replaces the site-root pointer when published.
+
+## Visual production controls
+The [Visual Production and Character Continuity Controls](VISUAL-PRODUCTION-CONTROLS.md) supplement the governing [Visual Series Style Guide](style-guide.jpg), documenting shirt/pose rotation, likeness preservation, full-plate text QA and version disposition.
