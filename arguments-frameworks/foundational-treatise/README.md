@@ -13,5 +13,8 @@ This directory holds the treatise program's working files. Parts I-X will be dra
 - `exegesis/` - one study per anchor text, in canonical order
   - `01-genesis-1-31.md` - complete (working draft)
   - `02-genesis-6-5-7.md` - complete (working draft)
+  - `03-genesis-50-20.md` - complete (working draft)
+  - `04-deuteronomy-29-29.md` - complete (working draft)
+  - `05-romans-8-28-30.md` - complete (working draft)
 
 Human-Curated, AI-Enabled (HCAE)
