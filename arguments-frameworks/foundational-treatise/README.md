@@ -19,5 +19,8 @@ This directory holds the treatise program's working files. Parts I-X will be dra
   - `06-ephesians-1-3-14.md` - complete (working draft)
   - `07-luke-22-42.md` - complete (working draft)
   - `08-john-6-38.md` - complete (working draft)
+  - `09-hebrews-4-15.md` - complete (working draft)
+  - `10-hebrews-13-20.md` - complete (working draft)
+  - `11-revelation-21-22.md` - complete (working draft)
 
 Human-Curated, AI-Enabled (HCAE)
