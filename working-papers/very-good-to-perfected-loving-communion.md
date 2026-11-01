@@ -182,6 +182,25 @@ Deuteronomy 29:29 distinguishes the secret things belonging to the LORD from the
 
 **Pastoral and moral limit:** The appeal to secret counsel must never excuse injustice, silence lament, minimize suffering, or replace duties of protection and mercy. The verse itself directs attention to the obligations that have been revealed.
 
+### 6.10 The sufficiency of revealed character: warranted trust without exhaustive accounting
+
+**Thesis:** God does not owe His creatures an exhaustive accounting of His eternal counsel. Nevertheless, His revelation supplies substantial grounds for trusting His righteousness, wisdom, faithfulness, and love even where the specific reasons for particular providences remain undisclosed.
+
+Deuteronomy 29:29 assigns secret things to the LORD and revealed things to His people. Genesis 18:25 presents Abraham's appeal to the justice of the Judge of all the earth. Romans 5:8 and 8:32 ground Christian confidence in God's demonstrated love through the giving of His Son. Job 38–42 portrays a sufferer confronted with the limits of creaturely perspective and the reality of divine wisdom without a detailed disclosure of the heavenly circumstances described earlier in the book.
+
+**Epistemic distinction:** Warranted trust can rest upon sufficiently strong evidence of a person's character without access to every reason for every action. In this theological application, the revealed character and acts of God furnish positive grounds for trust; the undisclosed rationale of a particular suffering is not thereby known. This is a claim of rational warrant within a Christian revelatory framework, not a proof that every interlocutor must find the available evidence persuasive.
+
+**Argument structure:**
+
+- **R1 (revealed):** God presents Himself as just and trustworthy, and Scripture records concrete acts offered as evidence of His covenant faithfulness (Genesis 18:25; Romans 5:8; 8:32).
+- **R2 (revealed):** God reserves some matters of His counsel from creatures (Deuteronomy 29:29; compare Job 38–42).
+- **R3 (epistemological premise):** Knowledge of a trustworthy agent's character can warrant reliance amid incomplete knowledge of that agent's particular reasons.
+- **Conclusion (conditional):** Given R1–R3 and the credibility of the relevant revelation, lack of an exhaustive explanation for an individual evil need not defeat warranted trust in divine providence.
+
+**Limits and objections:** This principle must not become an immunity claim shielding all theological assertions from criticism. An objector may challenge the reliability of revelation, the adequacy of the positive evidence, or whether particular suffering is a defeater of trust. Those challenges require substantive engagement. Divine freedom from an obligation to provide an exhaustive accounting does not cancel His revealed commitment to justice, nor does it remove human obligations to lament, seek truth, oppose evil, and aid sufferers.
+
+**Working formulation:** *God owes no exhaustive accounting of His sovereign counsel, yet He has revealed sufficient evidence of His character to ground rational trust. We may know enough to trust His goodness without claiming to know every reason for His providence.*
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
