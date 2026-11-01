@@ -1,6 +1,6 @@
 # AI-01 | Why You Can Trust Your Bible
 
-**Program:** Apologetics Illustrated (defending the faith). **Status:** Script draft for JD review, 2026-11-01; plate at revision 4 in PR #25. **Graphic footer:** oddXian.com | AI-01. **Style:** the Illustrated Systematics style guide (ten panels, navy/gold/parchment; symbolic rather than anthropomorphic depictions of divine Persons). The host follows JD's oddXian exemplar: bald, white goatee, clean-shaven upper lip, amber-tinted glasses, purple shirt and navy blazer for this volume. Panel numbers appear only in the gold badge, never in panel title text (JD ruling, 2026-11-01). **Companion narrative:** NARRATIVE.md.
+**Program:** Apologetics Illustrated (defending the faith). **Status:** Script draft for JD review, 2026-11-01; plate at revision 5 in PR #25. **Graphic footer:** oddXian.com | AI-01. **Style:** the Illustrated Systematics style guide (ten panels, navy/gold/parchment; symbolic rather than anthropomorphic depictions of divine Persons). The host follows JD's oddXian exemplar: bald, white goatee, clean-shaven upper lip, amber-tinted glasses, purple shirt and navy blazer for this volume. Panel numbers appear only in the gold badge, never in panel title text (JD ruling, 2026-11-01). **Companion narrative:** NARRATIVE.md.
 
 ## The objection
 
@@ -78,7 +78,7 @@ On the plate, panel titles carry no numbers; the gold badge carries the panel nu
 ### Panel 8: Test It Like the Bereans (RESPONSE)
 - **Scene:** the host examining an open scroll at a table with two other men.
 - **Bubble:** "They examined the Scriptures daily to see if these things were so." (on the plate since revision 4; revisions 1 to 3 omitted it)
-- **Bubble reference:** Acts 17:11 (close paraphrase; the narrative carries the exact text check). On the plate the reference is printed beneath the bubble.
+- **Bubble reference:** Acts 17:11 (close paraphrase; the narrative carries the exact text check). On the plate since revision 5 the reference is printed inside the bubble at its foot (revision 4 printed it beneath the bubble).
 - **Caption:** The Bible commends its own cross-examination. Noble hearers test even apostolic preaching against the written word.
 - **Claim 01-8:** Scripture commends testing claims against Scripture, and reading parts within the whole counsel. Classification: Direct Teaching with hermeneutical application. Source: IS-03 panel 7; Acts 17:11; Luke 24:27.
 
@@ -108,6 +108,7 @@ On the plate, panel titles carry no numbers; the gold badge carries the panel nu
 
 ## Visual QA checklist (per QA-PROCESS; full record in TRANSCRIPTION.md)
 - [x] Revision 4 (2026-11-01): panel 8 completed (bubble and reference on the plate, duplicate caption-foot reference removed); every changed element verified from magnified crops against this script: PASS with disclosed repairs (itemized in TRANSCRIPTION.md). Revision 3 record stands below it in the same file.
+- [x] Revision 5 (2026-11-01): host scenes (header, panels 1, 2, 4, 7, 8) replaced with generations drawn from portrait v2, built from JD's front and side photos (thin lips per his correction); all other lettering pixel-identical to revision 4 (diff-verified). Every changed element verified from magnified crops against this script: PASS with disclosed items (reference placement inside bubbles on panels 2, 4, 8; panel 7 mild vertical stretch; itemized in TRANSCRIPTION.md).
 - [x] oddXian.com and AI-01 legible in the footer (in the original artwork)
 - [x] No anthropomorphic depiction of divine Persons
 - [x] No claim that every manuscript or canon decision is infallible
