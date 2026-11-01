@@ -4,9 +4,10 @@
 
 | ID | Movement | Title | Status |
 |---|---|---|---|
-| BWM-IS-01 | ST-1 | The Triune Foundation of Our Faith | chat-draft (not ingested) |
-| BWM-IS-02 | ST-1 | The Eternal Decree and Covenant | chat-draft (not ingested) |
-| BWM-IS-03 | ST-1 | The Bible: Divine Authorship and Providential Stewardship | script/narrative in preparation |
+| BWM-IS-00 | Frontispiece | The Biblical World Model (overview and architecture plates) | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval; ID proposed, pending JD ratification |
+| BWM-IS-01 | ST-1 | The Triune Foundation of Our Faith | chat-draft (not ingested in this path; a Triune Foundation plate exists in jd-teaching-infographics on main) |
+| BWM-IS-02 | ST-1 | The Eternal Decree and Covenant | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval |
+| BWM-IS-03 | ST-1 | The Bible: Divine Authorship and Providential Stewardship | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval |
 | BWM-IS-04 | ST-1 | The Attributes and Glory of God | planned |
 | BWM-IS-05 | ST-2 | Creation: Very Good | planned |
 | BWM-IS-06 | ST-2 | Humanity in God's Image | planned |
@@ -31,3 +32,5 @@
 | BWM-IS-25 | ST-8 | The Eternal Communion of God and His People | planned |
 
 Volume 03 supplies the methodological foundation for every narrative. No graphic is approved or published without JD's disposition.
+
+BWM-IS-00 is a proposed frontispiece outside the 25-volume count, pending JD ratification.
