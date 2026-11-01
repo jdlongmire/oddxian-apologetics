@@ -9,8 +9,8 @@ The governing visual document is the Visual Series Style Guide of the systematic
 ## What carries over
 
 - **Plate format:** one sheet, ten panels (header, nine numbered panels, closing Bottom Line panel), portrait 2:3 (1024 x 1536 or 1280 x 1920).
-- **The host:** the same scholarly illustrated narrator throughout: bald head, white goatee, clean-shaven upper lip, **amber-tinted glasses**, warm confident scholarly expression. Clear or dark lenses are a style failure. The likeness standard is JD's oddXian exemplar (fuller face, warm slight smile; the exemplar dress is a purple shirt with a navy blazer). The host appears in the header and in the panels where he teaches or dialogues; **the host does not have to be in every panel** (JD ruling, 2026-11-01): scene panels (an open Bible, manuscripts, a landscape) may carry no person at all.
-- **Voicing rule (JD ruling, 2026-11-01):** the objection or charge is voiced by an interlocutor figure, never by the host. In an OBJECTION panel the host listens; he does not make the charge.
+- **The host:** the same scholarly illustrated narrator throughout: bald head, white goatee, clean-shaven upper lip, **amber-tinted glasses**, warm confident scholarly expression. Clear or dark lenses are a style failure. The likeness standard is JD's oddXian exemplar (fuller face, warm slight smile; the exemplar dress is a purple shirt with a navy blazer). The host's placement is governed by the Host placement section at the foot of this guide (JD ruling, 2026-11-01): header in contemplation mode, footer in friendly instruction mode, and no host image in any body panel. This supersedes the earlier same-day ruling that the host appears in the panels where he teaches and does not have to be in every panel.
+- **Voicing rule (JD ruling, 2026-11-01):** the objection or charge is never voiced by the host. Under the host placement rule it is carried by the panel's quotation card and caption over a content scene, not by a depicted dialogue; this supersedes the earlier same-day interlocutor staging, in which a questioner figure made the charge while the host listened.
 - **Rendering:** vibrant, rich, full-color modern editorial illustration. Sepia treatments and vintage-engraving looks are a style failure, however good the lettering.
 - **Production rule:** every plate generation passes the Visual Series Style Guide image and at least one approved exemplar plate to the generator as image references. Text-only style prompts have already failed once (AI-01 revision 1, superseded 2026-11-01).
 - **Likeness reference of record (JD direction, 2026-11-01):** JD supplied a real photograph of himself so the host is drawn from his actual appearance. The photo and the illustrated portrait generated from it are filed with the brand assets (jd-likeness-photo.jpg, jd-host-illustrated.jpg, with a JD-LIKENESS.md note). Host generations pass the portrait (and the photo) as identity references together with the style guide and exemplar.
@@ -19,7 +19,7 @@ The governing visual document is the Visual Series Style Guide of the systematic
 - **Panel furniture:** numbered panels, each with a title, a scene, a quotation bubble with its reference, and a parchment caption carrying the takeaway, matching the teaching-plate anatomy the seed plate (God and Slavery) already uses.
 - **Panel numbering (JD ruling, 2026-11-01):** the panel number appears only in the gold circular badge at the panel's corner; panel title text never carries a number. Doubled numbering (badge plus a number in the title) is a defect. The closing Bottom Line panel, which has no badge, carries its number in its title.
 - **Depiction rule:** symbolic rather than anthropomorphic depictions of the divine Persons.
-- **Footer:** oddXian.com and the volume ID, in the systematics footer treatment (navy band, cream text).
+- **Footer:** oddXian.com and the volume ID, in the systematics footer treatment (navy band, cream text), with the host's footer portrait in friendly instruction mode (see Host placement).
 - **Lettering standard:** verified spelling and verse attribution; the QA process adopted by reference in QA-LOG.md is the enforcement mechanism, including letter-by-letter checks of proper nouns and references.
 
 ## Pages conventions
@@ -36,4 +36,15 @@ Human-Curated, AI-Enabled (HCAE)
 
 ## Quotation cards (JD ruling, 2026-11-01)
 
-Quotations on host panels are anchored cards, never floating oval bubbles (the defect JD corrected in AI-01 revision 5, exemplar: The Eternal Decree and Covenant). The card is a warm-white rounded rectangle with a thin dark outline, set flush against the scene frame's top edge (bottom edge only where the composition requires it), with no tail. The scripture reference stands inside the card at its foot. Card lettering is typeset, not generated, so it is exact by construction. Scene generations for card panels are directed with the subjects seated low and plain background at the anchor edge.
+Quotations are anchored cards, never floating oval bubbles (the defect JD corrected in AI-01 revision 5, exemplar: The Eternal Decree and Covenant). The card is a warm-white rounded rectangle with a thin dark outline, set flush against the scene frame's top edge (bottom edge only where the composition requires it), with no tail. The scripture reference stands inside the card at its foot. Card lettering is typeset, not generated, so it is exact by construction. Scene generations for card panels are directed with plain background at the anchor edge.
+
+
+## Host placement (JD ruling, 2026-11-01)
+
+The host bookends the plate and does not appear inside it:
+
+- **Header:** the host in contemplation mode, the Thinking/Reflecting pose (chin on hand, reflective). This is the only contemplation appearance.
+- **Body panels:** no host image in any panel, numbered or closing. Panels carry the content itself: scenes, objects, and settings (an open Bible, manuscripts, a landscape). Other figures may appear where the argument needs them, but the host never teaches from inside a panel.
+- **Footer:** the host in friendly instruction mode, the Teaching pose (warm, open-handed, addressing the reader), as a portrait element in the footer treatment alongside oddXian.com and the volume ID. This is the only instruction-mode appearance.
+
+This section supersedes any earlier statement in this guide about where the host appears.

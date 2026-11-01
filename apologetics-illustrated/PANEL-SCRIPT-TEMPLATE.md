@@ -19,13 +19,13 @@ One file per volume, at `volumes/AI-##/PANEL-SCRIPT.md`. The script is the sourc
 Header: main title, subtitle, framing box carrying the objection and the one-line answer, book stack.
 Panels 1 to 9: each panel advances the defense by one step. Where a panel voices the objection, mark it OBJECTION; where it answers, mark it RESPONSE.
 Closing panel: The Bottom Line: checklist of the defense's load-bearing points, and a closing quotation with its reference.
-Footer: oddXian.com and the volume ID.
+Footer: oddXian.com and the volume ID, with the host in friendly instruction mode (Teaching pose). The header portrait is the host in contemplation mode (Thinking/Reflecting pose).
 
 Production conventions (JD rulings, 2026-11-01):
 
 - Panel numbers appear only in the gold badge; panel title text never carries a number. The closing panel, which has no badge, carries its number in its title.
-- The objection is voiced by an interlocutor figure, never by the host. In an OBJECTION panel the host listens.
-- The host does not have to be in every panel; scene panels may carry no person. Note per panel in its Scene line whether the host appears.
+- The objection is never voiced by the host; it is carried by the panel's quotation card and caption over a content scene.
+- Host placement: the host appears only in the header (contemplation mode) and the footer (friendly instruction mode). Body panels carry content scenes with no host image; write each panel's Scene line as content only.
 
 ## Per-panel block (repeat for panels 1 to 9, then the closing panel)
 
