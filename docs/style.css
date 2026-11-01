@@ -35,3 +35,10 @@ article.paper h3{font-size:14px;text-transform:uppercase;letter-spacing:.6px;
 footer.site{margin-top:46px;padding-top:18px;border-top:1px solid var(--line);
   color:var(--muted);font-size:13px;font-family:-apple-system,Segoe UI,Roboto,sans-serif}
 .back{font-family:-apple-system,Segoe UI,Roboto,sans-serif;font-size:13.5px}
+
+.brand{display:flex;align-items:center;gap:14px;border-bottom:2px solid var(--ink);padding-bottom:14px;margin-bottom:26px}
+.brand a.home{display:flex;align-items:center;gap:14px;color:var(--ink)}
+.brand a.home:hover{text-decoration:none}
+.brand img{height:46px;width:46px;border-radius:6px;border:1px solid var(--line)}
+.brand .wordmark{font-size:27px;font-weight:bold;letter-spacing:.2px}
+.brand .bloglink{margin-left:auto;font-family:-apple-system,Segoe UI,Roboto,sans-serif;font-size:14.5px}
