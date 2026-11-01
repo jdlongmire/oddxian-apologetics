@@ -1,0 +1,4 @@
+volume_id,revision,asset_path,script_path,narrative_path,sha256,bytes,width,height,source_reference,review_status,approval_reference,publication_url,oddxian_pointer_verified,supersedes
+SEED-S1,,jd-teaching-infographics/god-and-slavery.jpg,,,,,1024,1536,"Seed plate referenced in place; JD teaching infographic filed 2026-10-31 (PR #4)","seed (predates program; QA audit not yet run)",,,,
+SEED-S2,,arguments-frameworks/slavery-argument/figures/slavery-argument.jpg,,,,,,,"Seed figure referenced in place; carried by the slavery-argument manuscript","seed (referenced, not ingested)",,,,
+AI-01,Why You Can Trust Your Bible,plate,volumes/AI-01/plate.jpg,980941,93d4b19eed9f1681f878b62dd667af2d279dc391c3d3f1c7bff13f864b0a51b0,PR #25 (draft),Revision 6; host panels rebuilt with anchored quotation cards per JD exemplar ruling; scenes regenerated bubble-free from portrait v2; card lettering typeset exact; supersedes revision 5 floating oval bubbles
