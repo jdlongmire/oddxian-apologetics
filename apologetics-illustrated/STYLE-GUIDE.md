@@ -9,12 +9,14 @@ The governing visual document is the Visual Series Style Guide of the systematic
 ## What carries over
 
 - **Plate format:** one sheet, ten panels (header, nine numbered panels, closing Bottom Line panel), portrait 2:3 (1024 x 1536 or 1280 x 1920).
-- **The host:** the same scholarly illustrated narrator throughout, identical in every panel: bald head, white goatee, clean-shaven upper lip, **amber-tinted glasses**, warm confident scholarly expression. Clear or dark lenses are a style failure.
+- **The host:** the same scholarly illustrated narrator throughout: bald head, white goatee, clean-shaven upper lip, **amber-tinted glasses**, warm confident scholarly expression. Clear or dark lenses are a style failure. The likeness standard is JD's oddXian exemplar (fuller face, warm slight smile; the exemplar dress is a purple shirt with a navy blazer). The host appears in the header and in the panels where he teaches or dialogues; **the host does not have to be in every panel** (JD ruling, 2026-11-01): scene panels (an open Bible, manuscripts, a landscape) may carry no person at all.
+- **Voicing rule (JD ruling, 2026-11-01):** the objection or charge is voiced by an interlocutor figure, never by the host. In an OBJECTION panel the host listens; he does not make the charge.
 - **Rendering:** vibrant, rich, full-color modern editorial illustration. Sepia treatments and vintage-engraving looks are a style failure, however good the lettering.
 - **Production rule:** every plate generation passes the Visual Series Style Guide image and at least one approved exemplar plate to the generator as image references. Text-only style prompts have already failed once (AI-01 revision 1, superseded 2026-11-01).
 - **Palette:** the style guide's 8-color shirt rotation for the host, volume by volume; navy, gold, and parchment as the plate's governing colors.
 - **Header treatment:** main title, subtitle, framing box, book stack, volume marker. In this program the framing box carries the framing objection and the one-line answer (see the panel script template).
 - **Panel furniture:** numbered panels, each with a title, a scene, a quotation bubble with its reference, and a parchment caption carrying the takeaway, matching the teaching-plate anatomy the seed plate (God and Slavery) already uses.
+- **Panel numbering (JD ruling, 2026-11-01):** the panel number appears only in the gold circular badge at the panel's corner; panel title text never carries a number. Doubled numbering (badge plus a number in the title) is a defect. The closing Bottom Line panel, which has no badge, carries its number in its title.
 - **Depiction rule:** symbolic rather than anthropomorphic depictions of the divine Persons.
 - **Footer:** oddXian.com and the volume ID, in the systematics footer treatment (navy band, cream text).
 - **Lettering standard:** verified spelling and verse attribution; the QA process adopted by reference in QA-LOG.md is the enforcement mechanism, including letter-by-letter checks of proper nouns and references.

@@ -1,6 +1,6 @@
 # AI-01 | Why You Can Trust Your Bible
 
-**Program:** Apologetics Illustrated (defending the faith). **Status:** Script draft for JD review, 2026-11-01. **Graphic footer:** oddXian.com | AI-01. **Style:** the Illustrated Systematics style guide (ten panels, navy/gold/parchment, scholarly narrator with glasses, white goatee, clean-shaven upper lip, deep blue shirt in the palette rotation, dark jacket; symbolic rather than anthropomorphic depictions of divine Persons). **Companion narrative:** NARRATIVE.md.
+**Program:** Apologetics Illustrated (defending the faith). **Status:** Script draft for JD review, 2026-11-01; plate at revision 3 in PR #25. **Graphic footer:** oddXian.com | AI-01. **Style:** the Illustrated Systematics style guide (ten panels, navy/gold/parchment; symbolic rather than anthropomorphic depictions of divine Persons). The host follows JD's oddXian exemplar: bald, white goatee, clean-shaven upper lip, amber-tinted glasses, purple shirt and navy blazer for this volume. Panel numbers appear only in the gold badge, never in panel title text (JD ruling, 2026-11-01). **Companion narrative:** NARRATIVE.md.
 
 ## The objection
 
@@ -17,15 +17,17 @@ Built from JD's corpus, not generic apologetics material. Principal sources: BWM
 
 ## Panels
 
+On the plate, panel titles carry no numbers; the gold badge carries the panel number. The numbered headings below are this document's structure, not plate text.
+
 ### Header
 - **Title:** WHY YOU CAN TRUST YOUR BIBLE
 - **Subtitle:** God-Breathed, Faithfully Handed Down, and Open to Examination
-- **Framing box:** the objection ("Just a man-made book, copied and changed for centuries?") and the one-line answer.
+- **Framing box:** the one-line answer ("God breathed it out, and His providence has handed it down in the open"). The objection stands in full in panel 1.
 - **Book stack spines:** GOD HAS SPOKEN / BREATHED OUT / HANDED DOWN / RECOGNIZED
 - **Volume marker:** AI-01
 
 ### Panel 1: The Charge (OBJECTION)
-- **Scene:** the host holding a worn Bible while shadowed questioners gesture at it.
+- **Scene:** a younger questioner voices the charge across a library table; the host listens with open hands, mouth closed. The host never voices the charge (JD ruling, 2026-11-01).
 - **Bubble:** "It is just a man-made book, copied and changed for centuries."
 - **Bubble reference:** The standing charge (summary of the objection, not a quotation)
 - **Caption:** The trust question is fair to ask. A book that asks for faith must bear examination, and this one invites it.
@@ -39,7 +41,7 @@ Built from JD's corpus, not generic apologetics material. Principal sources: BWM
 - **Claim 01-2:** Revelation originates in God's initiative. Classification: Direct Teaching. Source: IS-03 panel 1; Hebrews 1:1-2.
 
 ### Panel 3: Breathed Out by God (RESPONSE)
-- **Scene:** an open Bible with light rising from its pages.
+- **Scene:** an open Bible with light rising from its pages, quill and inkwell beside it. Scene only, no person.
 - **Bubble:** "All Scripture is breathed out by God."
 - **Bubble reference:** 2 Timothy 3:16
 - **Caption:** The Bible's own claim is not that men dreamed it up, but that God breathed it out. The charge must answer the claim, not ignore it.
@@ -49,46 +51,46 @@ Built from JD's corpus, not generic apologetics material. Principal sources: BWM
 - **Scene:** a writer at a desk, quill in hand, light over the page.
 - **Bubble:** "Men spoke from God as they were carried along by the Holy Spirit."
 - **Bubble reference:** 2 Peter 1:21
-- **Caption:** Human authors are not the objection; they are the design. Real writers, real history, and behind them the Spirit who carried them.
+- **Caption:** Human authors are not the objection; they are the design. Real writers, real history, and the Spirit who carried them.
 - **Claim 01-4:** The Spirit speaks through human writers, who remain real historical agents. Classification: Direct Teaching. Source: IS-03 panels 2-3; 2 Peter 1:20-21; Acts 1:16.
 
 ### Panel 5: The Word Endures (RESPONSE)
-- **Scene:** an ancient scroll and a modern printed Bible side by side under the same light.
+- **Scene:** an open Bible and scrolls before a tall window, mountains at sunset. Scene only, no person.
 - **Bubble:** "The word of our God will stand forever."
 - **Bubble reference:** Isaiah 40:8
 - **Caption:** Empires that copied it have fallen; the word stands. Its endurance is a promise before it is a statistic.
 - **Claim 01-5:** God's word endures. Classification: Direct Teaching (the promise); the preservation mechanism is Theological Inference and is claimed as such in panel 6, not here. Source: IS-03 panel 4; Isaiah 40:8; 1 Peter 1:24-25.
 
 ### Panel 6: Handed Down in the Open (TURN)
-- **Scene:** copyists comparing manuscripts at a long table, variants marked openly.
+- **Scene:** ancient manuscripts and scrolls spread on a desk for comparison, with a magnifying glass. Scene only, no person.
 - **Bubble:** "Copyists, translations, variants: compared, not hidden."
 - **Bubble reference:** The textual evidence (statement, not a quotation)
-- **Caption:** Variants exist, and Christians say so first. Witnesses are compared by ordinary textual criticism; a faith that hides its evidence would deserve suspicion. This one hands it over.
+- **Caption:** Variants exist, and Christians say so first. Witnesses are compared openly; a faith that hid its evidence would deserve suspicion.
 - **Claim 01-6:** Surviving witnesses include variants, acknowledged and assessed by ordinary textual-critical methods; providence governs transmission through fallible human agency without guaranteeing every copy. Classification: Historical Evidence plus Theological Inference (labeled separately in the narrative). Source: IS-03 panels 4 and 6 and narrative (transmission paragraph).
 
 ### Panel 7: Recognized, Not Invented (RESPONSE)
 - **Scene:** the host placing books on a shelf already shaped to receive them.
 - **Bubble:** "The church received these writings; it did not create their authority."
 - **Bubble reference:** Luke 24:44; 2 Peter 3:15-16 (statement of the synthesis, not a quotation)
-- **Caption:** Jesus already spoke of the Scriptures as a settled body, and Peter already counted Paul's letters among them. The church's task was recognition, and its judgments are examined like everything else.
+- **Caption:** Jesus already spoke of the Scriptures as a settled body, and Peter already counted Paul's letters among them.
 - **Claim 01-7:** The church recognizes rather than creates scriptural authority. Classification: Historical Formulation / theological synthesis. Confidence per IS-03 register: UNCERTAIN pending historical sourcing of canon lists and reception; worded at that strength. Source: IS-03 panel 5 and narrative.
 
 ### Panel 8: Test It Like the Bereans (RESPONSE)
-- **Scene:** hearers searching scrolls with intent faces; the host pointing to the text.
-- **Bubble:** "They examined the Scriptures daily to see if these things were so."
-- **Bubble reference:** Acts 17:11 (close paraphrase; the narrative carries the exact text check)
+- **Scene:** the host examining an open scroll at a table with two other men.
+- **Bubble:** none on the plate (deviation carried since revision 1; the generator omits it). The scripted text stands here and in the narrative: "They examined the Scriptures daily to see if these things were so."
+- **Bubble reference:** Acts 17:11 (close paraphrase; the narrative carries the exact text check). On the plate the reference stands at the foot of the caption.
 - **Caption:** The Bible commends its own cross-examination. Noble hearers test even apostolic preaching against the written word.
 - **Claim 01-8:** Scripture commends testing claims against Scripture, and reading parts within the whole counsel. Classification: Direct Teaching with hermeneutical application. Source: IS-03 panel 7; Acts 17:11; Luke 24:27.
 
 ### Panel 9: Truth You Can Stand On (RESPONSE)
-- **Scene:** the open Bible on a rock above a shoreline; morning light.
+- **Scene:** the open Bible on shoreline rocks; sunrise over calm water. Scene only, no person.
 - **Bubble:** "Your word is truth."
 - **Bubble reference:** John 17:17
-- **Caption:** In the corpus' hierarchy of authority, Scripture stands first and governs; confessions and scholars serve under it, and every claim in this defense is tagged so you can check its footing.
+- **Caption:** Scripture stands first and governs. Confessions and scholars serve under it, and every claim here is tagged so you can check its footing.
 - **Claim 01-9:** Scripture is the normative material source of truth; subordinate authorities are boundary markers, not rivals. Classification: Direct Teaching (John 17:17) with systematic formulation from the corpus. Source: IS-03 panel 9; treatise Prolegomena sec. 3.
 
 ### Panel 10: The Bottom Line (closing)
-- **Title:** THE BOTTOM LINE
+- **Title:** THE BOTTOM LINE (the closing panel has no badge, so on the plate its title carries the number: 10. THE BOTTOM LINE)
 - **Checklist:**
   - God-breathed in origin, not man-invented
   - Human authors, carried along by the Spirit
@@ -104,8 +106,8 @@ Built from JD's corpus, not generic apologetics material. Principal sources: BWM
 2. **Canon formulation confidence.** IS-03's own claim register rates "the church recognizes rather than creates divine authority" UNCERTAIN pending historical review. Panel 7 keeps the register's wording and strength.
 3. **Preservation mechanism.** Corpus position: preservation is inference from sovereignty plus the enduring word, not a demonstrated mechanism. Panels 5 and 6 keep the promise and the inference visibly separate.
 
-## Visual QA checklist (completed 2026-11-01, per QA-PROCESS; full record in TRANSCRIPTION.md)
-- [x] Every element verified from magnified crops against this script: PASS, no repairs required
+## Visual QA checklist (per QA-PROCESS; full record in TRANSCRIPTION.md)
+- [x] Revision 3 (2026-11-01): every element verified from magnified crops against this script: PASS with disclosed repairs (itemized in TRANSCRIPTION.md)
 - [x] oddXian.com and AI-01 legible in the footer (in the original artwork)
 - [x] No anthropomorphic depiction of divine Persons
 - [x] No claim that every manuscript or canon decision is infallible

@@ -21,6 +21,12 @@ Panels 1 to 9: each panel advances the defense by one step. Where a panel voices
 Closing panel: The Bottom Line: checklist of the defense's load-bearing points, and a closing quotation with its reference.
 Footer: oddXian.com and the volume ID.
 
+Production conventions (JD rulings, 2026-11-01):
+
+- Panel numbers appear only in the gold badge; panel title text never carries a number. The closing panel, which has no badge, carries its number in its title.
+- The objection is voiced by an interlocutor figure, never by the host. In an OBJECTION panel the host listens.
+- The host does not have to be in every panel; scene panels may carry no person. Note per panel in its Scene line whether the host appears.
+
 ## Per-panel block (repeat for panels 1 to 9, then the closing panel)
 
 - **Panel N title:**
