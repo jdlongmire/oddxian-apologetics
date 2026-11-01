@@ -287,14 +287,36 @@ This section tests the argument's internal validity without claiming to have est
 
 **Validation judgment:** **HIGH** for the explicit beneficiaries, comprehensive expression, and conformity/glorification trajectory in Romans 8:28–30. **MEDIUM** for the model's synthesis of this promise with the stronger universal claim that no suffering anywhere in the ordained history is actually gratuitous; that inference additionally depends on T1–T3 (§6.13). The exact original Greek reading remains a textual-critical question and is not treated as resolved by this paper.
 
+### 6.16 Augustine, Calvin, and the two states of created freedom
+
+**Augustine, primary work in English translation:** *Enchiridion* (Handbook on Faith, Hope, and Love), §§10–14, 23, available in [Christian Classics Ethereal Library](https://ccel.org/ccel/augustine/enchiridion/enchiridion.chapter3.html) and [New Advent](https://www.newadvent.org/fathers/1302.htm). In §10 Augustine distinguishes the Trinity's immutable goodness from created goods, which are genuinely good yet not supremely and unchangeably good. In §11 he argues that God can bring good from permitted evil; §§12–14 treat corruption as deprivation of created good. Section 23 identifies the falling away of a good but changeable creature as the cause of evil. **Finding:** Augustine strongly corroborates the conceptual distinction between originally good mutable creation and incorruptible goodness. He does not establish the stronger proposition that God was metaphysically unable to decree an immediately confirmed sinless creation.
+
+**Calvin, primary work in English translation:** *Institutes of the Christian Religion*, I.15–18, particularly I.18.1–4, accessible via [CCEL's Institutes](https://www.ccel.org/ccel/calvin/institutes.toc.html). Calvin expressly discusses divine direction of wicked instruments while denying that their wickedness morally contaminates God. His treatment rejects an account in which providence is reduced to divine nonintervention. **Finding:** Calvin supports the model's asymmetry of divine purpose and culpable creaturely intention, but the exact metaphysics of concurrence requires further analysis; Calvin's position should not be conflated with every subsequent Reformed account.
+
+**Westminster Confession, primary confessional text:** WCF 9.1–5, particularly 9.2 and 9.5 ([Westminster Theological Seminary](https://www.wts.edu/wcf)). Original human beings could will the good but could fall; in glory the will is perfectly and immutably free to good. **Finding:** Confirmed righteousness is compatible with genuine freedom in this confessional anthropology. The contrast is between different *states* of creaturely freedom, not between freedom and its absence.
+
+**Christological boundary:** Christ's sinlessness (Hebrews 4:15) must not be modeled as mere human mutability that happened not to culminate in sin. His identity as the incarnate Son requires distinct Christological treatment. Neither original Adamic mutability nor glorified creaturely impeccability may be inferred uncritically from Christ's unique person.
+
+**Assessment:** **HIGH** that these cited primary texts teach the stated contrasts; **MEDIUM** that the paper's full redemptive teleology is consonant with them; **UNCERTAIN** that any author independently establishes the unique necessity of this history. Historical consonance is evidence of continuity, not a deductive proof of the entire thesis.
+
+### 6.17 Genesis 1:31 lexical validation and limits
+
+**Primary Hebrew clause:** וְהִנֵּה־טוֹב מְאֹד (*we-hinnēh ṭôḇ meʾōḏ*), Genesis 1:31, in the Masoretic Hebrew text (see [Hebrew interlinear and morphology](https://biblevista.org/en/bible-study-tools/bible-verse-interlinear/genesis/1/)). *Ṭôḇ* is the adjective 'good'; *meʾōḏ* is an intensifier, 'very/exceedingly.' The evaluation encompasses everything God had made. The phrase asserts comprehensive divine approval of the created order in that context.
+
+**Negative lexical inference:** The phrase does not itself encode *incorruptible*, *immutable*, or *eschatologically consummated*. Neither does the absence of a Hebrew adjective commonly translated 'perfect' demonstrate that the creation was defective. Distinctions involving *tāmîm* (whole/blameless) and *šālēm* (complete/whole) must be argued from their respective contexts rather than assumed as fixed metaphysical technical terms.
+
+**Canonical control:** Genesis 2:18 identifies the man's aloneness as 'not good' before the Fall, in a narrative where God supplies its resolution. Ecclesiastes 7:29 speaks of humanity made upright; 1 Corinthians 15:42–49 distinguishes the first Adam and the glorified resurrection state. Thus the original-goodness/consummation distinction rests on broader canonical comparison, not on an etymological argument.
+
+**Assessment:** **HIGH** for the Hebrew words and their basic grammatical relation in Genesis 1:31. **MEDIUM** for the canonical theological synthesis. **OPEN:** complete contextual lexical survey of *tāmîm* and *šālēm*, Genesis 6:6's verbal semantics, and Genesis 50:20's Hebrew construction. No comprehensive lexical study is claimed.
+
 ## 7. Research and validation plan
 
-1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
+1. **Partially completed:** Genesis 1:31's *ṭôḇ meʾōḏ* examined in the Hebrew text (§6.17). Complete contextual studies of *tāmîm* and *šālēm*.
 2. Compare the Hebrew and major translations of Genesis 6:6 and Genesis 50:20.
 3. **Partially completed:** Romans 8:28–30's immediate context and principal textual variant examined (§6.15). Continue with critical-apparatus review and fuller Greek syntactical analysis.
-4. **Partially completed:** WCF 3.1, 4.2, 5.1–5.4, 6.1, and 9.2 validated at paragraph level (§6.14). Continue with Augustine, Calvin, and other Reformed primary sources; provide exact editions and page or section references.
+4. **Partially completed:** WCF 3.1, 4.2, 5.1–5.4, 6.1, 9.2, and 9.5; Augustine *Enchiridion* §§10–14, 23; and Calvin *Institutes* I.15–18 reviewed at section level (§§6.14, 6.16). Continue targeted historical comparison and exact edition checks.
 5. Develop formal distinctions among logical, ontological, and decretal necessity.
-6. Test the thesis against Christ's sinlessness, Adam's original freedom, and the impeccability of glorified humanity.
+6. **Partially completed:** Adamic mutability and glorified impeccability compared with WCF 9.2 and 9.5 (§6.16). Develop the distinct Christological treatment of the incarnate Son's impeccability.
 7. Cross-reference the repository's existing systematic theology of eternal triune loving communion before elevating this draft to canonical status.
 
 ## 8. Provisional assessment
