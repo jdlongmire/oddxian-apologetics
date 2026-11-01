@@ -55,3 +55,18 @@ JD approved the BWM-IS-04 example plate in chat on 2026-11-01 and approved thinx
 Disposition remains: no asset in this program is published; PR #10 remains a draft.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Addendum 2, 2026-11-01: JD approval, PR #10 merged, BWM-IS-05 ingested, IS-04 narrative
+
+JD approved the outstanding gate list in chat on 2026-11-01. Actions taken on that approval:
+
+1. PR #10 merged. Fresh gate before merging: head 6ff631d775ec30f80095e3e30e2dbf394dcf1b32 unchanged, mergeable true, state clean. Marked ready, merged; merge commit 883a4801fdded8df69c47688e9d26350a725ea24 verified equal to the main head on readback. Branch feat/illustrated-systematics-program deleted; ref verified 404. The program scaffold and the IS-00, IS-02, IS-03, and IS-04 assets are now on main, all still at graphic-draft status; nothing is published by the merge.
+2. Finding 11 closed. The BWM-IS-00 frontispiece designation is ratified by JD; SERIES-INDEX.md updated to say so.
+3. Finding 10 closed. Canonical home decided: this path (biblical-worldmodel/illustrated-systematics) is the series home; jd-teaching-infographics keeps its copies and now carries a pointer note in its README. Ingestion of the IS-01 plate into this path remains to be done.
+4. BWM-IS-04 companion narrative drafted (volumes/BWM-IS-04/NARRATIVE.md), with claim register and panel-to-source map; the panel 7 cross sentence is registered as Good and Necessary Consequence, not as the Exodus 34:6 text. Draft, not yet JD-approved.
+5. BWM-IS-05 Creation: Very Good built by thinx-muse and ingested in the follow-on PR: volumes/BWM-IS-05/plate.jpg (963068 bytes, 1280x1920, sha256 e9b32b75338c64570303b8a9e9d6751e311341b9a0f559fd8bf44ee98b022584), PANEL-SCRIPT.md with claim classifications (panel 9 and the Horizon line carry the two-states thesis as theological synthesis, MEDIUM, per the treatise Genesis 1:31 study), TRANSCRIPTION.md. Burgundy shirt per palette rotation.
+6. IS-05 repair disclosure. Three lettering defects in the raw generation were repaired programmatically and verified by crop readback: panel 2 caption ("things" rendered for "that brings"; repaired across the line break as "that / brings reality into being."); panel 6 (a stray letter t at the start of caption line 3, splitting "It / t is", removed); panel 10 closing reference ("Cocossians 1:16" corrected to "Colossians 1:16"). Panel 1's word "else" was inspected at 6x magnification and is correctly lettered, tightly kerned; no repair. Two earlier patch attempts on intermediate local drafts mislocated the panel 6 letter and the panel 10 line and were discarded; the ingested file is the verified final. The ingested plate is a repaired derivative of the raw generation, recorded here.
+
+Still JD's: publication of any volume; the IS-02 and IS-03 revision 2 items (findings 4 to 8); ingestion of IS-01 into this path.
+
+Human-Curated, AI-Enabled (HCAE)
