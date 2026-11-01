@@ -17,6 +17,6 @@ Header: CREATION: VERY GOOD. VOL. 05. Subtitle: God Made a Real, Ordered, and Go
 
 Footer: oddXian.com | BWM-IS-05.
 
-Production note: three lettering defects in the raw generation were repaired programmatically before ingestion (panel 2 caption, panel 6 stray letter, panel 10 reference); see QA-LOG.md, addendum of 2026-11-01. Panel 1's word "else" was inspected at 6x magnification and is correctly lettered, tightly kerned; no repair.
+Production note: the raw generation carried eight lettering defects, all repaired programmatically and verified by magnified crop readback under QA-PROCESS.md: panel 2 caption ("things" for "that brings"); panel 6 stray letter splitting "It is"; panel 10 reference ("Cocossians"); and the generator's systematic "Genessis" misspelling of Genesis in the references of panels 1, 4, 6, 7, and 8 (panels 2 and 5 rendered Genesis correctly). Panel 1's word "else" was correctly lettered but too tightly kerned to read cleanly at delivery size and was re-lettered under the QA process reading-scale rule. See QA-LOG.md addenda 2 and 3.
 
 Human-Curated, AI-Enabled (HCAE)
