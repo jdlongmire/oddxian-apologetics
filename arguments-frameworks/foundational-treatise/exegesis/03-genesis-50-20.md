@@ -3,7 +3,7 @@
 **Phase 1, unit 03.** Gates treatise Parts II and V.
 **Builds on:** working paper section 6.18 (second half).
 **Gaps assigned to this study:** the chashav construction across both clauses of the verse; translation comparison; textual-critical verification, per WP 6.21 and the phase 1 plan.
-**Status:** Complete (working draft). Lexical data from BDB as reproduced at bibleapps.com; Septuagint text verified in Greek and in Brenton's translation (mediation labeled in section 7); HALOT not yet consulted (open item carried from study 01).
+**Status:** Complete (working draft). Independent V&V (batch 1): PASS, all checked claims confirmed. See verification/vv-batch1-report.md. Lexical data from BDB as reproduced at bibleapps.com; Septuagint text verified in Greek and in Brenton's translation (mediation labeled in section 7); HALOT not yet consulted (open item carried from study 01).
 
 ## 1. Text and translation
 
