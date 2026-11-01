@@ -70,3 +70,15 @@ JD approved the outstanding gate list in chat on 2026-11-01. Actions taken on th
 Still JD's: publication of any volume; the IS-02 and IS-03 revision 2 items (findings 4 to 8); ingestion of IS-01 into this path.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Addendum 3, 2026-11-01: QA process adopted; BWM-IS-05 re-audited; BWM-IS-04 retro-audit
+
+JD reported garbled text on BWM-IS-05 panel 1 and directed that a QA process be put in place. JD then clarified the panel 1 caption word "else" was tightly kerned rather than garbled. The magnified inspection his report triggered found the real defects:
+
+1. What JD saw. Panel 1 caption, "else": correctly lettered (e-l-s-e all present) but kerned so tightly it does not read cleanly at delivery size. Re-lettered under the new process's reading-scale rule. JD's underlying judgment stands: the plate had not been adequately proofed.
+2. The systematic defect. The generator rendered "Genesis" as "Genessis" (doubled s) in five of the seven Genesis references on the plate: panels 1, 4, 6, 7, and 8. Panels 2 and 5 rendered it correctly. All five were repaired programmatically (pixel-measured ink boxes, height-matched re-lettering) and verified by 5x crop readback. "Genesis" spelling is now a standing checklist item in QA-PROCESS.md.
+3. Process adopted. QA-PROCESS.md is filed with this program: an element checklist for every plate (header elements, per-panel title, bubble, reference, every caption line, closing checklist, footer), each element read from a magnified crop against the panel script, letter by letter for names and references; pass/fail judged at reading scale; a second pass after any repair, neighbors included; repairs disclosed; no ingestion without a completed checklist recorded here.
+4. BWM-IS-05 retro-audit result. Every element on the plate has now been read from magnified crops against PANEL-SCRIPT.md: header (title, subtitle, framing box, book stack, VOL. 05), panels 1 to 9 (title, bubble, reference, all caption lines), panel 10 (six checklist lines, closing verse, Colossians 1:16 as repaired), footer. After the repairs in addendum 2 and this addendum, all elements PASS. Final plate: 959210 bytes, 1280x1920, sha256 dfbf9fe757633952b58c79040a19ed2187203260f8fa75ad160945afc6b381e9 (supersedes the addendum 2 hash).
+5. BWM-IS-04 retro-audit result. Every element read from magnified crops against its panel script: header (title, subtitle, framing box, book stack), panels 1 to 10 including all references and caption lines, footer. All elements PASS, including the four repairs disclosed in the first QA log (Deuteronomy, slow, communion, per-panel ID lines). One observation recorded without repair: panel 5's reference renders the numeral in "1 John 4:8" as a plain stroke that can be misread as a capital I out of context; in context it is unambiguous, and the transcription records the correct reference. Flagged for JD if he wants it re-lettered in a future revision.
+
+Human-Curated, AI-Enabled (HCAE)
