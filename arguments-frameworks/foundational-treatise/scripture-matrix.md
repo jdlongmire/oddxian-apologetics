@@ -7,7 +7,7 @@
 | # | Anchor text | Claim load in the treatise | Coverage in corpus | Principal gaps | Status |
 |---|---|---|---|---|---|
 | 1 | Genesis 1:31 | Creation evaluated very good; the goodness is real but not lexically consummated (Parts II, III, V) | WP 6.17; Covenant and Communion Part III | Lexical survey of tob / meod / tamim / shalem in context | Studied: exegesis/01-genesis-1-31.md |
-| 2 | Genesis 6:5-7 | Divine regret and grief without mutability of character (Parts IV, V) | WP 6.18 (partial) | Nacham and atsam stem analysis; translation comparison; textual check | Queued (unit 02) |
+| 2 | Genesis 6:5-7 | Divine regret and grief without mutability of character (Parts IV, V) | WP 6.18 (partial) | Done in study 02: nacham/atsav stem analysis; six-version comparison; LXX softening noted; open items: HALOT, Chisholm 1995 and Parunak 1975 direct | Studied (study 02) |
 | 3 | Genesis 50:20 | Asymmetrical intention: human evil intent, divine good intent, one event (Parts II, V) | WP 6.18 (partial) | Chashav construction across both clauses; textual-critical verification | Queued (unit 03) |
 | 4 | Deuteronomy 29:29 | The epistemic boundary of divine counsel; revealed things belong to us (Part V, Prolegomena) | WP 6.9 (argument level) | Verse-by-verse study with competing readings | Queued (unit 04) |
 | 5 | Romans 8:28-30 | All things worked to good for those who love God; conformity and glorification as the trajectory (Parts II, V, VIII) | WP 6.11; 6.15 (partial) | Greek critical apparatus (ho theos variant); fuller syntactical analysis | Queued (unit 05) |
