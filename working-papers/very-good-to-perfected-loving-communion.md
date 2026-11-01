@@ -170,6 +170,18 @@ The actual biblical decree, however, encompasses the Son's saving work in respon
 **O10. Does this imply God needed creation or evil for His glory?**  
 **Response:** God's intrinsic perfection and eternal triune communion are independent of creation (John 17:5, 24). The decree concerns the historical manifestation of glory through created relations, judgment, and redemption. **Residual:** Articulate the distinction between intrinsic glory and manifested glory without implying deficiency in God.
 
+### 6.9 The epistemic boundary of divine counsel (Deuteronomy 29:29)
+
+Deuteronomy 29:29 distinguishes the secret things belonging to the LORD from the revealed things entrusted to His people for faithful obedience. In context, the verse concerns covenant accountability and the limits of Israel's access to God's counsel. Its application to providence is a **theological extension** of that revealed/secret distinction, not a claim that the verse directly answers the philosophical Problem of Evil.
+
+**Revealed premises:** God elects in Christ (Ephesians 1:4–5); God ordains the crucifixion while holding its human agents culpable (Acts 2:23); God intends good through human evil (Genesis 50:20); and the redemptive purpose encompasses the manifestation of justice and mercy (Romans 9:22–23). These claims are available for exegesis, logical scrutiny, and systematic synthesis.
+
+**Reserved particulars:** Scripture does not disclose an exhaustive explanation for why God decreed this precise history, this distribution and magnitude of suffering, or each apparently gratuitous event. The specific providential rationale for an individual tragedy must not be invented or confidently assigned without revelation.
+
+**Epistemic rule:** A missing revealed explanation for a particular evil does not logically establish the absence of a morally sufficient divine reason. Neither does the appeal to secret counsel demonstrate that such a reason exists for every particular evil or defeat all evidential objections. The evidential PoE remains an open assessment of comparative explanatory adequacy. Deuteronomy 29:29 constrains claims about what we know; it does not exempt revealed theological propositions from testing for coherence.
+
+**Pastoral and moral limit:** The appeal to secret counsel must never excuse injustice, silence lament, minimize suffering, or replace duties of protection and mercy. The verse itself directs attention to the obligations that have been revealed.
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
