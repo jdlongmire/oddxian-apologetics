@@ -362,6 +362,36 @@ The following separates directly identifiable primary-source passages from edito
 
 **Research integrity rule:** No specific manuscript distribution, patristic quotation, confessional edition pagination, or Greek textual-critical conclusion should be asserted without checking the relevant primary source or critical apparatus. Where only a translation or editorial note has been consulted, label the mediation explicitly.
 
+### 6.22 Divine-nature ethics: communion, holiness, justice, and truth
+
+**Ontological claim:** The moral archetype is the eternal character of the triune God. First John 4:8 identifies God as love; John 17:24 speaks of the Father's love for the Son before the foundation of the world. These texts support the pre-creational reality of divine love. They do not by themselves furnish an exhaustive philosophical definition of goodness.
+
+**Holiness:** God's holiness entails His complete distinction from and opposition to moral evil (Isaiah 6:3; Habakkuk 1:13, read in its full context). In a communion-centered ontology, holiness guards the integrity of loving fellowship from corruption. It cannot be reduced to an emotional preference for harmonious relations.
+
+**Justice:** The Judge of all the earth is expected to do what is just (Genesis 18:25); God's judgments are righteous (Psalm 89:14). Justice orders creaturely relationships according to truth and due moral responsibility. Love does not erase accountability, and judgment need not imply divine delight in suffering.
+
+**Truth and faithfulness:** God is truthful and faithful (Numbers 23:19; Titus 1:2). Communion requires trustworthy self-disclosure and covenant faithfulness; deception destroys the conditions of rightly ordered relational trust.
+
+**Righteous love:** First Corinthians 13:6 says love does not rejoice at wrongdoing but rejoices with the truth. This gives a particularly direct canonical connection among love, moral evaluation, and truth. God's love cannot be identified with indiscriminate approval of whatever creatures desire.
+
+**Moral-ontological synthesis:** Divine loving communion is internally ordered by holiness, justice, truth, and faithfulness. The claim that these attributes are mutually coherent is biblically motivated; a complete metaphysical derivation of every moral obligation from triune relations remains an argumentative task. Commands express the character of the Lawgiver in the creaturely order, but the specific content of every positive command cannot be deduced solely from the abstract term *communion*.
+
+**Euthyphro test:** The model rejects a moral standard independent of God and rejects arbitrary divine command. Its third alternative grounds goodness in God's essential nature. The residual challenge is explanatory: demonstrate why the essential character of God is appropriately called *good*, and distinguish essential moral truths from contingent covenantal instructions. Citing divine nature is a proposed ontological terminus, not a license to evade conceptual scrutiny.
+
+**Assessment:** **HIGH** for the cited scriptural predications of love, holiness, justice, and truth; **MEDIUM** for their systematic integration into a communion-centered account; **OPEN** for a complete account of moral normativity and positive commands.
+
+### 6.23 Chalcedonian boundary and the doctrine of impeccability
+
+**Primary conciliar anchor:** The Definition of Chalcedon (451) confesses one and the same Christ, truly God and truly man, acknowledged in two natures without confusion, change, division, or separation. The council's doctrinal definition is the primary historical source; see the translated text in [Fordham's Internet Medieval Sourcebook](https://sourcebooks.fordham.edu/basis/chalcedon.asp) as a mediated English rendering. Exact Greek/Latin critical-edition verification is still required before any claim about disputed wording.
+
+**Scriptural controls:** John 1:14 teaches the Word's incarnation; Hebrews 4:15 states that Christ was tempted yet without sin; Philippians 2:6–8 affirms His humiliation and obedience; Colossians 2:9 speaks of the fullness of deity dwelling bodily. These establish real incarnation and sinlessness. The stronger claim of *impeccability* (that Christ could not sin) is a theological inference from the identity of the divine person and the unity of His person, not a direct lexical entailment of Hebrews 4:15.
+
+**Agency distinction:** Christ's genuine human willing and temptation cannot be explained away to protect His deity. Neither may one divide Christ into independently acting personal subjects. A fully developed Reformed account must engage the doctrine of two wills and the relation between divine impeccability and genuinely human obedience.
+
+**Implication for the paper:** Adam's mutable agency, Christ's unique incarnate obedience, and glorified human freedom occupy distinct theological categories. The compatibility of freedom with sinlessness is established at the level of the model's confessional commitments; it does not prove that Adam was originally impeccable or that the Fall was metaphysically inevitable.
+
+**Assessment:** **HIGH** for the core conciliar distinction and direct scriptural claims; **MEDIUM** for the classical inference to impeccability; **OPEN** for the detailed Reformed treatment of two wills and temptation.
+
 ## 7. Research and validation plan
 
 1. **Partially completed:** Genesis 1:31's *ṭôḇ meʾōḏ* examined in the Hebrew text (§6.17). Complete contextual studies of *tāmîm* and *šālēm*.
@@ -369,7 +399,7 @@ The following separates directly identifiable primary-source passages from edito
 3. **Partially completed:** Romans 8:28–30's immediate context and principal textual variant examined (§6.15). Continue with critical-apparatus review and fuller Greek syntactical analysis.
 4. **Partially completed:** WCF 3.1, 4.2, 5.1–5.4, 6.1, 9.2, and 9.5; Augustine *Enchiridion* §§10–14, 23; and Calvin *Institutes* I.15–18 reviewed at section level (§§6.14, 6.16). Continue targeted historical comparison and exact edition checks.
 5. **Completed at the argument level:** Formal distinctions among logical, ontological, decretal, and instrumental necessity (§6.20). Counterfactual unique-optimality arguments remain unsupported.
-6. **Partially completed:** Adamic mutability, glorified impeccability, and the distinctive Christological issue analyzed (§§6.16, 6.19). Verify against Chalcedon and primary Reformed Christological sources.
+6. **Partially completed:** Adamic mutability, glorified impeccability, and the distinctive Christological issue analyzed (§§6.16, 6.19, 6.23). Chalcedon's doctrinal definition incorporated; verify critical-language editions and primary Reformed two-wills treatment.
 7. **Open:** Cross-reference the repository's existing systematic theology of eternal triune loving communion before elevating this draft to canonical status. A default-branch code search for *loving communion*, *eternal covenant*, and *triune* returned no indexed results; this does not establish absence of the relevant material.
 
 ## 8. Provisional assessment
