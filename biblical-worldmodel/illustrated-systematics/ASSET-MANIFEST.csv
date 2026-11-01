@@ -1,1 +1,1 @@
-volume_id,revision,asset_path,script_path,sha256,bytes,width,height,source_reference,review_status,approval_reference,publication_url,supersedes
+volume_id,revision,asset_path,script_path,narrative_path,sha256,bytes,width,height,source_reference,review_status,approval_reference,publication_url,oddxian_pointer_verified,supersedes
