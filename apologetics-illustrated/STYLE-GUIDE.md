@@ -18,7 +18,7 @@ The governing visual document is the Visual Series Style Guide of the systematic
 - **Header treatment:** main title, subtitle, framing box, book stack, volume marker. In this program the framing box carries the framing objection and the one-line answer (see the panel script template).
 - **Panel furniture:** numbered panels, each with a title, a scene, a quotation bubble with its reference, and a parchment caption carrying the takeaway, matching the teaching-plate anatomy the seed plate (God and Slavery) already uses.
 - **Panel numbering (JD ruling, 2026-11-01):** the panel number appears only in the gold circular badge at the panel's corner; panel title text never carries a number. Doubled numbering (badge plus a number in the title) is a defect. The closing Bottom Line panel, which has no badge, carries its number in its title.
-- **Depiction rule:** symbolic rather than anthropomorphic depictions of the divine Persons.
+- **Depiction rule:** people may be depicted freely where they forward the story, but God, the Trinity, and the divine Persons are never shown in human form; divine presence is shown by the adopted symbols only (see Iconography of the divine Persons). This is absolute, and it includes the Son: no human figure of Jesus appears in these plates (JD ruling, 2026-11-01).
 - **Footer:** oddXian.com and the volume ID, in the systematics footer treatment (navy band, cream text), with the host's footer portrait in friendly instruction mode (see Host placement).
 - **Lettering standard:** verified spelling and verse attribution; the QA process adopted by reference in QA-LOG.md is the enforcement mechanism, including letter-by-letter checks of proper nouns and references.
 
@@ -48,3 +48,15 @@ The host bookends the plate and does not appear inside it:
 - **Footer:** the host in friendly instruction mode, the Teaching pose (warm, open-handed, addressing the reader), as a portrait element in the footer treatment alongside oddXian.com and the volume ID. This is the only instruction-mode appearance.
 
 This section supersedes any earlier statement in this guide about where the host appears.
+
+
+## Iconography of the divine Persons (JD ruling, 2026-11-01)
+
+The rule: never a human-type image of God, of the Trinity, or of any Person. Where a Person acts or is referenced in a panel's step of the argument, the Person is shown by symbol. One primary symbol per Person, with named alternates; readers learn the code once and read every later plate by it.
+
+- **The Trinity:** the triquetra, three interlaced arcs in one unbroken figure. A circle may be woven through it where a plate stresses the unity. No other Trinity symbol is used.
+- **The Father:** YHWH, the covenant Name in Hebrew letters, where the plate is doctrinal or confessional (Ex 3:14-15); the hand of God where the Father is acting in a narrative scene (Ps 118:16; Isa 59:1). YHWH prints the Name itself, so it is used deliberately, never as decoration. The crown is not used for the Father (it drifts toward Christ the King, Rev 19:16); it is reserved, if used at all, for statements about God as King generally.
+- **The Son:** the Lamb (John 1:29; Rev 5:6), primary. Alternates: the cross, universal; the ichthys, where the theme is confession or the early church. No human figure of Jesus appears, notwithstanding the historic practice of exempting the incarnate Son; for these plates the symbol system stays unbroken (JD ruling, 2026-11-01).
+- **The Holy Spirit:** the dove (Matt 3:16), primary. Alternates: fire, for Acts 2, purification, and zeal; wind, drawn as stylized breath lines, for John 3:8 and new-birth contexts.
+
+Rendering: every symbol is drawn the same way, simple gold line work at a consistent weight, set on the scene's dark ground or on navy, so the set reads as one system across volumes. Placement discipline: a symbol appears where its Person is acting or being referenced in that panel's step; symbols are never decoration.

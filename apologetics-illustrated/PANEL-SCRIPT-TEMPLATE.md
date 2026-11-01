@@ -31,7 +31,7 @@ Production conventions (JD rulings, 2026-11-01):
 
 - **Panel N title:**
 - **Kind:** OBJECTION / RESPONSE / TURN (the panel where the argument turns)
-- **Scene:** what the illustration shows (symbolic rather than anthropomorphic for divine Persons)
+- **Scene:** what the illustration shows (divine Persons by the adopted symbols only, never in human form; see the style guide's Iconography section)
 - **Bubble text:** exact quotation, or a summary explicitly labeled as a summary
 - **Bubble reference:** book chapter:verse (ESV), or the cited work and locator
 - **Caption:** the takeaway, every line as it will appear on the plate
