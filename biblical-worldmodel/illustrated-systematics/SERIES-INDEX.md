@@ -4,10 +4,10 @@
 |---|---|---|---|---|
 | BWM-IS-01 | ST-1 | The Triune Foundation of Our Faith | chat-draft | Not ingested or validated |
 | BWM-IS-02 | ST-1 | The Eternal Decree and Covenant | chat-draft | Red-shirt revision exists in chat; not ingested |
-| BWM-IS-03 | ST-1 | The Attributes and Glory of God | planned | |
-| BWM-IS-04 | ST-2 | Creation: Very Good | planned | |
-| BWM-IS-05 | ST-2 | Humanity in God's Image | planned | |
-| BWM-IS-06 | ST-2 | The Original Covenant and Human Calling | planned | |
+| BWM-IS-03 | ST-1 | The Bible: Divine Authorship and Providential Stewardship | planned | |
+| BWM-IS-04 | ST-1 | The Attributes and Glory of God | planned | |
+| BWM-IS-05 | ST-2 | Creation: Very Good | planned | |
+| BWM-IS-06 | ST-2 | Humanity in God's Image | planned | |
 | BWM-IS-07 | ST-3 | The Fall: From Communion to Rebellion | planned | |
 | BWM-IS-08 | ST-3 | Closed Self-Interest: The Root of Sin | planned | |
 | BWM-IS-09 | ST-3 | Corruption, Death, and the Human Condition | planned | |
@@ -28,3 +28,5 @@
 | BWM-IS-24 | ST-8 | The Eternal Communion of God and His People | planned | |
 
 Do not promote status without linked review evidence and approval.
+
+> Sequencing note: the insertion of the Scripture volume requires a full series rebaseline. Volume 06's original covenant theme and downstream topics must be reconciled before declaring the numbering final. Existing volume IDs 01 and 02 remain stable.
