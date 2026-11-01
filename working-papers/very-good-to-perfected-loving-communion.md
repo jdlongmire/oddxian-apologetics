@@ -201,6 +201,24 @@ Deuteronomy 29:29 assigns secret things to the LORD and revealed things to His p
 
 **Working formulation:** *God owes no exhaustive accounting of His sovereign counsel, yet He has revealed sufficient evidence of His character to ground rational trust. We may know enough to trust His goodness without claiming to know every reason for His providence.*
 
+### 6.11 Romans 8:28–30 as the governing providential premise
+
+**Textual claim:** Romans 8:28 states that *all things* (Greek **πάντα**, *panta*) work together for good for those who love God, who are called according to His purpose. The scope is comprehensive; the promised beneficiary is specifically defined. Verses 29–30 immediately identify the purpose's trajectory as conformity to the image of the Son and eventual glorification. The surrounding discussion includes suffering, groaning, weakness, and hope (Romans 8:17–27), so the assurance is not restricted to pleasant circumstances.
+
+**Governing premise (RP):** God providentially orders all things toward the ultimate good of those called according to His purpose, a good whose consummation includes conformity to Christ and glorification (Romans 8:28–30). In the Reformed synthesis, this assurance coheres with God's comprehensive governance (Ephesians 1:11) and His good intention through culpable human evil (Genesis 50:20).
+
+**Logical distinctions:**
+
+1. **Universal scope of providential working:** No event lies beyond God's ability to govern it toward His promised end for His people.
+2. **Specified covenantal beneficiary:** The promise is addressed to those who love God and are called according to His purpose; it should not be recast as an unconditional guarantee that every event produces the same redemptive outcome for every person.
+3. **Teleological good:** The immediate context defines the promised good through conformity to Christ and glorification; it does not promise temporal comfort or the absence of loss.
+4. **Moral nonidentity:** An event can be evil in creaturely intention and effect while being governed toward good by God; providential use does not make the evil act morally good.
+5. **No event-by-event indispensability inference:** Comprehensive providential governance does not logically prove that each particular suffering was uniquely necessary as an instrument of the final end. Its specific role may remain within God's secret counsel (Deuteronomy 29:29).
+
+**Implication for the evidential PoE:** Within the framework accepting apostolic revelation, Romans 8:28 supplies a *positive assurance* of comprehensive providential working rather than merely the abstract possibility of an unknown divine reason. This does not disclose the causal explanation for individual tragedies or compel assent from an interlocutor who disputes the credibility of Scripture. The comparative evidential argument must therefore defend the warrant for accepting the revealed premise while acknowledging unresolved questions of scale and distribution (§§6.4, 6.9–6.10).
+
+**Exegetical obligation:** Examine the Greek syntax and textual variants of Romans 8:28, including the agency expressed by *synergei* and the referent of *panta*, before making stronger grammatical claims. The present theological conclusion relies on the clear contextual scope of the passage rather than a disputed syntactic reconstruction.
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
