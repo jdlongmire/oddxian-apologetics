@@ -2,7 +2,7 @@
 
 **Phase 1, unit 09.** Gates treatise Part VII.
 **Builds on:** working paper sections 6.19, 6.23, and 6.24 (6.24 consulted in its prepared form), which use this verse with Luke 22:42 (unit 07) and John 6:38 (unit 08) as the control-text triad for the two-wills doctrine and tag Christ's impeccability a MEDIUM theological inference. This study completes the triad, and its commission is the one the matrix assigns it: a detailed exegesis of the impeccability inference, testing whether this verse raises, confirms, or limits that tag.
-**Status:** Complete (working draft). The NET Bible text was consulted through the Biblia parallel display; the critical Greek text as displayed in the BGT/SBLGNT parallel views; Thayer on peirazo through the BibleHub reproduction of his entry; the NA28 apparatus and BDAG were not consulted directly (open items, section 8). The conciliar and Reformed dogmatic exposition belongs to the Phase 2 register for Part VII, as in units 07 and 08; this study adjudicates the exegesis and assesses the inference the dogmatics builds on it.
+**Status:** Complete (working draft). Independent V&V (batch 3): PASS, all checks confirmed. See verification/vv-batch3-report.md. The NET Bible text was consulted through the Biblia parallel display; the critical Greek text as displayed in the BGT/SBLGNT parallel views; Thayer on peirazo through the BibleHub reproduction of his entry; the NA28 apparatus and BDAG were not consulted directly (open items, section 8). The conciliar and Reformed dogmatic exposition belongs to the Phase 2 register for Part VII, as in units 07 and 08; this study adjudicates the exegesis and assesses the inference the dogmatics builds on it.
 
 ## 1. Text and translation
 
