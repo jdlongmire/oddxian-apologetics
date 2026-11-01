@@ -9,7 +9,9 @@ The governing visual document is the Visual Series Style Guide of the systematic
 ## What carries over
 
 - **Plate format:** one sheet, ten panels (header, nine numbered panels, closing Bottom Line panel), portrait 2:3 (1024 x 1536 or 1280 x 1920).
-- **The host:** the same scholarly illustrated narrator throughout (glasses, white goatee, clean-shaven upper lip), present in the header and panels as the systematics plates present him.
+- **The host:** the same scholarly illustrated narrator throughout, identical in every panel: bald head, white goatee, clean-shaven upper lip, **amber-tinted glasses**, warm confident scholarly expression. Clear or dark lenses are a style failure.
+- **Rendering:** vibrant, rich, full-color modern editorial illustration. Sepia treatments and vintage-engraving looks are a style failure, however good the lettering.
+- **Production rule:** every plate generation passes the Visual Series Style Guide image and at least one approved exemplar plate to the generator as image references. Text-only style prompts have already failed once (AI-01 revision 1, superseded 2026-11-01).
 - **Palette:** the style guide's 8-color shirt rotation for the host, volume by volume; navy, gold, and parchment as the plate's governing colors.
 - **Header treatment:** main title, subtitle, framing box, book stack, volume marker. In this program the framing box carries the framing objection and the one-line answer (see the panel script template).
 - **Panel furniture:** numbered panels, each with a title, a scene, a quotation bubble with its reference, and a parchment caption carrying the takeaway, matching the teaching-plate anatomy the seed plate (God and Slavery) already uses.
