@@ -5,11 +5,11 @@
 | ID | Movement | Title | Status |
 |---|---|---|---|
 | BWM-IS-00 | Frontispiece | The Biblical World Model (overview and architecture plates) | graphic-draft on main via PR #10; frontispiece designation ratified by JD 2026-11-01 |
-| BWM-IS-01 | ST-1 | The Triune Foundation of Our Faith | plate exists in jd-teaching-infographics on main; this path is the canonical series home (decided 2026-11-01), ingestion into this path pending |
+| BWM-IS-01 | ST-1 | The Triune Foundation of Our Faith | ingested into this path 2026-11-01 from jd-teaching-infographics; audited under QA-PROCESS (QA log addendum 4); published to the Pages site 2026-11-01 |
 | BWM-IS-02 | ST-1 | The Eternal Decree and Covenant | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval |
 | BWM-IS-03 | ST-1 | The Bible: Divine Authorship and Providential Stewardship | graphic-draft ingested 2026-11-01, QA logged, awaiting JD approval |
 | BWM-IS-04 | ST-1 | The Attributes and Glory of God | graphic-draft ingested 2026-11-01 (built by thinx-muse; example plate approved by JD), QA logged, awaiting JD publication approval |
-| BWM-IS-05 | ST-2 | Creation: Very Good | graphic-draft ingested 2026-11-01 (built by thinx-muse), QA logged, awaiting JD publication approval |
+| BWM-IS-05 | ST-2 | Creation: Very Good | published to the Pages site 2026-11-01 on JD approval |
 | BWM-IS-06 | ST-2 | Humanity in God's Image | planned |
 | BWM-IS-07 | ST-2 | The Original Covenant and Human Calling | planned |
 | BWM-IS-08 | ST-3 | The Fall: From Communion to Rebellion | planned |
