@@ -41,4 +41,8 @@ Each exegetical study contains, in this order:
 - Each unit lands on its own branch as a draft PR for JD review, or is batched with adjacent units where JD directs. No merge without JD's approval.
 - Findings feed the Scripture matrix (`scripture-matrix.md`) in the same commit that files the study.
 
+## Publication (tracked, JD direction 2026-11-01)
+
+The work is to be published as a GitHub Pages section in this repository. Pages is already enabled: legacy build from `main` at `/docs`, live at https://jdlongmire.github.io/oddxian-apologetics/, with `docs/seventh-yom-covenantal-age/` as the existing precedent section. The treatise section will be built under `docs/` when the content JD approves is ready, publishing only approved parts and studies (the repository and the Pages site are public). This is tracked as an open item and connects to the Phase 4 publication pathway in the work package; the Pages section is the repo-native channel and does not by itself decide the wider pathway (journal, DOI release, book).
+
 Human-Curated, AI-Enabled (HCAE)
