@@ -263,12 +263,36 @@ This section tests the argument's internal validity without claiming to have est
 
 **Outstanding verification:** Check T3 against primary Reformed sources, examine Romans 8:28's Greek variants and immediate context, and develop an account of secondary causation that avoids transferring creaturely culpability to God. No claim of complete exegetical or historical validation is made here.
 
+### 6.14 Primary confessional validation: decree, secondary causes, and the Fall
+
+**Primary source:** *Westminster Confession of Faith* (1646/1647), chapters 3.1, 4.2, 5.1–5.4, 6.1, and 9.2, consulted in published confessional text at [Westminster Theological Seminary](https://www.wts.edu/wcf) and the [Reformed Presbyterian Church General Assembly transcription](https://www.rpcga.org/westminster-confession-of-1647/). References are to stable chapter and paragraph numbers, not unverified print pagination.
+
+**Decree and creaturely responsibility (WCF 3.1):** The confession simultaneously affirms God's free and unchangeable ordination of all that occurs, denies that God is the author of sin, and maintains creaturely will and the contingency of second causes. The paper's distinction between divine ordination and moral approbation is thus explicitly confessional. The confession states the conjunction; a complete philosophical account of how it obtains remains a further task.
+
+**First and second causes (WCF 5.1–5.3):** God governs every creature and action by wise and holy providence. Events are certain with respect to the divine decree while occurring through secondary causes according to their nature, whether necessary, free, or contingent. This supports the distinction between decretal certainty and coercion of the human will. The certainty of an event in the decree does not by itself make a creature's sinful intention God's sinful intention.
+
+**The Fall and creaturely sinfulness (WCF 5.4; 6.1):** The confession expressly extends providence to the first Fall and subsequent sins. It describes divine bounding and ordering toward holy ends and assigns the sinfulness of the act to the creature. Its account exceeds a merely passive divine permission. This aligns with Genesis 50:20 and Acts 2:23, while requiring careful articulation of asymmetrical divine and creaturely intentions.
+
+**Original mutability (WCF 4.2; 9.2):** The confession affirms original uprightness and the human capacity to transgress, while identifying original freedom as mutable. This corroborates the paper's differentiation between the very good initial state and confirmed consummation. Mutability alone does not logically entail an inevitable Fall.
+
+**Validation judgment:** **HIGH** for agreement between the paper's core distinctions and these directly inspected confessional paragraphs. **MEDIUM** for the systematic explanation of their metaphysical compatibility. **UNCERTAIN** whether any one theory of secondary causation can be derived uniquely from the confession. The WCF supports the model's structural coherence; it does not expressly teach that this exact redemptive history was the uniquely possible route to perfected communion.
+
+### 6.15 Romans 8:28 textual and contextual validation
+
+**Primary text:** Romans 8:17–30, with particular attention to 8:28–30. The shorter Greek reading of 8:28 contains *panta synergei eis agathon* (πάντα συνεργεῖ εἰς ἀγαθόν); a documented textual variant adds *ho theos* (ὁ θεός) as explicit subject. Compare the Greek text reproduced in [OpenBible's Greek textual comparison](https://openbible.com/text/romans/8-28.htm). The [NET Bible textual note](https://classic.net.bible.org/passage.php/o/w/passage.php?passage=Rom+8%3A28%2C29) reports manuscript evidence and explains why both renderings, with God implied or explicitly supplied, are possible. The textual note is secondary editorial analysis; the Greek reading itself is the primary textual datum.
+
+**Contextual findings:** Romans 8:17–27 discusses suffering, groaning, hope, and the Spirit's help in weakness. Verse 28 announces the comprehensive working of *all things* toward good **for those who love God, who are called according to His purpose**. Verses 29–30 immediately specify conformity to the Son and glorification. Accordingly, the paper is justified in treating the good as eschatological and Christological, without reducing it to temporal relief or claiming the same promise of glorification for all persons.
+
+**Scope and inferential discipline:** The phrase *all things* has comprehensive force in the discourse; it does not by itself state that every event is individually indispensable to the outcome. God's providential agency is grounded in the passage's theological context and corroborating texts (Ephesians 1:11; Genesis 50:20), without making the disputed grammatical subject carry the entire argument.
+
+**Validation judgment:** **HIGH** for the explicit beneficiaries, comprehensive expression, and conformity/glorification trajectory in Romans 8:28–30. **MEDIUM** for the model's synthesis of this promise with the stronger universal claim that no suffering anywhere in the ordained history is actually gratuitous; that inference additionally depends on T1–T3 (§6.13). The exact original Greek reading remains a textual-critical question and is not treated as resolved by this paper.
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
 2. Compare the Hebrew and major translations of Genesis 6:6 and Genesis 50:20.
-3. Exegete Romans 8:28–30 in context, particularly the referent of the promised good.
-4. Study Augustine, Calvin, and Reformed confessional primary sources on divine decree, the Fall, freedom, and consummation; provide exact editions and page or section references.
+3. **Partially completed:** Romans 8:28–30's immediate context and principal textual variant examined (§6.15). Continue with critical-apparatus review and fuller Greek syntactical analysis.
+4. **Partially completed:** WCF 3.1, 4.2, 5.1–5.4, 6.1, and 9.2 validated at paragraph level (§6.14). Continue with Augustine, Calvin, and other Reformed primary sources; provide exact editions and page or section references.
 5. Develop formal distinctions among logical, ontological, and decretal necessity.
 6. Test the thesis against Christ's sinlessness, Adam's original freedom, and the impeccability of glorified humanity.
 7. Cross-reference the repository's existing systematic theology of eternal triune loving communion before elevating this draft to canonical status.
