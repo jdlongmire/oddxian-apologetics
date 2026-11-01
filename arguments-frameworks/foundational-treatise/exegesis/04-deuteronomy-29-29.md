@@ -3,7 +3,7 @@
 **Phase 1, unit 04.** Gates treatise Part V and the Prolegomena.
 **Builds on:** working paper section 6.9 (argument-level treatment of this verse).
 **Gap assigned to this study:** the verse-by-verse exegetical study of Deuteronomy 29:29 named in the WP research plan, with competing readings in strongest form. The study tests the claims of 6.9 against the text and corrects them where the text requires; the assessment is finding 5 below.
-**Status:** Complete (working draft). Lexical data from BDB as reproduced in the tools named in section 7 (mediation labeled); HALOT not yet consulted (open item carried from studies 01-02).
+**Status:** Complete (working draft). Independent V&V (batch 1): PASS, all minimum checks confirmed. See verification/vv-batch1-report.md. Lexical data from BDB as reproduced in the tools named in section 7 (mediation labeled); HALOT not yet consulted (open item carried from studies 01-02).
 
 ## 1. Text and translation
 
