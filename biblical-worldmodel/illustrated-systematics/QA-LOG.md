@@ -40,3 +40,18 @@ Landscape summary plate titled "The Biblical WorldModel: A Systematic Theology o
 ### Disposition
 
 All assets: graphic-draft (QA logged, not JD-approved). No asset is approved, published, or assigned a publication URL. PR #10 remains a draft.
+
+## Addendum, 2026-11-01: BWM-IS-04 ingested; governance alignment under the handover
+
+JD approved the BWM-IS-04 example plate in chat on 2026-11-01 and approved thinx-muse to act as Principal Assistant for this program. Doctrine and publication remain JD's approval alone, per OPERATING-AGREEMENT.md. Under that handover, the following were done on this branch:
+
+1. BWM-IS-04 The Attributes and Glory of God, built end to end by thinx-muse (panel plan, generation at 1280x1920 from the series exemplars, proofread), is ingested at volumes/BWM-IS-04/plate.jpg (971374 bytes, sha256 532c6ae8f547a7139882424cfb892dcb35e864897ee3b830b15ca8a9680b15c1) with PANEL-SCRIPT.md (including per-panel claim classifications) and TRANSCRIPTION.md. Green shirt, per the style guide palette rotation and the guide's own 04 thumbnail. Status: graphic-draft; the example was approved, publication is not yet approved.
+2. Repair disclosure. The raw generation carried four lettering defects: panel 1 reference rendered "Epheeronomy 6:4"; panel 7 bubble "sloow"; panel 5 caption "communin"; gibberish trailing the small per-panel ID lines. A model edit pass changed none of them. All four were repaired programmatically (programmatic text replacement over the defective words only) and verified by crop readback before ingestion. The repaired words sit in a slightly more condensed typeface than the surrounding generated lettering; this is visible on close inspection of panel 5. The ingested file is therefore a repaired derivative of the raw generation, recorded here rather than passed off as a clean generation.
+3. Finding 1 (shirt rule) resolved by amendment. README.md and PANEL-SCRIPT-TEMPLATE.md now specify palette rotation per the Visual Series Style Guide, which is recorded as the governing visual document. The BWM-IS-03 panel script's red-shirt line is superseded by this amendment.
+4. Finding 2 (visible volume ID) resolved by policy amendment. SOURCING-POLICY.md point 6 now provides: originals lacking the visible ID are never altered silently; the ID is recorded in the manifest, the gap is logged here, and the ID and pointer are carried on the published derivative. Graphics produced after 2026-11-01 must carry both in the original artwork (BWM-IS-04 does: footer oddXian.com | BWM-IS-04).
+5. README.md stale statements corrected: 25 volumes (not 24), program status, and the ingestion status of volumes 01 to 04.
+6. Still open for JD: ratification of the BWM-IS-00 frontispiece designation (finding 11); the IS-01 canonical-home decision (finding 10); revision 2 items for IS-02 (findings 4 to 6) and the IS-03 items (findings 7 and 8); a companion narrative for IS-04.
+
+Disposition remains: no asset in this program is published; PR #10 remains a draft.
+
+Human-Curated, AI-Enabled (HCAE)
