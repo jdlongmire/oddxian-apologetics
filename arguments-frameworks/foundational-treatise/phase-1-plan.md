@@ -2,7 +2,7 @@
 
 **Work package:** WP-FOUNDATIONAL-TREATISE, Phase 1
 **Direction:** JD, 2026-11-01: "Proceed systematically."
-**Status:** In progress. Units 01-08 complete (working drafts). Units 09-11 queued.
+**Status:** All 11 units complete (working drafts). Phase 1 closes when the batch 3 verification report is filed and the matrix is fully marked studied.
 
 ## Order
 
@@ -31,9 +31,9 @@ Each exegetical study contains, in this order:
 | 06 | Ephesians 1:3-14 (1:11) | II | WP 6.21 contextual; full study open | Complete (working draft) |
 | 07 | Luke 22:42 | VII | WP 6.24 as control text; full study open | Complete (working draft) |
 | 08 | John 6:38 | VII | WP 6.24 conciliar citation; full study open | Complete (working draft) |
-| 09 | Hebrews 4:15 | VII | WP 6.19, 6.23, 6.24; Reformed exegesis open | Queued |
-| 10 | Hebrews 13:20 | II | Corpus systematic theology sec. 7; pactum sources gate | Queued |
-| 11 | Revelation 21-22 | VIII | WP abstract and sec. 3; full study open | Queued |
+| 09 | Hebrews 4:15 | VII | WP 6.19, 6.23, 6.24; Reformed exegesis open | Complete (working draft) |
+| 10 | Hebrews 13:20 | II | Corpus systematic theology sec. 7; pactum sources gate | Complete (working draft) |
+| 11 | Revelation 21-22 | VIII | WP abstract and sec. 3; full study open | Complete (working draft) |
 
 ## Rules
 
