@@ -24,3 +24,11 @@ Red shirt and dark jacket; glasses; white goatee with clean upper lip; no depict
 - [ ] Asset hash and GitHub URL in manifest
 - [ ] Independent review completed
 - [ ] JD disposition documented
+
+## Companion narrative and attribution
+Narrative: [relative narrative .md path]
+Source register: [internal repo path/commit and external original locators]
+Visible graphic footer: **oddXian.com | BWM-IS-XX**
+- [ ] Every panel mapped to narrative evidence
+- [ ] oddXian.com and volume ID legible in image
+- [ ] Verified publication permalink recorded when available
