@@ -2,7 +2,7 @@
 
 **Work package:** WP-FOUNDATIONAL-TREATISE, Phase 1
 **Direction:** JD, 2026-11-01: "Proceed systematically."
-**Status:** In progress. Units 01-05 complete (working drafts). Units 06-11 queued.
+**Status:** In progress. Units 01-08 complete (working drafts). Units 09-11 queued.
 
 ## Order
 
@@ -28,9 +28,9 @@ Each exegetical study contains, in this order:
 | 03 | Genesis 50:20 | II, V | WP 6.18 partial; textual-critical check open | Complete (working draft) |
 | 04 | Deuteronomy 29:29 | V, Prolegomena | WP 6.9 at argument level; verse study open | Complete (working draft) |
 | 05 | Romans 8:28-30 | II, V, VIII | WP 6.11, 6.15 partial; Greek apparatus and syntax open | Complete (working draft) |
-| 06 | Ephesians 1:3-14 (1:11) | II | WP 6.21 contextual; full study open | Queued |
-| 07 | Luke 22:42 | VII | WP 6.24 as control text; full study open | Queued |
-| 08 | John 6:38 | VII | WP 6.24 conciliar citation; full study open | Queued |
+| 06 | Ephesians 1:3-14 (1:11) | II | WP 6.21 contextual; full study open | Complete (working draft) |
+| 07 | Luke 22:42 | VII | WP 6.24 as control text; full study open | Complete (working draft) |
+| 08 | John 6:38 | VII | WP 6.24 conciliar citation; full study open | Complete (working draft) |
 | 09 | Hebrews 4:15 | VII | WP 6.19, 6.23, 6.24; Reformed exegesis open | Queued |
 | 10 | Hebrews 13:20 | II | Corpus systematic theology sec. 7; pactum sources gate | Queued |
 | 11 | Revelation 21-22 | VIII | WP abstract and sec. 3; full study open | Queued |
