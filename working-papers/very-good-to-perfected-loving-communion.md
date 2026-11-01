@@ -1,6 +1,6 @@
 # Working Paper: From Very Good to Perfected Loving Communion
 
-**Status:** Working hypothesis, initial draft  
+**Status:** Working hypothesis, consistency-reviewed draft  
 **Author:** James D. Longmire  
 **Date:** 2026-11-01  
 **Repository:** oddxian-apologetics  
@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Genesis declares the completed creation *very good* (Genesis 1:31), while the biblical narrative culminates in an incorruptible new creation and perfected communion with God (Revelation 21–22). This working paper examines the proposal that these are distinct states in one eternal divine decree. Created loving communion was genuinely good, upright, and mutable. Perfected loving communion is secured in Christ, incorruptible and everlasting. The Fall was genuinely evil and regrettable in its moral character, yet ordained within God's purpose of glorifying the Son as Judge and Redeemer. Refinement and redemption carry a real cost, borne supremely by the incarnate Son. The thesis must distinguish what Scripture directly establishes from inferences about necessity.
+Genesis declares the completed creation *very good* (Genesis 1:31), while the biblical narrative culminates in an incorruptible new creation and perfected communion with God (Revelation 21–22). This working paper examines the proposal that these are distinct states in one eternal divine decree. Created loving communion was genuinely good, upright, and mutable. Perfected loving communion is secured in Christ, incorruptible and everlasting. The Fall was genuinely evil and regrettable in its moral character, yet ordained within God's purpose of glorifying the Son as Judge and Redeemer. Refinement and redemption carry a real cost, borne supremely by the incarnate Son. The thesis distinguishes what Scripture directly establishes from inferences about necessity, including the distinction between universal providential purpose and event-by-event instrumental indispensability.
 
 ## 1. Definitions and thesis
 
@@ -17,7 +17,9 @@ Genesis declares the completed creation *very good* (Genesis 1:31), while the bi
 - **Perfected communion:** the consummated condition of the redeemed, permanently secured in righteousness and communion with God (Revelation 21–22).
 - **Mutable agency:** original human moral agency with a genuine capacity for rebellion.
 - **Refinement:** God's redemptive work bringing created humanity to glorified conformity to Christ; evil itself is not a morally constructive substance.
-- **Decretal necessity:** necessity conditional on God's eternally chosen purpose; distinguish from absolute logical or metaphysical necessity.
+- **Decretal necessity:** the certainty of what God has freely decreed, conditional upon that decree; distinguish from absolute logical or metaphysical necessity and from the claim that each particular event is instrumentally indispensable.
+- **Apparently gratuitous suffering:** suffering whose morally sufficient divine purpose is not discernible to a finite observer.
+- **Actually gratuitous suffering:** suffering that lacks any morally sufficient purpose; the proposed framework excludes this given its premises of perfectly good, wise, comprehensive providence.
 - **Divine regret:** Scripture's genuine presentation of God's holy displeasure at wickedness, without presuming ignorance or failure of divine sovereignty.
 
 **Proposed thesis:** God's eternal purpose was perfected loving communion through Christ. Original creation was wholly and very good for its intended initial state, though humanity was mutable. The Fall, judgment, sacrifice, and redemption were regrettable but necessary within God's chosen decree, culminating in the Son's manifestation as Judge and Redeemer and the confirmation of redeemed humanity in everlasting communion.
@@ -97,7 +99,7 @@ The logical PoE alleges inconsistency among God's omnipotence, omniscience, perf
 
 ### 6.4 The evidential and existential Problems of Evil
 
-The evidential PoE asks whether the actual scale, apparently gratuitous instances, unequal distribution, and duration of suffering make theism less plausible. The refinement thesis gives a global teleology but does not by itself demonstrate why a particular child's suffering, natural disaster, or atrocity was indispensable. Nor does a future consummation trivialize present injury. Any complete defense must address natural evil, nonhuman suffering, the uneven burdens of history, and whether equivalent goods were achievable by less costly means. Biblical lament, judgment, and the cross must remain substantive features of the account.
+The evidential PoE asks whether the actual scale, apparently gratuitous instances, unequal distribution, and duration of suffering make theism less plausible. The refinement thesis, together with comprehensive wise and holy providence, denies *actual* gratuitousness within its theological premises (§6.12). It does not disclose why a particular child's suffering, natural disaster, or atrocity occurred, nor demonstrate that each event was instrumentally indispensable. Nor does a future consummation trivialize present injury. An external evidential defense must still engage natural evil, nonhuman suffering, the uneven burdens of history, and arguments that equivalent goods might have been achieved by less costly means. Deuteronomy 29:29 and warranted trust (§§6.9–6.10) delimit what is knowable without replacing that defense. Biblical lament, judgment, and the cross must remain substantive features of the account.
 
 ### 6.5 The necessity of refinement: modal distinctions
 
@@ -132,7 +134,7 @@ The central thesis is refined by distinguishing **election as God's choice of pe
 
 The actual biblical decree, however, encompasses the Son's saving work in response to sin. Redemption *from sin* conceptually requires actual sin; righteous judgment *of culpable rebellion* requires actual rebellion; the ordained crucifixion involves suffering and culpable human action (Acts 2:23; 4:27–28). Hebrews 2:10 connects the Son's completed mediatorial work with suffering. These claims establish that **some evil and suffering belong necessarily to fulfillment of this particular decree**, without asserting that every evil event is individually indispensable or that God could not decree a different sinless history.
 
-**Refined thesis:** God eternally elected a people in Christ for perfected loving communion. His freely chosen decree includes the Son's glorification as Redeemer and Judge through actual rebellion, righteous judgment, and redemptive suffering. Those evils remain morally evil and genuinely regrettable. Their ordained occurrence is necessary relative to that decree and its specified means.
+**Refined thesis:** God eternally elected a people in Christ for perfected loving communion. His freely chosen decree includes the Son's glorification as Redeemer and Judge through actual rebellion, righteous judgment, and redemptive suffering. Some evil and judgment therefore belong to the fulfillment of the actual redemptive decree; Romans 9:22–23 further connects the manifestation of justice and mercy to their actual objects. God sovereignly determines the precise historical extent and distribution within His decree (Ephesians 1:11). Those evils remain morally evil and genuinely regrettable. Their occurrence is certain relative to the decree; the claim does not prove that each event is uniquely indispensable to the redemptive end. The classical *pactum salutis* provides a theological synthesis of the eternal redemptive purpose (Ephesians 1:3–14; 1 Peter 1:19–20; Titus 1:2; John 17:1–5, 24), rather than a covenant explicitly named as such in these passages.
 
 **Ontological qualification:** A creature cannot be an uncreated, self-existent God. Yet this does not by itself prove that God could not immediately establish a dependent creature in confirmed righteousness. The proposed necessity of redemptive history rests on the *content of God's decree*, not an alleged logical entailment from creatureliness to inevitable sin.
 
@@ -153,7 +155,7 @@ The actual biblical decree, however, encompasses the Son's saving work in respon
 **Response:** Genesis 6:6 depicts genuine divine grief at wickedness; Genesis 50:20 depicts sovereign good intention through human evil. A coherent account distinguishes the moral evaluation of an act from God's comprehensive providential intention. **Residual:** Examine divine impassibility, anthropopathic language, and the scope of divine affections without dismissing either text.
 
 **O5. Why not obtain the same good without suffering?**  
-**Response:** Redemption from sin and the ordained suffering of Christ have determinate content in this decree (Acts 2:23; Hebrews 2:10). This provides a response concerning the *kind* of history decreed. **Residual:** It does not prove the necessity of every instance or quantity of suffering, particularly apparently gratuitous suffering.
+**Response:** Redemption from sin and the ordained suffering of Christ have determinate content in this decree (Acts 2:23; Hebrews 2:10). This provides a response concerning the *kind* of history decreed. **Residual:** It does not disclose the particular purpose of each suffering event or prove each event uniquely indispensable. Within the model, apparent gratuitousness does not entail actual gratuitousness (§6.12).
 
 **O6. Does glorified freedom disprove the need for evil?**  
 **Response:** Glorified human beings can be dependent creatures confirmed in righteousness (1 Corinthians 15:42–49; Revelation 21:27). Thus freedom does not require perpetual ability to sin. The distinction is between original mutable goodness and consummated confirmed goodness. **Residual:** No inference from mutability alone to inevitable sin is warranted.
@@ -162,7 +164,7 @@ The actual biblical decree, however, encompasses the Son's saving work in respon
 **Response:** The proposed moral ontology identifies God's eternal triune character as the ground of goodness (1 John 4:8; John 17:24), with commands as its creature-facing expression. **Residual:** Demonstrate why this identification has explanatory content, and account for justice, holiness, and particular commands without reducing goodness to an undefined use of *love*.
 
 **O8. Does a global redemptive purpose answer the evidential PoE?**  
-**Response:** It gives a coherent providential end, but does not independently explain the unequal distribution, scale, or apparent pointlessness of particular suffering. **Residual:** The evidential problem remains open and must be treated without instrumentalizing victims.
+**Response:** Comprehensive wise and holy providence excludes actually gratuitous suffering within the model's premises (§6.12), while Romans 8:28–30 gives positive assurance of providential good for the called. The particular reasons for the unequal distribution and scale of suffering may remain undisclosed (§§6.9–6.10). **Residual:** The evidential problem remains open and must be treated without instrumentalizing victims.
 
 **O9. Is the Fall itself morally good because ordained?**  
 **Response:** No. Genesis 50:20 preserves the evil moral intention of the perpetrators while affirming God's good intention. Ordination is not moral approbation. **Residual:** Clarify the relation between permissive and efficacious divine willing across Reformed primary sources.
@@ -178,7 +180,7 @@ Deuteronomy 29:29 distinguishes the secret things belonging to the LORD from the
 
 **Reserved particulars:** Scripture does not disclose an exhaustive explanation for why God decreed this precise history, this distribution and magnitude of suffering, or each apparently gratuitous event. The specific providential rationale for an individual tragedy must not be invented or confidently assigned without revelation.
 
-**Epistemic rule:** A missing revealed explanation for a particular evil does not logically establish the absence of a morally sufficient divine reason. Neither does the appeal to secret counsel demonstrate that such a reason exists for every particular evil or defeat all evidential objections. The evidential PoE remains an open assessment of comparative explanatory adequacy. Deuteronomy 29:29 constrains claims about what we know; it does not exempt revealed theological propositions from testing for coherence.
+**Epistemic rule:** A missing revealed explanation for a particular evil does not logically establish the absence of a morally sufficient divine reason. Neither does the appeal to secret counsel *independently demonstrate* that such a reason exists for every particular evil or defeat all evidential objections. Within the model, the claim of sufficient purpose rests on the additional premises of perfectly good, wise, comprehensive providence (§6.12). The evidential PoE remains an open assessment of comparative explanatory adequacy. Deuteronomy 29:29 constrains claims about what we know; it does not exempt revealed theological propositions from testing for coherence.
 
 **Pastoral and moral limit:** The appeal to secret counsel must never excuse injustice, silence lament, minimize suffering, or replace duties of protection and mercy. The verse itself directs attention to the obligations that have been revealed.
 
@@ -254,8 +256,8 @@ Deuteronomy 29:29 assigns secret things to the LORD and revealed things to His p
 
 **HIGH (direct biblical text):** original creation declared very good; God purposefully governs human evil; redeemed humanity is destined for glorification.
 
-**MEDIUM (theological synthesis):** original integrity and consummated perfection are distinct states within one divine purpose.
+**MEDIUM (theological synthesis):** original integrity and consummated perfection are distinct states within one divine purpose; some evil and judgment are necessary relative to the actual redemptive decree; the *pactum salutis* links pre-temporal election to the Son's mediatorial mission; and no suffering is actually gratuitous if the model's comprehensive wise and holy providence premises are true.
 
-**UNCERTAIN (further argument needed):** unperfected free creatures must inevitably sin; the Fall was the only possible route to perfected loving communion.
+**UNCERTAIN (further argument needed):** unperfected free creatures must inevitably sin; the Fall was the only possible route to perfected loving communion; each particular evil was instrumentally indispensable; and the precise distribution of suffering can be explained from available revelation.
 
 **Working claim:** The Fall was *regrettable but necessary* within the particular divine decree that culminates in the Son's glory as Judge and Redeemer. This claim is advanced as a theological thesis for rigorous exegetical and philosophical testing, not as a proven lexical entailment of Genesis 1:31.
