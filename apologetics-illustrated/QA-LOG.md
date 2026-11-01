@@ -31,4 +31,10 @@
 - Deviations carried forward: panel 8 still has no speech bubble (the scripted close paraphrase stands in the narrative); the header framing box carries the answer line only, with the objection in full in panel 1; panel 3's bubble is parchment-toned rather than white (composited scene); panel 10's closing panel is cream and gold rather than the navy treatment of revision 2 (both revision 3 generations produced this design independently).
 - Standing lessons added: (1) a full-plate reference image overpowers text instructions in the generator; reference weighting decides which instructions survive. (2) Programmatic repairs must be located from magnified crops that have actually been read, never from grid assumptions; three patch attempts failed on unverified coordinates before the crop-first method closed them. (3) A median-filter pass removes small dark glyphs on parchment cleanly and is the first tool for that class of defect.
 
+### 2026-11-01: AI-01 revision 4 (QA fixes; likeness from JD's photo)
+
+- JD supplied a real photograph of himself as the likeness source and directed the outstanding QA fixes. An illustrated portrait of JD was generated from the photo (with the style guide and exemplar as references) and is filed with the brand assets as the program's standing likeness reference, alongside the photo.
+- Panel 8's scene was replaced with a new generation drawn from that portrait reference, carrying the panel's speech bubble ("They examined the Scriptures daily to see if these things were so." / Acts 17:11 beneath the bubble, verified letter by letter at 4x). The revision 1 to 3 deviation is closed. The duplicate Acts 17:11 at the caption foot was erased with a local parchment patch; the caption's own lettering is untouched. A pixel diff against revision 3 confirms no change outside panel 8.
+- Disclosure: the scene was cropped from its generation and scaled into the panel frame with a mild (about 8 percent) horizontal squeeze to the frame's aspect. Remaining deviations are unchanged (header framing box answer only; panel 3 parchment-toned bubble; panel 10 cream and gold).
+
 Human-Curated, AI-Enabled (HCAE)

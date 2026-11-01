@@ -1,7 +1,16 @@
 # AI-01 Transcription and QA Record
 
-**Plate:** plate.jpg, revision 3 (1280 x 1920 JPEG, 1,015,951 bytes, SHA-256 5b1d06f05611223dfce74cbcce64fb0a841d705d0de9abe340626a032b5b2dcc)
+**Plate:** plate.jpg, revision 4 (1280 x 1920 JPEG, 974,064 bytes, SHA-256 b10812b4559647c278c1b3da8e5524ab0d92c95ca66c1780a85bf71ffb2e3723)
 **Produced:** 2026-11-01 by thinx-muse. **Status:** graphic-draft, QA passed with disclosed repairs, awaiting JD approval.
+
+## Revision 4 (2026-11-01): panel 8 completed; host likeness from JD's photo
+
+JD supplied a real photograph of himself as the likeness source and directed the outstanding QA fixes. Two changes, both confined to panel 8 (a pixel diff against revision 3 confirms nothing outside panel 8 changed):
+
+- Panel 8's scene was replaced with a new wide generation whose host is drawn from the illustrated portrait generated from JD's photo (the portrait and photo are now the program's standing likeness references, filed with the brand assets). The new scene carries the panel's speech bubble at last: "They examined the Scriptures daily to see if these things were so." with "Acts 17:11" printed beneath the bubble, verified letter by letter at 4x. The scene was cropped from the generation and scaled into the panel's scene frame with a mild (about 8 percent) horizontal squeeze to the frame's aspect. The revision 1 to 3 deviation (no panel 8 bubble) is closed.
+- The duplicate "Acts 17:11" at the foot of panel 8's caption, placed there in revision 3 because the bubble was missing, was erased with a local parchment patch now that the reference rides with the bubble, matching every other panel. The caption's three lines are the plate's own lettering, untouched.
+
+Remaining deviations, unchanged from revision 3: the header framing box carries the one-line answer only (objection in full in panel 1); panel 3's bubble is parchment-toned; panel 10's closing panel is cream and gold rather than navy.
 
 ## Revision history
 
@@ -40,7 +49,7 @@ Deviations recorded for JD's ruling:
 - Corpus discipline verified as in earlier revisions: preservation promise and preservation inference kept separate (panels 5 and 6); no numeric manuscript claims (the corpus holds none; the IS-03 narrative lists that research as outstanding); panel 7 worded at the IS-03 register's UNCERTAIN strength for the canon formulation.
 - No anthropomorphic depiction of divine Persons; no claim that every manuscript or canon decision is infallible.
 
-## Transcription (as printed on the revision 3 plate)
+## Transcription (as printed on the revision 4 plate)
 
 Header: WHY YOU CAN TRUST YOUR BIBLE / God-Breathed, Faithfully Handed Down, and Open to Examination. / Spines: GOD HAS SPOKEN / BREATHED OUT / HANDED DOWN / RECOGNIZED / Framing box: God breathed it out, and His providence has handed it down in the open. / AI-01
 
@@ -51,7 +60,7 @@ Panel 4 (badge 4) THROUGH HUMAN HANDS. "Men spoke from God as they were carried 
 Panel 5 (badge 5) THE WORD ENDURES. "The word of our God will stand forever." Caption: Empires that copied it have fallen; the word stands. Its endurance is a promise before it is a statistic. Isaiah 40:8 (printed at the foot of the caption).
 Panel 6 (badge 6) HANDED DOWN IN THE OPEN. "Copyists, translations, variants: compared, not hidden." (The textual evidence.) Caption: Variants exist, and Christians say so first. Witnesses are compared openly; a faith that hid its evidence would deserve suspicion.
 Panel 7 (badge 7) RECOGNIZED, NOT INVENTED. "The church received these writings; it did not create their authority." Luke 24:44; 2 Peter 3:15-16. Caption: Jesus already spoke of the Scriptures as a settled body, and Peter already counted Paul's letters among them.
-Panel 8 (badge 8) TEST IT LIKE THE BEREANS. (No speech bubble; see deviations.) Caption: The Bible commends its own cross-examination. Noble hearers test even apostolic preaching against the written word. Acts 17:11 (printed at the foot of the caption).
+Panel 8 (badge 8) TEST IT LIKE THE BEREANS. "They examined the Scriptures daily to see if these things were so." Acts 17:11 (printed beneath the bubble). Caption: The Bible commends its own cross-examination. Noble hearers test even apostolic preaching against the written word.
 Panel 9 (badge 9) TRUTH YOU CAN STAND ON. "Your word is truth." John 17:17. Caption: Scripture stands first and governs. Confessions and scholars serve under it, and every claim here is tagged so you can check its footing.
 Panel 10. THE BOTTOM LINE. God-breathed in origin, not man-invented / Human authors, carried along by the Spirit / Enduring by God's promise, stewarded by His providence / Handed down in the open, variants compared not hidden / Canon recognized by the church, not created by it / Open to examination, and commending it. Closing: "The word of our God will stand forever." Isaiah 40:8.
 
