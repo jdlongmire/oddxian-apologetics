@@ -126,6 +126,50 @@ The thesis should retain the phrase **“regrettable but necessary”** with its
 
 **Priority objections:** the alleged circularity of divine-nature ethics; God's relationship to sin as first cause; whether suffering can be justified without instrumentalizing persons; the status of the unevangelized and the finally condemned; and the apparent availability of sinless perfected communion.
 
+### 6.7 Election, redemptive necessity, and the ordained minimum
+
+The central thesis is refined by distinguishing **election as God's choice of persons and destination** from **the content of the actual redemptive decree**. Ephesians 1:4–5 grounds election in Christ before the foundation of the world and specifies holiness and adoption; Romans 8:29–30 joins predestination, conformity to the Son, and glorification. Neither text, taken in isolation, proves that election in every conceivable divine decree entails a Fall.
+
+The actual biblical decree, however, encompasses the Son's saving work in response to sin. Redemption *from sin* conceptually requires actual sin; righteous judgment *of culpable rebellion* requires actual rebellion; the ordained crucifixion involves suffering and culpable human action (Acts 2:23; 4:27–28). Hebrews 2:10 connects the Son's completed mediatorial work with suffering. These claims establish that **some evil and suffering belong necessarily to fulfillment of this particular decree**, without asserting that every evil event is individually indispensable or that God could not decree a different sinless history.
+
+**Refined thesis:** God eternally elected a people in Christ for perfected loving communion. His freely chosen decree includes the Son's glorification as Redeemer and Judge through actual rebellion, righteous judgment, and redemptive suffering. Those evils remain morally evil and genuinely regrettable. Their ordained occurrence is necessary relative to that decree and its specified means.
+
+**Ontological qualification:** A creature cannot be an uncreated, self-existent God. Yet this does not by itself prove that God could not immediately establish a dependent creature in confirmed righteousness. The proposed necessity of redemptive history rests on the *content of God's decree*, not an alleged logical entailment from creatureliness to inevitable sin.
+
+**Scope limitation:** The argument supports necessity of *some* evil and suffering in the ordained redemptive history. It does not justify each particular atrocity, prove that every instance of natural suffering is indispensable, or establish that the actual decree is the only logically possible decree. Those are separate evidential and modal obligations.
+
+### 6.8 Objections and responses: initial dialectical register
+
+**O1. Could God not have created everyone already perfected?**  
+**Response:** A creature cannot possess God's underived aseity. Created beings can nevertheless be permanently secured in righteousness through divine sustaining grace. An immediately confirmed sinless humanity is not ruled out by creatureliness alone; it would not instantiate the specific redemptive history God decreed. **Residual:** Why this decree rather than another remains a question about divine wisdom, not a deduction from Genesis 1:31.
+
+**O2. Does election itself necessitate evil?**  
+**Response:** Election unto holiness and adoption (Ephesians 1:4–5) does not, abstractly considered, entail rebellion. Election *within the actual decree of redemption from sin and judgment of sin* entails that actual sin occurs. **Residual:** Establish the full content of the decree by contextual exegesis rather than assuming it from the word *election*.
+
+**O3. Does this make God the author of sin?**  
+**Response:** Genesis 50:20 distinguishes God's good intention from the brothers' evil intention concerning the same event; Acts 2:23 similarly joins divine determination and culpable human action. This demonstrates scriptural coexistence, but a full metaphysical account of secondary causes and culpability is still required. **Residual:** Engage Westminster Confession 3.1 and 5.4 from the primary confessional text and compare alternative theological accounts.
+
+**O4. If God regrets evil, why decree it?**  
+**Response:** Genesis 6:6 depicts genuine divine grief at wickedness; Genesis 50:20 depicts sovereign good intention through human evil. A coherent account distinguishes the moral evaluation of an act from God's comprehensive providential intention. **Residual:** Examine divine impassibility, anthropopathic language, and the scope of divine affections without dismissing either text.
+
+**O5. Why not obtain the same good without suffering?**  
+**Response:** Redemption from sin and the ordained suffering of Christ have determinate content in this decree (Acts 2:23; Hebrews 2:10). This provides a response concerning the *kind* of history decreed. **Residual:** It does not prove the necessity of every instance or quantity of suffering, particularly apparently gratuitous suffering.
+
+**O6. Does glorified freedom disprove the need for evil?**  
+**Response:** Glorified human beings can be dependent creatures confirmed in righteousness (1 Corinthians 15:42–49; Revelation 21:27). Thus freedom does not require perpetual ability to sin. The distinction is between original mutable goodness and consummated confirmed goodness. **Residual:** No inference from mutability alone to inevitable sin is warranted.
+
+**O7. Is divine-nature ethics circular?**  
+**Response:** The proposed moral ontology identifies God's eternal triune character as the ground of goodness (1 John 4:8; John 17:24), with commands as its creature-facing expression. **Residual:** Demonstrate why this identification has explanatory content, and account for justice, holiness, and particular commands without reducing goodness to an undefined use of *love*.
+
+**O8. Does a global redemptive purpose answer the evidential PoE?**  
+**Response:** It gives a coherent providential end, but does not independently explain the unequal distribution, scale, or apparent pointlessness of particular suffering. **Residual:** The evidential problem remains open and must be treated without instrumentalizing victims.
+
+**O9. Is the Fall itself morally good because ordained?**  
+**Response:** No. Genesis 50:20 preserves the evil moral intention of the perpetrators while affirming God's good intention. Ordination is not moral approbation. **Residual:** Clarify the relation between permissive and efficacious divine willing across Reformed primary sources.
+
+**O10. Does this imply God needed creation or evil for His glory?**  
+**Response:** God's intrinsic perfection and eternal triune communion are independent of creation (John 17:5, 24). The decree concerns the historical manifestation of glory through created relations, judgment, and redemption. **Residual:** Articulate the distinction between intrinsic glory and manifested glory without implying deficiency in God.
+
 ## 7. Research and validation plan
 
 1. Perform Hebrew lexical study of *ṭôḇ*, *meʾōḏ*, *tāmîm*, and *šālēm*, with primary textual contexts.
