@@ -309,15 +309,37 @@ This section tests the argument's internal validity without claiming to have est
 
 **Assessment:** **HIGH** for the Hebrew words and their basic grammatical relation in Genesis 1:31. **MEDIUM** for the canonical theological synthesis. **OPEN:** complete contextual lexical survey of *tāmîm* and *šālēm*, Genesis 6:6's verbal semantics, and Genesis 50:20's Hebrew construction. No comprehensive lexical study is claimed.
 
+### 6.18 Genesis 6:6 and 50:20: Hebrew semantics and asymmetrical intention
+
+**Genesis 6:6:** The Masoretic text uses וַיִּנָּחֶם (*wayyinnāḥem*, Niphal of נחם) concerning the LORD's response to making humanity, and וַיִּתְעַצֵּב (*wayyitʿaṣṣēḇ*, Hitpael of עצב) concerning grief in His heart. The ESV renders the first with *regretted* and the second with *grieved*. The first verb has a semantic range dependent on context, including regret, relenting, and consolation in different constructions; its meaning must not be mechanically equated with human ignorance of future events. The second conveys genuine grief in the narrative's presentation. Genesis 6:5–7 places both within God's holy response to pervasive human wickedness. **Finding:** The text supports genuine moral displeasure without explicitly deciding the metaphysical mechanics of divine affections or revising the comprehensive-decree passages.
+
+**Genesis 50:20:** The Hebrew contrasts the brothers' evil design against Joseph with God's good design in the same matter. The verb חשב (*ḥāšaḇ*, to reckon/plan/intend) occurs with both human and divine subjects; the repeated verbal root supplies a particularly strong textual basis for *asymmetrical intention*. The clause ends with the preservation of many lives. **Finding:** This is a concrete case of a single historical complex being evil in creaturely intention and ordered to good by God. Its application to all history requires the wider providential premises of Ephesians 1:11 and Romans 8:28–30.
+
+**Translation control:** ESV renderings *regretted/grieved* (Genesis 6:6) and *meant ... for evil / meant ... for good* (Genesis 50:20) are consistent with the respective Hebrew constructions. Other English translations may choose *was sorry* or *intended*; those choices do not independently resolve the theological question. A full comparative translation table and critical-apparatus inspection remain to be completed.
+
+**Theological result:** God's regret at creaturely evil and His good intention in ordaining a history containing it are logically compatible if *regret* concerns the moral character of wickedness and *ordination* concerns God's comprehensive holy purpose. This is a systematic reconciliation of distinct biblical passages, rather than a lexical proof that Genesis 6:6 by itself teaches exhaustive predestination.
+
+### 6.19 Created freedom, glorified impeccability, and Christ's unique person
+
+**Adamic state:** Ecclesiastes 7:29 and WCF 9.2 support original uprightness with mutable created agency. The ability to rebel does not entail that rebellion is unavoidable independently of God's decree.
+
+**Glorified state:** First Corinthians 15:42–49 and Revelation 21:27 support incorruptibility and exclusion of impurity. WCF 9.5 states that the glorified will is perfectly and immutably free to good. Therefore, the proposed perfected loving communion need not preserve the possibility of sin to preserve authentic creaturely freedom.
+
+**Christological distinction:** Hebrews 4:15 presents the incarnate Son as tempted yet without sin; John 1:14 and Colossians 2:9 ground His full incarnation and divine identity. In classical Chalcedonian Christology, one divine person subsists in two natures without confusion or division. An argument for Christ's impeccability therefore turns on the identity and unity of the divine person and the proper account of His genuine human willing and temptation; it cannot simply be transferred to Adam or the redeemed. The claim that the incarnate Son *could not* sin is a further doctrinal inference, not a proposition explicitly phrased in Hebrews 4:15.
+
+**Logical result:** Three claims are mutually consistent: Adam was upright and mutable; Christ is genuinely human and sinless, with a unique divine personal identity; glorified humans remain creatures yet are confirmed in righteousness. None entails that all originally mutable persons must sin, or that freedom requires an ongoing capacity for evil.
+
+**Open source task:** Validate the precise Christological formulation against the Definition of Chalcedon and primary Reformed Christological texts before assigning HIGH confidence to the impeccability inference.
+
 ## 7. Research and validation plan
 
 1. **Partially completed:** Genesis 1:31's *ṭôḇ meʾōḏ* examined in the Hebrew text (§6.17). Complete contextual studies of *tāmîm* and *šālēm*.
-2. Compare the Hebrew and major translations of Genesis 6:6 and Genesis 50:20.
+2. **Partially completed:** Hebrew verbal semantics and ESV translation choices for Genesis 6:6 and Genesis 50:20 examined (§6.18). Complete broader translation comparison and textual-critical verification.
 3. **Partially completed:** Romans 8:28–30's immediate context and principal textual variant examined (§6.15). Continue with critical-apparatus review and fuller Greek syntactical analysis.
 4. **Partially completed:** WCF 3.1, 4.2, 5.1–5.4, 6.1, 9.2, and 9.5; Augustine *Enchiridion* §§10–14, 23; and Calvin *Institutes* I.15–18 reviewed at section level (§§6.14, 6.16). Continue targeted historical comparison and exact edition checks.
 5. Develop formal distinctions among logical, ontological, and decretal necessity.
-6. **Partially completed:** Adamic mutability and glorified impeccability compared with WCF 9.2 and 9.5 (§6.16). Develop the distinct Christological treatment of the incarnate Son's impeccability.
-7. Cross-reference the repository's existing systematic theology of eternal triune loving communion before elevating this draft to canonical status.
+6. **Partially completed:** Adamic mutability, glorified impeccability, and the distinctive Christological issue analyzed (§§6.16, 6.19). Verify against Chalcedon and primary Reformed Christological sources.
+7. **Open:** Cross-reference the repository's existing systematic theology of eternal triune loving communion before elevating this draft to canonical status. A default-branch code search for *loving communion*, *eternal covenant*, and *triune* returned no indexed results; this does not establish absence of the relevant material.
 
 ## 8. Provisional assessment
 
