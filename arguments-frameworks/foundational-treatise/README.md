@@ -12,5 +12,6 @@ This directory holds the treatise program's working files. Parts I-X will be dra
 - `scripture-matrix.md` - Appendix A: anchor texts, claim load, coverage, gaps, status
 - `exegesis/` - one study per anchor text, in canonical order
   - `01-genesis-1-31.md` - complete (working draft)
+  - `02-genesis-6-5-7.md` - complete (working draft)
 
 Human-Curated, AI-Enabled (HCAE)
