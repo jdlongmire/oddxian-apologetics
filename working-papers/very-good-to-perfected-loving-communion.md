@@ -331,13 +331,44 @@ This section tests the argument's internal validity without claiming to have est
 
 **Open source task:** Validate the precise Christological formulation against the Definition of Chalcedon and primary Reformed Christological texts before assigning HIGH confidence to the impeccability inference.
 
+### 6.20 Modal analysis: certainty, necessity, and explanatory scope
+
+Let **D** be the actual decree, **F** the Fall, **R** redemption *from sin*, and **C** perfected communion. Use □ for necessity and ◇ for possibility, without assuming that every conceivable world corresponds to a world God could decree.
+
+**Decretal certainty:** If D includes F and D is infallibly fulfilled, then D → F. This conditional does not entail □F. The distinction is crucial: the certainty of what God has decreed does not establish that the Fall was logically or metaphysically necessary independently of that decree.
+
+**Conceptual entailment:** R → (some actual sin). If the decree specifies the Son's saving work as redemption from actual sin, then that work presupposes sin within the history. This does not imply C → F in every possible history, nor does it imply that God required evil for His intrinsic perfection.
+
+**Individual-event claim:** If e is included in D, then e occurs given D. This is distinct from claiming that removal of e while holding the final redemptive end fixed would be impossible. The latter is an indispensability counterfactual and requires additional justification.
+
+**Moral-purpose claim:** T1–T3 (§6.13) entail a morally sufficient reason for the inclusion of each suffering event within the actual history. They do not identify that reason, prove unique optimality, or establish that all counterfactual histories are morally inferior.
+
+**Verdict:** The phrase *regrettable but necessary* is logically defensible only with its explicit decretal qualifier. The stronger claims □F, □(F given C), and unique optimality remain unproved and are not required by the model.
+
+### 6.21 Source verification register and remaining documentary gaps
+
+The following separates directly identifiable primary-source passages from editorial and systematic interpretations. It is a **verification register**, not a claim that a complete critical edition or textual apparatus has been consulted.
+
+| Claim | Primary passage or document | Status |
+|---|---|---|
+| Creation evaluated *very good* | Genesis 1:31, Hebrew *ṭôḇ meʾōḏ* | Basic lexical claim established; full semantic survey pending |
+| Regret and grief at wickedness | Genesis 6:5–7, Hebrew verbs נחם and עצב | Basic verbal identification established; stem and translation comparison require source-level verification |
+| Contrasting intentions | Genesis 50:20, repeated חשב | Contextual argument developed; textual-critical check pending |
+| Comprehensive providence | Ephesians 1:11; Romans 8:28–30 | Contextual argument developed; Greek critical-apparatus check pending |
+| Original and glorified freedom | WCF 9.2, 9.5; 1 Corinthians 15:42–49 | Primary confessional distinction identified; doctrinal synthesis remains interpretive |
+| Christ's unique person | Definition of Chalcedon (451); Hebrews 4:15 | Christological boundary stated; exact primary conciliar wording and Reformed exegesis pending |
+| Moral ontology | John 17:24; 1 John 4:8; Genesis 18:25 | Theological synthesis; fuller argument for holiness, justice, and truth pending |
+| Covenant of redemption | Ephesians 1:3–14; 1 Peter 1:19–20; Titus 1:2 | Scriptural pattern identified; historical *pactum salutis* formulations pending |
+
+**Research integrity rule:** No specific manuscript distribution, patristic quotation, confessional edition pagination, or Greek textual-critical conclusion should be asserted without checking the relevant primary source or critical apparatus. Where only a translation or editorial note has been consulted, label the mediation explicitly.
+
 ## 7. Research and validation plan
 
 1. **Partially completed:** Genesis 1:31's *ṭôḇ meʾōḏ* examined in the Hebrew text (§6.17). Complete contextual studies of *tāmîm* and *šālēm*.
 2. **Partially completed:** Hebrew verbal semantics and ESV translation choices for Genesis 6:6 and Genesis 50:20 examined (§6.18). Complete broader translation comparison and textual-critical verification.
 3. **Partially completed:** Romans 8:28–30's immediate context and principal textual variant examined (§6.15). Continue with critical-apparatus review and fuller Greek syntactical analysis.
 4. **Partially completed:** WCF 3.1, 4.2, 5.1–5.4, 6.1, 9.2, and 9.5; Augustine *Enchiridion* §§10–14, 23; and Calvin *Institutes* I.15–18 reviewed at section level (§§6.14, 6.16). Continue targeted historical comparison and exact edition checks.
-5. Develop formal distinctions among logical, ontological, and decretal necessity.
+5. **Completed at the argument level:** Formal distinctions among logical, ontological, decretal, and instrumental necessity (§6.20). Counterfactual unique-optimality arguments remain unsupported.
 6. **Partially completed:** Adamic mutability, glorified impeccability, and the distinctive Christological issue analyzed (§§6.16, 6.19). Verify against Chalcedon and primary Reformed Christological sources.
 7. **Open:** Cross-reference the repository's existing systematic theology of eternal triune loving communion before elevating this draft to canonical status. A default-branch code search for *loving communion*, *eternal covenant*, and *triune* returned no indexed results; this does not establish absence of the relevant material.
 
