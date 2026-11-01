@@ -5,19 +5,25 @@
 **Repository:** jdlongmire/oddxian-apologetics
 **Date:** 2026-11-01
 **Type:** Systematic theology / biblical exegesis / philosophical theology
-**Authority:** User-originated intent; proposal ratified by JD on 2026-11-01. Scholarly and exegetical validation proceeds under the gates in section 7.
+**Authority:** User-originated intent; proposal ratified by JD on 2026-11-01, with the corpus scope clarified by JD the same day to cover both the internal corpus and the broader corpus of Christian scholarship. Scholarly and exegetical validation proceeds under the gates in section 7.
 **Byline:** James (JD) Longmire / oddXian Apologetics Ministry (ORCID line may accompany)
 
 ## 1. Objective
 
-Create a foundational treatise that synthesizes and expands the corpus from both logical (good and necessary consequence) and exegetical perspectives.
+Create a foundational treatise that synthesizes and expands the corpus from both logical (good and necessary consequence) and exegetical perspectives. "Corpus" here covers two corpora: JD's internal corpus and the broader corpus of Christian scholarship (section 2).
 
 The treatise states the whole system once, in systematic order, with its warrants shown, and stands upstream of the existing pieces. The existing manuscripts are preserved as sources and are not silently overwritten (standing corpus-alignment rule). The treatise is the synthesis layer; the sources remain the record of how each part was developed.
 
 Working title: *Triune Loving Communion: God's Good Decree from Creation to Perfected Communion. A Foundational Treatise.*
 Proposed home: `arguments-frameworks/foundational-treatise/`, an index plus one file per part.
 
-## 2. Corpus to be synthesized (verified on main, 2026-11-01)
+## 2. The two corpora
+
+JD's clarification (2026-11-01): "corpus" means both the internal corpus and the broader corpus of Christian scholarship. The treatise synthesizes the internal corpus and expands it by engagement with the broader corpus. The two corpora have different roles and are not merged into one undifferentiated source pool.
+
+**Hierarchy of authority across both corpora:** Scripture is primary and governing. Confessional standards (Westminster Confession and Catechisms) are subordinate summaries, treated as boundary markers. Scholarship in every era is an interlocutor: cited from primary texts where available, edition-specific, never treated as proof by reputation, and answered where it disagrees.
+
+### 2A. Internal corpus (verified on main, 2026-11-01)
 
 | Source | Size | Contribution |
 |---|---|---|
@@ -34,7 +40,20 @@ Proposed home: `arguments-frameworks/foundational-treatise/`, an index plus one 
 
 Expansion beyond synthesis: the decree-and-theodicy material (PR #5) postdates the earlier corpus; the treatise integrates it as a full locus, which none of the earlier pieces do. The slavery case study and the hard-text scrutiny list carry in from WP-TRIUNE-LOVING-COMMUNION.
 
-Corpus boundary as ratified: the ten sources above. The wider oddXian corpus (Consilience, Designism, LPI, hydrotectonic work) stays outside as separate works the treatise may cite but does not absorb.
+Boundary for the internal corpus: the ten sources above. The wider oddXian corpus (Consilience, Designism, LPI, hydrotectonic work) stays outside as separate works the treatise may cite but does not absorb.
+
+### 2B. Broader corpus of Christian scholarship (engagement corpus)
+
+Built per locus during Phases 1-2 as a named source register (Appendix C), with JD approving the interlocutor list per part. Indicative strata, not a closed list:
+
+- **Creeds and councils (primary historical sources):** Nicaea and the Nicene-Constantinopolitan Creed; Ephesus; Chalcedon (451); Constantinople III (680-681, two wills). Cited from the conciliar definitions themselves.
+- **Patristic:** Irenaeus (recapitulation), Athanasius, Maximus the Confessor (dyothelitism), Augustine (City of God, Confessions, anti-Pelagian works; two states of created freedom).
+- **Medieval:** Anselm (Cur Deus Homo), Aquinas (Summa Theologiae on providence, evil as privation, and the divine will).
+- **Reformation and Reformed orthodoxy:** Calvin (Institutes, edition-specific), Turretin, Owen, Witsius and Cocceius (covenant theology and the pactum salutis), the Westminster Standards, Edwards (freedom of the will, original sin).
+- **Later Reformed:** Bavinck, Vos, Berkhof, Murray, Van Til (presuppositional framing and no-neutrality).
+- **Contemporary scholarship and philosophy of religion, including critical interlocutors:** Plantinga (free will defense), skeptical theism (Wykstra, Bergmann), Marilyn McCord Adams on horrendous evils, Hick's soul-making theodicy and process and open-theist accounts as counter-positions to be answered in their strongest form, and current academic literature on providence, concursus, and Christological impeccability per locus.
+
+Engagement rules for this corpus: state opposing positions fairly before answering them; distinguish a scholar's own claim from later summaries of it; verify quotations against the cited edition before use; record where the treatise adopts, adapts, or rejects a position, with reasons. The treatise's confessional position is Reformed; engagement is not neutrality.
 
 ## 3. Method: the two tracks
 
@@ -55,13 +74,13 @@ Corpus boundary as ratified: the ten sources above. The wider oddXian corpus (Co
 - Part VIII: Consummation. Perfected loving communion: confirmed, incorruptible, glorified freedom without capacity for evil
 - Part IX: Ethics and apologetic deployment. Moral order, the slavery case study, the communion argument outward
 - Part X: Objections register and open questions, cross-tradition disagreement named honestly
-- Appendices: Scripture matrix; unified argument map and epistemic ledger; source verification register
+- Appendices: A, Scripture matrix; B, unified argument map and epistemic ledger; C, broader-corpus source register (per locus: source, edition, position taken, treatise disposition adopt / adapt / reject with reasons)
 
 ## 5. Phasing
 
 - Phase 0: Ratification and filing of this work package. DONE 2026-11-01.
 - Phase 1: Exegetical foundation. Scripture matrix plus verse-by-verse work on the anchor texts; close the section 6 gates part by part. Starting point (Romans 8:28 apparatus vs Hebrew lexical work) is JD's call, not yet made.
-- Phase 2: Logical architecture. One unified axiom and premise set reconciling Covenant and Communion, the Declaration of Faith, and the working paper; formal consistency audit across the set.
+- Phase 2: Logical architecture and scholarship registers. One unified axiom and premise set reconciling Covenant and Communion, the Declaration of Faith, and the working paper; formal consistency audit across the set; and the per-locus broader-corpus source register (Appendix C), each part's interlocutors named for JD's approval before that part is drafted.
 - Phase 3: Drafting, part by part, each part a branch and draft PR for JD review. No merge without JD approval.
 - Phase 4: Objections, cross-tradition engagement, review, and any status elevation JD directs.
 
@@ -81,6 +100,7 @@ Inherited from WP-TRIUNE-LOVING-COMMUNION and applied to every part:
 - Primary Scripture checked in context; no fabricated citations.
 - Every major claim tagged Explicit text / Necessary inference / Theological synthesis / Philosophical conjecture, with confidence HIGH / MEDIUM / LOW / UNCERTAIN and grounds.
 - Substantive counterarguments from relevant theological traditions included, noting genuine disagreement.
+- Broader-corpus citations verified against the cited edition; no secondhand attribution where the primary text is available; each part's interlocutor list approved by JD before drafting that part.
 - Existing corpus reviewed and cross-referenced; no undocumented replacement.
 - Internal links, reference integrity, and Markdown formatting validated.
 - Work on feature branches with review before merge; merge only on JD's approval.
