@@ -5,7 +5,7 @@
 **Repository:** jdlongmire/oddxian-apologetics
 **Date:** 2026-11-01
 **Type:** Systematic theology / biblical exegesis / philosophical theology
-**Authority:** User-originated intent; proposal ratified by JD on 2026-11-01, with the corpus scope clarified by JD the same day to cover both the internal corpus and the broader corpus of Christian scholarship. Scholarly and exegetical validation proceeds under the gates in section 7.
+**Authority:** User-originated intent; proposal ratified by JD on 2026-11-01, with two clarifications by JD the same day: the corpus scope covers both the internal corpus and the broader corpus of Christian scholarship, and the aim is a foundational contribution to Christian apologetics and systematics. Scholarly and exegetical validation proceeds under the gates in section 7.
 **Byline:** James (JD) Longmire / oddXian Apologetics Ministry (ORCID line may accompany)
 
 ## 1. Objective
@@ -16,6 +16,12 @@ The treatise states the whole system once, in systematic order, with its warrant
 
 Working title: *Triune Loving Communion: God's Good Decree from Creation to Perfected Communion. A Foundational Treatise.*
 Proposed home: `arguments-frameworks/foundational-treatise/`, an index plus one file per part.
+
+**Aim (JD clarification, 2026-11-01).** The intent is to be a foundational contribution to Christian apologetics and systematics as fields, not only a synthesis of JD's own corpus. Synthesis of the two corpora is the means; a contribution the fields can build on, argue with, and cite is the aim. That aim sets the bar in three ways:
+
+- **Originality, honestly located.** Each part states what it adds beyond its sources: a new synthesis, a new argument, a resolution of a standing tension, or a sharper statement of an existing position. Candidate contributions already visible in the corpus include the two-states account of creation (very good, upright and mutable, vs perfected, confirmed and incorruptible) integrated with the decree and the problem of evil as one locus, and triune loving communion as the moral archetype that grounds the Euthyphro resolution, the definition of sin, and the shape of consummation in a single principle. No originality claim stands until the Phase 2 source register has checked the broader corpus for the same claim in the same form; where the field has already said it, the treatise says so and positions itself as synthesis or extension rather than invention.
+- **Field-facing rigor.** The treatise is addressed to competent readers in apologetics and systematics, including readers who disagree. It must survive counter-reading from within those fields: literature engaged at the level the fields themselves work at, counter-positions in their strongest form, and claims tagged so a reviewer can see exactly what is text, what is inference, and what is conjecture.
+- **Fruitfulness.** Foundational means load-bearing for further work: stable definitions, an explicit argument architecture, and matrices others can use, test, and extend, including JD's own articles, teaching materials, and later volumes.
 
 ## 2. The two corpora
 
@@ -82,7 +88,7 @@ Engagement rules for this corpus: state opposing positions fairly before answeri
 - Phase 1: Exegetical foundation. Scripture matrix plus verse-by-verse work on the anchor texts; close the section 6 gates part by part. Starting point (Romans 8:28 apparatus vs Hebrew lexical work) is JD's call, not yet made.
 - Phase 2: Logical architecture and scholarship registers. One unified axiom and premise set reconciling Covenant and Communion, the Declaration of Faith, and the working paper; formal consistency audit across the set; and the per-locus broader-corpus source register (Appendix C), each part's interlocutors named for JD's approval before that part is drafted.
 - Phase 3: Drafting, part by part, each part a branch and draft PR for JD review. No merge without JD approval.
-- Phase 4: Objections, cross-tradition engagement, review, and any status elevation JD directs.
+- Phase 4: Objections, cross-tradition engagement, review, and any status elevation JD directs. Includes a contribution assessment against section 1's aim (what the finished treatise adds to apologetics and systematics, stated with evidence) and JD's decision on the publication pathway (for example journal submission, a DOI-registered release as with JD's other papers, or book development). The pathway is Phase 4 business; no venue is presumed earlier.
 
 ## 6. Open research carried in as gates
 
@@ -101,6 +107,7 @@ Inherited from WP-TRIUNE-LOVING-COMMUNION and applied to every part:
 - Every major claim tagged Explicit text / Necessary inference / Theological synthesis / Philosophical conjecture, with confidence HIGH / MEDIUM / LOW / UNCERTAIN and grounds.
 - Substantive counterarguments from relevant theological traditions included, noting genuine disagreement.
 - Broader-corpus citations verified against the cited edition; no secondhand attribution where the primary text is available; each part's interlocutor list approved by JD before drafting that part.
+- Each part carries a contribution statement: what it adds to Christian apologetics or systematics beyond its sources, checked against the Appendix C register before the claim is made in the text.
 - Existing corpus reviewed and cross-referenced; no undocumented replacement.
 - Internal links, reference integrity, and Markdown formatting validated.
 - Work on feature branches with review before merge; merge only on JD's approval.
