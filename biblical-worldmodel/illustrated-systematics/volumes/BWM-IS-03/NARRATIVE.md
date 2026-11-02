@@ -43,3 +43,9 @@ See [PANEL-SCRIPT.md](PANEL-SCRIPT.md) for ten-panel mapping. Detailed external 
 
 ## Editorial disposition
 Draft only. No approved image, publication permalink, independent Muse review or JD acceptance recorded.
+
+## Cross-reference: the defense of this doctrine
+
+Apologetics Illustrated AI-01, "Why You Can Trust Your Bible" (`apologetics-illustrated/volumes/AI-01/`), defends the trustworthiness of Scripture against the standing objection that it is merely a man-made book, copied and changed across the centuries. This volume teaches the doctrine; AI-01 answers the charge. AI-01's claims are held at the strengths registered in this narrative, including the UNCERTAIN rating on the canon-recognition formulation pending historical sourcing.
+
+Human-Curated, AI-Enabled (HCAE)

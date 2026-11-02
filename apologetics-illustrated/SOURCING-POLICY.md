@@ -1,0 +1,14 @@
+# Source and Attribution Policy: Apologetics Illustrated
+
+Each AI volume requires a companion narrative Markdown file before candidate status. The graphic summarizes the defense; the narrative substantiates and qualifies it.
+
+1. **The objection, fairly stated.** Every volume answers a real objection. State it in its strongest form (steelman, never strawman). Where the objection exists in print or in a named critic's work, quote or cite that source with an exact locator (for example Avalos and Stark on the slavery objection). Where it is a common charge without a single source, say so plainly.
+2. **Scripture is normative.** Verify ESV references and text; distinguish direct quotations from paraphrases and summaries, and never set a summary in quotation marks as if it were a citation. Observe ESV quotation and attribution conditions.
+3. **Corpus first.** Search JD's relevant accessible repositories for the governing argument before drafting (for this program, `arguments-frameworks/` first, then the foundational treatise). Cite repository, path, and section. Do not assume an accessible file is current canon solely because it is accessible; where a corpus verdict has qualified a source argument, the narrative records the qualification.
+4. **Primary before secondary.** Seek original external primary material before commentary. Record exact bibliographic locators and accessible links; mark inaccessible originals explicitly and use "as cited in" where applicable.
+5. **Conflicts stay visible.** When interpretations or sources conflict, record the divergence, the alternatives, and the unresolved status rather than silently arbitrating.
+6. **Confidence and classification.** Apply confidence labels HIGH (verified primary), MEDIUM (secondary with precise locators), LOW (paraphrase or tertiary), UNCERTAIN (unassessed). Classification is a separate field: Direct Teaching, Good and Necessary Consequence, Historical Formulation, Philosophical Argument, Empirical Claim, or Working Hypothesis. A defense plate may argue; it may not present an argument as if it were a text.
+7. **Visible attribution.** Each graphic must visibly include oddXian.com plus its volume ID, ideally in the footer. Where an ingested original lacks the visible ID or pointer, never alter the original silently: record the ID in the asset manifest, log the gap in QA-LOG.md, and carry the ID and pointer on the published derivative instead (derivative logged in the QA log). Graphics produced after 2026-11-01 must carry both in the original artwork.
+8. **No invented evidence.** No invented links, citations, quotations, or publication URLs. The narrative header links to https://oddxian.com until a verified article permalink exists. Record verified asset hash, original source, revision, and approval in the manifest. No publication without explicit JD approval.
+
+Human-Curated, AI-Enabled (HCAE)
