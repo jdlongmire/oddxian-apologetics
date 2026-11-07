@@ -108,3 +108,10 @@ BWM-IS-06 Humanity in God's Image (ST-2), built by thinx-muse in the weekly volu
 Disposition: BWM-IS-06 is graphic-draft, QA logged, awaiting JD's review on the draft PR. Publication only on JD's approval.
 
 Human-Curated, AI-Enabled (HCAE)
+## Addendum 6, 2026-11-06: series index and asset manifest reconciled to the published state
+
+At JD's direction ("Reconcile", side chat 2026-11-06), the bookkeeping flagged in addendum 5 point 6 is corrected. Addendum 4 point 5 recorded that the index and manifest statuses were updated to published for IS-00 through IS-05 on JD's approval of 2026-11-01; that update never landed for IS-00, IS-02, IS-03, and IS-04 in either file, nor for IS-05 in the manifest, and BWM-IS-06's later publication (JD approval, main chat 2026-11-04; PR #28 merged) was likewise unrecorded in both files.
+
+SERIES-INDEX.md and ASSET-MANIFEST.csv now show BWM-IS-00, IS-02, IS-03, IS-04, and IS-05 as published to the Pages site on 2026-11-01, and BWM-IS-06 as published on 2026-11-04, each manifest row carrying its JD approval reference and its live Pages URL (verified against docs/illustrated-systematics/ on main: one page and one plate image per volume, IS-00 through IS-06). BWM-IS-01's rows were already correct and are unchanged. The manifest's STYLE-GUIDE row is not a volume and is unchanged. No plate, page, or doctrine is affected; this addendum records a records correction only.
+
+Human-Curated, AI-Enabled (HCAE)
