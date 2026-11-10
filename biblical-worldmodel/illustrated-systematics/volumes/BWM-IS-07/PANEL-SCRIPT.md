@@ -1,0 +1,38 @@
+# BWM-IS-07 | The Original Covenant and Human Calling
+
+**Status:** Script for weekly draft, graphic-draft pending JD review (weekly volume run, 2026-11-10). **Graphic footer:** oddXian.com | BWM-IS-07. Narrator: glasses, bald, white goatee, clean-shaven upper lip, charcoal shirt (style guide palette rotation: IS-02 red, IS-00 purple, IS-03 blue, IS-04 green, IS-05 burgundy, IS-06 slate, IS-07 charcoal). Ten panels, navy/gold/parchment, 1280x1920. Host in header and closing panel only, never in body panels 1 to 9. No depiction of God the Father or of any divine Person; divine presence is shown by light and landscape only.
+
+## Governing claim
+
+Before sin entered, God bound humanity to Himself in a gracious arrangement of blessing, place, calling, command, and promise. He blessed mankind and commissioned them (Genesis 1:28), planted a garden and placed the man there to work it and keep it (Genesis 2:8, 15), gave every tree freely with one tree withheld (Genesis 2:16-17), promised life and warned of death, gave marriage companionship (Genesis 2:24), and set the whole calling under the sign of His own Sabbath rest (Genesis 2:2-3). Adam stood upright and able to stand, as the head whose obedience or disobedience would carry consequences beyond himself. Doctrinal anchor: foundational treatise Part III (Creation), secs. 5.1, 5.3, 6.1, 7, and 8.3, with axioms III.3 and III.5, at jdlongmire/oddxian-apologetics commit b36ee64b6c10eb076bf20a3a7a5f457cbb469555. Confessional anchor: Westminster Confession of Faith 7.2 and 19.1, which name this arrangement the covenant of works. That name is a historical confessional formulation, not a phrase Genesis itself uses for Eden; Genesis 2 gives the substance (command, promise, warning, headship) without the later label. Hosea 6:7 is noted in the narrative with its translation alternatives and is not load-bearing here.
+
+## Header
+
+- Title: THE ORIGINAL COVENANT AND HUMAN CALLING (COVENANT in gold), with VOL. 07 marker
+- Subtitle: Blessed, Placed, and Commanded: Life with God Before the Fall.
+- Framing box: Before sin entered, God bound humanity to Himself in love: He blessed them, gave them a home, a calling, and a command, and set life before them. Obedience was real, and standing was possible.
+- Book stack (in panel 1 scene): SCRIPTURE / COVENANT / CALLING / COMMUNION
+- Host: header portrait, charcoal shirt, garden valley at sunrise behind.
+
+| Panel | Heading | Copy and visual direction | Biblical grounding | Classification |
+|---|---|---|---|---|
+| 1 | Blessed and Commissioned | A man and a woman in a wide fruitful valley at sunrise, orchards and rivers, no host figure. Bubble: "Be fruitful and multiply and fill the earth and subdue it." Caption: The calling begins with blessing, not burden. God speaks His favour over mankind first, then gives them fruitfulness and rule under Him. | Genesis 1:28 | Direct teaching |
+| 2 | Given a Home in the Garden | A planted garden in Eden, trees and a river, the man placed among them, no host figure. Bubble: "And there he put the man whom he had formed." Caption: The garden is a gift before it is a task. God plants, God places: humanity receives its home from His hand, it does not earn its place. | Genesis 2:8 | Direct teaching; the bubble is a marked excerpt of the verse |
+| 3 | To Work It and Keep It | A gardener with a shovel beside tended beds and garden paths in morning light (the figure as generated carries the host's features; see QA-LOG observation). Bubble: "The LORD God took the man and put him in the garden of Eden to work it and keep it." Caption: Work and keeping are the human calling from creation: cultivation and guarding together. Work is honour, given before the Fall, not imposed after it. | Genesis 2:15 | Direct teaching; the priestly colouring of work-and-keep, read with its sanctuary use, is synthesis per treatise Part III sec. 5.3, MEDIUM |
+| 4 | Every Tree Freely Given | A laden orchard, many kinds of fruit in warm light, no host figure. Bubble: "You may surely eat of every tree of the garden." Caption: The command opens with generosity. One prohibition stands inside a wide permission: every tree is given, and the Giver is good. | Genesis 2:16 | Direct teaching |
+| 5 | One Command, Clear and Good | A single distinctive tree in a clearing, a low stone marker path before it, no host figure. Bubble: "But of the tree of the knowledge of good and evil you shall not eat." Caption: One clear command tests trust. Adam is to receive good and evil from God's word, not seize the knowledge on his own terms. | Genesis 2:17 (first clause) | Direct teaching for the command; the trust reading is good and necessary consequence |
+| 6 | Life Promised, Death Warned | Two paths at dawn: one toward light and a river, one toward a shadowed edge, no host figure. Bubble: "For in the day that you eat of it you shall surely die." Caption: The covenant speaks plainly: life in obedience, death in breach. Adam acts as head, so his standing or falling is never his alone. | Genesis 2:17 (second clause); headship consequence from Romans 5:12-19 | Direct teaching for the warning; the life-promise and headship form is the confessional formulation, WCF 7.2 and 19.1, HIGH as a report of the confession |
+| 7 | The Tree of Life in the Midst | A great flourishing tree at the centre of the garden beside the river, no host figure. Bubble: "The tree of life was in the midst of the garden." Caption: Life stands at the centre of the garden, God's own gift in visible form. The way to confirmed life runs through obedience, not grasping. | Genesis 2:9 | Direct teaching for the tree and its place; the confirmed-life reading is theological synthesis, MEDIUM, per treatise Part III secs. 6.1 and 8.3 (Adam upright and mutable, confirmation not yet received) |
+| 8 | A Helper, and Marriage | A man and a woman together at a table in warm fellowship (the man as generated carries the host's features and modern dress; see QA-LOG observation for JD). Bubble: "They shall become one flesh." Caption: The calling is not solitary. God supplies the helper inside the creation order, and marriage, one flesh union, is the covenant companionship in which the calling is lived. | Genesis 2:24 (with 2:18, 2:23) | Direct teaching; the bubble is a marked excerpt of the verse |
+| 9 | Sabbath Rest as the Goal | A quiet garden at evening rest, finished work, still water and soft light, no host figure. Bubble: "And he rested on the seventh day from all his work that he had done." Caption: God's own rest crowns the week and sets the pattern. Human calling is ordered toward communion and rest with God, not endless striving. | Genesis 2:2 (with 2:3) | Direct teaching for the Sabbath blessing; the goal framing is synthesis, MEDIUM, consistent with treatise Part III sec. 6 and Part VIII's consummated rest |
+| 10 | The Big Picture | Host in charcoal shirt pointing at the checklist. Blessed: God spoke blessing before He gave a task. / Placed: A garden home, given not earned. / Called: Fruitful work, keeping, and rule under God. / Commanded: Every tree given, one tree withheld. / Promised and Warned: Life in obedience, death in breach. / Toward Rest: Sabbath communion is the calling's end. Closing verse box: "So God blessed the seventh day and made it holy." | Genesis 2:3 (excerpt) | Synthesis |
+
+## Visual QA
+
+- [x] oddXian.com and volume ID legible (footer, bottom right)
+- [x] No images of divine Persons
+- [x] All text proofread word by word against this script (see QA-LOG.md addendum for this volume)
+- [x] Companion narrative drafted (NARRATIVE.md in this volume folder)
+- [ ] JD disposition on publication
+
+Human-Curated, AI-Enabled (HCAE)
