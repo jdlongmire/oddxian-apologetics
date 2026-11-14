@@ -1,6 +1,8 @@
-# BWM-IS-07 Transcription: The Original Covenant and Human Calling
+# BWM-IS-07 Transcription: The Edenic Covenant and Human Calling
 
 Faithful transcription of volumes/BWM-IS-07/plate.jpg, revision 1 (1280x1920, built by thinx-muse under the program handover, ingested 2026-11-10 on the draft PR for this volume). Bubble texts are short ESV excerpts as printed on the plate.
+
+Retitle note (2026-11-13): JD ruled the volume is titled "The Edenic Covenant and Human Calling". The plate (revision 1) still bears the former title in its header; the header line below is transcribed as printed. The plate requires revision before publication.
 
 Header: THE ORIGINAL COVENANT AND HUMAN CALLING. VOL. 07. Subtitle: Blessed, Placed, and Commanded: Life with God Before the Fall. Framing box: Before sin entered, God bound humanity to Himself in love: He blessed them, gave them a home, a calling, and a command, and set life before them. Obedience was real, and standing was possible. Book stack (panel 1): SCRIPTURE, COVENANT, CALLING, COMMUNION.
 
