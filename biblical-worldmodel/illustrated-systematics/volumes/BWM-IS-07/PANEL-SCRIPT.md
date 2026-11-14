@@ -1,4 +1,4 @@
-# BWM-IS-07 | The Original Covenant and Human Calling
+# BWM-IS-07 | The Edenic Covenant and Human Calling
 
 **Status:** Script for weekly draft, graphic-draft pending JD review (weekly volume run, 2026-11-10). **Graphic footer:** oddXian.com | BWM-IS-07. Narrator: glasses, bald, white goatee, clean-shaven upper lip, charcoal shirt (style guide palette rotation: IS-02 red, IS-00 purple, IS-03 blue, IS-04 green, IS-05 burgundy, IS-06 slate, IS-07 charcoal). Ten panels, navy/gold/parchment, 1280x1920. Host in header and closing panel only, never in body panels 1 to 9. No depiction of God the Father or of any divine Person; divine presence is shown by light and landscape only.
 
@@ -8,7 +8,7 @@ Before sin entered, God bound humanity to Himself in a gracious arrangement of b
 
 ## Header
 
-- Title: THE ORIGINAL COVENANT AND HUMAN CALLING (COVENANT in gold), with VOL. 07 marker
+- Title: THE EDENIC COVENANT AND HUMAN CALLING (COVENANT in gold), with VOL. 07 marker. Retitled by JD ruling 2026-11-13; plate revision 1 still bears the former title and requires revision before publication.
 - Subtitle: Blessed, Placed, and Commanded: Life with God Before the Fall.
 - Framing box: Before sin entered, God bound humanity to Himself in love: He blessed them, gave them a home, a calling, and a command, and set life before them. Obedience was real, and standing was possible.
 - Book stack (in panel 1 scene): SCRIPTURE / COVENANT / CALLING / COMMUNION
