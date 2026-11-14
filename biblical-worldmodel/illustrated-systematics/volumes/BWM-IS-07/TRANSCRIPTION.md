@@ -1,0 +1,24 @@
+# BWM-IS-07 Transcription: The Edenic Covenant and Human Calling
+
+Faithful transcription of volumes/BWM-IS-07/plate.jpg, revision 1 (1280x1920, built by thinx-muse under the program handover, ingested 2026-11-10 on the draft PR for this volume). Bubble texts are short ESV excerpts as printed on the plate.
+
+Retitle note (2026-11-13): JD ruled the volume is titled "The Edenic Covenant and Human Calling". The plate (revision 1) still bears the former title in its header; the header line below is transcribed as printed. The plate requires revision before publication.
+
+Header: THE ORIGINAL COVENANT AND HUMAN CALLING. VOL. 07. Subtitle: Blessed, Placed, and Commanded: Life with God Before the Fall. Framing box: Before sin entered, God bound humanity to Himself in love: He blessed them, gave them a home, a calling, and a command, and set life before them. Obedience was real, and standing was possible. Book stack (panel 1): SCRIPTURE, COVENANT, CALLING, COMMUNION.
+
+1. BLESSED AND COMMISSIONED. Bubble: "Be fruitful and multiply and fill the earth and subdue it." Genesis 1:28. Caption: The calling begins with blessing, not burden. God speaks His favour over mankind first, then gives them fruitfulness and rule under Him.
+2. GIVEN A HOME IN THE GARDEN. Bubble: "And there he put the man whom he had formed." Genesis 2:8. Caption: The garden is a gift before it is a task. God plants, God places: humanity receives its home from His hand, it does not earn its place.
+3. TO WORK IT AND KEEP IT. Bubble: "The LORD God took the man and put him in the garden of Eden to work it and keep it." Genesis 2:15. Caption: Work and keeping are the human calling from creation: cultivation and guarding together. Work is honour, given before the Fall, not imposed after it.
+4. EVERY TREE FREELY GIVEN. Bubble: "You may surely eat of every tree of the garden." Genesis 2:16. Caption: The command opens with generosity. One prohibition stands inside a wide permission: every tree is given, and the Giver is good.
+5. ONE COMMAND, CLEAR AND GOOD. Bubble: "But of the tree of the knowledge of good and evil you shall not eat." Genesis 2:17. Caption: One clear command tests trust. Adam is to receive good and evil from God's word, not seize the knowledge on his own terms.
+6. LIFE PROMISED, DEATH WARNED. Bubble: "For in the day that you eat of it you shall surely die." Genesis 2:17. Caption: The covenant speaks plainly: life in obedience, death in breach. Adam acts as head, so his standing or falling is never his alone.
+7. THE TREE OF LIFE IN THE MIDST. Bubble: "The tree of life was in the midst of the garden." Genesis 2:9. Caption: Life stands at the centre of the garden, God's own gift in visible form. The way to confirmed life runs through obedience, not grasping.
+8. A HELPER, AND MARRIAGE. Bubble: "They shall become one flesh." Genesis 2:24. Caption: The calling is not solitary. God supplies the helper inside the creation order, and marriage, one flesh union, is the covenant companionship in which the calling is lived.
+9. SABBATH REST AS THE GOAL. Bubble: "And he rested on the seventh day from all his work that he had done." Genesis 2:2. Caption: God's own rest crowns the week and sets the pattern. Human calling is ordered toward communion and rest with God, not endless striving.
+10. THE BIG PICTURE. Checklist: Blessed: God spoke blessing before He gave a task. / Placed: A garden home, given not earned. / Called: Fruitful work, keeping, and rule under God. / Commanded: Every tree given, one tree withheld. / Promised and Warned: Life in obedience, death in breach. / Toward Rest: Sabbath communion is the calling's end. Closing verse: "So God blessed the seventh day and made it holy." Genesis 2:3.
+
+Footer: oddXian.com | BWM-IS-07 (carried in the original artwork, in the panel 10 band and in the footer band).
+
+Production note: one lettering defect in the raw generation was repaired programmatically and verified by magnified crop readback (second pass, neighbours included): panel 7 bubble dropped the word "of" ("was in the midst the garden"); the line was re-lettered to "of the garden." with height matched to the element's own ink box and the fill sampled from the bubble background. The ingested plate is therefore a repaired derivative of the raw generation, recorded here and in QA-LOG.md. Observations recorded without repair: the figures in panels 3 and 8 carry the host's features (panel 8 in modern dress at an indoor table); the footer pointer appears twice; no per-panel ID lines were rendered; one unlabeled book spine in panel 1 carries decorative pseudo-text. Panel script visual directions for panels 3 and 8 were aligned to the plate as generated (script corrections, not plate repairs).
+
+Human-Curated, AI-Enabled (HCAE)

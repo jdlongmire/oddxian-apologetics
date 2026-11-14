@@ -11,7 +11,7 @@
 | BWM-IS-04 | ST-1 | The Attributes and Glory of God | published to the Pages site 2026-11-01 on JD approval (built by thinx-muse; example plate approved by JD; QA logged) |
 | BWM-IS-05 | ST-2 | Creation: Very Good | published to the Pages site 2026-11-01 on JD approval |
 | BWM-IS-06 | ST-2 | Humanity in God's Image | published to the Pages site 2026-11-04 on JD approval (drafted 2026-11-03, QA logged; PR #28) |
-| BWM-IS-07 | ST-2 | The Original Covenant and Human Calling | planned |
+| BWM-IS-07 | ST-2 | The Edenic Covenant and Human Calling | graphic-draft, drafted 2026-11-10, QA logged; retitled by JD ruling 2026-11-13; awaiting JD review on the draft PR |
 | BWM-IS-08 | ST-3 | The Fall: From Communion to Rebellion | planned |
 | BWM-IS-09 | ST-3 | Closed Self-Interest: The Root of Sin | planned |
 | BWM-IS-10 | ST-3 | Corruption, Death, and the Human Condition | planned |
