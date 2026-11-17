@@ -143,3 +143,16 @@ JD ruled (Decision Queue, recorded 2026-11-16) as recommended on the addendum 7 
 Disposition: BWM-IS-07 revision 2 is graphic-draft, QA logged, awaiting JD's review on draft PR #30. The doctrine and publication rulings are still JD's to give. Publication only on JD's approval.
 
 Human-Curated, AI-Enabled (HCAE)
+## Addendum 9, 2026-11-16: BWM-IS-07 revision 3; header title re-lettered to the ruled title
+
+The one artwork item carried as outstanding since the retitle (addendum 7 point 7, addendum 8 point 5 (a)) is now closed: the plate header no longer bears the former title. On JD's "Proceed" in the Systematics Illustrated chat, the header title line was revised so the plate carries the ruled title, "The Edenic Covenant and Human Calling".
+
+1. Method. The change is confined to the header's first title line, y 39-75. The word ORIGINAL was removed and EDENIC was set in its place using only the plate's own native glyphs, transplanted from the same title line (E from THE, D from AND, N and I from ORIGINAL itself, C from COVENANT), with COVENANT and AND shifted left as whole words on their own pixels to close the spacing. No font was introduced and no letter was re-rendered; letter positions were taken from an ink-run segmentation of the line itself, and every transplanted glyph was pasted on a luminance mask so the header background remains the plate's own gradient. The second title line (HUMAN CALLING, gold), the VOL. 07 marker, subtitle, framing box, and host portrait are untouched revision 2 pixels.
+2. Zone confinement, verified. A pixel diff of revision 3 against revision 2 shows zero pixels above the reporting threshold outside the header title band (y 28-90, x 150-860).
+3. Verification. The revised header was read at 2x and the new word at 4x: "THE EDENIC COVENANT AND / HUMAN CALLING" reads letter-perfect, glyph weight, serif style, and spacing indistinguishable from the surrounding native lettering, no seams at reading scale or at 4x. All other plate elements stand on the revision 2 full-checklist PASS (addendum 8); the header elements other than the title line were re-read in this pass and are unchanged and correct.
+4. Plate. volumes/BWM-IS-07/plate.jpg revision 3, 998102 bytes, 1280x1920, sha256 c801892da8e861445915682db9957745770f3a7c1c1e075c214514c016386949.
+5. Records. TRANSCRIPTION.md now transcribes the header as printed under the ruled title, and its retitle note is marked resolved. PANEL-SCRIPT.md and SERIES-INDEX.md carry the revision 3 note; ASSET-MANIFEST.csv carries revision 3 with the new hash and size.
+
+Disposition: BWM-IS-07 revision 3 is graphic-draft, QA logged, awaiting JD's review on draft PR #30. The plate now matches the ruled title in its artwork. The doctrine and publication rulings are still JD's to give. Publication only on JD's approval.
+
+Human-Curated, AI-Enabled (HCAE)
