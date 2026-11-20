@@ -156,3 +156,14 @@ The one artwork item carried as outstanding since the retitle (addendum 7 point 
 Disposition: BWM-IS-07 revision 3 is graphic-draft, QA logged, awaiting JD's review on draft PR #30. The plate now matches the ruled title in its artwork. The doctrine and publication rulings are still JD's to give. Publication only on JD's approval.
 
 Human-Curated, AI-Enabled (HCAE)
+## Addendum 10, 2026-11-20: BWM-IS-07 approved and published
+
+JD approved the doctrine and the publication of BWM-IS-07 in the Systematics Illustrated chat on 2026-11-20 ("Approve doctrine and publish IS-07", given on the presented decision with the revision 3 plate shown). Publication followed the BWM-IS-06 pattern.
+
+1. On this branch: SERIES-INDEX.md and ASSET-MANIFEST.csv moved to published (Pages, 2026-11-20; PR #30), with the approval recorded as JD approval, Systematics Illustrated chat 2026-11-20, and the live URL entered in the manifest. PANEL-SCRIPT.md status and its JD disposition checklist item are marked complete. NARRATIVE.md status, claim register review column, and editorial record updated to JD-approved and published; its stale revision 1 references were corrected to revision 3.
+2. The draft PR is marked ready and merged on the strength of that approval, verified by readback against main.
+3. On main, following the merge: the plate image is published at docs/illustrated-systematics/images/is-07.jpg (the revision 3 plate itself, 998102 bytes), the volume page at docs/illustrated-systematics/bwm-is-07.html (panel-by-panel transcription and companion narrative, on the BWM-IS-06 page pattern), an entry added to docs/illustrated-systematics/index.html, and Next links to BWM-IS-07 added to the BWM-IS-06 page, whose companion text reference to this volume was also conformed to the ruled title. The live page is verified after the Pages build.
+
+Disposition: BWM-IS-07, "The Edenic Covenant and Human Calling", is published. Live at https://jdlongmire.github.io/oddxian-apologetics/illustrated-systematics/bwm-is-07.html
+
+Human-Curated, AI-Enabled (HCAE)

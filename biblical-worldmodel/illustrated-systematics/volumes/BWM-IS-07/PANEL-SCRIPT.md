@@ -1,6 +1,6 @@
 # BWM-IS-07 | The Edenic Covenant and Human Calling
 
-**Status:** Script for weekly draft, graphic-draft pending JD review (weekly volume run, 2026-11-10). Revision 2 (2026-11-16): panels 3 and 8 regenerated on JD's ruling; full QA re-run (QA-LOG addendum 8). Revision 3 (2026-11-16): header title re-lettered to the ruled title (QA-LOG addendum 9). **Graphic footer:** oddXian.com | BWM-IS-07. Narrator: glasses, bald, white goatee, clean-shaven upper lip, charcoal shirt (style guide palette rotation: IS-02 red, IS-00 purple, IS-03 blue, IS-04 green, IS-05 burgundy, IS-06 slate, IS-07 charcoal). Ten panels, navy/gold/parchment, 1280x1920. Host in header and closing panel only, never in body panels 1 to 9. No depiction of God the Father or of any divine Person; divine presence is shown by light and landscape only.
+**Status:** Published 2026-11-20 on JD's approval (weekly volume run, 2026-11-10; PR #30). Revision 2 (2026-11-16): panels 3 and 8 regenerated on JD's ruling; full QA re-run (QA-LOG addendum 8). Revision 3 (2026-11-16): header title re-lettered to the ruled title (QA-LOG addendum 9). **Graphic footer:** oddXian.com | BWM-IS-07. Narrator: glasses, bald, white goatee, clean-shaven upper lip, charcoal shirt (style guide palette rotation: IS-02 red, IS-00 purple, IS-03 blue, IS-04 green, IS-05 burgundy, IS-06 slate, IS-07 charcoal). Ten panels, navy/gold/parchment, 1280x1920. Host in header and closing panel only, never in body panels 1 to 9. No depiction of God the Father or of any divine Person; divine presence is shown by light and landscape only.
 
 ## Governing claim
 
@@ -33,6 +33,6 @@ Before sin entered, God bound humanity to Himself in a gracious arrangement of b
 - [x] No images of divine Persons
 - [x] All text proofread word by word against this script (see QA-LOG.md addendum for this volume)
 - [x] Companion narrative drafted (NARRATIVE.md in this volume folder)
-- [ ] JD disposition on publication
+- [x] JD disposition on publication (doctrine approved and publication approved, Systematics Illustrated chat, 2026-11-20)
 
 Human-Curated, AI-Enabled (HCAE)

@@ -1,6 +1,6 @@
 # BWM-IS-07 Companion Narrative: The Edenic Covenant and Human Calling
 
-**Companion to:** BWM-IS-07 graphic, revision 1. **Status:** Draft narrative, drafted under the program handover, 2026-11-10; not yet JD-approved. **Site:** oddXian.com (specific permalink pending; do not invent one). **Byline:** James (JD) Longmire / oddXian Apologetics Ministry. **Rule:** Quotations are exact ESV excerpts; paraphrases are never enclosed in quotation marks.
+**Companion to:** BWM-IS-07 graphic, revision 3. **Status:** JD-approved and published 2026-11-20 (drafted under the program handover, 2026-11-10). **Site:** https://jdlongmire.github.io/oddxian-apologetics/illustrated-systematics/bwm-is-07.html **Byline:** James (JD) Longmire / oddXian Apologetics Ministry. **Rule:** Quotations are exact ESV excerpts; paraphrases are never enclosed in quotation marks.
 
 ## Abstract and governing proposition
 
@@ -47,16 +47,16 @@ Objections and limits. The strongest objection to the volume's title is that Gen
 
 | ID | Claim | Classification | Primary support | Confidence | Review status |
 |---|---|---|---|---|---|
-| 07-1 | The calling begins with God's blessing and commission to fruitfulness and rule | Direct teaching | Genesis 1:28 | HIGH (verified primary text) | Draft, awaiting JD |
-| 07-2 | God planted the garden and placed the man there; home is received, not earned | Direct teaching | Genesis 2:8 | HIGH | Draft, awaiting JD |
-| 07-3 | Working and keeping the garden is the creation vocation, before the Fall | Direct teaching; priestly colouring is synthesis | Genesis 2:15; treatise Part III sec. 5.3 | HIGH; synthesis MEDIUM | Draft, awaiting JD |
-| 07-4 | The command opens with wide permission: every tree given | Direct teaching | Genesis 2:16 | HIGH | Draft, awaiting JD |
-| 07-5 | One clear prohibition: the tree of the knowledge of good and evil | Direct teaching; trust reading is good and necessary consequence | Genesis 2:17a | HIGH | Draft, awaiting JD |
-| 07-6 | Life is promised on obedience and death threatened on breach, with Adam as head | Historical formulation (WCF 7.2; 19.1) on direct teaching (Genesis 2:17b warning; Romans 5 headship) | Genesis 2:17b; Romans 5:12-19; WCF 7.2, 19.1 | HIGH as a report of the confession; HIGH for the warning text | Draft, awaiting JD; title ruled 2026-11-13 |
-| 07-7 | The tree of life stands in the midst of the garden as God's gift of life | Direct teaching; confirmed-life framing is synthesis | Genesis 2:9 (with 3:22-24) | HIGH; synthesis MEDIUM | Draft, awaiting JD |
-| 07-8 | Marriage, one-flesh union, is the companionship in which the calling is lived | Direct teaching | Genesis 2:18, 23-24 | HIGH | Draft, awaiting JD |
-| 07-9 | God's Sabbath rest crowns the creation week and patterns the calling | Direct teaching; goal framing is synthesis | Genesis 2:2-3 | HIGH; synthesis MEDIUM | Draft, awaiting JD |
-| 07-10 | Panel 10 checklist summarizes 07-1 to 07-9 without new claims | Synthesis (summary) | Panels 1-9 | HIGH | Draft, awaiting JD |
+| 07-1 | The calling begins with God's blessing and commission to fruitfulness and rule | Direct teaching | Genesis 1:28 | HIGH (verified primary text) | JD approved 2026-11-20 |
+| 07-2 | God planted the garden and placed the man there; home is received, not earned | Direct teaching | Genesis 2:8 | HIGH | JD approved 2026-11-20 |
+| 07-3 | Working and keeping the garden is the creation vocation, before the Fall | Direct teaching; priestly colouring is synthesis | Genesis 2:15; treatise Part III sec. 5.3 | HIGH; synthesis MEDIUM | JD approved 2026-11-20 |
+| 07-4 | The command opens with wide permission: every tree given | Direct teaching | Genesis 2:16 | HIGH | JD approved 2026-11-20 |
+| 07-5 | One clear prohibition: the tree of the knowledge of good and evil | Direct teaching; trust reading is good and necessary consequence | Genesis 2:17a | HIGH | JD approved 2026-11-20 |
+| 07-6 | Life is promised on obedience and death threatened on breach, with Adam as head | Historical formulation (WCF 7.2; 19.1) on direct teaching (Genesis 2:17b warning; Romans 5 headship) | Genesis 2:17b; Romans 5:12-19; WCF 7.2, 19.1 | HIGH as a report of the confession; HIGH for the warning text | JD approved 2026-11-20; title ruled 2026-11-13 |
+| 07-7 | The tree of life stands in the midst of the garden as God's gift of life | Direct teaching; confirmed-life framing is synthesis | Genesis 2:9 (with 3:22-24) | HIGH; synthesis MEDIUM | JD approved 2026-11-20 |
+| 07-8 | Marriage, one-flesh union, is the companionship in which the calling is lived | Direct teaching | Genesis 2:18, 23-24 | HIGH | JD approved 2026-11-20 |
+| 07-9 | God's Sabbath rest crowns the creation week and patterns the calling | Direct teaching; goal framing is synthesis | Genesis 2:2-3 | HIGH; synthesis MEDIUM | JD approved 2026-11-20 |
+| 07-10 | Panel 10 checklist summarizes 07-1 to 07-9 without new claims | Synthesis (summary) | Panels 1-9 | HIGH | JD approved 2026-11-20 |
 
 ## Panel-to-narrative map
 
@@ -75,6 +75,6 @@ Objections and limits. The strongest objection to the volume's title is that Gen
 
 ## Editorial record and disposition
 
-Drafted 2026-11-10 in the weekly volume run. Doctrine and publication approval are JD's alone; nothing in this narrative is JD-approved or published. The title ruling requested with this draft was given by JD on 2026-11-13: he holds the Edenic covenant position, and the volume is retitled "The Edenic Covenant and Human Calling" (filed as "The Original Covenant and Human Calling"), because Original belongs to the eternal covenant and the Edenic covenant is the first covenant in time. The narrative's concession stands as labeled (claim 07-6, and the objection paragraph): Genesis describes the arrangement in substance without using the word covenant for Eden, and the synthesis label marks textual warrant, not tentativeness. The plate artwork (revision 1) still bears the former title in its header; the plate requires revision before any publication. The same ruling carries JD's covenant sequence in the systematics line: eternal covenant (the original), Edenic covenant (first in time), and the lapsarian covenant of grace set at the Fall (Gen. 3:15) and sealed by death (Heb. 9:15). Asset SHA-256 and plate dimensions are recorded in ASSET-MANIFEST.csv and QA-LOG.md when the plate is ingested on the draft PR.
+Drafted 2026-11-10 in the weekly volume run. Doctrine and publication approval are JD's alone; both were given by JD on 2026-11-20 in the Systematics Illustrated chat, and the volume was published the same day (PR #30; QA-LOG addendum 10). The title ruling requested with this draft was given by JD on 2026-11-13: he holds the Edenic covenant position, and the volume is retitled "The Edenic Covenant and Human Calling" (filed as "The Original Covenant and Human Calling"), because Original belongs to the eternal covenant and the Edenic covenant is the first covenant in time. The narrative's concession stands as labeled (claim 07-6, and the objection paragraph): Genesis describes the arrangement in substance without using the word covenant for Eden, and the synthesis label marks textual warrant, not tentativeness. The plate artwork (revision 1) bore the former title in its header; that was corrected in revision 3 (2026-11-16) by native-glyph re-lettering before publication (QA-LOG addendum 9). The same ruling carries JD's covenant sequence in the systematics line: eternal covenant (the original), Edenic covenant (first in time), and the lapsarian covenant of grace set at the Fall (Gen. 3:15) and sealed by death (Heb. 9:15). Asset SHA-256 and plate dimensions are recorded in ASSET-MANIFEST.csv and QA-LOG.md when the plate is ingested on the draft PR.
 
 Human-Curated, AI-Enabled (HCAE)
