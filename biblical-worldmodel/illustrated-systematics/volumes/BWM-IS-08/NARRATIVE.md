@@ -1,6 +1,6 @@
 # BWM-IS-08 Companion Narrative: The Fall: From Communion to Rebellion
 
-**Companion to:** BWM-IS-08 graphic, revision 1. **Status:** research draft, awaiting JD review (drafted 2026-11-24, weekly volume run). **Site:** https://oddxian.com (permalink pending) **Byline:** James (JD) Longmire / oddXian Apologetics Ministry. **Rule:** Quotations are exact ESV excerpts; paraphrases are never enclosed in quotation marks.
+**Companion to:** BWM-IS-08 graphic, revision 1. **Status:** JD-approved and published 2026-11-24 (drafted 2026-11-24, weekly volume run). **Site:** https://jdlongmire.github.io/oddxian-apologetics/illustrated-systematics/bwm-is-08.html **Byline:** James (JD) Longmire / oddXian Apologetics Ministry. **Rule:** Quotations are exact ESV excerpts; paraphrases are never enclosed in quotation marks.
 
 ## Abstract and governing proposition
 
@@ -51,16 +51,16 @@ Objections and limits. The governing limit is that God is not the author of sin.
 
 | ID | Claim | Classification | Primary support | Confidence | Review status |
 |---|---|---|---|---|---|
-| 08-1 | The serpent's question casts doubt on God's word | Direct teaching | Genesis 3:1 | HIGH (verified primary text) | draft, awaiting JD review |
-| 08-2 | Eve recounts the command with an addition, neither shall you touch it | Direct teaching; the addition observation is textual comparison | Genesis 3:2-3, compared with Genesis 2:16-17 | HIGH; addition observation HIGH as textual comparison | draft, awaiting JD review |
-| 08-3 | The serpent denies death and offers being like God | Direct teaching | Genesis 3:4-5 | HIGH | draft, awaiting JD review |
-| 08-4 | The tree is re-judged by desire before the hand takes | Direct teaching; evil-will-before-act framing is synthesis | Genesis 3:6a; treatise Part IV sec. 2 | HIGH; synthesis MEDIUM | draft, awaiting JD review |
-| 08-5 | She ate and gave to her husband, and he ate | Direct teaching | Genesis 3:6b | HIGH | draft, awaiting JD review |
-| 08-6 | Eyes opened, shame, and a covering of their own making | Direct teaching | Genesis 3:7 | HIGH | draft, awaiting JD review |
-| 08-7 | Hiding from God's presence, and fear confessed | Direct teaching | Genesis 3:8-10 | HIGH | draft, awaiting JD review |
-| 08-8 | Blame is shifted under God's questioning | Direct teaching | Genesis 3:11-13 | HIGH | draft, awaiting JD review |
-| 08-9 | Judgments are spoken, with the seed promise inside the serpent's judgment | Direct teaching; lapsarian covenant of grace framing is synthesis, JD's held position | Genesis 3:14-19, esp. 3:15; Hebrews 9:15; JD ruling 2026-11-13 | HIGH; synthesis MEDIUM | draft, awaiting JD review |
-| 08-10 | Panel 10 checklist summarizes 08-1 to 08-9 without new claims, closing on the seed promise; the chapter's completion, mercy in the sentence and exile guarding the tree of life (Genesis 3:20-24), is carried in the Biblical grounding at HIGH as direct teaching | Synthesis (summary) | Panels 1-9; Genesis 3:15; Genesis 3:20-24 | HIGH | draft, awaiting JD review |
+| 08-1 | The serpent's question casts doubt on God's word | Direct teaching | Genesis 3:1 | HIGH (verified primary text) | JD approved 2026-11-24 |
+| 08-2 | Eve recounts the command with an addition, neither shall you touch it | Direct teaching; the addition observation is textual comparison | Genesis 3:2-3, compared with Genesis 2:16-17 | HIGH; addition observation HIGH as textual comparison | JD approved 2026-11-24 |
+| 08-3 | The serpent denies death and offers being like God | Direct teaching | Genesis 3:4-5 | HIGH | JD approved 2026-11-24 |
+| 08-4 | The tree is re-judged by desire before the hand takes | Direct teaching; evil-will-before-act framing is synthesis | Genesis 3:6a; treatise Part IV sec. 2 | HIGH; synthesis MEDIUM | JD approved 2026-11-24 |
+| 08-5 | She ate and gave to her husband, and he ate | Direct teaching | Genesis 3:6b | HIGH | JD approved 2026-11-24 |
+| 08-6 | Eyes opened, shame, and a covering of their own making | Direct teaching | Genesis 3:7 | HIGH | JD approved 2026-11-24 |
+| 08-7 | Hiding from God's presence, and fear confessed | Direct teaching | Genesis 3:8-10 | HIGH | JD approved 2026-11-24 |
+| 08-8 | Blame is shifted under God's questioning | Direct teaching | Genesis 3:11-13 | HIGH | JD approved 2026-11-24 |
+| 08-9 | Judgments are spoken, with the seed promise inside the serpent's judgment | Direct teaching; lapsarian covenant of grace framing is synthesis, JD's held position | Genesis 3:14-19, esp. 3:15; Hebrews 9:15; JD ruling 2026-11-13 | HIGH; synthesis MEDIUM | JD approved 2026-11-24 |
+| 08-10 | Panel 10 checklist summarizes 08-1 to 08-9 without new claims, closing on the seed promise; the chapter's completion, mercy in the sentence and exile guarding the tree of life (Genesis 3:20-24), is carried in the Biblical grounding at HIGH as direct teaching | Synthesis (summary) | Panels 1-9; Genesis 3:15; Genesis 3:20-24 | HIGH | JD approved 2026-11-24 |
 
 ## Panel-to-narrative map
 
@@ -79,6 +79,6 @@ Objections and limits. The governing limit is that God is not the author of sin.
 
 ## Editorial record and disposition
 
-Drafted 2026-11-24 in the weekly volume run. Doctrine and publication approval are JD's alone and have NOT been given; this narrative is a research draft awaiting JD review, and nothing in it is published. The two graded disciplines recorded in the abstract are carried exactly as the treatise and the prior volume require: the root-of-sin thesis in full is reserved to BWM-IS-09 and is registered here only at Good Consequence / synthesis, and the lapsarian covenant of grace framing of Genesis 3:15 is labeled as JD's held position / synthesis at MEDIUM, per his ruling of 2026-11-13. The confessional caveat on WCF ch. 6 is likewise carried in full in the derivation and substantiation sections: the boundary check stands open in the treatise register and has not been performed for this volume. Asset SHA-256 and plate dimensions are recorded in the asset manifest and QA-LOG.md when the plate is ingested on the draft PR.
+Drafted 2026-11-24 in the weekly volume run. Doctrine and publication approval are JD's alone; both were given by JD on 2026-11-24 in the Systematics Illustrated chat, and the volume was published the same day (PR #32; QA-LOG addendum 12). The two graded disciplines recorded in the abstract are carried exactly as the treatise and the prior volume require: the root-of-sin thesis in full is reserved to BWM-IS-09 and is registered here only at Good Consequence / synthesis, and the lapsarian covenant of grace framing of Genesis 3:15 is labeled as JD's held position / synthesis at MEDIUM, per his ruling of 2026-11-13. The confessional caveat on WCF ch. 6 is likewise carried in full in the derivation and substantiation sections: the boundary check stands open in the treatise register and has not been performed for this volume. Asset SHA-256 and plate dimensions are recorded in the asset manifest and QA-LOG.md when the plate is ingested on the draft PR.
 
 Human-Curated, AI-Enabled (HCAE)

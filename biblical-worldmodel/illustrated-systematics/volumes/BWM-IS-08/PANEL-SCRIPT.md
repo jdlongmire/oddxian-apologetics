@@ -1,6 +1,6 @@
 # BWM-IS-08 | The Fall: From Communion to Rebellion
 
-**Status:** Draft for JD review (weekly volume run, 2026-11-24). **Graphic footer:** oddXian.com | BWM-IS-08. Narrator: glasses, bald, white goatee, clean-shaven upper lip, red shirt (style guide palette rotation wraps after charcoal: IS-02 red, IS-00 purple, IS-03 blue, IS-04 green, IS-05 burgundy, IS-06 slate, IS-07 charcoal, IS-08 red). Ten panels, navy/gold/parchment, 1280x1920. Host in header and closing panel only, never in body panels 1 to 9. No depiction of God the Father or of any divine Person; divine presence is shown by light and landscape only. The serpent is shown as a serpent in a tree, not as a human or angelic figure.
+**Status:** Published 2026-11-24 on JD's approval (weekly volume run, 2026-11-24; PR #32). **Graphic footer:** oddXian.com | BWM-IS-08. Narrator: glasses, bald, white goatee, clean-shaven upper lip, red shirt (style guide palette rotation wraps after charcoal: IS-02 red, IS-00 purple, IS-03 blue, IS-04 green, IS-05 burgundy, IS-06 slate, IS-07 charcoal, IS-08 red). Ten panels, navy/gold/parchment, 1280x1920. Host in header and closing panel only, never in body panels 1 to 9. No depiction of God the Father or of any divine Person; divine presence is shown by light and landscape only. The serpent is shown as a serpent in a tree, not as a human or angelic figure.
 
 ## Governing claim
 
@@ -33,6 +33,6 @@ The communion of Eden was broken from inside the human will before it was broken
 - [x] No images of divine Persons (one observation recorded in QA-LOG addendum 11: a small indistinct silhouette in panel 9's light rays, for JD's disposition)
 - [x] All text proofread word by word against this script (see QA-LOG.md addendum 11; panels 7 and 8 scenes replaced and panel 9 reference segment repaired pre-ingestion, all disclosed there and in TRANSCRIPTION.md)
 - [x] Companion narrative drafted (NARRATIVE.md in this volume folder)
-- [ ] JD disposition documented (not yet given; draft for review)
+- [x] JD disposition documented (doctrine approved and publication approved, Systematics Illustrated chat, 2026-11-24)
 
 Human-Curated, AI-Enabled (HCAE)

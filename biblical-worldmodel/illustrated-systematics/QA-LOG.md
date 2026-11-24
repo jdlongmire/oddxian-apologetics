@@ -181,3 +181,14 @@ BWM-IS-08 The Fall: From Communion to Rebellion (ST-3), built by thinx-muse in t
 Disposition: BWM-IS-08 is graphic-draft, QA logged, awaiting JD's review on the draft PR. Publication only on JD's approval.
 
 Human-Curated, AI-Enabled (HCAE)
+## Addendum 12, 2026-11-24: BWM-IS-08 approved and published
+
+JD approved the doctrine and the publication of BWM-IS-08 in the Systematics Illustrated chat on 2026-11-24 ("publish", given on the presented draft with the plate shown). The observations recorded in addendum 11 point 5 stand as recorded; publication proceeded with them on the record. Publication followed the BWM-IS-06 and BWM-IS-07 pattern.
+
+1. On this branch: SERIES-INDEX.md and ASSET-MANIFEST.csv moved to published (Pages, 2026-11-24; PR #32), with the approval recorded as JD approval, Systematics Illustrated chat 2026-11-24, and the live URL entered in the manifest. PANEL-SCRIPT.md status and its JD disposition item are marked complete. NARRATIVE.md status, claim register review column, and editorial record updated to JD-approved and published.
+2. The draft PR is marked ready and merged on the strength of that approval, verified by readback against main.
+3. On main, following the merge: the plate image is published at docs/illustrated-systematics/images/is-08.jpg (the revision 1 repaired plate itself, 1029838 bytes), the volume page at docs/illustrated-systematics/bwm-is-08.html (panel-by-panel transcription and companion narrative, on the BWM-IS-07 page pattern), an entry added to docs/illustrated-systematics/index.html, and Next links to BWM-IS-08 added to the BWM-IS-07 page. The live page is verified after the Pages build.
+
+Disposition: BWM-IS-08, "The Fall: From Communion to Rebellion", is published. Live at https://jdlongmire.github.io/oddxian-apologetics/illustrated-systematics/bwm-is-08.html
+
+Human-Curated, AI-Enabled (HCAE)
