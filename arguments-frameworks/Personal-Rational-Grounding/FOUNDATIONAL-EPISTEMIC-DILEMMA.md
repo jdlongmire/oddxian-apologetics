@@ -1,4 +1,4 @@
-# PRG: The Foundational Epistemic Dilemma
+# PRG: The Foundational Dilemma
 
 Date: 2026-11-28
 Status: Owner-directed research addendum, pending validation.
@@ -40,4 +40,30 @@ The proposed organizing thesis is that consistently extending epistemic objectiv
 
 ## Disposition
 
-Proposed organizing structure for PRG: the foundational epistemic dilemma. Retain the existing modal, ontological and epistemological lines of argument as supporting components. No supersession of the parent work package until owner review.
+Canonical organizing structure for PRG (owner-directed): the Foundational Dilemma. The narrower epistemic formulation is subordinate to the two-axis taxonomy below. Retain the existing modal, ontological and epistemological lines of argument as supporting components. No supersession of the parent work package until owner review.
+
+## Canonical taxonomy: foundational objectivism versus foundational nihilism
+
+Owner-directed refinement, 2026-11-28. These are PRG-specific technical classifications, defined by R versus ¬R, not conventional claims about the existence of entities or the possibility of knowledge.
+
+- **Foundational objectivism (R):** reality possesses ultimately sufficient rational grounding, encompassing necessary truth, logical order, informational coherence, actualizing efficacy and the determination of genuine contingencies.
+- **Foundational nihilism (¬R):** reality lacks ultimately sufficient rational grounding; at least one foundational explanatory obligation remains without a sufficient reason in reality itself.
+
+The categories are mutually exclusive and jointly exhaustive by excluded middle. Ignorance of a ground is distinct from its absence.
+
+| Axis | Foundational objectivism | Foundational nihilism |
+|---|---|---|
+| Ontological | Ultimately sufficient rational ground | Foundational explanatory insufficiency |
+| Epistemological | Ultimate rational explanation has an objective ontological basis | Ultimate rational explanation cannot be complete, although local knowledge remains possible |
+
+The ontological axis has explanatory priority. The epistemological axis concerns the implications for inquiry. Where foundational insufficiency involves a genuinely contingent determination without sufficient reason, it constitutes contrastive arbitrariness. Do not equate every conceivable explanatory deficiency with arbitrary contingent selection without argument.
+
+### Organizing propositions
+
+1. Foundational objectivism is a necessary commitment of an epistemic endeavor directed toward ultimately sufficient rational explanation, in the sense of its explanatory objective; whether this is a constitutive presupposition or regulative ideal remains a validation question.
+2. Foundational nihilism relinquishes that ultimate explanatory objective as realizable, accepting fundamental arbitrariness where contingent determination lacks sufficient reason.
+3. Foundational objectivism entails personal rational intentionality given genuine contingency and the PRG grounding premises, subject to the validation obligations already recorded.
+
+The first two propositions articulate the foundational dilemma and its epistemic significance. The third supplies the proposed personal-grounding resolution. The modal, ontological and epistemological demonstrations support this unified structure. The binary taxonomy itself does not establish R or prove the personal-grounding implication.
+
+Retain the existing filename for stable links during PR review; the canonical conceptual title is The Foundational Dilemma. Earlier qualified epistemic labels are historical subordinate formulations, not independent competing categories.
